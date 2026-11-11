@@ -78,5 +78,10 @@
     "shardProductId": "SHARD_ZEALOT_BRUISER",
     "bazaarProductId": "SHARD_BRUISER",
     "evidence": "atlas_price_match"
+  },
+  {
+    "shardProductId": "SHARD_CINDERBAT",
+    "bazaarProductId": "SHARD_CINDER_BAT",
+    "evidence": "atlas_item_id"
   }
 ]

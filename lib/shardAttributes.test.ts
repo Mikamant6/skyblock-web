@@ -85,6 +85,11 @@ assert.equal(getBazaarProductId("SHARD_BEETLE", bazaarOverrides), "SHARD_CROPEET
 assert.equal(getBazaarProductId("SHARD_RAINBUG", bazaarOverrides), null);
 assert.equal(getBazaarProductId("SHARD_GROVE", bazaarOverrides), "SHARD_GROVE");
 assert.equal(getBazaarProductId("SHARD_WITHER_SPECTRE", bazaarOverrides), "SHARD_WITHER_SPECTER");
+// Cinderbat: Atlas fuehrt dieses Shard mit der Item-ID SHARD_CINDER_BAT (Beleg: atlas_item_id)
+assert.equal(getBazaarProductId("SHARD_CINDERBAT", bazaarOverrides), "SHARD_CINDER_BAT");
+// Die sechs Atlas-Preis-Treffer (Shards, die man nicht besitzen muss)
+assert.equal(getBazaarProductId("SHARD_LOCH_EMPEROR", bazaarOverrides), "SHARD_SEA_EMPEROR");
+assert.equal(getBazaarProductId("SHARD_ZEALOT_BRUISER", bazaarOverrides), "SHARD_BRUISER");
 console.log("4. Bazaar-IDs: ok");
 
 console.log("Alle Tests bestanden.");
