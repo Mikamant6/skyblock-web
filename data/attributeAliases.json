@@ -1,0 +1,114 @@
+[
+  {
+    "apiAttributeId": "spider_essence",
+    "shardName": "Arachne",
+    "productId": "SHARD_ARACHNE",
+    "rarity": "rare",
+    "evidence": "experiment"
+  },
+  {
+    "apiAttributeId": "hunters_fangs",
+    "shardName": "Viper",
+    "productId": "SHARD_VIPER",
+    "rarity": "uncommon",
+    "evidence": "experiment"
+  },
+  {
+    "apiAttributeId": "kat_favorite",
+    "shardName": "Kiwi",
+    "productId": "SHARD_KIWI",
+    "rarity": "uncommon",
+    "evidence": "experiment"
+  },
+  {
+    "apiAttributeId": "dragon_essence",
+    "shardName": "Draconic",
+    "productId": "SHARD_DRACONIC",
+    "rarity": "rare",
+    "evidence": "experiment"
+  },
+  {
+    "apiAttributeId": "insect_power",
+    "shardName": "Praying Mantis",
+    "productId": "SHARD_PRAYING_MANTIS",
+    "rarity": "uncommon",
+    "evidence": "experiment"
+  },
+  {
+    "apiAttributeId": "arachno",
+    "shardName": "Flaming Spider",
+    "productId": "SHARD_FLAMING_SPIDER",
+    "rarity": "uncommon",
+    "evidence": "experiment"
+  },
+  {
+    "apiAttributeId": "humanoid_ruler",
+    "shardName": "Drowned",
+    "productId": "SHARD_DROWNED",
+    "rarity": "rare",
+    "evidence": "experiment"
+  },
+  {
+    "apiAttributeId": "big_game_hunter",
+    "shardName": "Sphinx",
+    "productId": "SHARD_SPHINX",
+    "rarity": "epic",
+    "evidence": "experiment"
+  },
+  {
+    "apiAttributeId": "arachno_resistance",
+    "shardName": "Voracious Spider",
+    "productId": "SHARD_VORACIOUS_SPIDER",
+    "rarity": "common",
+    "evidence": "experiment"
+  },
+  {
+    "apiAttributeId": "hunter",
+    "shardName": "Bogged",
+    "productId": "SHARD_BOGGED",
+    "rarity": "common",
+    "evidence": "experiment"
+  },
+  {
+    "apiAttributeId": "ice_essence",
+    "shardName": "Glacite Walker",
+    "productId": "SHARD_GLACITE_WALKER",
+    "rarity": "rare",
+    "evidence": "elimination"
+  },
+  {
+    "apiAttributeId": "forest_essence",
+    "shardName": "Dreadwing",
+    "productId": "SHARD_DREADWING",
+    "rarity": "rare",
+    "evidence": "elimination"
+  },
+  {
+    "apiAttributeId": "forest_felling",
+    "shardName": "Woodpecker",
+    "productId": "SHARD_WOODPECKER",
+    "rarity": "uncommon",
+    "evidence": "elimination"
+  },
+  {
+    "apiAttributeId": "humanoid_ruler_new",
+    "shardName": "Wetwing",
+    "productId": "SHARD_WETWING",
+    "rarity": "uncommon",
+    "evidence": "elimination"
+  },
+  {
+    "apiAttributeId": "undead",
+    "shardName": "Zombie Soldier",
+    "productId": "SHARD_ZOMBIE_SOLDIER",
+    "rarity": "uncommon",
+    "evidence": "elimination"
+  },
+  {
+    "apiAttributeId": "undead_essence",
+    "shardName": "Revenant",
+    "productId": "SHARD_REVENANT",
+    "rarity": "rare",
+    "evidence": "elimination"
+  }
+]

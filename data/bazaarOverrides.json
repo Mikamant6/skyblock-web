@@ -1,0 +1,82 @@
+[
+  {
+    "shardProductId": "SHARD_BEETLE",
+    "bazaarProductId": "SHARD_CROPEETLE",
+    "evidence": "ingame_price_match"
+  },
+  {
+    "shardProductId": "SHARD_BOGGED",
+    "bazaarProductId": "SHARD_SEA_ARCHER",
+    "evidence": "ingame_price_match"
+  },
+  {
+    "shardProductId": "SHARD_EARTHWORM",
+    "bazaarProductId": "SHARD_TERMITE",
+    "evidence": "ingame_price_match"
+  },
+  {
+    "shardProductId": "SHARD_FIELD_MOUSE",
+    "bazaarProductId": "SHARD_PEST",
+    "evidence": "ingame_price_match"
+  },
+  {
+    "shardProductId": "SHARD_INFERNO_DEMONLORD",
+    "bazaarProductId": "SHARD_BURNINGSOUL",
+    "evidence": "ingame_price_match"
+  },
+  {
+    "shardProductId": "SHARD_INKLING",
+    "bazaarProductId": "SHARD_NIGHT_SQUID",
+    "evidence": "ingame_price_match"
+  },
+  {
+    "shardProductId": "SHARD_LOTUSFISH",
+    "bazaarProductId": "SHARD_LOTUS_FISH",
+    "evidence": "ingame_price_match"
+  },
+  {
+    "shardProductId": "SHARD_STRIDERSURFER",
+    "bazaarProductId": "SHARD_STRIDER_SURFER",
+    "evidence": "ingame_price_match"
+  },
+  {
+    "shardProductId": "SHARD_RAINBUG",
+    "bazaarProductId": null,
+    "evidence": "not_tradable"
+  },
+  {
+    "shardProductId": "SHARD_WITHER_SPECTRE",
+    "bazaarProductId": "SHARD_WITHER_SPECTER",
+    "evidence": "atlas_price_match"
+  },
+  {
+    "shardProductId": "SHARD_LOCH_EMPEROR",
+    "bazaarProductId": "SHARD_SEA_EMPEROR",
+    "evidence": "atlas_price_match"
+  },
+  {
+    "shardProductId": "SHARD_END_STONE_PROTECTOR",
+    "bazaarProductId": "SHARD_ENDSTONE_PROTECTOR",
+    "evidence": "atlas_price_match"
+  },
+  {
+    "shardProductId": "SHARD_ABYSSAL_LANTERNFISH",
+    "bazaarProductId": "SHARD_ABYSSAL_LANTERN",
+    "evidence": "atlas_price_match"
+  },
+  {
+    "shardProductId": "SHARD_SEASHINE",
+    "bazaarProductId": "SHARD_SEA_SHINE",
+    "evidence": "atlas_price_match"
+  },
+  {
+    "shardProductId": "SHARD_FLIPFLOPPER",
+    "bazaarProductId": "SHARD_FLIP_FLOPPER",
+    "evidence": "atlas_price_match"
+  },
+  {
+    "shardProductId": "SHARD_ZEALOT_BRUISER",
+    "bazaarProductId": "SHARD_BRUISER",
+    "evidence": "atlas_price_match"
+  }
+]
