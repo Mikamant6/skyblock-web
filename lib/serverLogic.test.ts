@@ -96,8 +96,8 @@ async function main() {
     weeklyInstantBuys: null,
   });
   // Ohne Shard-Produkte lieber melden als alles mit 0 bewerten
-  assert.throws(() => extractShardPrices({ products: { X: {} } }), userError(502, "keine Shards"));
-  assert.throws(() => extractShardPrices({}), userError(502, "keine Shards"));
+  assert.throws(() => extractShardPrices({ products: { X: {} } }), userError(502, "contains no shards"));
+  assert.throws(() => extractShardPrices({}), userError(502, "contains no shards"));
   console.log("A. Bazaar-Antwort -> Preisliste: ok");
 
   // ---- B. Shard-Wert eines Accounts -------------------------------------------
@@ -173,30 +173,30 @@ async function main() {
     ],
   };
   assert.equal(selectMember(profilesRaw, UUID, "blueberry").profileName, "Blueberry");
-  assert.throws(() => selectMember({ profiles: null }, UUID, "Blueberry"), userError(404, "keine SkyBlock-Profile"));
-  assert.throws(() => selectMember(profilesRaw, UUID, "Kiwi"), userError(404, "Vorhanden: Blueberry, Apple"));
-  assert.throws(() => selectMember(profilesRaw, UUID, "  "), userError(400, "Bitte ein Profil angeben"));
-  assert.throws(() => selectMember(profilesRaw, UUID, "Apple"), userError(404, "keine Daten fuer diesen Spieler"));
+  assert.throws(() => selectMember({ profiles: null }, UUID, "Blueberry"), userError(404, "No SkyBlock profiles"));
+  assert.throws(() => selectMember(profilesRaw, UUID, "Kiwi"), userError(404, "Available: Blueberry, Apple"));
+  assert.throws(() => selectMember(profilesRaw, UUID, "  "), userError(400, "Please enter a profile name"));
+  assert.throws(() => selectMember(profilesRaw, UUID, "Apple"), userError(404, "No data for this player"));
   console.log("C. Profil auswaehlen und Fehlermeldungen: ok");
 
   // ---- D. Mojang: Name -> UUID -------------------------------------------------
   installFakeFetch(() => json({}));
-  await assert.rejects(() => getUuid("bad name!"), userError(400, "gueltigen Minecraft-Namen"));
-  await assert.rejects(() => getUuid(""), userError(400, "gueltigen Minecraft-Namen"));
+  await assert.rejects(() => getUuid("bad name!"), userError(400, "valid Minecraft name"));
+  await assert.rejects(() => getUuid(""), userError(400, "valid Minecraft name"));
   assert.equal(calls.length, 0, "ungueltige Namen duerfen keine Anfrage ausloesen");
 
   installFakeFetch(() => new Response(null, { status: 404 }));
-  await assert.rejects(() => getUuid("Unknown_One"), userError(404, "'Unknown_One' wurde nicht gefunden"));
+  await assert.rejects(() => getUuid("Unknown_One"), userError(404, "'Unknown_One' was not found"));
   installFakeFetch(() => new Response(null, { status: 204 }));
-  await assert.rejects(() => getUuid("Unknown_Two"), userError(404, "nicht gefunden"));
+  await assert.rejects(() => getUuid("Unknown_Two"), userError(404, "not found"));
   installFakeFetch(() => new Response(null, { status: 500 }));
-  await assert.rejects(() => getUuid("Mojang_Down"), userError(502, "Status 500"));
+  await assert.rejects(() => getUuid("Mojang_Down"), userError(502, "status 500"));
   installFakeFetch(() => {
     throw new TypeError("fetch failed");
   });
-  await assert.rejects(() => getUuid("Offline_Guy"), userError(502, "nicht erreichbar"));
+  await assert.rejects(() => getUuid("Offline_Guy"), userError(502, "unreachable"));
   installFakeFetch(() => json({ id: "kaputt", name: "Weird" }));
-  await assert.rejects(() => getUuid("Weird"), userError(502, "unerwartete Antwort"));
+  await assert.rejects(() => getUuid("Weird"), userError(502, "unexpected response"));
 
   installFakeFetch(() => json({ id: UUID.toUpperCase(), name: "Quantussy" }));
   const found = await getUuid("quantussy");
@@ -210,16 +210,16 @@ async function main() {
   clearHypixelCaches();
   installFakeFetch(() => json({}));
   delete process.env.HYPIXEL_API_KEY;
-  await assert.rejects(() => fetchProfiles("a".repeat(32)), userError(503, "nicht richtig eingerichtet"));
+  await assert.rejects(() => fetchProfiles("a".repeat(32)), userError(503, "not set up correctly"));
   assert.equal(calls.length, 0, "ohne Key darf keine Anfrage rausgehen");
 
   process.env.HYPIXEL_API_KEY = "test-key";
   installFakeFetch(() => new Response(null, { status: 403 }));
-  await assert.rejects(() => fetchProfiles("a".repeat(32)), userError(503, "abgelehnt"));
+  await assert.rejects(() => fetchProfiles("a".repeat(32)), userError(503, "rejected"));
   installFakeFetch(() => new Response(null, { status: 429 }));
-  await assert.rejects(() => fetchProfiles("b".repeat(32)), userError(429, "Zu viele Anfragen"));
+  await assert.rejects(() => fetchProfiles("b".repeat(32)), userError(429, "Too many requests"));
   installFakeFetch(() => new Response(null, { status: 500 }));
-  await assert.rejects(() => fetchProfiles("c".repeat(32)), userError(502, "Status 500"));
+  await assert.rejects(() => fetchProfiles("c".repeat(32)), userError(502, "status 500"));
 
   installFakeFetch(() => json({ success: true, profiles: profilesRaw.profiles }));
   const fetched = await fetchProfiles("d".repeat(32));
@@ -240,9 +240,9 @@ async function main() {
   assert.equal(calls.length, 1, "zweiter Aufruf haette aus dem Speicher kommen muessen");
   clearBazaarCache();
   installFakeFetch(() => new Response(null, { status: 500 }));
-  await assert.rejects(() => fetchShardPrices(), userError(502, "Status 500"));
+  await assert.rejects(() => fetchShardPrices(), userError(502, "status 500"));
   installFakeFetch(() => new Response(null, { status: 429 }));
-  await assert.rejects(() => fetchShardPrices(), userError(429, "Zu viele Anfragen"));
+  await assert.rejects(() => fetchShardPrices(), userError(429, "Too many requests"));
   console.log("F. Bazaar abrufen: ok");
 
   // ---- G. Alles zusammen: getShardNetworth ---------------------------------------
@@ -282,7 +282,7 @@ async function main() {
   // Profil ohne Shard-Daten
   clearHypixelCaches();
   currentStacks = {};
-  await assert.rejects(() => getShardNetworth("Quantussy", "Blueberry"), userError(404, "keine Shard-Daten"));
+  await assert.rejects(() => getShardNetworth("Quantussy", "Blueberry"), userError(404, "no shard data"));
   console.log("G. Gesamtablauf mit Attrappen (3 Anfragen, leere Stacks): ok");
 
   console.log("Alle Tests bestanden.");

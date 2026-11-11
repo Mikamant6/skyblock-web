@@ -31,7 +31,7 @@ export async function getShardNetworth(
   const stacks = selected.member.attributes?.stacks;
   if (stacks === undefined || Object.keys(stacks).length === 0) {
     throw new UserError(
-      "Im Profil stehen keine Shard-Daten. Moegliche Ursachen: Es wurden noch keine Shards syphoniert, oder die Daten sind ueber die API nicht freigegeben.",
+      "This profile has no shard data. Possible reasons: no shards have been syphoned yet, or the data is not shared through the API.",
       404,
     );
   }

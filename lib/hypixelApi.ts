@@ -37,7 +37,7 @@ export async function getUuid(
   // und ungueltige Eingaben kosten keine Anfrage.
   if (!/^[A-Za-z0-9_]{1,16}$/.test(name)) {
     throw new UserError(
-      "Bitte einen gueltigen Minecraft-Namen eingeben (1 bis 16 Zeichen: Buchstaben, Zahlen, Unterstrich).",
+      "Please enter a valid Minecraft name (1 to 16 characters: letters, digits, underscore).",
       400,
     );
   }
@@ -54,27 +54,27 @@ export async function getUuid(
     );
   } catch {
     throw new UserError(
-      "Mojang ist gerade nicht erreichbar. Bitte spaeter noch einmal versuchen.",
+      "Mojang is currently unreachable. Please try again later.",
       502,
     );
   }
 
   if (response.status === 404 || response.status === 204) {
     throw new UserError(
-      `Spieler '${name}' wurde nicht gefunden. Name richtig geschrieben?`,
+      `Player '${name}' was not found. Is the name spelled correctly?`,
       404,
     );
   }
   if (response.status !== 200) {
     throw new UserError(
-      `Mojang hat mit Status ${response.status} geantwortet. Bitte spaeter noch einmal versuchen.`,
+      `Mojang responded with status ${response.status}. Please try again later.`,
       502,
     );
   }
 
   const data = (await response.json()) as { id?: unknown; name?: unknown };
   if (typeof data.id !== "string" || !/^[0-9a-f]{32}$/i.test(data.id)) {
-    throw new UserError("Mojang hat eine unerwartete Antwort geschickt.", 502);
+    throw new UserError("Mojang sent an unexpected response.", 502);
   }
 
   const result = {
@@ -97,7 +97,7 @@ export async function fetchProfiles(uuid: string): Promise<ProfilesResponse> {
       "HYPIXEL_API_KEY fehlt. Steht er in .env.local und wurde der Server neu gestartet?",
     );
     throw new UserError(
-      "Der Dienst ist gerade nicht richtig eingerichtet (API-Key fehlt).",
+      "The service is not set up correctly right now (API key missing).",
       503,
     );
   }
@@ -110,7 +110,7 @@ export async function fetchProfiles(uuid: string): Promise<ProfilesResponse> {
     );
   } catch {
     throw new UserError(
-      "Hypixel ist gerade nicht erreichbar. Bitte spaeter noch einmal versuchen.",
+      "Hypixel is currently unreachable. Please try again later.",
       502,
     );
   }
@@ -120,19 +120,19 @@ export async function fetchProfiles(uuid: string): Promise<ProfilesResponse> {
       "Hypixel hat den API-Key abgelehnt (403). Ist der Key richtig und noch gueltig?",
     );
     throw new UserError(
-      "Der Dienst kann Hypixel gerade nicht abfragen (der API-Key wurde abgelehnt, vermutlich ist er abgelaufen). Bitte spaeter noch einmal versuchen.",
+      "The service cannot query Hypixel right now (the API key was rejected, it has probably expired). Please try again later.",
       503,
     );
   }
   if (response.status === 429) {
     throw new UserError(
-      "Zu viele Anfragen an Hypixel (429). Bitte ein paar Minuten warten.",
+      "Too many requests to Hypixel (429). Please wait a few minutes.",
       429,
     );
   }
   if (response.status !== 200) {
     throw new UserError(
-      `Hypixel hat mit Status ${response.status} geantwortet.`,
+      `Hypixel responded with status ${response.status}.`,
       502,
     );
   }
@@ -152,7 +152,7 @@ export function selectMember(
   const profiles = profilesRaw.profiles ?? [];
   if (profiles.length === 0) {
     throw new UserError(
-      "Fuer diesen Spieler wurden keine SkyBlock-Profile gefunden.",
+      "No SkyBlock profiles were found for this player.",
       404,
     );
   }
@@ -160,13 +160,13 @@ export function selectMember(
   const available = profiles.map((p) => p.cute_name).join(", ");
   const wanted = profileName.trim().toLowerCase();
   if (wanted === "") {
-    throw new UserError(`Bitte ein Profil angeben. Vorhanden: ${available}`, 400);
+    throw new UserError(`Please enter a profile name. Available: ${available}`, 400);
   }
 
   const profile = profiles.find((p) => p.cute_name.toLowerCase() === wanted);
   if (profile === undefined) {
     throw new UserError(
-      `Profil '${profileName.trim()}' nicht gefunden. Vorhanden: ${available}`,
+      `Profile '${profileName.trim()}' not found. Available: ${available}`,
       404,
     );
   }
@@ -174,7 +174,7 @@ export function selectMember(
   const member = profile.members[uuid];
   if (member === undefined) {
     throw new UserError(
-      `Im Profil '${profile.cute_name}' wurden keine Daten fuer diesen Spieler gefunden.`,
+      `No data for this player was found in profile '${profile.cute_name}'.`,
       404,
     );
   }

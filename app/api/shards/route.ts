@@ -4,6 +4,7 @@
 import { UserError } from "../../../lib/errors";
 import { getShardNetworth } from "../../../lib/shardService";
 
+
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
   const name = searchParams.get("name") ?? "";
@@ -19,7 +20,7 @@ export async function GET(request: Request) {
     // Unerwartet: Details nur ins Server-Protokoll, nicht zum Besucher
     console.error(error);
     return Response.json(
-      { error: "Unerwarteter Fehler. Bitte spaeter noch einmal versuchen." },
+      { error: "Unexpected error. Please try again later." },
       { status: 500 },
     );
   }

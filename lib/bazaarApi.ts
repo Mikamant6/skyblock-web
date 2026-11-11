@@ -46,7 +46,7 @@ export function extractShardPrices(bazaarRaw: BazaarResponse): ShardPrices {
   // als stillschweigend alle Shards mit 0 zu bewerten.
   if (Object.keys(prices).length === 0) {
     throw new UserError(
-      "Die Bazaar-Daten von Hypixel enthalten keine Shards. Bitte spaeter noch einmal versuchen.",
+      "The Bazaar data from Hypixel contains no shards. Please try again later.",
       502,
     );
   }
@@ -71,20 +71,20 @@ export async function fetchShardPrices(): Promise<ShardPrices> {
     });
   } catch {
     throw new UserError(
-      "Der Bazaar ist gerade nicht erreichbar. Bitte spaeter noch einmal versuchen.",
+      "The Bazaar is currently unreachable. Please try again later.",
       502,
     );
   }
 
   if (response.status === 429) {
     throw new UserError(
-      "Zu viele Anfragen an Hypixel (429). Bitte ein paar Minuten warten.",
+      "Too many requests to Hypixel (429). Please wait a few minutes.",
       429,
     );
   }
   if (response.status !== 200) {
     throw new UserError(
-      `Der Bazaar hat mit Status ${response.status} geantwortet.`,
+      `The Bazaar responded with status ${response.status}.`,
       502,
     );
   }

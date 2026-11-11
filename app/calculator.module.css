@@ -1,0 +1,277 @@
+/* Aussehen des Shard-Rechners.
+   Die Farben sind halbtransparentes Grau und Akzentfarben: so passt alles
+   automatisch sowohl zum hellen als auch zum dunklen Modus. */
+
+.app {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 40px 16px 64px;
+}
+
+/* ---- Kopf ---- */
+.header {
+  margin-bottom: 24px;
+}
+.title {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+.beta {
+  padding: 2px 10px;
+  border: 1px solid rgb(245 158 11 / 0.7);
+  border-radius: 999px;
+  background: rgb(245 158 11 / 0.15);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.subtitle {
+  margin: 8px 0 0;
+  opacity: 0.75;
+  line-height: 1.5;
+}
+
+/* ---- Formular ---- */
+.form {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 12px;
+}
+.field {
+  display: flex;
+  flex: 1 1 200px;
+  flex-direction: column;
+  gap: 4px;
+}
+.field label {
+  font-size: 0.85rem;
+  opacity: 0.8;
+}
+.input {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid rgb(128 128 128 / 0.5);
+  border-radius: 8px;
+  background: rgb(128 128 128 / 0.12);
+  color: inherit;
+  font: inherit;
+}
+.input:focus-visible {
+  outline: 2px solid #2f9e6f;
+  outline-offset: 1px;
+}
+.button {
+  padding: 10px 20px;
+  border: 0;
+  border-radius: 8px;
+  background: #2f9e6f;
+  color: #fff;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+.button:hover:not(:disabled) {
+  background: #278a60;
+}
+.button:disabled {
+  opacity: 0.6;
+  cursor: progress;
+}
+.button:focus-visible,
+.sortButton:focus-visible,
+.linkButton:focus-visible {
+  outline: 2px solid #2f9e6f;
+  outline-offset: 2px;
+}
+
+/* ---- Ergebnis ---- */
+.result {
+  margin-top: 32px;
+}
+.sectionTitle {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+.muted {
+  opacity: 0.65;
+  font-weight: 400;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 12px;
+  margin: 16px 0 24px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 16px;
+  border: 1px solid rgb(128 128 128 / 0.3);
+  border-radius: 12px;
+  background: rgb(128 128 128 / 0.08);
+}
+.cardLabel {
+  font-size: 0.85rem;
+  opacity: 0.75;
+}
+.cardValue {
+  font-size: 1.9rem;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.2;
+}
+.cardHint {
+  font-size: 0.8rem;
+  opacity: 0.65;
+}
+
+/* ---- Meldungen ---- */
+.error,
+.warning,
+.notice {
+  margin: 16px 0;
+  padding: 12px 16px;
+  border: 1px solid;
+  border-radius: 10px;
+  line-height: 1.5;
+}
+.error {
+  border-color: rgb(239 68 68 / 0.7);
+  background: rgb(239 68 68 / 0.12);
+}
+.warning {
+  border-color: rgb(245 158 11 / 0.7);
+  background: rgb(245 158 11 / 0.12);
+}
+.notice {
+  border-color: rgb(59 130 246 / 0.6);
+  background: rgb(59 130 246 / 0.1);
+}
+
+/* ---- Tabelle ---- */
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 24px 0 12px;
+}
+.toolbar .input {
+  width: auto;
+  min-width: 220px;
+}
+.tableWrap {
+  overflow-x: auto;
+  border: 1px solid rgb(128 128 128 / 0.3);
+  border-radius: 12px;
+}
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-variant-numeric: tabular-nums;
+}
+.table th,
+.table td {
+  padding: 10px 12px;
+  border-bottom: 1px solid rgb(128 128 128 / 0.2);
+  text-align: left;
+  white-space: nowrap;
+}
+.table tbody tr:last-child td {
+  border-bottom: 0;
+}
+.table th {
+  background: rgb(128 128 128 / 0.1);
+  font-size: 0.85rem;
+}
+.table .num,
+.num {
+  text-align: right;
+}
+.sortButton {
+  padding: 0;
+  border: 0;
+  background: none;
+  color: inherit;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+.linkButton {
+  margin-top: 12px;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: #2f9e6f;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* Seltenheit in den ueblichen SkyBlock-Farben */
+.rarity {
+  display: inline-block;
+  padding: 1px 8px;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  text-transform: capitalize;
+}
+.rarity[data-rarity="common"] {
+  color: #9ca3af;
+}
+.rarity[data-rarity="uncommon"] {
+  color: #22c55e;
+}
+.rarity[data-rarity="rare"] {
+  color: #3b82f6;
+}
+.rarity[data-rarity="epic"] {
+  color: #a855f7;
+}
+.rarity[data-rarity="legendary"] {
+  color: #f59e0b;
+}
+
+/* ---- Erklaerung und Fuss ---- */
+.details {
+  margin-top: 32px;
+  padding: 12px 16px;
+  border: 1px solid rgb(128 128 128 / 0.3);
+  border-radius: 10px;
+  line-height: 1.55;
+}
+.details summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+.footer {
+  margin-top: 40px;
+  font-size: 0.8rem;
+  line-height: 1.6;
+  opacity: 0.7;
+}
+.footer a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+@media (max-width: 520px) {
+  .title {
+    font-size: 1.6rem;
+  }
+  .button {
+    width: 100%;
+  }
+}
