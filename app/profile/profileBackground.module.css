@@ -1,0 +1,14 @@
+/* Szenenbild nur im Profil-Bereich: fest hinter der Seite, oben sichtbar,
+   nach unten ins Dunkle ausgeblendet. Bild: public/themes/profile-village-2x.jpg (austauschbar). */
+.scene {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 80vh;
+  z-index: -1;
+  pointer-events: none;
+  background:
+    linear-gradient(to bottom, rgb(12 15 21 / 0.1) 0%, rgb(12 15 21 / 0.5) 55%, var(--background) 100%),
+    url("/themes/profile-village-2x.jpg") center top / cover no-repeat;
+}

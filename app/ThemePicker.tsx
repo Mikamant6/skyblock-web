@@ -7,10 +7,10 @@
 import { useEffect, useRef, useState } from "react";
 import styles from "./ThemePicker.module.css";
 
-// Neue Schemata (z. B. Weihnachten) hier eintragen und in globals.css die
+// Neue Schemata hier eintragen (und in layout.tsx in der Liste "ok") und in globals.css die
 // passenden Farben ergaenzen. "default" bedeutet: kein data-theme gesetzt.
 const THEMES = [
-  { id: "default", label: "Standard", hint: "Follows your device (light or dark)", swatch: "#2f9e6f" },
+  { id: "default", label: "Standard", hint: "Dark default design", swatch: "#f2c260" },
 ] as const;
 
 type ThemeId = (typeof THEMES)[number]["id"];

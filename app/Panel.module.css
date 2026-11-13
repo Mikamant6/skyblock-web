@@ -1,8 +1,11 @@
 /* Gemeinsame Optik: eine Box mit Rand und leicht abgesetztem Hintergrund.
    Farben ueber die Theme-Variablen (mit Rueckfallwerten). */
 .panel {
+  position: relative;
   padding: 18px 20px;
   border: 1px solid var(--line, rgb(128 128 128 / 0.3));
   border-radius: 14px;
   background: var(--surface, rgb(128 128 128 / 0.07));
+  background-image: var(--panel-sheen, none); /* Glanz, nur in manchen Schemata */
+  backdrop-filter: blur(6px);
 }

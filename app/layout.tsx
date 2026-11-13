@@ -29,7 +29,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     >
       <head>
         {/* Setzt ein gemerktes Farbschema, bevor die Seite gezeichnet wird.
-            "ok" ist die Liste der erlaubten Schemata (derzeit keine ausser Standard). */}
+            "ok" ist die Liste der erlaubten Schemata (muss zu THEMES in ThemePicker.tsx passen). */}
         <script
           dangerouslySetInnerHTML={{
             __html: `try{var ok=[];var t=localStorage.getItem("theme");if(ok.indexOf(t)>-1){document.documentElement.setAttribute("data-theme",t)}}catch(e){}`,
