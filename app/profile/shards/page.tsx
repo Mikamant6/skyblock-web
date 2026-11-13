@@ -1,11 +1,11 @@
-import ShardsView from "./ShardsView";
+import ShardCollection from "./ShardCollection";
 
 export const metadata = {
-  title: "Shards",
+  title: "Shard collection",
   description:
-    "Estimate the Bazaar value of all shards you have syphoned in Hypixel SkyBlock.",
+    "Every Hypixel SkyBlock shard with its attribute, and which ones you own.",
 };
 
 export default function ShardsPage() {
-  return <ShardsView />;
+  return <ShardCollection />;
 }

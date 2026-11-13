@@ -1,0 +1,1956 @@
+{
+  "source": "https://hypixelskyblock.minecraft.wiki/w/Attributes/List",
+  "fetchedAt": "2026-11-13T03:39:25.821Z",
+  "shards": [
+    {
+      "attributeId": "nature_elemental",
+      "title": "&fGrove Shard",
+      "tooltip": "&6Nature Elemental I/&7Grants &c+2  Health&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C1)",
+      "image": "/shards/nature_elemental.png"
+    },
+    {
+      "attributeId": "fog_elemental",
+      "title": "&fMist Shard",
+      "tooltip": "&6Fog Elemental I/&7Grants &b+1  Intelligence&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON WATER SHARD &8(ID C2)",
+      "image": "/shards/fog_elemental.png"
+    },
+    {
+      "attributeId": "light_elemental",
+      "title": "&fFlash Shard",
+      "tooltip": "&6Light Elemental I/&7Grants &c+1  Strength&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON COMBAT SHARD &8(ID C3)",
+      "image": "/shards/light_elemental.png"
+    },
+    {
+      "attributeId": "nocturnal_animal",
+      "title": "&fPhanpyre Shard",
+      "tooltip": "&6Nocturnal Animal I/&7Grants &2+1  Sweep&7 during the night.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C4)",
+      "image": "/shards/nocturnal_animal.png"
+    },
+    {
+      "attributeId": "cheapstake",
+      "title": "&fCod Shard",
+      "tooltip": "&6Cheapstake I/&7Gain &a+1% &7more &6Coins &7from fishing/&7treasures.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON WATER SHARD &8(ID C5)",
+      "image": "/shards/cheapstake.png"
+    },
+    {
+      "attributeId": "animal_resistance",
+      "title": "&fHowling Spirit Shard",
+      "tooltip": "&6Animal Resistance I/&7Grants &a+4  Defense &7against &a/&aAnimal &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON COMBAT SHARD &8(ID C6)",
+      "image": "/shards/animal_resistance.png"
+    },
+    {
+      "attributeId": "moonglade_mastery",
+      "title": "&fPhanflare Shard",
+      "tooltip": "&6Moonglade Mastery I/&7Grants &6+10  Fig Fortune &7and &6+10/&6 Mangrove Fortune&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C7)",
+      "image": "/shards/moonglade_mastery.png"
+    },
+    {
+      "attributeId": "aquatic_resistance",
+      "title": "&fDumpster Diver Shard",
+      "tooltip": "&6Aquatic Resistance I/&7Grants &a+4  Defense &7against &9/&9Aquatic &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON WATER SHARD &8(ID C8)",
+      "image": "/shards/aquatic_resistance.png"
+    },
+    {
+      "attributeId": "experience",
+      "title": "&fLapis Zombie Shard",
+      "tooltip": "&6Experience I/&7Grants &a+10% &7more experience orbs/&7from killing mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON COMBAT SHARD &8(ID C9)",
+      "image": "/shards/experience.png"
+    },
+    {
+      "attributeId": "mossy_box",
+      "title": "&fHideonleaf Shard",
+      "tooltip": "&6Mossy Box I/&7Grants &6+5  Block Fortune&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C10)",
+      "image": "/shards/mossy_box.png"
+    },
+    {
+      "attributeId": "forest_fishing",
+      "title": "&fVerdant Shard",
+      "tooltip": "&6Forest Fishing I/&7Grants &b+3  Fishing Speed&7 while on/&2Foraging Islands&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON WATER SHARD &8(ID C11)",
+      "image": "/shards/forest_fishing.png"
+    },
+    {
+      "attributeId": "skeletal_ruler",
+      "title": "&fChill Shard",
+      "tooltip": "&6Skeletal Ruler I/&7Increase damage to &f Skeletal &7mobs/&7by &a+3%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON COMBAT SHARD &8(ID C12)",
+      "image": "/shards/skeletal_ruler.png"
+    },
+    {
+      "attributeId": "fortunate_farmer",
+      "title": "&fFly Shard",
+      "tooltip": "&6Fortunate Farmer I/&7Grants &6+2.5  Farming Fortune&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C13)",
+      "image": "/shards/fortunate_farmer.png"
+    },
+    {
+      "attributeId": "creature_fisher",
+      "title": "&fBogged Shard",
+      "tooltip": "&6Creature Fisher I/&7Grants &3+0.5  Sea Creature Chance&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON WATER SHARD &8(ID C14)",
+      "image": "/shards/creature_fisher.png"
+    },
+    {
+      "attributeId": "arthropod_resistance",
+      "title": "&fVoracious Spider Shard",
+      "tooltip": "&6Arthropod Resistance I/&7Grants &a+4  Defense &7against &4/&4Arthropod &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON COMBAT SHARD &8(ID C15)",
+      "image": "/shards/arthropod_resistance.png"
+    },
+    {
+      "attributeId": "happy_box",
+      "title": "&fHideongift Shard",
+      "tooltip": "&6Happy Box I/&7Grants a &a+2% &7chance to obtain an/&7extra &fWinter Gift &7when finding one.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C16)",
+      "image": "/shards/happy_box.png"
+    },
+    {
+      "attributeId": "yummy",
+      "title": "&fBirries Shard",
+      "tooltip": "&6Yummy I/&7Grants a &a+10%&7 chance to drop/&7double Berries and Sea Lumies.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON WATER SHARD &8(ID C17)",
+      "image": "/shards/yummy.png"
+    },
+    {
+      "attributeId": "undead_resistance",
+      "title": "&fTank Zombie Shard",
+      "tooltip": "&6Undead Resistance I/&7Grants &a+4  Defense &7against &2/&2Undead &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON COMBAT SHARD &8(ID C18)",
+      "image": "/shards/undead_resistance.png"
+    },
+    {
+      "attributeId": "fig_sharpening",
+      "title": "&fCrow Shard",
+      "tooltip": "&6Fig Sharpening I/&7Grants &2+5  Sweep &7towards Fig/&7Trees.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C19)",
+      "image": "/shards/fig_sharpening.png"
+    },
+    {
+      "attributeId": "unity_is_strength",
+      "title": "&fTadgang Shard",
+      "tooltip": "&6Unity is Strength I/&7Grants &2+0.02  Sweep &7for each/&7unique &f&lCommon &7Attribute you own.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON WATER SHARD &8(ID C20)",
+      "image": "/shards/unity_is_strength.png"
+    },
+    {
+      "attributeId": "ender_resistance",
+      "title": "&fZealot Shard",
+      "tooltip": "&6Ender Resistance I/&7Grants &a+4  Defense &7against &5/&5Ender &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON COMBAT SHARD &8(ID C21)",
+      "image": "/shards/ender_resistance.png"
+    },
+    {
+      "attributeId": "hitman_cooldown",
+      "title": "&fRabbit Mafioso Shard",
+      "tooltip": "&6Hitman Cooldown I/&7The cooldown of the &cRabbit Hitman &7is/&7reduced by &a+2.5%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C22)",
+      "image": "/shards/hitman_cooldown.png"
+    },
+    {
+      "attributeId": "bucket_lover",
+      "title": "&fCoralot Shard",
+      "tooltip": "&6Bucket Lover I/&7You have a &a+5% &7chance to gain extra/&7Chums.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON WATER SHARD &8(ID C23)",
+      "image": "/shards/bucket_lover.png"
+    },
+    {
+      "attributeId": "tree_lurker",
+      "title": "&fHarpy Shard",
+      "tooltip": "&6Tree Lurker I/&7Increases the odds of finding/&7monsters from &2Tree Gifts &7by &a+5%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON COMBAT SHARD &8(ID C24)",
+      "image": "/shards/tree_lurker.png"
+    },
+    {
+      "attributeId": "visitor_bait",
+      "title": "&fMudworm Shard",
+      "tooltip": "&6Visitor Speed I/&aGarden Visitors &7arrive &a+1% &7faster.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C25)",
+      "image": "/shards/visitor_bait.png"
+    },
+    {
+      "attributeId": "lotus_trophy",
+      "title": "&fLotusfish Shard",
+      "tooltip": "&6Lotus Trophy I/&7Grants &6+1  Trophy Chance&7 while in/&7the &3Lotus Atoll&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON WATER SHARD &8(ID C26)",
+      "image": "/shards/lotus_trophy.png"
+    },
+    {
+      "attributeId": "midas_touch",
+      "title": "&fGolden Ghoul Shard",
+      "tooltip": "&6Midas Touch I/&7Grants &6+1 Coin &7per kill.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON COMBAT SHARD &8(ID C27)",
+      "image": "/shards/midas_touch.png"
+    },
+    {
+      "attributeId": "crop_speed",
+      "title": "&fLocust Shard",
+      "tooltip": "&6Crop Speed I/&7Grants &a+1 &2Crop Growth&7 while in &aThe/&aGarden&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C28)",
+      "image": "/shards/crop_speed.png"
+    },
+    {
+      "attributeId": "forest_strength",
+      "title": "&fAzure Shard",
+      "tooltip": "&6Forest Strength I/&7Grants &c+5  Strength&7 while on/&2Foraging Islands&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON WATER SHARD &8(ID C29)",
+      "image": "/shards/forest_strength.png"
+    },
+    {
+      "attributeId": "blazing_resistance",
+      "title": "&fBezal Shard",
+      "tooltip": "&6Blazing Resistance I/&7Grants &a+4  Defense &7against &4/&4Infernal &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON COMBAT SHARD &8(ID C30)",
+      "image": "/shards/blazing_resistance.png"
+    },
+    {
+      "attributeId": "woodland_resistance",
+      "title": "&fStag Beetle Shard",
+      "tooltip": "&6Woodland Resistance I/&7Grants &a+4  Defense &7against &2/&2Woodland &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C31)",
+      "image": "/shards/woodland_resistance.png"
+    },
+    {
+      "attributeId": "fisherman",
+      "title": "&fInkling Shard",
+      "tooltip": "&6Fisherman I/&7Has a &a+1% &7chance not to consume/&7any bait.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON WATER SHARD &8(ID C32)",
+      "image": "/shards/fisherman.png"
+    },
+    {
+      "attributeId": "yog_membrane",
+      "title": "&fYog Shard",
+      "tooltip": "&6Yog Membrane I/&7Grants &c+1  Heat Resistance&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON COMBAT SHARD &8(ID C33)",
+      "image": "/shards/yog_membrane.png"
+    },
+    {
+      "attributeId": "owl_friend",
+      "title": "&fBoreal Owl Shard",
+      "tooltip": "&6Owl Friend I/&7Your pets gain &a+2%&7 more Pet EXP/&7from Fann.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C34)",
+      "image": "/shards/owl_friend.png"
+    },
+    {
+      "attributeId": "decent_karma",
+      "title": "&fNewt Shard",
+      "tooltip": "&6Decent Karma I/&7Grants &d+2  Hunting Fortune/&7towards &f&lCOMMON &7Attributes.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON WATER SHARD &8(ID C35)",
+      "image": "/shards/decent_karma.png"
+    },
+    {
+      "attributeId": "rotten_pickaxe",
+      "title": "&fMiner Zombie Shard",
+      "tooltip": "&6Rotten Pickaxe I/&7Grants &6+3  Mining Speed&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON COMBAT SHARD &8(ID C36)",
+      "image": "/shards/rotten_pickaxe.png"
+    },
+    {
+      "attributeId": "fortunate_miner",
+      "title": "&fFlitter Shard",
+      "tooltip": "&6Fortunate Miner I/&7Grants &6+2.5  Mining Fortune&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C37)",
+      "image": "/shards/fortunate_miner.png"
+    },
+    {
+      "attributeId": "lake_fishing",
+      "title": "&fTepid Shard",
+      "tooltip": "&6Lake Fishing I/&7Grants &b+3  Fishing Speed&7 while on/&bFishing Islands&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON WATER SHARD &8(ID C38)",
+      "image": "/shards/lake_fishing.png"
+    },
+    {
+      "attributeId": "mythological_resistance",
+      "title": "&fCretan Bull Shard",
+      "tooltip": "&6Mythological Resistance I/&7Grants &a+4  Defense &7against &2✿/&2Mythological &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON COMBAT SHARD &8(ID C39)",
+      "image": "/shards/mythological_resistance.png"
+    },
+    {
+      "attributeId": "queen_tracker",
+      "title": "&fAnt Shard",
+      "tooltip": "&6Queen Tracker I/&7Grants &d+0.5  Tracking&7 towards/&5Queen Ants&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C40)",
+      "image": "/shards/queen_tracker.png"
+    },
+    {
+      "attributeId": "cave_fishing",
+      "title": "&fCavernfish Shard",
+      "tooltip": "&6Cave Fishing I/&7Grants &b+3  Fishing Speed&7 while on/&6Mining Islands&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON WATER SHARD &8(ID C41)",
+      "image": "/shards/cave_fishing.png"
+    },
+    {
+      "attributeId": "frozen_resistance",
+      "title": "&fStrongarm Shard",
+      "tooltip": "&6Frozen Resistance I/&7Grants &a+4  Defense &7against &f/&fFrozen &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON COMBAT SHARD &8(ID C42)",
+      "image": "/shards/frozen_resistance.png"
+    },
+    {
+      "attributeId": "gold_box",
+      "title": "&fHideonsun Shard",
+      "tooltip": "&6Gold Box I/&7Grants &6+5  Ore Fortune&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C43)",
+      "image": "/shards/gold_box.png"
+    },
+    {
+      "attributeId": "skeletal_resistance",
+      "title": "&fHaggard Shard",
+      "tooltip": "&6Skeletal Resistance I/&7Grants &a+4  Defense &7against &f/&fSkeletal &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON WATER SHARD &8(ID C44)",
+      "image": "/shards/skeletal_resistance.png"
+    },
+    {
+      "attributeId": "honey_speed",
+      "title": "&fHoneyhog Shard",
+      "tooltip": "&6Honey Speed I/&aTrees &7lathered with &6Honeycomb/&7attract mobs &a+1% &7faster.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON COMBAT SHARD &8(ID C45)",
+      "image": "/shards/honey_speed.png"
+    },
+    {
+      "attributeId": "subterranean_resistance",
+      "title": "&fShyworm Shard",
+      "tooltip": "&6Subterranean Resistance I/&7Grants &a+4  Defense &7against &6/&6Subterranean &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C46)",
+      "image": "/shards/subterranean_resistance.png"
+    },
+    {
+      "attributeId": "arcane_resistance",
+      "title": "&fBrineling Shard",
+      "tooltip": "&6Arcane Resistance I/&7Grants &a+4  Defense &7against &5/&5Arcane &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON WATER SHARD &8(ID C47)",
+      "image": "/shards/arcane_resistance.png"
+    },
+    {
+      "attributeId": "rabbit_youth",
+      "title": "&fChocobun Shard",
+      "tooltip": "&6Rabbit Youth I/&7Rabbit Bro, Cousin, and Sis can have/&a+1 &7extra levels.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C48)",
+      "image": "/shards/rabbit_youth.png"
+    },
+    {
+      "attributeId": "foraging_speed",
+      "title": "&fFoxtrot Shard",
+      "tooltip": "&6Foraging Speed I/&7Grants &f+3  Speed&7 while on/&2Foraging Islands&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C49)",
+      "image": "/shards/foraging_speed.png"
+    },
+    {
+      "attributeId": "torrhus_mastery",
+      "title": "&fFirefox Shard",
+      "tooltip": "&6Torrhus Mastery I/&7Grants &6+10  Helix Fortune&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C52)",
+      "image": "/shards/torrhus_mastery.png"
+    },
+    {
+      "attributeId": "diurnal_animal",
+      "title": "&fGroundhog Shard",
+      "tooltip": "&6Diurnal Animal I/&7Grants &2+1  Sweep&7 during the day.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C55)",
+      "image": "/shards/diurnal_animal.png"
+    },
+    {
+      "attributeId": "torrhus_diver",
+      "title": "&fTimil Shard",
+      "tooltip": "&6Torrhus Diver I/&7Grants &9+0.5  Pressure Resistance/&7while on &6Torrhus Canyon&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON WATER SHARD &8(ID C56)",
+      "image": "/shards/torrhus_diver.png"
+    },
+    {
+      "attributeId": "airborne_resistance",
+      "title": "&fBlue Jay Shard",
+      "tooltip": "&6Airborne Resistance I/&7Grants &a+4  Defense &7against /&7Airborne mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C58)",
+      "image": "/shards/airborne_resistance.png"
+    },
+    {
+      "attributeId": "chocolate_speed",
+      "title": "&fBunbun Shard",
+      "tooltip": "&6Chocolate Speed I/&7Increases your &6Chocolate Factory/&7speed by &a+0.25%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C61)",
+      "image": "/shards/chocolate_speed.png"
+    },
+    {
+      "attributeId": "honey_haul",
+      "title": "&fHoneybuzz Shard",
+      "tooltip": "&6Honey Haul I/&6Honeyhives &7have a &a+2.5% &7chance to/&7contain double the &6Honeycomb&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C64)",
+      "image": "/shards/honey_haul.png"
+    },
+    {
+      "attributeId": "honey_luck",
+      "title": "&fPollendart Shard",
+      "tooltip": "&6Honey Luck I/&aTrees &7lathered with &6Honeycomb &7have/&7a &a+5% &7chance to attract a second/&7mob.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&f&lCOMMON FOREST SHARD &8(ID C67)",
+      "image": "/shards/honey_luck.png"
+    },
+    {
+      "attributeId": "wood_elemental",
+      "title": "&aBramble Shard",
+      "tooltip": "&6Wood Elemental I/&7Grants &c+2  Health&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U1)",
+      "image": "/shards/wood_elemental.png"
+    },
+    {
+      "attributeId": "water_elemental",
+      "title": "&aTide Shard",
+      "tooltip": "&6Water Elemental I/&7Grants &b+1  Intelligence&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U2)",
+      "image": "/shards/water_elemental.png"
+    },
+    {
+      "attributeId": "stone_elemental",
+      "title": "&aQuake Shard",
+      "tooltip": "&6Stone Elemental I/&7Grants &c+1  Strength&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON COMBAT SHARD &8(ID U3)",
+      "image": "/shards/stone_elemental.png"
+    },
+    {
+      "attributeId": "fig_collector",
+      "title": "&aSparrow Shard",
+      "tooltip": "&6Fig Collector I/&7Grants &6+1  Fig Fortune&7 for every/&7digit in your Fig Log collection. &8(Max/&810M collection)//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U4)",
+      "image": "/shards/fig_collector.png"
+    },
+    {
+      "attributeId": "gold_bait",
+      "title": "&aGoldfin Shard",
+      "tooltip": "&6Gold Bait I/&7The cooldown of Golden Fish is/&7reduced by &a+30s&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U5)",
+      "image": "/shards/gold_bait.png"
+    },
+    {
+      "attributeId": "mountain_climber",
+      "title": "&aTroglobyte Shard",
+      "tooltip": "&6Mountain Climber I/&7Commissions grant &a+1% &7more &5HOTM Exp&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON COMBAT SHARD &8(ID U6)",
+      "image": "/shards/mountain_climber.png"
+    },
+    {
+      "attributeId": "bigger_box",
+      "title": "&aHideoncave Shard",
+      "tooltip": "&6Bigger Box I/&7Grants a &a+5%&7 chance to find an/&7extra item in Treasure Chests and/&7the Crystal Nucleus.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U7)",
+      "image": "/shards/bigger_box.png"
+    },
+    {
+      "attributeId": "good_karma",
+      "title": "&aSalamander Shard",
+      "tooltip": "&6Good Karma I/&7Grants &d+2  Hunting Fortune/&7towards &a&lUNCOMMON &7Attributes.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U8)",
+      "image": "/shards/good_karma.png"
+    },
+    {
+      "attributeId": "echo_of_boxes",
+      "title": "&aCuboa Shard",
+      "tooltip": "&6Echo of Boxes I/&7Your &quot;Box&quot; Attributes are &a+2%/&7stronger.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON COMBAT SHARD &8(ID U9)",
+      "image": "/shards/echo_of_boxes.png"
+    },
+    {
+      "attributeId": "pest_luck",
+      "title": "&aField Mouse Shard",
+      "tooltip": "&6Pest Luck I/&7Grants &e+0.5  Overbloom &7on &2 Pests&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U10)",
+      "image": "/shards/pest_luck.png"
+    },
+    {
+      "attributeId": "forest_trap",
+      "title": "&aMossybit Shard",
+      "tooltip": "&6Forest Trap I/&7Forest Shards get caught by Traps/&a+1%&7 faster.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U11)",
+      "image": "/shards/forest_trap.png"
+    },
+    {
+      "attributeId": "mana_steal",
+      "title": "&aRain Slime Shard",
+      "tooltip": "&6Mana Steal I/&7Regain &a+0.5 &7Mana every time you hit a/&7monster./&8Cooldown: 0.5s//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&a&lUNCOMMON COMBAT SHARD &8(ID U12)",
+      "image": "/shards/mana_steal.png"
+    },
+    {
+      "attributeId": "humanoid_ruler",
+      "title": "&aWetwing Shard",
+      "tooltip": "&6Humanoid Ruler I/&7Grants &a+3% &7more &c Damage &7against/&e Humanoid &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U14)",
+      "image": "/shards/humanoid_ruler.png"
+    },
+    {
+      "attributeId": "dragon_shortbow_improvement",
+      "title": "&aSeer Shard",
+      "tooltip": "&6Dragon Shortbow Improvement I/&7Your &5Dragon Shortbow &7gains &a+2%/&7more &c Damage &7while in &dThe End&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON COMBAT SHARD &8(ID U15)",
+      "image": "/shards/dragon_shortbow_improvement.png"
+    },
+    {
+      "attributeId": "mangrove_sharpening",
+      "title": "&aHeron Shard",
+      "tooltip": "&6Mangrove Sharpening I/&7Grants &2+10  Sweep &7towards/&7Mangrove Trees.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U16)",
+      "image": "/shards/mangrove_sharpening.png"
+    },
+    {
+      "attributeId": "witchs_fortune",
+      "title": "&aSea Witch Shard",
+      "tooltip": "&6Witch's Fortune I/&7Increases your chance of dropping/&6Ingredients &7during the &5Year of the/&5Witch&7 by &a+1%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U17)",
+      "image": "/shards/witchs_fortune.png"
+    },
+    {
+      "attributeId": "speed",
+      "title": "&aObsidian Defender Shard",
+      "tooltip": "&6Speed I/&7Grants &f+1  Speed&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&a&lUNCOMMON COMBAT SHARD &8(ID U18)",
+      "image": "/shards/speed.png"
+    },
+    {
+      "attributeId": "pest_fortune",
+      "title": "&aCricket Shard",
+      "tooltip": "&6Pest Fortune I/&7Grants &6+5  Farming Fortune &7on &2/&2Pests&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U19)",
+      "image": "/shards/pest_fortune.png"
+    },
+    {
+      "attributeId": "lost_and_found",
+      "title": "&aSalmon Shard",
+      "tooltip": "&6Lost and Found I/&7Grants a &a+0.1% &7chance to find a &5Wet/&5Book&7 when fishing a Treasure.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U20)",
+      "image": "/shards/lost_and_found.png"
+    },
+    {
+      "attributeId": "hunters_fang",
+      "title": "&aViper Shard",
+      "tooltip": "&6Hunter's Fang I/&7Your Hunting Axes gain &a+1% &7more/&7stats from the weapon they hold.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON COMBAT SHARD &8(ID U21)",
+      "image": "/shards/hunters_fang.png"
+    },
+    {
+      "attributeId": "pest_ruler",
+      "title": "&aPraying Mantis Shard",
+      "tooltip": "&6Pest Ruler I/&7Grants &a+3% &7more &c Damage &7against/&2 Pest &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U22)",
+      "image": "/shards/pest_ruler.png"
+    },
+    {
+      "attributeId": "lily_tracker",
+      "title": "&aLotum Shard",
+      "tooltip": "&6Lily Tracker I/&7Grants &a+1 &d Tracking &7on &2Exploding/&2Lily Pads&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U23)",
+      "image": "/shards/lily_tracker.png"
+    },
+    {
+      "attributeId": "undead_ruler",
+      "title": "&aZombie Soldier Shard",
+      "tooltip": "&6Undead Ruler I/&7Grants &a+3% &7more &c Damage &7against/&2 Undead &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&a&lUNCOMMON COMBAT SHARD &8(ID U24)",
+      "image": "/shards/undead_ruler.png"
+    },
+    {
+      "attributeId": "strong_arms",
+      "title": "&aBambuleaf Shard",
+      "tooltip": "&6Strong Arms I/&7Your Axe gains &2+3  Sweep&7 on/&7throws.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U25)",
+      "image": "/shards/strong_arms.png"
+    },
+    {
+      "attributeId": "dwarven_training",
+      "title": "&aTreasure Hoarder Shard",
+      "tooltip": "&6Dwarven Training I/&7Gain &a+1% &7more &5Heart of the Mountain/&5Exp&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U26)",
+      "image": "/shards/dwarven_training.png"
+    },
+    {
+      "attributeId": "life_recovery",
+      "title": "&aSycophant Shard",
+      "tooltip": "&6Life Recovery I/&7Heals for &a+0.1% &7of your max health/&7each time you kill a mob./&8Cooldown: &a0.5s//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&a&lUNCOMMON COMBAT SHARD &8(ID U27)",
+      "image": "/shards/life_recovery.png"
+    },
+    {
+      "attributeId": "mangrove_collector",
+      "title": "&aSeagull Shard",
+      "tooltip": "&6Mangrove Collector I/&7Grants &6+1  Mangrove Fortune&7 for/&7every digit in your Mangrove Log/&7collection. &8(Max 10M collection)//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U28)",
+      "image": "/shards/mangrove_collector.png"
+    },
+    {
+      "attributeId": "woodland_ruler",
+      "title": "&aEnt Shard",
+      "tooltip": "&6Woodland Ruler I/&7Grants &a+3% &7more &c Damage &7against/&2 Woodland &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U29)",
+      "image": "/shards/woodland_ruler.png"
+    },
+    {
+      "attributeId": "combo",
+      "title": "&aSoul of the Alpha Shard",
+      "tooltip": "&6Combo I/&7Deal &a+0.1% &7more &c Damage &7per/&7Grandma Wolf pet combo. &8(Max 50/&8combo)//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&a&lUNCOMMON COMBAT SHARD &8(ID U30)",
+      "image": "/shards/combo.png"
+    },
+    {
+      "attributeId": "strong_legs",
+      "title": "&aMochibear Shard",
+      "tooltip": "&6Strong Legs I/&7Your Axe gains &2+3  Sweep&7 on melee.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U31)",
+      "image": "/shards/strong_legs.png"
+    },
+    {
+      "attributeId": "infection",
+      "title": "&aMagma Slug Shard",
+      "tooltip": "&6Infection I/&7Increases the chance of catching/&7corrupted Sea Creatures by &a+0.2%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&a&lUNCOMMON WATER SHARD &8(ID U32)",
+      "image": "/shards/infection.png"
+    },
+    {
+      "attributeId": "arthropod_ruler",
+      "title": "&aFlaming Spider Shard",
+      "tooltip": "&6Arthropod Ruler I/&7Grants &a+3% &7more &c Damage &7against/&4 Arthropod &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&a&lUNCOMMON COMBAT SHARD &8(ID U33)",
+      "image": "/shards/arthropod_ruler.png"
+    },
+    {
+      "attributeId": "kats_favorite",
+      "title": "&aKiwi Shard",
+      "tooltip": "&6Kat's Favorite I/&bKat &7takes &a+1%&7 less time to upgrade a/&7Pet.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U34)",
+      "image": "/shards/kats_favorite.png"
+    },
+    {
+      "attributeId": "ender_ruler",
+      "title": "&aZealot Bruiser Shard",
+      "tooltip": "&6Ender Ruler I/&7Grants &a+3% &7more &c Damage &7against/&5 Ender &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&a&lUNCOMMON COMBAT SHARD &8(ID U36)",
+      "image": "/shards/ender_ruler.png"
+    },
+    {
+      "attributeId": "magmatic_ruler",
+      "title": "&aStridersurfer Shard",
+      "tooltip": "&6Magmatic Ruler I/&7Grants &a+3% &7more &c Damage &7against/&c Magmatic &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U38)",
+      "image": "/shards/magmatic_ruler.png"
+    },
+    {
+      "attributeId": "battle_frog",
+      "title": "&aRana Shard",
+      "tooltip": "&6Battle Frog I/&7Your Frog Pet gains &c+3  Strength&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON COMBAT SHARD &8(ID U39)",
+      "image": "/shards/battle_frog.png"
+    },
+    {
+      "attributeId": "infiltration",
+      "title": "&aEarthworm Shard",
+      "tooltip": "&6Infiltration I/&7Grants &6+3  Farming Fortune&7 if/&7your Garden Plot currently has a &2/&2Pest &7in it.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U40)",
+      "image": "/shards/infiltration.png"
+    },
+    {
+      "attributeId": "golden_frog",
+      "title": "&aFlipflopper Shard",
+      "tooltip": "&6Golden Frog I/&2Trophy Frogs &7are &a+0.5% &7more likely/&7to be &6&lGOLD&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U41)",
+      "image": "/shards/golden_frog.png"
+    },
+    {
+      "attributeId": "frozen_ruler",
+      "title": "&aPolaris Shard",
+      "tooltip": "&6Frozen Ruler I/&7Grants &a+3% &7more &c Damage &7against/&f Frozen &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON COMBAT SHARD &8(ID U42)",
+      "image": "/shards/frozen_ruler.png"
+    },
+    {
+      "attributeId": "foraging_frog",
+      "title": "&aTreefrog Shard",
+      "tooltip": "&6Foraging Frog I/&7Your Frog Pet gains &6+1  Foraging/&6Fortune&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U43)",
+      "image": "/shards/foraging_frog.png"
+    },
+    {
+      "attributeId": "compost_speed",
+      "title": "&aBayou Sludge Shard",
+      "tooltip": "&6Compost Speed I/&7Your &2Composter &7works &a+1% &7faster.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U44)",
+      "image": "/shards/compost_speed.png"
+    },
+    {
+      "attributeId": "battle_arachnid",
+      "title": "&aAreita Shard",
+      "tooltip": "&6Battle Arachnid I/&7Your Spider Pet and Tarantula Pet/&7gain &9+2  Crit Damage&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON COMBAT SHARD &8(ID U45)",
+      "image": "/shards/battle_arachnid.png"
+    },
+    {
+      "attributeId": "airborne_ruler",
+      "title": "&aBluebird Shard",
+      "tooltip": "&6Airborne Ruler I/&7Grants &a+3% &7more &c Damage &7against/&7 Airborne mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&a&lUNCOMMON FOREST SHARD &8(ID U46)",
+      "image": "/shards/airborne_ruler.png"
+    },
+    {
+      "attributeId": "flexible_fisher",
+      "title": "&aOsedax Shard",
+      "tooltip": "&6Flexible Fisher I/&7Increases your chance of catching/&aFlexbones &7by &a+2.5% &7while in the &cTomb/&cFloodway&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U47)",
+      "image": "/shards/flexible_fisher.png"
+    },
+    {
+      "attributeId": "arcane_ruler",
+      "title": "&aDuplico Shard",
+      "tooltip": "&6Arcane Ruler I/&7Grants &a+3% &7more &c Damage &7against/&5 Arcane &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON COMBAT SHARD &8(ID U48)",
+      "image": "/shards/arcane_ruler.png"
+    },
+    {
+      "attributeId": "buckle_fisher",
+      "title": "&aLitterbug Shard",
+      "tooltip": "&6Buckle Fisher I/&2Junk&7 catches are &a+1%&7 more likely to/&7be &6&lGREAT&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U49)",
+      "image": "/shards/buckle_fisher.png"
+    },
+    {
+      "attributeId": "titanoboa_tracker",
+      "title": "&aWater Snake Shard",
+      "tooltip": "&6Titanoboa Tracker I/&7Grants &d+0.5  Tracking&7 towards/&dTitanoboa&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U50)",
+      "image": "/shards/titanoboa_tracker.png"
+    },
+    {
+      "attributeId": "zealot_tracker",
+      "title": "&aGazer Shard",
+      "tooltip": "&6Zealot Tracker I/&7Grants &d+0.5&7 &d Tracking&7 towards/&dSpecial Zealots&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON COMBAT SHARD &8(ID U51)",
+      "image": "/shards/zealot_tracker.png"
+    },
+    {
+      "attributeId": "visitor_honey",
+      "title": "&aHoneybug Shard",
+      "tooltip": "&6Visitor Honey I/&aGarden Visitors&7 have a &a+0.25%/&7chance to bring &aHoney Jar&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U52)",
+      "image": "/shards/visitor_honey.png"
+    },
+    {
+      "attributeId": "yeti_tracker",
+      "title": "&aShuddersquid Shard",
+      "tooltip": "&6Yeti Tracker I/&7Grants &d+0.5  Tracking &7towards &6Yeti&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U53)",
+      "image": "/shards/yeti_tracker.png"
+    },
+    {
+      "attributeId": "soul_snatcher",
+      "title": "&aSolsnatcher Shard",
+      "tooltip": "&6Soul Snatcher I/&7Mobs are &a+1%&7 more likely to drop/&7their soul when killed.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U55)",
+      "image": "/shards/soul_snatcher.png"
+    },
+    {
+      "attributeId": "bucket_greed",
+      "title": "&aSepialot Shard",
+      "tooltip": "&6Bucket Greed I/&7Your Chums give &a+10%&7 extra &6Coins/&7when deposited into any bucket.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U56)",
+      "image": "/shards/bucket_greed.png"
+    },
+    {
+      "attributeId": "honey_serendipity",
+      "title": "&aHoney Badger Shard",
+      "tooltip": "&6Honey Serendipity I/&7Grants a &a+0.5% &7chance to instantly/&7attract a mob when lathering a &aTree/&7with &6Honeycomb&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON COMBAT SHARD &8(ID U57)",
+      "image": "/shards/honey_serendipity.png"
+    },
+    {
+      "attributeId": "subterranean_ruler",
+      "title": "&aDriftling Shard",
+      "tooltip": "&6Subterranean Ruler I/&7Grants &a+3% &7more &c Damage &7against/&6 Subterranean &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U58)",
+      "image": "/shards/subterranean_ruler.png"
+    },
+    {
+      "attributeId": "lily_puncher",
+      "title": "&aTewtil Shard",
+      "tooltip": "&6Lily Puncher I/&7Punching &2Exploding Lily Pads &7applies/&a+5% &7more force.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U59)",
+      "image": "/shards/lily_puncher.png"
+    },
+    {
+      "attributeId": "mythological_ruler",
+      "title": "&aMinos Hunter Shard",
+      "tooltip": "&6Mythological Ruler I/&7Grants &a+3% &7more &c Damage &7against/&2 Mythological &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON COMBAT SHARD &8(ID U60)",
+      "image": "/shards/mythological_ruler.png"
+    },
+    {
+      "attributeId": "builder_discount",
+      "title": "&aWoodchucker Shard",
+      "tooltip": "&6Builder Discount I/&7Reduces the cost of items in the/&6Builder's Shop&7 by &a+1%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U61)",
+      "image": "/shards/builder_discount.png"
+    },
+    {
+      "attributeId": "starlyn_training",
+      "title": "&aSolar Shard",
+      "tooltip": "&6Starlyn Training I/&7Gain &a+0.5% &7more points in &dStarlyn/&dContests&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U62)",
+      "image": "/shards/starlyn_training.png"
+    },
+    {
+      "attributeId": "visitor_compost",
+      "title": "&aParched Shard",
+      "tooltip": "&6Visitor Compost I/&aGarden Visitors&7 have a &a+0.25%/&7chance to bring &aCompost&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON COMBAT SHARD &8(ID U63)",
+      "image": "/shards/visitor_compost.png"
+    },
+    {
+      "attributeId": "bartender_discount",
+      "title": "&aBloodbat Shard",
+      "tooltip": "&6Bartender Discount I/&7Reduces the cost of items in the/&7Bartender's Shop by &a+1%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U64)",
+      "image": "/shards/bartender_discount.png"
+    },
+    {
+      "attributeId": "combat_trap",
+      "title": "&aDustybit Shard",
+      "tooltip": "&6Combat Trap I/&cCombat Shards &7get caught by Traps/&a+1%&7 faster.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U65)",
+      "image": "/shards/combat_trap.png"
+    },
+    {
+      "attributeId": "visitor_cheese",
+      "title": "&aWoodlouse Shard",
+      "tooltip": "&6Visitor Cheese I/&aGarden Visitors&7 have a &a+0.25%/&7chance to bring &aTasty Cheese&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U67)",
+      "image": "/shards/visitor_cheese.png"
+    },
+    {
+      "attributeId": "galatea_training",
+      "title": "&aEmber Shard",
+      "tooltip": "&6Galatea Training I/&7Gain &a+1% &7more &aHeart of the Forest/&aExp&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U68)",
+      "image": "/shards/galatea_training.png"
+    },
+    {
+      "attributeId": "bayou_treasure",
+      "title": "&aCheeky Tiki Shard",
+      "tooltip": "&6Bayou Treasure I/&7Grants &6+0.1  Treasure Chance/&7while in the &2Backwater Bayou&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON COMBAT SHARD &8(ID U69)",
+      "image": "/shards/bayou_treasure.png"
+    },
+    {
+      "attributeId": "visitor_plant",
+      "title": "&aRed Panda Shard",
+      "tooltip": "&6Visitor Plant I/&aGarden Visitors &7have a &a+0.25%/&7chance to bring &aPlant Matter&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U70)",
+      "image": "/shards/visitor_plant.png"
+    },
+    {
+      "attributeId": "animal_ruler",
+      "title": "&aSprawl Shard",
+      "tooltip": "&6Animal Ruler I/&7Grants &a+3% &7more &c Damage &7against/&a Animal &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON WATER SHARD &8(ID U71)",
+      "image": "/shards/animal_ruler.png"
+    },
+    {
+      "attributeId": "tiki_tracker",
+      "title": "&aSneaky Tiki Shard",
+      "tooltip": "&6Tiki Tracker I/&7Grants &d+0.5  Tracking &7towards &dWiki/&dTiki&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON COMBAT SHARD &8(ID U72)",
+      "image": "/shards/tiki_tracker.png"
+    },
+    {
+      "attributeId": "fiesta_fortune",
+      "title": "&aPackrat Shard",
+      "tooltip": "&6Fiesta Fortune I/&7Grants &6+5 &6 Gemstone Fortune &7while/&bMayor Cole's &6Mining Fiesta &7perk is/&7active.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U73)",
+      "image": "/shards/fiesta_fortune.png"
+    },
+    {
+      "attributeId": "construct_ruler",
+      "title": "&aShrieky Tiki Shard",
+      "tooltip": "&6Construct Ruler I/&7Grants &a+3% &7more &c Damage &7against/&7︎ Construct mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON COMBAT SHARD &8(ID U75)",
+      "image": "/shards/construct_ruler.png"
+    },
+    {
+      "attributeId": "helix_timber",
+      "title": "&aWoodpecker Shard",
+      "tooltip": "&6Helix Timber I/&7Grants &4+0.1  Timber &7on &6Helix Trees&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U76)",
+      "image": "/shards/helix_timber.png"
+    },
+    {
+      "attributeId": "mite_spawner",
+      "title": "&aHoneymite Shard",
+      "tooltip": "&6Mite Spawner I/&7Grants a &a+2.5% &7chance to spawn an/&7additional &dNest Endermite &7when mining/&5Ender Nodes&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON COMBAT SHARD &8(ID U78)",
+      "image": "/shards/mite_spawner.png"
+    },
+    {
+      "attributeId": "elusive_ruler",
+      "title": "&aQueen Ant Shard",
+      "tooltip": "&6Elusive Ruler I/&7Grants &a+3% &7more &c Damage &7against/&d Elusive &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U58)",
+      "image": "/shards/elusive_ruler.png"
+    },
+    {
+      "attributeId": "helix_collector",
+      "title": "&aHawk Shard",
+      "tooltip": "&6Helix Collector I/&7Grants &6+1  Helix Fortune&7 for/&7every digit in your Helix Log/&7collection. &8(Max 10M collection)//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U61)",
+      "image": "/shards/helix_collector.png"
+    },
+    {
+      "attributeId": "ticket_discount",
+      "title": "&aJune Bug Shard",
+      "tooltip": "&6Ticket Discount I/&7Upgrading &2Safari Tickets &7at the/&2Safari Manager &7costs &a+1% &7less/&2Forest Essence&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U85)",
+      "image": "/shards/ticket_discount.png"
+    },
+    {
+      "attributeId": "visitor_dung",
+      "title": "&aDung Beetle Shard",
+      "tooltip": "&6Visitor Dung I/&aGarden Visitors&7 have a &a+0.25%/&7chance to bring &aDung&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U64)",
+      "image": "/shards/visitor_dung.png"
+    },
+    {
+      "attributeId": "sprayonator_serendipity",
+      "title": "&aRat Shard",
+      "tooltip": "&6Sprayonator Serendipity I/&7Grants a &a+1% &7chance for &2 Pests &7to/&7drop an extra &2Sprayonator Material&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U91)",
+      "image": "/shards/sprayonator_serendipity.png"
+    },
+    {
+      "attributeId": "bonus_pest_chance",
+      "title": "&aKeeled Slug Shard",
+      "tooltip": "&6Bonus Pest Chance I/&7Grants &2+1  Bonus Pest Chance&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U94)",
+      "image": "/shards/bonus_pest_chance.png"
+    },
+    {
+      "attributeId": "filter_upgrade",
+      "title": "&aMite Shard",
+      "tooltip": "&6Filter Upgrade I/&7Increases the effects of your/&9Atmospheric Filter &7by &a+2%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U97)",
+      "image": "/shards/filter_upgrade.png"
+    },
+    {
+      "attributeId": "pest_cooldown",
+      "title": "&aMoth Shard",
+      "tooltip": "&6Pest Cooldown I/&7Reduces the spawn cooldown of &2/&2Pests &7by &a0.5s&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U100)",
+      "image": "/shards/pest_cooldown.png"
+    },
+    {
+      "attributeId": "enchanted_farmer",
+      "title": "&aMosquito Shard",
+      "tooltip": "&6Enchanted Farmer I/&7Grants a &a+0.001% &7chance to find an/&aEnchanted Crop &7while &6Farming&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U103)",
+      "image": "/shards/enchanted_farmer.png"
+    },
+    {
+      "attributeId": "legendary_rabbit_luck",
+      "title": "&aRabbit Cat Shard",
+      "tooltip": "&6Legendary Rabbit Luck I/&7Increases your chance of finding/&6&lLEGENDARY &7Rabbits during/&dHoppity's Hunt &7by &a+1%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 5&c./&a&lUNCOMMON FOREST SHARD &8(ID U106)",
+      "image": "/shards/legendary_rabbit_luck.png"
+    },
+    {
+      "attributeId": "forest_elemental",
+      "title": "&9Sylvan Shard",
+      "tooltip": "&6Forest Elemental I/&7Grants &c+2  Health&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R1)",
+      "image": "/shards/forest_elemental.png"
+    },
+    {
+      "attributeId": "torrent_elemental",
+      "title": "&9Cascade Shard",
+      "tooltip": "&6Torrent Elemental I/&7Grants &b+1  Intelligence&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&9&lRARE WATER SHARD &8(ID R2)",
+      "image": "/shards/torrent_elemental.png"
+    },
+    {
+      "attributeId": "lightning_elemental",
+      "title": "&9Bolt Shard",
+      "tooltip": "&6Lightning Elemental I/&7Grants &c+1  Strength&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R3)",
+      "image": "/shards/lightning_elemental.png"
+    },
+    {
+      "attributeId": "animal_expertise",
+      "title": "&9Bambloom Shard",
+      "tooltip": "&6Animal Expertise I/&7Grants &6+10  Foraging Fortune&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R4)",
+      "image": "/shards/animal_expertise.png"
+    },
+    {
+      "attributeId": "frog_legs",
+      "title": "&9Toad Shard",
+      "tooltip": "&6Frog Legs I/&7Frogs have a &a+10% &7chance to jump 1/&7less time.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R5)",
+      "image": "/shards/frog_legs.png"
+    },
+    {
+      "attributeId": "essence_of_ice",
+      "title": "&9Glacite Walker Shard",
+      "tooltip": "&6Essence of Ice I/&7Gain &a+1% &7more &bIce Essence&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R6)",
+      "image": "/shards/essence_of_ice.png"
+    },
+    {
+      "attributeId": "beacon_zealot",
+      "title": "&9Beaconmite Shard",
+      "tooltip": "&6Beacon Zealot I/&7The effects of &2Galatea's &7beacons/&7are &a+10% &7stronger on you. Gain a/&a+0.1% &7chance to find &6Signal/&6Enhancers &7in &2Tree Gifts&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R7)",
+      "image": "/shards/beacon_zealot.png"
+    },
+    {
+      "attributeId": "great_karma",
+      "title": "&9Lizard King Shard",
+      "tooltip": "&6Great Karma I/&7Grants &d+1  Hunter Fortune/&7towards &9&lRARE &7Attributes.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R8)",
+      "image": "/shards/great_karma.png"
+    },
+    {
+      "attributeId": "hunters_pressure",
+      "title": "&9Python Shard",
+      "tooltip": "&6Hunter's Pressure I/&7Your Black Holes capture creatures/&a+5% &7faster.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R9)",
+      "image": "/shards/hunters_pressure.png"
+    },
+    {
+      "attributeId": "fancy_visit",
+      "title": "&9Invisibug Shard",
+      "tooltip": "&6Fancy Visit I/&9&lRARE &7and above &aGarden Visitors/&7have a &a+1% &7higher chance to arrive.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R10)",
+      "image": "/shards/fancy_visit.png"
+    },
+    {
+      "attributeId": "moonglade_serendipity",
+      "title": "&9Piranha Shard",
+      "tooltip": "&6Moonglade Serendipity I/&7Increases the odds of finding rare/&7items in &2Tree Gifts &7at &2Moonglade/&2Marsh &7by &a+2%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R11)",
+      "image": "/shards/moonglade_serendipity.png"
+    },
+    {
+      "attributeId": "catacombs_box",
+      "title": "&9Hideongeon Shard",
+      "tooltip": "&6Catacombs Box I/&7Increases the quality of boss/&7rewards in &cThe Catacombs &7by &a+1&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R13)",
+      "image": "/shards/catacombs_box.png"
+    },
+    {
+      "attributeId": "bone_font",
+      "title": "&9Lapis Skeleton Shard",
+      "tooltip": "&6Bone Font I/&7Grants a &a+2% &7extra chance of/&7finding &aLevel 6+ &7books or higher in/&dSuperpairs&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R15)",
+      "image": "/shards/bone_font.png"
+    },
+    {
+      "attributeId": "crop_bug",
+      "title": "&9Beetle Shard",
+      "tooltip": "&6Crop Bug I/&7Grants &e+1  Overbloom &7which/&7increases your chances of dropping/&6&lRARE CROPS&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R16)",
+      "image": "/shards/crop_bug.png"
+    },
+    {
+      "attributeId": "undead_fortune",
+      "title": "&9Drowned Shard",
+      "tooltip": "&6Undead Fortune I/&7Grants &b+0.5 &b Magic Find &7against &2/&2Undead &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R18)",
+      "image": "/shards/undead_fortune.png"
+    },
+    {
+      "attributeId": "helix_sharpening",
+      "title": "&9Vulture Shard",
+      "tooltip": "&6Helix Sharpening I/&7Grants &2+15  Sweep &7towards Helix/&7Trees.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&7./&9&lRARE FOREST SHARD &8(ID R19)",
+      "image": "/shards/helix_sharpening.png"
+    },
+    {
+      "attributeId": "atomized_mithril",
+      "title": "&9Star Sentry Shard",
+      "tooltip": "&6Atomized Mithril I/&7Gain &a+1% &7extra &2Mithril Powder&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R21)",
+      "image": "/shards/atomized_mithril.png"
+    },
+    {
+      "attributeId": "kuudras_box",
+      "title": "&9Hideondra Shard",
+      "tooltip": "&6Kuudra's Box I/&7Gives &a+5%&7 chance to have an extra/&5Kuudra Teeth &7in the Paid Reward/&7Chest.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R22)",
+      "image": "/shards/kuudras_box.png"
+    },
+    {
+      "attributeId": "dwarven_serendipity",
+      "title": "&9Abyssal Lanternfish Shard",
+      "tooltip": "&6Dwarven Serendipity I/&7Increases the chance to find Golden/&7and Diamond Goblins by &a+10%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R23)",
+      "image": "/shards/dwarven_serendipity.png"
+    },
+    {
+      "attributeId": "essence_of_arthropods",
+      "title": "&9Arachne Shard",
+      "tooltip": "&6Essence of Arthropods I/&7Gain &a+1% &7more &5Spider Essence&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R24)",
+      "image": "/shards/essence_of_arthropods.png"
+    },
+    {
+      "attributeId": "cookie_eater",
+      "title": "&9Bitbug Shard",
+      "tooltip": "&6Cookie Eater I/&a5%&7 of your Booster Cookie &bBits &7are/&7gained up front.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R25)",
+      "image": "/shards/cookie_eater.png"
+    },
+    {
+      "attributeId": "essence_of_crimson",
+      "title": "&9Lava Leech Shard",
+      "tooltip": "&6Essence of Crimson I/&7Gain &a+1% &7more &cCrimson Essence&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R26)",
+      "image": "/shards/essence_of_crimson.png"
+    },
+    {
+      "attributeId": "essence_of_unliving",
+      "title": "&9Revenant Shard",
+      "tooltip": "&6Essence of Unliving I/&7Gain &a+1% &7more &4Undead Essence&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R27)",
+      "image": "/shards/essence_of_unliving.png"
+    },
+    {
+      "attributeId": "catacombs_cap",
+      "title": "&9Folf Shard",
+      "tooltip": "&6Catacombs Cap I/&7Increases your &f Speed Cap&7 by &a+5/&7while in &cThe Catacombs&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R28)",
+      "image": "/shards/catacombs_cap.png"
+    },
+    {
+      "attributeId": "crystal_serendipity",
+      "title": "&9Silentdepth Shard",
+      "tooltip": "&6Crystal Serendipity I/&6Treasure Chests&7 you find in the/&5Crystal Hollows&7 have a &a+1%&7 chance/&7to double their loot.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R29)",
+      "image": "/shards/crystal_serendipity.png"
+    },
+    {
+      "attributeId": "deadeye",
+      "title": "&9Skeletor Shard",
+      "tooltip": "&6Deadeye I/&7Increases damage from ranged/&7weapons by &a+2.5%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&9&lRARE COMBAT SHARD &8(ID R30)",
+      "image": "/shards/deadeye.png"
+    },
+    {
+      "attributeId": "atomized_crystals",
+      "title": "&9Thyst Shard",
+      "tooltip": "&6Atomized Crystals I/&7Gain &a+1% &7extra &dGemstone Powder&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R31)",
+      "image": "/shards/atomized_crystals.png"
+    },
+    {
+      "attributeId": "diamond_frog",
+      "title": "&9Seashine Shard",
+      "tooltip": "&6Diamond Frog I/&2Trophy Frogs &7are &a+0.5% &7more likely/&7to be &b&lDIAMOND&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R32)",
+      "image": "/shards/diamond_frog.png"
+    },
+    {
+      "attributeId": "quartz_speed",
+      "title": "&9Quartzfang Shard",
+      "tooltip": "&6Quartz Speed I/&7Grants &6+10  Mining Speed &7while any/&bWeather &7is active.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R33)",
+      "image": "/shards/quartz_speed.png"
+    },
+    {
+      "attributeId": "accessory_size",
+      "title": "&9Hideonring Shard",
+      "tooltip": "&6Accessory Size I/&7Grants &a+1 &7extra &aAccessory Bag/&7slots.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R34)",
+      "image": "/shards/accessory_size.png"
+    },
+    {
+      "attributeId": "winters_serendipity",
+      "title": "&9Snowfin Shard",
+      "tooltip": "&6Winter's Serendipity I/&7Increases the odds of finding rare/&7items in &fWinter Gifts &7by &a+2%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R35)",
+      "image": "/shards/winters_serendipity.png"
+    },
+    {
+      "attributeId": "lifeline",
+      "title": "&9Kada Knight Shard",
+      "tooltip": "&6Lifeline I/&7When under &c20% &7maximum HP, your &c/&cDamage &7and &a Defense &7increase by/&a+2.5%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&9&lRARE COMBAT SHARD &8(ID R36)",
+      "image": "/shards/lifeline.png"
+    },
+    {
+      "attributeId": "chop",
+      "title": "&9Hummingbird Shard",
+      "tooltip": "&6Chop I/&7Grants a &a+10% &7chance to Chop &aan/&aextra log&7, on top of the ones you/&7swept.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R37)",
+      "image": "/shards/chop.png"
+    },
+    {
+      "attributeId": "rabbit_crew",
+      "title": "&9Carrot King Shard",
+      "tooltip": "&6Rabbit Crew I/&7Your &6Chocolate Factory &7gains &a+5/&7more &6Chocolate &7per second.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R38)",
+      "image": "/shards/rabbit_crew.png"
+    },
+    {
+      "attributeId": "breeze",
+      "title": "&9Wither Spectre Shard",
+      "tooltip": "&6Breeze I/&7When you haven't been damaged in/&7the last &a5s &7or more, your mana/&7costs are decreased by &a+1%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&9&lRARE COMBAT SHARD &8(ID R39)",
+      "image": "/shards/breeze.png"
+    },
+    {
+      "attributeId": "battle_tracker",
+      "title": "&9Badger Shard",
+      "tooltip": "&6Battle Tracker I/&7Grants &d+0.5  Tracking &7while on/&cCombat Islands&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R40)",
+      "image": "/shards/battle_tracker.png"
+    },
+    {
+      "attributeId": "ignition",
+      "title": "&9Matcho Shard",
+      "tooltip": "&6Ignition I/&7Increases the duration of fire/&7damage that you inflict on enemies by/&a+30%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&9&lRARE COMBAT SHARD &8(ID R42)",
+      "image": "/shards/ignition.png"
+    },
+    {
+      "attributeId": "pretty_clothes",
+      "title": "&9Ladybug Shard",
+      "tooltip": "&6Pretty Clothes I/&7Gain &a+1%&7 more &cCopper &7from &aGarden/&aVisitors&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R43)",
+      "image": "/shards/pretty_clothes.png"
+    },
+    {
+      "attributeId": "extreme_pressure",
+      "title": "&9Lumisquid Shard",
+      "tooltip": "&6Extreme Pressure I/&7Grants &9+1  Pressure Resistance&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R44)",
+      "image": "/shards/extreme_pressure.png"
+    },
+    {
+      "attributeId": "pure_reptile",
+      "title": "&9Crocodile Shard",
+      "tooltip": "&6Pure Reptile I/&7Grants a &a+2% &7chance to double/&7shards from a Reptile Fusion.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R45)",
+      "image": "/shards/pure_reptile.png"
+    },
+    {
+      "attributeId": "animal_fortune",
+      "title": "&9Wild Hog Shard",
+      "tooltip": "&6Animal Fortune I/&7Grants &b+0.5  Magic Find &7against &a/&aAnimal &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R46)",
+      "image": "/shards/animal_fortune.png"
+    },
+    {
+      "attributeId": "berry_enjoyer",
+      "title": "&9Bullfrog Shard",
+      "tooltip": "&6Berry Enjoyer I/&7Berries have a &a+10%&7 chance to/&7grant you double points in &dStarlyn/&dContests&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R47)",
+      "image": "/shards/berry_enjoyer.png"
+    },
+    {
+      "attributeId": "essence_of_the_forest",
+      "title": "&9Dreadwing Shard",
+      "tooltip": "&6Essence of the Forest I/&7Gain &a+1% &7more &2Forest Essence&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R49)",
+      "image": "/shards/essence_of_the_forest.png"
+    },
+    {
+      "attributeId": "deep_diving",
+      "title": "&9Joydive Shard",
+      "tooltip": "&6Deep Diving I/&7Grants &3+5  Respiration&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R50)",
+      "image": "/shards/deep_diving.png"
+    },
+    {
+      "attributeId": "atomized_glacite",
+      "title": "&9Stalagmight Shard",
+      "tooltip": "&6Atomized Glacite I/&7Gain &a+1% &7extra &bGlacite Powder&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R51)",
+      "image": "/shards/atomized_glacite.png"
+    },
+    {
+      "attributeId": "fungy_luck",
+      "title": "&9Fungloom Shard",
+      "tooltip": "&6Fungy Luck I/&7Gain a &a+10% &7chance to gain an/&7additional Chisel &echarge &7upon/&7starting the &6Fossil Excavator&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R52)",
+      "image": "/shards/fungy_luck.png"
+    },
+    {
+      "attributeId": "eelastic",
+      "title": "&9Eel Shard",
+      "tooltip": "&6Eelastic I/&7Increase Pull by &b+1 &7when using your/&7Fishing Nets.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R53)",
+      "image": "/shards/eelastic.png"
+    },
+    {
+      "attributeId": "hunters_grasp",
+      "title": "&9King Cobra Shard",
+      "tooltip": "&6Hunter's Grasp I/&7Your Black Holes gain &d+1%  Hunter/&dFortune&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R54)",
+      "image": "/shards/hunters_grasp.png"
+    },
+    {
+      "attributeId": "critter_fortune",
+      "title": "&9Hewver Shard",
+      "tooltip": "&6Critter Fortune I/&7Grants &b+0.5  Magic Find &7against &a/&aCritter &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R55)",
+      "image": "/shards/critter_fortune.png"
+    },
+    {
+      "attributeId": "blazing_fortune",
+      "title": "&9Lava Flame Shard",
+      "tooltip": "&6Blazing Fortune I/&7Grants &b+1  Magic Find &7on &c/&cMagmatic &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&9&lRARE WATER SHARD &8(ID R56)",
+      "image": "/shards/blazing_fortune.png"
+    },
+    {
+      "attributeId": "essence_of_dragons",
+      "title": "&9Draconic Shard",
+      "tooltip": "&6Essence of Dragons I/&7Gain &a+1% &7more &5Dragon Essence&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R57)",
+      "image": "/shards/essence_of_dragons.png"
+    },
+    {
+      "attributeId": "battle_experience",
+      "title": "&9Falcon Shard",
+      "tooltip": "&6Battle Experience I/&7Pets gain &a+1%&7 more EXP from Combat.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R58)",
+      "image": "/shards/battle_experience.png"
+    },
+    {
+      "attributeId": "crimson_serendipity",
+      "title": "&9Inferno Koi Shard",
+      "tooltip": "&6Crimson Serendipity I/&7Increase the odds of finding a/&5Vanquisher &7by &a+2%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R59)",
+      "image": "/shards/crimson_serendipity.png"
+    },
+    {
+      "attributeId": "essence_of_wither",
+      "title": "&9Wither Shard",
+      "tooltip": "&6Essence of Wither I/&7Gain &a+1% &7more &8Wither Essence&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R60)",
+      "image": "/shards/essence_of_wither.png"
+    },
+    {
+      "attributeId": "echo_of_sharpening",
+      "title": "&9Gecko Shard",
+      "tooltip": "&6Echo of Sharpening I/&7Your Sharpening Attributes are &a+2%/&7stronger.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R61)",
+      "image": "/shards/echo_of_sharpening.png"
+    },
+    {
+      "attributeId": "construct_fortune",
+      "title": "&9Wiki Tiki Shard",
+      "tooltip": "&6Construct Fortune I/&7Grants &b+0.5  Magic Find &7on ︎/&7Construct mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R62)",
+      "image": "/shards/construct_fortune.png"
+    },
+    {
+      "attributeId": "mythological_fortune",
+      "title": "&9Minotaur Shard",
+      "tooltip": "&6Mythological Fortune I/&7Grants &b+0.5  Magic Find &7against &2/&2Mythological &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R63)",
+      "image": "/shards/mythological_fortune.png"
+    },
+    {
+      "attributeId": "cubic_fortune",
+      "title": "&9Hivethief Shard",
+      "tooltip": "&6Cubic Fortune I/&7Grants &b+0.5  Magic Find &7on &a/&aCubic &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R64)",
+      "image": "/shards/cubic_fortune.png"
+    },
+    {
+      "attributeId": "boot_fisher",
+      "title": "&9Maggot Shard",
+      "tooltip": "&6Boot Fisher I/&2Junk &7catches are &a+1% &7more likely to/&7be &d&lOUTSTANDING&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R65)",
+      "image": "/shards/boot_fisher.png"
+    },
+    {
+      "attributeId": "sleepy_spread",
+      "title": "&9Snoozle Shard",
+      "tooltip": "&6Sleepy Spread I/&7Grants &e+1  Mining Spread&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&7./&9&lRARE COMBAT SHARD &8(ID R66)",
+      "image": "/shards/sleepy_spread.png"
+    },
+    {
+      "attributeId": "flying_fortune",
+      "title": "&9Parakeet Shard",
+      "tooltip": "&6Flying Fortune I/&7Grants &b+0.5  Magic Find &7on /&7Airborne mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R67)",
+      "image": "/shards/flying_fortune.png"
+    },
+    {
+      "attributeId": "thunder_speed",
+      "title": "&9Thunder Shard",
+      "tooltip": "&6Thunder Speed I/&7Your &5Thunder&7, &5Storm&7, and &6Hurricane/&7Bottles fill &a+1% &7faster.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R68)",
+      "image": "/shards/thunder_speed.png"
+    },
+    {
+      "attributeId": "cavernous_tracker",
+      "title": "&9Rockmite Shard",
+      "tooltip": "&6Cavernous Tracker I/&7Grants &d+0.5  Tracking &7while on/&6Mining Islands&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R69)",
+      "image": "/shards/cavernous_tracker.png"
+    },
+    {
+      "attributeId": "floor_fortune",
+      "title": "&9Anteater Shard",
+      "tooltip": "&6Floor Fortune I/&7Grants a &a+0.1% &7chance to gain/&7double loot from &6Floor Drops&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R70)",
+      "image": "/shards/floor_fortune.png"
+    },
+    {
+      "attributeId": "scrap_chance",
+      "title": "&9Scrappy Shard",
+      "tooltip": "&6Scrap Chance I/&7Increases your chance of finding a/&9Suspicious Scrap &7while mining in the/&bGlacite Mineshafts &7by &a+1%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R72)",
+      "image": "/shards/scrap_chance.png"
+    },
+    {
+      "attributeId": "elusive_fortune",
+      "title": "&9Hideyho Shard",
+      "tooltip": "&6Elusive Fortune I/&7Grants &b+0.5  Magic Find &7on &d/&dElusive &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R73)",
+      "image": "/shards/elusive_fortune.png"
+    },
+    {
+      "attributeId": "great_treasure",
+      "title": "&9Mantis Shrimp Shard",
+      "tooltip": "&6Great Treasure I/&6Treasure &7catches are &a+1% &7more/&7likely to be &6&lGREAT&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R74)",
+      "image": "/shards/great_treasure.png"
+    },
+    {
+      "attributeId": "subterranean_fortune",
+      "title": "&9Chuckwalla Shard",
+      "tooltip": "&6Subterranean Fortune I/&7Grants &b+0.5  Magic Find &7on &6/&6Subterranean &7mobs//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R75)",
+      "image": "/shards/subterranean_fortune.png"
+    },
+    {
+      "attributeId": "woodland_fortune",
+      "title": "&9Hideonfloor Shard",
+      "tooltip": "&6Woodland Fortune I/&7Grants &b+0.5  Magic Find &7on &2/&2Woodlands &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R76)",
+      "image": "/shards/woodland_fortune.png"
+    },
+    {
+      "attributeId": "greedy_goblin",
+      "title": "&9Gimmiegold Shard",
+      "tooltip": "&6Greedy Goblin I/&7Your Goblin Pet gains &6+1  Ore/&6Fortune&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R77)",
+      "image": "/shards/greedy_goblin.png"
+    },
+    {
+      "attributeId": "frozen_fortune",
+      "title": "&9Billygoat Shard",
+      "tooltip": "&6Frozen Fortune I/&7Grants &b+0.5  Magic Find &7on &f/&fFrozen &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R78)",
+      "image": "/shards/frozen_fortune.png"
+    },
+    {
+      "attributeId": "arcane_fortune",
+      "title": "&9Hideonwall Shard",
+      "tooltip": "&6Arcane Fortune I/&7Grants &b+0.5  Magic Find &7on &5/&5Arcane &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4 &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R79)",
+      "image": "/shards/arcane_fortune.png"
+    },
+    {
+      "attributeId": "underwater_tracker",
+      "title": "&9Nozzlenose Shard",
+      "tooltip": "&6Underwater Tracker I/&7Grants &d+0.5  Tracking &7while on/&bFishing Islands&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R80)",
+      "image": "/shards/underwater_tracker.png"
+    },
+    {
+      "attributeId": "refined_luck",
+      "title": "&9Stoneworm Shard",
+      "tooltip": "&6Refined Luck I/&7Increases your chance of finding/&9Refined Minerals &7during &6Mining/&6Fiestas &7by &a+1%&7. Effects are/&adoubled &7if you have a &6Fiesta Flask/&7active!//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R81)",
+      "image": "/shards/refined_luck.png"
+    },
+    {
+      "attributeId": "foraging_tracker",
+      "title": "&9Fluffling Shard",
+      "tooltip": "&6Foraging Tracker I/&7Grants &d+0.5  Tracking &7while on/&2Foraging Islands&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R82)",
+      "image": "/shards/foraging_tracker.png"
+    },
+    {
+      "attributeId": "torrhus_serendipity",
+      "title": "&9Stingray Shard",
+      "tooltip": "&6Torrhus Serendipity I/&7Increases the odds of finding rare/&7items in &2Tree Gifts &7at &6Torrhus/&6Canyon &7by &a+2%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R83)",
+      "image": "/shards/torrhus_serendipity.png"
+    },
+    {
+      "attributeId": "mutation_serendipity",
+      "title": "&9Zombuddy Shard",
+      "tooltip": "&6Mutation Serendipity I/&7Mutations have a &a+0.1% &7chance to/&7instantly re-mutate at their first/&7growth phase when harvested.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R84)",
+      "image": "/shards/mutation_serendipity.png"
+    },
+    {
+      "attributeId": "forest_serendipity",
+      "title": "&9Puck Shard",
+      "tooltip": "&6Forest Serendipity I/&7Grants a &a+0.1% &7chance for &2Tree/&2Gifts &7to contain double loot.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R85)",
+      "image": "/shards/forest_serendipity.png"
+    },
+    {
+      "attributeId": "essence_of_fossils",
+      "title": "&9Troodon Shard",
+      "tooltip": "&6Essence of Fossils I/&7Gain &a+1% &7more &6Fossil Essence&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R86)",
+      "image": "/shards/essence_of_fossils.png"
+    },
+    {
+      "attributeId": "arthropod_fortune",
+      "title": "&9Black Widow Shard",
+      "tooltip": "&6Arthropod Fortune I/&7Grants &b+0.5  Magic Find &7against &4/&4Arthropod &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE COMBAT SHARD &8(ID R87)",
+      "image": "/shards/arthropod_fortune.png"
+    },
+    {
+      "attributeId": "atomized_whispers",
+      "title": "&9Pangolin Shard",
+      "tooltip": "&6Atomized Whispers I/&7Gain &a+1% &7extra &3Whispers&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R88)",
+      "image": "/shards/atomized_whispers.png"
+    },
+    {
+      "attributeId": "aquatic_fortune",
+      "title": "&9Giant Water Bug Shard",
+      "tooltip": "&6Aquatic Fortune I/&7Grants &b+0.5  Magic Find &7against &9/&9Aquatic &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R89)",
+      "image": "/shards/aquatic_fortune.png"
+    },
+    {
+      "attributeId": "rekindle",
+      "title": "&9Murkbat Shard",
+      "tooltip": "&6Rekindle I/&7Killing a Bat has a &a+10% &7chance to/&7add 1 Bonus Score to your Dungeon/&7Run.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R91)",
+      "image": "/shards/rekindle.png"
+    },
+    {
+      "attributeId": "echo_of_buckets",
+      "title": "&9Goldolot Shard",
+      "tooltip": "&6Echo of Buckets I/&7Your &quot;Bucket&quot; Attributes are &a+2%/&7stronger.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R86)",
+      "image": "/shards/echo_of_buckets.png"
+    },
+    {
+      "attributeId": "mythic_rabbit_luck",
+      "title": "&9Rabbit Neighbor Shard",
+      "tooltip": "&6Mythic Rabbit Luck I/&7Increases your chance of finding/&d&lMYTHIC &7Rabbits during &dHoppity's/&dHunt &7by &a+1%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to move to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R94)",
+      "image": "/shards/mythic_rabbit_luck.png"
+    },
+    {
+      "attributeId": "first_sweep",
+      "title": "&9Torrid Shard",
+      "tooltip": "&6First Sweep I/&7Your first &2 Sweep &7on each &aTree &7is/&2+1% &7more effective.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE WATER SHARD &8(ID R95)",
+      "image": "/shards/first_sweep.png"
+    },
+    {
+      "attributeId": "axe_cooldown",
+      "title": "&9Drybark Shard",
+      "tooltip": "&6Axe Cooldown I/&7Reduces the cooldown of throwing/&7your &2Axe &7by &a+1%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 10&c./&9&lRARE FOREST SHARD &8(ID R97)",
+      "image": "/shards/axe_cooldown.png"
+    },
+    {
+      "attributeId": "earth_elemental",
+      "title": "&5Terra Shard",
+      "tooltip": "&6Earth Elemental I/&7Grants &c+2  Health&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC FOREST SHARD &8(ID E1)",
+      "image": "/shards/earth_elemental.png"
+    },
+    {
+      "attributeId": "frost_elemental",
+      "title": "&5Cryo Shard",
+      "tooltip": "&6Frost Elemental I/&7Grants &b+1  Intelligence&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&5&lEPIC WATER SHARD &8(ID E2)",
+      "image": "/shards/frost_elemental.png"
+    },
+    {
+      "attributeId": "wind_elemental",
+      "title": "&5Aero Shard",
+      "tooltip": "&6Wind Elemental I/&7Grants &c+1  Strength&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC COMBAT SHARD &8(ID E3)",
+      "image": "/shards/wind_elemental.png"
+    },
+    {
+      "attributeId": "foraging_wisdom",
+      "title": "&5Pandarai Shard",
+      "tooltip": "&6Foraging Wisdom I/&7Grants &3+0.5 ☯ Foraging Wisdom&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC FOREST SHARD &8(ID E4)",
+      "image": "/shards/foraging_wisdom.png"
+    },
+    {
+      "attributeId": "excellent_karma",
+      "title": "&5Leviathan Shard",
+      "tooltip": "&6Excellent Karma I/&7Grants &d+1  Hunter Fortune/&7towards &5&lEPIC &7Attributes.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC WATER SHARD &8(ID E5)",
+      "image": "/shards/excellent_karma.png"
+    },
+    {
+      "attributeId": "echo_of_resistance",
+      "title": "&5Alligator Shard",
+      "tooltip": "&6Echo of Resistance I/&7Your Resistance Attributes are &a+2%/&7stronger.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC COMBAT SHARD &8(ID E6)",
+      "image": "/shards/echo_of_resistance.png"
+    },
+    {
+      "attributeId": "berry_mogul",
+      "title": "&5Fenlord Shard",
+      "tooltip": "&6Berry Mogul I/&7Your Salts last &a+1%&7 longer.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC FOREST SHARD &8(ID E7)",
+      "image": "/shards/berry_mogul.png"
+    },
+    {
+      "attributeId": "pickaxe_cooldown",
+      "title": "&5Abyssal Miner Shard",
+      "tooltip": "&6Pickaxe Cooldown I/&7Reduces the cooldown of your/&ePickaxe Ability &7by &a+1%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC WATER SHARD &8(ID E8)",
+      "image": "/shards/pickaxe_cooldown.png"
+    },
+    {
+      "attributeId": "hunters_suppress",
+      "title": "&5Basilisk Shard",
+      "tooltip": "&6Hunter's Suppress I/&7Lassos deplete Stamina &a+2% &7faster.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC COMBAT SHARD &8(ID E9)",
+      "image": "/shards/hunters_suppress.png"
+    },
+    {
+      "attributeId": "echo_of_atomized",
+      "title": "&5Iguana Shard",
+      "tooltip": "&6Echo of Atomized I/&7Your Atomized Attributes are &a+2%/&7stronger.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC FOREST SHARD &8(ID E10)",
+      "image": "/shards/echo_of_atomized.png"
+    },
+    {
+      "attributeId": "lucky_rod",
+      "title": "&5Moray Eel Shard",
+      "tooltip": "&6Lucky Rod I/&7Fish Treasure Shards are &a+1%/&7easier to find.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC WATER SHARD &8(ID E11)",
+      "image": "/shards/lucky_rod.png"
+    },
+    {
+      "attributeId": "special_upgrades",
+      "title": "&5Special Zealot Shard",
+      "tooltip": "&6Special Upgrades I/&5Summoning Eyes &7you drop have a/&a+0.5% &7chance to be recombobulated./&8Placing recombobulated Summoning/&8Eyes increases your chance of/&8spawning a Superior Dragon.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC COMBAT SHARD &8(ID E12)",
+      "image": "/shards/special_upgrades.png"
+    },
+    {
+      "attributeId": "lunar_power",
+      "title": "&5Lunar Moth Shard",
+      "tooltip": "&6Lunar Power I/&7Grants &6+5  Farming Fortune&7 during/&7the night.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC FOREST SHARD &8(ID E13)",
+      "image": "/shards/lunar_power.png"
+    },
+    {
+      "attributeId": "trophy_hunter",
+      "title": "&5Fire Eel Shard",
+      "tooltip": "&6Trophy Hunter I/&7Grants &6+2  Trophy Chance&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&5&lEPIC WATER SHARD &8(ID E14)",
+      "image": "/shards/trophy_hunter.png"
+    },
+    {
+      "attributeId": "deep_technique",
+      "title": "&5Bal Shard",
+      "tooltip": "&6Deep Technique I/&7Each block you mine has a &a+1%/&7chance to grant 1 extra &5 Pristine/&7for that block.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC COMBAT SHARD &8(ID E15)",
+      "image": "/shards/deep_technique.png"
+    },
+    {
+      "attributeId": "sack_size",
+      "title": "&5Hideonsack Shard",
+      "tooltip": "&6Sack Size I/&7Your sacks can hold &a+1% &7more items.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC FOREST SHARD &8(ID E16)",
+      "image": "/shards/sack_size.png"
+    },
+    {
+      "attributeId": "fishing_speed",
+      "title": "&5Water Hydra Shard",
+      "tooltip": "&6Fishing Speed I/&7Grants &b+3  Fishing Speed&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&5&lEPIC WATER SHARD &8(ID E17)",
+      "image": "/shards/fishing_speed.png"
+    },
+    {
+      "attributeId": "infernal_ruler",
+      "title": "&5Flare Shard",
+      "tooltip": "&6Infernal Ruler I/&7Grants &a+3% &7more &c Damage &7against/&4 Infernal &7mobs.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&5&lEPIC COMBAT SHARD &8(ID E18)",
+      "image": "/shards/infernal_ruler.png"
+    },
+    {
+      "attributeId": "sky_high",
+      "title": "&5Murderwing Shard",
+      "tooltip": "&6Sky High I/&7Increases the distance you can fall/&7before taking fall damage by &a+0.5/&7blocks.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC FOREST SHARD &8(ID E19)",
+      "image": "/shards/sky_high.png"
+    },
+    {
+      "attributeId": "sea_wisdom",
+      "title": "&5Loch Emperor Shard",
+      "tooltip": "&6Sea Wisdom I/&7Grants &3+0.5 ☯ Fishing Wisdom&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&5&lEPIC WATER SHARD &8(ID E20)",
+      "image": "/shards/sea_wisdom.png"
+    },
+    {
+      "attributeId": "reborn",
+      "title": "&5Prince Shard",
+      "tooltip": "&6Reborn I/&7Killing a Prince has a &a+10%&7 chance to/&7add 1 Bonus Score to your Dungeon/&7Run./&8Limit of +1 Score per run//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC COMBAT SHARD &8(ID E21)",
+      "image": "/shards/reborn.png"
+    },
+    {
+      "attributeId": "echo_of_essence",
+      "title": "&5Komodo Dragon Shard",
+      "tooltip": "&6Echo of Essence I/&7Your Essence Attributes are &a+2%/&7stronger.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC FOREST SHARD &8(ID E22)",
+      "image": "/shards/echo_of_essence.png"
+    },
+    {
+      "attributeId": "outstanding_fisher",
+      "title": "&5Blue Crab Shard",
+      "tooltip": "&6Outstanding Fisher I/&6Treasure &7catches are &a+1% &7more/&7likely to be &d&lOUTSTANDING&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC WATER SHARD &8(ID E23)",
+      "image": "/shards/outstanding_fisher.png"
+    },
+    {
+      "attributeId": "faker",
+      "title": "&5Mimic Shard",
+      "tooltip": "&6Faker I/&7Dungeon Blessings are &a+1% &7stronger/&7on you.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC COMBAT SHARD &8(ID E24)",
+      "image": "/shards/faker.png"
+    },
+    {
+      "attributeId": "slayer_progress",
+      "title": "&5Wolverine Shard",
+      "tooltip": "&6Slayer Progress I/&4Slayer Quests &7start &a+1% &7complete.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC FOREST SHARD &8(ID E25)",
+      "image": "/shards/slayer_progress.png"
+    },
+    {
+      "attributeId": "shell",
+      "title": "&5Shellwise Shard",
+      "tooltip": "&6Shell I/&7Gain a &a+10%&7 chance to negate/&7knockback.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC WATER SHARD &8(ID E26)",
+      "image": "/shards/shell.png"
+    },
+    {
+      "attributeId": "warrior",
+      "title": "&5Barbarian Duke X Shard",
+      "tooltip": "&6Warrior I/&7Increases melee damage dealt by/&a+2.5%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&5&lEPIC COMBAT SHARD &8(ID E27)",
+      "image": "/shards/warrior.png"
+    },
+    {
+      "attributeId": "why_not_more",
+      "title": "&5Toucan Shard",
+      "tooltip": "&6Why Not More I/&7Your pet's EXP Share grants &a+1%/&7more EXP.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC FOREST SHARD &8(ID E28)",
+      "image": "/shards/why_not_more.png"
+    },
+    {
+      "attributeId": "echo_of_ruler",
+      "title": "&5Caiman Shard",
+      "tooltip": "&6Echo of Ruler I/&7Your Ruler Attributes are &a+2%/&7stronger.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC COMBAT SHARD &8(ID E30)",
+      "image": "/shards/echo_of_ruler.png"
+    },
+    {
+      "attributeId": "solar_power",
+      "title": "&5Firefly Shard",
+      "tooltip": "&6Solar Power I/&7Grants &6+5  Farming Fortune &7during/&7the day.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC FOREST SHARD &8(ID E31)",
+      "image": "/shards/solar_power.png"
+    },
+    {
+      "attributeId": "echo_of_hunter",
+      "title": "&5Sea Serpent Shard",
+      "tooltip": "&6Echo of Hunter I/&7Your Hunter Attributes are &a+2%/&7stronger.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC WATER SHARD &8(ID E32)",
+      "image": "/shards/echo_of_hunter.png"
+    },
+    {
+      "attributeId": "veil",
+      "title": "&5Ghost Shard",
+      "tooltip": "&6Veil I/&7Grants &f+1  True Defense&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC COMBAT SHARD &8(ID E33)",
+      "image": "/shards/veil.png"
+    },
+    {
+      "attributeId": "mana_regeneration",
+      "title": "&5XYZ Shard",
+      "tooltip": "&6Mana Regeneration I/&7Increases your Mana regeneration/&7by &a+1%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&5&lEPIC FOREST SHARD &8(ID E34)",
+      "image": "/shards/mana_regeneration.png"
+    },
+    {
+      "attributeId": "hunt_wisdom",
+      "title": "&5Leatherback Shard",
+      "tooltip": "&6Hunt Wisdom I/&7Grants &3+0.5 ☯ Hunting Wisdom&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC WATER SHARD &8(ID E35)",
+      "image": "/shards/hunt_wisdom.png"
+    },
+    {
+      "attributeId": "cavern_wisdom",
+      "title": "&5Cavernshade Shard",
+      "tooltip": "&6Cavern Wisdom I/&7Grants &3+0.5 ☯ Mining Wisdom&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC COMBAT SHARD &8(ID E36)",
+      "image": "/shards/cavern_wisdom.png"
+    },
+    {
+      "attributeId": "garden_wisdom",
+      "title": "&5Dragonfly Shard",
+      "tooltip": "&6Garden Wisdom I/&7Grants &3+0.5 ☯ Farming Wisdom&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC FOREST SHARD &8(ID E37)",
+      "image": "/shards/garden_wisdom.png"
+    },
+    {
+      "attributeId": "mythological_tracker",
+      "title": "&5Sphinx Shard",
+      "tooltip": "&6Mythological Tracker I/&7Grants &d+0.5  Tracking &7on &eGriffin/&eBurrows&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC COMBAT SHARD &8(ID E39)",
+      "image": "/shards/mythological_tracker.png"
+    },
+    {
+      "attributeId": "king_of_greed",
+      "title": "&5King Minos Shard",
+      "tooltip": "&6King of Greed I/&7Increases &6Coin &7gain from &eGriffin/&eBurrows &7by &a+2.5%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC COMBAT SHARD &8(ID E42)",
+      "image": "/shards/king_of_greed.png"
+    },
+    {
+      "attributeId": "ghastly_distraction",
+      "title": "&5Dive Ghast Shard",
+      "tooltip": "&6Ghastly Distraction I/&7Pacifies enemies for &a+1s &7after mining/&fOpal Gemstones &7in the &cSmoldering/&cTomb&7./&8Does not work on Slayer Bosses,/&8Slayer Minibosses. Attacking an/&8enemy ends the effect early.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC FOREST SHARD &8(ID E43)",
+      "image": "/shards/ghastly_distraction.png"
+    },
+    {
+      "attributeId": "foragers_fortune",
+      "title": "&5Silkbreeze Shard",
+      "tooltip": "&6Forager's Fortune I/&7Grants &b+0.5  Magic Find &7while on/&2Foraging Islands&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC WATER SHARD &8(ID E44)",
+      "image": "/shards/foragers_fortune.png"
+    },
+    {
+      "attributeId": "devouring_spread",
+      "title": "&5Gemzie Shard",
+      "tooltip": "&6Devouring Spread I/&7Grants &e+0.25  Gemstone Spread&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC COMBAT SHARD &8(ID E45)",
+      "image": "/shards/devouring_spread.png"
+    },
+    {
+      "attributeId": "divine_rabbit_luck",
+      "title": "&5Rabbit Godmother Shard",
+      "tooltip": "&6Divine Rabbit Luck I/&7Increases your chance of finding/&b&lDIVINE &7Rabbits during &dHoppity's/&dHunt &7by &a+1%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC FOREST SHARD &8(ID E46)",
+      "image": "/shards/divine_rabbit_luck.png"
+    },
+    {
+      "attributeId": "fishers_fortune",
+      "title": "&5Giant Isopod Shard",
+      "tooltip": "&6Fisher's Fortune I/&7Grants &b+0.5  Magic Find &7while on/&2Fishing Islands&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC WATER SHARD &8(ID E47)",
+      "image": "/shards/fishers_fortune.png"
+    },
+    {
+      "attributeId": "attack_speed",
+      "title": "&5Inferno Demonlord Shard",
+      "tooltip": "&6Attack Speed I/&7Grants &e+1  Attack Speed&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC COMBAT SHARD &8(ID E48)",
+      "image": "/shards/attack_speed.png"
+    },
+    {
+      "attributeId": "honey_refill",
+      "title": "&5Queen Bee Shard",
+      "tooltip": "&6Honey Refill I/&6Honeyhives &7have a &a+0.5% &7chance to/&7refill instantly.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC FOREST SHARD &8(ID E49)",
+      "image": "/shards/honey_refill.png"
+    },
+    {
+      "attributeId": "catacombs_explorer",
+      "title": "&5Bonzo Shard",
+      "tooltip": "&6Catacombs Explorer I/&7Grants &a+1% &7more &cCatacombs XP&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC COMBAT SHARD &8(ID E51)",
+      "image": "/shards/catacombs_explorer.png"
+    },
+    {
+      "attributeId": "lathering_greed",
+      "title": "&5Beeheemoth Shard",
+      "tooltip": "&6Lathering Greed I/&7Gain &a+10% &7more &6Honeycomb &7from/&7hunting mobs spawned from &aTrees/&7lathered with &6Honeycomb&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC FOREST SHARD &8(ID E52)",
+      "image": "/shards/lathering_greed.png"
+    },
+    {
+      "attributeId": "catacombs_graduate",
+      "title": "&5Scarf Shard",
+      "tooltip": "&6Catacombs Graduate I/&7Gain &a+2% &7more &cDungeons &7class/&7experience.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&5&lEPIC COMBAT SHARD &8(ID E54)",
+      "image": "/shards/catacombs_graduate.png"
+    },
+    {
+      "attributeId": "dominance",
+      "title": "&5Thorn Shard",
+      "tooltip": "&6Dominance I/&7Gain &a+1.5% &7more &c Damage &7when at/&7full health.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&5&lEPIC COMBAT SHARD &8(ID E57)",
+      "image": "/shards/dominance.png"
+    },
+    {
+      "attributeId": "social_wisdom",
+      "title": "&5Mountain Goat Shard",
+      "tooltip": "&6Social Wisdom I/&7Grants &3+0.5 ☯ Social Wisdom&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC FOREST SHARD &8(ID E58)",
+      "image": "/shards/social_wisdom.png"
+    },
+    {
+      "attributeId": "glossy_fortune",
+      "title": "&5Scatha Shard",
+      "tooltip": "&6Glossy Fortune I/&7Increases your chance of finding/&5Glossy Gemstones &7during &6Mining/&6Fiestas &7by &a+1%&7. Effects are/&adoubled &7if you have a &6Fiesta Flask/&7active!//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC COMBAT SHARD &8(ID E60)",
+      "image": "/shards/glossy_fortune.png"
+    },
+    {
+      "attributeId": "royal_riches",
+      "title": "&5Nilbog Shard",
+      "tooltip": "&6Royal Riches I/&7Grants &6+5  Mining Speed &7and &6+2.5/&6 Ore Fortune &7while in the &2Mines of/&2Divan&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC COMBAT SHARD &8(ID E63)",
+      "image": "/shards/royal_riches.png"
+    },
+    {
+      "attributeId": "freezing_spread",
+      "title": "&5Littlefoot Shard",
+      "tooltip": "&6Freezing Spread I/&7Grants &e+0.5  Gemstone Spread &7for/&7every &b+29  Cold Resistance &7you/&7have while in the &bGlacite Mineshafts&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 15&c./&5&lEPIC COMBAT SHARD &8(ID E66)",
+      "image": "/shards/freezing_spread.png"
+    },
+    {
+      "attributeId": "shadow_elemental",
+      "title": "&6Tenebris Shard",
+      "tooltip": "&6Shadow Elemental I/&7Grants &c+2  Health&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY FOREST SHARD &8(ID L1)",
+      "image": "/shards/shadow_elemental.png"
+    },
+    {
+      "attributeId": "snow_elemental",
+      "title": "&6Blizzard Shard",
+      "tooltip": "&6Snow Elemental I/&7Grants &b+1  Intelligence&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&6&lLEGENDARY WATER SHARD &8(ID L2)",
+      "image": "/shards/snow_elemental.png"
+    },
+    {
+      "attributeId": "storm_elemental",
+      "title": "&6Tempest Shard",
+      "tooltip": "&6Storm Elemental I/&7Grants &c+1  Strength&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&6&lLEGENDARY COMBAT SHARD &8(ID L3)",
+      "image": "/shards/storm_elemental.png"
+    },
+    {
+      "attributeId": "reptiloid",
+      "title": "&6Chameleon Shard",
+      "tooltip": "&6Reptiloid I/&7Fusing a Chameleon with a Shard/&7grants the next 3 Shards from that/&7Shard’s ID line as a result.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&6&lLEGENDARY FOREST SHARD &8(ID L4)",
+      "image": "/shards/reptiloid.png"
+    },
+    {
+      "attributeId": "loch_hook",
+      "title": "&6Nessie Shard",
+      "tooltip": "&6Loch Hook I/&7Grants &9+0.5  Double Hook Chance/&7while on &2Foraging Islands&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY WATER SHARD &8(ID L5)",
+      "image": "/shards/loch_hook.png"
+    },
+    {
+      "attributeId": "echo_of_echoes",
+      "title": "&6Tiamat Shard",
+      "tooltip": "&6Echo of Echoes I/&7Your &quot;Echo&quot; Attributes are &a+5%/&7stronger.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY COMBAT SHARD &8(ID L6)",
+      "image": "/shards/echo_of_echoes.png"
+    },
+    {
+      "attributeId": "echo_of_wisdom",
+      "title": "&6Wyvern Shard",
+      "tooltip": "&6Echo of Wisdom I/&7Your Wisdom Attributes are &a+2%/&7stronger.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY FOREST SHARD &8(ID L7)",
+      "image": "/shards/echo_of_wisdom.png"
+    },
+    {
+      "attributeId": "cloak_improvement",
+      "title": "&6Tortoise Shard",
+      "tooltip": "&6Cloak Improvement I/&7Your &fDavid's Cloak &7gains &f+1  True/&fDefense&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY WATER SHARD &8(ID L8)",
+      "image": "/shards/cloak_improvement.png"
+    },
+    {
+      "attributeId": "unlimited_fortitude",
+      "title": "&6End Stone Protector Shard",
+      "tooltip": "&6Unlimited Fortitude I/&7Your &a Defense &7is increased by/&a+0.2%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&6&lLEGENDARY COMBAT SHARD &8(ID L9)",
+      "image": "/shards/unlimited_fortitude.png"
+    },
+    {
+      "attributeId": "egg_finder",
+      "title": "&6Rabbit Godfather Shard",
+      "tooltip": "&6Egg Finder I/&7Finds a &cHitman Egg &7every &a750s/&7during &dHoppity's Hunt&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY FOREST SHARD &8(ID L10)",
+      "image": "/shards/egg_finder.png"
+    },
+    {
+      "attributeId": "charmed",
+      "title": "&6Naga Shard",
+      "tooltip": "&6Charmed I/&7Grants &b+0.05 ❣ Charm Chance&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY WATER SHARD &8(ID L11)",
+      "image": "/shards/charmed.png"
+    },
+    {
+      "attributeId": "book_wisdom",
+      "title": "&6Lapis Creeper Shard",
+      "tooltip": "&6Book Wisdom I/&7Grants &3+0.5 ☯ Enchanting Wisdom&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY COMBAT SHARD &8(ID L12)",
+      "image": "/shards/book_wisdom.png"
+    },
+    {
+      "attributeId": "wart_eater",
+      "title": "&6Wartybug Shard",
+      "tooltip": "&6Wart Eater I/&7Grants a &a+0.01% &7chance to obtain a/&5Warty &7when breaking Nether Warts.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY FOREST SHARD &8(ID L13)",
+      "image": "/shards/wart_eater.png"
+    },
+    {
+      "attributeId": "payback",
+      "title": "&6Spike Shard",
+      "tooltip": "&6Payback I/&7When hit, your next hit deals &a+2%/&7damage//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY WATER SHARD &8(ID L14)",
+      "image": "/shards/payback.png"
+    },
+    {
+      "attributeId": "vitality",
+      "title": "&6Kraken Shard",
+      "tooltip": "&6Vitality I/&7Grants &4+1  Vitality&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&6&lLEGENDARY COMBAT SHARD &8(ID L15)",
+      "image": "/shards/vitality.png"
+    },
+    {
+      "attributeId": "unlimited_torment",
+      "title": "&6Taurus Shard",
+      "tooltip": "&6Unlimited Torment I/&7Your &b Intelligence &7is increased by/&b+0.1%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY WATER SHARD &8(ID L17)",
+      "image": "/shards/unlimited_torment.png"
+    },
+    {
+      "attributeId": "pity",
+      "title": "&6Daemon Shard",
+      "tooltip": "&6Pity I/&7Your &dRNG Meter &7fills &a+1% &7faster.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY COMBAT SHARD &8(ID L18)",
+      "image": "/shards/pity.png"
+    },
+    {
+      "attributeId": "star_bait",
+      "title": "&6Moltenfish Shard",
+      "tooltip": "&6Star Bait I/&7Grants a &a+0.1% &7chance to fish a/&7Shinyfish.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY WATER SHARD &8(ID L20)",
+      "image": "/shards/star_bait.png"
+    },
+    {
+      "attributeId": "echo_of_tracking",
+      "title": "&6Doomspiral Shard",
+      "tooltip": "&6Echo of Tracking I/&7Your &quot;Tracker&quot; Attributes are &a+2%/&7stronger.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY COMBAT SHARD &8(ID L21)",
+      "image": "/shards/echo_of_tracking.png"
+    },
+    {
+      "attributeId": "splendor",
+      "title": "&6Macaw Shard",
+      "tooltip": "&6Splendor I/&7Grants a &6+2.5%&7 chance to get a/&7bonus &5Rainbow Feather&7 when &ehunting/&7a &6&lSPARKLING &a Critter&7 in the/&2Critter Safari&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY FOREST SHARD &8(ID L22)",
+      "image": "/shards/splendor.png"
+    },
+    {
+      "attributeId": "help_from_above",
+      "title": "&6Shinyfish Shard",
+      "tooltip": "&6Help From Above I/&7Grants &c+1.25  Health Regen&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&6&lLEGENDARY WATER SHARD &8(ID L23)",
+      "image": "/shards/help_from_above.png"
+    },
+    {
+      "attributeId": "wings_of_destiny",
+      "title": "&6Ananke Shard",
+      "tooltip": "&6Wings of Destiny I/&7Increases the odds of finding/&9Ananke Feathers &7by &a+2%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY COMBAT SHARD &8(ID L24)",
+      "image": "/shards/wings_of_destiny.png"
+    },
+    {
+      "attributeId": "tuning_box",
+      "title": "&6Hideonbox Shard",
+      "tooltip": "&6Tuning Box I/&7Grants &a+1 &7Tuning Points.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY FOREST SHARD &8(ID L25)",
+      "image": "/shards/tuning_box.png"
+    },
+    {
+      "attributeId": "crimson_hook",
+      "title": "&6Lord Jawbus Shard",
+      "tooltip": "&6Crimson Hook I/&7Grants &9+0.5  Double Hook Chance/&7while on &cCombat Islands&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&6&lLEGENDARY WATER SHARD &8(ID L26)",
+      "image": "/shards/crimson_hook.png"
+    },
+    {
+      "attributeId": "matriarch_cubs",
+      "title": "&6Hellwisp Shard",
+      "tooltip": "&6Matriarch Cubs I/&7Grants a &a+2% &7chance to get a/&7second &6Heavy Pearl&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY COMBAT SHARD &8(ID L27)",
+      "image": "/shards/matriarch_cubs.png"
+    },
+    {
+      "attributeId": "magic_find",
+      "title": "&6Cinderbat Shard",
+      "tooltip": "&6Magic Find I/&7Grants &b+0.5  Magic Find&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&6&lLEGENDARY FOREST SHARD &8(ID L28)",
+      "image": "/shards/magic_find.png"
+    },
+    {
+      "attributeId": "hunters_karma",
+      "title": "&6Megalith Shard",
+      "tooltip": "&6Hunter's Karma I/&7Grants &d+1  Hunter Fortune&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY WATER SHARD &8(ID L29)",
+      "image": "/shards/hunters_karma.png"
+    },
+    {
+      "attributeId": "elite",
+      "title": "&6Power Dragon Shard",
+      "tooltip": "&6Elite I/&7Grants &a+3% &7more &c Damage &7against/&abosses &7and &amini-bosses&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&6&lLEGENDARY COMBAT SHARD &8(ID L30)",
+      "image": "/shards/elite.png"
+    },
+    {
+      "attributeId": "pet_wisdom",
+      "title": "&6Condor Shard",
+      "tooltip": "&6Pet Wisdom I/&7Grants &3+0.5 ☯ Taming Wisdom&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY FOREST SHARD &8(ID L31)",
+      "image": "/shards/pet_wisdom.png"
+    },
+    {
+      "attributeId": "starborn",
+      "title": "&6Sun Fish Shard",
+      "tooltip": "&6Starborn I/&7The effect of &dStarborn Temples &7is/&a+1% &7stronger on you.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY WATER SHARD &8(ID L32)",
+      "image": "/shards/starborn.png"
+    },
+    {
+      "attributeId": "veteran",
+      "title": "&6Apex Dragon Shard",
+      "tooltip": "&6Veteran I/&7Grants &3+1 ☯ Combat Wisdom&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&6&lLEGENDARY COMBAT SHARD &8(ID L33)",
+      "image": "/shards/veteran.png"
+    },
+    {
+      "attributeId": "tracking",
+      "title": "&6Dodo Shard",
+      "tooltip": "&6Tracking I/&7Grants &d+0.5  Tracking&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY FOREST SHARD &8(ID L34)",
+      "image": "/shards/tracking.png"
+    },
+    {
+      "attributeId": "queenly_echo",
+      "title": "&6Queen Snake Shard",
+      "tooltip": "&6Queenly Echo I/&7Your &quot;Visitor&quot; Attributes are &a+5%/&7stronger.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY WATER SHARD &8(ID L35)",
+      "image": "/shards/queenly_echo.png"
+    },
+    {
+      "attributeId": "unlimited_power",
+      "title": "&6Jormung Shard",
+      "tooltip": "&6Unlimited Power I/&7Your &c Strength &7is increased by/&c+0.1%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY COMBAT SHARD &8(ID L36)",
+      "image": "/shards/unlimited_power.png"
+    },
+    {
+      "attributeId": "treasure_fisher",
+      "title": "&6Ghost Crab Shard",
+      "tooltip": "&6Treasure Fisher I/&7Grants &6+0.1  Treasure Chance&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY WATER SHARD &8(ID L38)",
+      "image": "/shards/treasure_fisher.png"
+    },
+    {
+      "attributeId": "unlimited_energy",
+      "title": "&6Etherdrake Shard",
+      "tooltip": "&6Unlimited Energy I/&7Your &9 Crit Damage &7is increased by/&9+0.1%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY COMBAT SHARD &8(ID L39)",
+      "image": "/shards/unlimited_energy.png"
+    },
+    {
+      "attributeId": "tough_claws",
+      "title": "&6Grizzly Bear Shard",
+      "tooltip": "&6Tough Claws I/&7Whenever you cut down a &aTree&7, reduce its/&cToughness &7by &a+0.1&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY FOREST SHARD &8(ID L40)",
+      "image": "/shards/tough_claws.png"
+    },
+    {
+      "attributeId": "ultimate_dna",
+      "title": "&6Galaxy Fish Shard",
+      "tooltip": "&6Ultimate DNA I/&7Grants &6+1  Mining Fortune&7, &6/&6Farming Fortune&7, and &6 Foraging/&6Fortune&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY WATER SHARD &8(ID L41)",
+      "image": "/shards/ultimate_dna.png"
+    },
+    {
+      "attributeId": "almighty_echo",
+      "title": "&6Molthorn Shard",
+      "tooltip": "&6Almighty Echo I/&7Your &quot;Unlimited&quot; Attributes are &a+5%/&7stronger.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY COMBAT SHARD &8(ID L42)",
+      "image": "/shards/almighty_echo.png"
+    },
+    {
+      "attributeId": "echo_of_elemental",
+      "title": "&6Starborn Shard",
+      "tooltip": "&6Echo of Elemental I/&7Buffs all other shards in the/&aElemental &7Family by &a+2%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY WATER SHARD &8(ID L44)",
+      "image": "/shards/echo_of_elemental.png"
+    },
+    {
+      "attributeId": "cocoon_chance",
+      "title": "&6Primordial Shard",
+      "tooltip": "&6Cocoon Chance I/&7Increases the chance of &6The/&6Primordial &7cocooning &cSlayer Bosses/&7and &cSlayer Minibosses &7by &a+0.5%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY COMBAT SHARD &8(ID L45)",
+      "image": "/shards/cocoon_chance.png"
+    },
+    {
+      "attributeId": "groovy_radar",
+      "title": "&6Cocoaleech Shard",
+      "tooltip": "&6Groovy Radar I/&2 Pests &7have a &a+2.5% &7chance to/&7drop a second Vinyl.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY FOREST SHARD &8(ID L46)",
+      "image": "/shards/groovy_radar.png"
+    },
+    {
+      "attributeId": "bayou_hook",
+      "title": "&6Titanoboa Shard",
+      "tooltip": "&6Bayou Hook I/&7Grants &9+0.5  Double Hook Chance/&7while on &bFishing Islands&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&6&lLEGENDARY WATER SHARD &8(ID L47)",
+      "image": "/shards/bayou_hook.png"
+    },
+    {
+      "attributeId": "miracle_chance",
+      "title": "&6Rainbug Shard",
+      "tooltip": "&6Miracle Chance I/&7Increases your chance of finding/&cD&6y&ee&as &7by &a+0.1%&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY FOREST SHARD &8(ID L49)",
+      "image": "/shards/miracle_chance.png"
+    },
+    {
+      "attributeId": "unique_bonus",
+      "title": "&6Flora Shard",
+      "tooltip": "&6Unique Bonus I/&7Counts as &a+1&7 towards the &eUnique/&eCrop Bonus &7in your &aGreenhouse&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY FOREST SHARD &8(ID L52)",
+      "image": "/shards/unique_bonus.png"
+    },
+    {
+      "attributeId": "slayer_discount",
+      "title": "&6Paragon Shard",
+      "tooltip": "&6Slayer Discount I/&7Grants a &a+0.5% &7discount on starting/&4Slayer Quests&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-clickt to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY COMBAT SHARD &8(ID L54)",
+      "image": "/shards/slayer_discount.png"
+    },
+    {
+      "attributeId": "greenhouse_speed",
+      "title": "&6Timestalk Clone Shard",
+      "tooltip": "&6Greenhouse Speed I/&7Grants &a+0.1% Growth Speed &7in your/&2Greenhouse&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY COMBAT SHARD &8(ID L57)",
+      "image": "/shards/greenhouse_speed.png"
+    },
+    {
+      "attributeId": "cold_resistance",
+      "title": "&6Wumpa Shard",
+      "tooltip": "&6Cold Resistance I/&7Grants &b+0.5  Cold Resistance&7.//&7You can Syphon this shard from/&7your &aHunting Box&7.//&eRight-click to send to Hunting Box!/&eShift Right-click to move all!//&4❣ &cRequires &aHunting Skill 20&c./&6&lLEGENDARY COMBAT SHARD &8(ID L60)",
+      "image": "/shards/cold_resistance.png"
+    }
+  ]
+}

@@ -13,7 +13,6 @@ export default function ProfileForm() {
     profileName,
     setProfileName,
     loading,
-    subject,
     submit,
   } = useProfile();
 
@@ -58,12 +57,6 @@ export default function ProfileForm() {
         </button>
       </form>
 
-      {subject !== null && (
-        <h2 className={styles.sectionTitle} style={{ marginTop: 28 }}>
-          {subject.playerName}{" "}
-          <span className={styles.muted}>on {subject.profileName}</span>
-        </h2>
-      )}
     </>
   );
 }

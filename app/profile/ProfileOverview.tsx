@@ -52,7 +52,7 @@ export default function ProfileOverview() {
       {networth.status === "done" && (
         <p>
           <Link className={styles.linkButton} href="/profile/shards">
-            See all shards in detail →
+            See your shard collection →
           </Link>
         </p>
       )}

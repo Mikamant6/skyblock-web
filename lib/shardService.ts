@@ -6,6 +6,7 @@ import { fetchProfiles, getUuid, selectMember } from "./hypixelApi";
 import { calculateShardNetworth, type ShardNetworth } from "./shardNetworth";
 
 export type ShardNetworthResponse = ShardNetworth & {
+  uuid: string; // Spieler-ID (fuer das Skin-Bild)
   playerName: string; // Schreibweise laut Mojang
   profileName: string; // Schreibweise laut Hypixel
   taxRate: number;
@@ -38,6 +39,7 @@ export async function getShardNetworth(
 
   return {
     ...calculateShardNetworth(stacks, prices, TAX_RATE),
+    uuid,
     playerName: name,
     profileName: selected.profileName,
     taxRate: TAX_RATE,

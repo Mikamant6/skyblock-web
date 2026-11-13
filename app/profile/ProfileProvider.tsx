@@ -32,7 +32,7 @@ type ProfileContextValue = {
   networth: Remote<NetworthResponse>;
   loading: boolean;
   // Spieler und Profil laut Server (Schreibweise von Mojang/Hypixel), sobald bekannt
-  subject: { playerName: string; profileName: string } | null;
+  subject: { uuid: string; playerName: string; profileName: string } | null;
   // true, sobald einmal ein Profil erfolgreich geladen wurde (bleibt danach
   // true, auch wenn eine spaetere Eingabe fehlschlaegt). Steuert die Seitenleiste.
   hasProfile: boolean;
@@ -98,10 +98,18 @@ export function ProfileProvider({ children }: { children: ReactNode }) {
 
   const subject = useMemo(() => {
     if (shards.status === "done") {
-      return { playerName: shards.data.playerName, profileName: shards.data.profileName };
+      return {
+        uuid: shards.data.uuid,
+        playerName: shards.data.playerName,
+        profileName: shards.data.profileName,
+      };
     }
     if (networth.status === "done") {
-      return { playerName: networth.data.playerName, profileName: networth.data.profileName };
+      return {
+        uuid: networth.data.uuid,
+        playerName: networth.data.playerName,
+        profileName: networth.data.profileName,
+      };
     }
     return null;
   }, [shards, networth]);

@@ -15,16 +15,31 @@ export type SkyblockProfile = {
 };
 export type ProfilesResponse = { profiles: SkyblockProfile[] | null };
 
-// Zwischenspeicher: Namen 10 Minuten, Profile 1 Minute
+// Zwischenspeicher: Namen 1 Stunde, Profile 1 Minute. Mojang und Hypixel
+// begrenzen die Anfragen pro Adresse, deshalb fragen wir so selten wie moeglich.
 const uuidCache = createTtlCache<{ uuid: string; name: string }>(
-  10 * 60 * 1000,
+  60 * 60 * 1000,
   500,
 );
 const profilesCache = createTtlCache<ProfilesResponse>(60 * 1000, 200);
 
+// Laufende Anfragen: fragen zwei Teile der Seite gleichzeitig dasselbe ab
+// (Shards und Networth), wird nur EINE echte Anfrage gestellt und das
+// Ergebnis geteilt. Das halbiert die Zahl der Anfragen an Mojang und Hypixel.
+const inflight = new Map<string, Promise<unknown>>();
+
+function shareRequest<T>(key: string, work: () => Promise<T>): Promise<T> {
+  const running = inflight.get(key) as Promise<T> | undefined;
+  if (running !== undefined) return running;
+  const promise = work().finally(() => inflight.delete(key));
+  inflight.set(key, promise);
+  return promise;
+}
+
 export function clearHypixelCaches(): void {
   uuidCache.clear();
   profilesCache.clear();
+  inflight.clear();
 }
 
 // Mojang: Minecraft-Name -> UUID (eindeutige ID des Spielers)
@@ -47,6 +62,14 @@ export async function getUuid(
   const cached = uuidCache.get(cacheKey);
   if (cached !== undefined) return cached;
 
+  return shareRequest(`uuid:${cacheKey}`, () => lookupUuid(name, cacheKey));
+}
+
+// Die eigentliche Anfrage an Mojang (nur ueber getUuid aufrufen)
+async function lookupUuid(
+  name: string,
+  cacheKey: string,
+): Promise<{ uuid: string; name: string }> {
   let response: Response;
   try {
     response = await fetch(
@@ -64,6 +87,12 @@ export async function getUuid(
     throw new UserError(
       `Player '${name}' was not found. Is the name spelled correctly?`,
       404,
+    );
+  }
+  if (response.status === 429) {
+    throw new UserError(
+      "Mojang is limiting requests right now (429). Please wait a few minutes and try again.",
+      429,
     );
   }
   if (response.status !== 200) {
@@ -91,6 +120,11 @@ export async function fetchProfiles(uuid: string): Promise<ProfilesResponse> {
   const cached = profilesCache.get(uuid);
   if (cached !== undefined) return cached;
 
+  return shareRequest(`profiles:${uuid}`, () => requestProfiles(uuid));
+}
+
+// Die eigentliche Anfrage an Hypixel (nur ueber fetchProfiles aufrufen)
+async function requestProfiles(uuid: string): Promise<ProfilesResponse> {
   // Der Key steht in der Datei .env.local und wird von Next.js beim Start geladen
   const apiKey = process.env.HYPIXEL_API_KEY;
   if (apiKey === undefined || apiKey === "") {

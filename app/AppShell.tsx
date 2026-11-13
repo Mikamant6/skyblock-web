@@ -6,7 +6,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState, type ReactNode } from "react";
 import styles from "./AppShell.module.css";
-import { NAV, type NavItem } from "./navigation";
+import { NAV, WIDE_PATHS, type NavItem } from "./navigation";
 import { useProfile } from "./profile/ProfileProvider";
 import ThemePicker from "./ThemePicker";
 
@@ -21,12 +21,65 @@ export default function AppShell({ children }: { children: ReactNode }) {
 
   const closeMenu = () => setMenuOpen(false);
 
-  function isSectionActive(item: NavItem): boolean {
-    return item.href === "/" ? pathname === "/" : pathname.startsWith(item.href);
+  // Aktiv: Punkte mit Unterpunkten gelten fuer ihren ganzen Bereich, Blaetter nur fuer ihre Seite
+  function isActive(item: NavItem): boolean {
+    if (item.children !== undefined) {
+      return item.href === "/" ? pathname === "/" : pathname.startsWith(item.href);
+    }
+    return pathname === item.href;
+  }
+
+  // Ein Menuepunkt, bei Unterpunkten mit Auf-/Zuklapp-Pfeil (ruft sich selbst fuer die Unterpunkte auf).
+  // Bewusst eine normale Funktion und keine Komponente: so bleibt der Fokus
+  // beim Klicken auf den Pfeil erhalten.
+  function renderNode(item: NavItem, depth: number): ReactNode {
+    const active = isActive(item);
+    const hasChildren = item.children !== undefined;
+    const open = hasChildren && (toggled[item.href + depth] ?? active);
+    const top = depth === 0;
+
+    return (
+      <li key={item.href + item.label}>
+        <div className={top ? styles.navRow : styles.subRow} data-active={active}>
+          <Link
+            href={item.href}
+            className={top ? styles.navLink : styles.subLink}
+            data-active={active}
+            aria-current={pathname === item.href ? "page" : undefined}
+            onClick={closeMenu}
+          >
+            {item.label}
+          </Link>
+          {hasChildren && (
+            <button
+              type="button"
+              className={styles.chevron}
+              aria-label={`${open ? "Collapse" : "Expand"} ${item.label}`}
+              aria-expanded={open}
+              data-open={open}
+              onClick={() =>
+                setToggled((previous) => ({ ...previous, [item.href + depth]: !open }))
+              }
+            >
+              ▾
+            </button>
+          )}
+        </div>
+        {hasChildren && open && (
+          <ul className={styles.subList}>
+            {item.children!.map((child) => renderNode(child, depth + 1))}
+          </ul>
+        )}
+      </li>
+    );
   }
 
   return (
-    <div className={styles.shell} data-sidebar={hasProfile}>
+    <div
+      className={styles.shell}
+      data-sidebar={hasProfile}
+      data-wide={WIDE_PATHS.includes(pathname)}
+    >
       <header className={styles.topbar}>
         {hasProfile && (
           <button
@@ -68,58 +121,7 @@ export default function AppShell({ children }: { children: ReactNode }) {
 
         <nav aria-label="Main navigation">
           <ul className={styles.navList}>
-            {NAV.map((item) => {
-              const active = isSectionActive(item);
-              const hasChildren = item.children !== undefined;
-              const open = hasChildren && (toggled[item.id] ?? active);
-
-              return (
-                <li key={item.id}>
-                  <div className={styles.navRow} data-active={active}>
-                    <Link
-                      href={item.href}
-                      className={styles.navLink}
-                      aria-current={pathname === item.href ? "page" : undefined}
-                      onClick={closeMenu}
-                    >
-                      {item.label}
-                    </Link>
-                    {hasChildren && (
-                      <button
-                        type="button"
-                        className={styles.chevron}
-                        aria-label={`${open ? "Collapse" : "Expand"} ${item.label}`}
-                        aria-expanded={open}
-                        data-open={open}
-                        onClick={() =>
-                          setToggled((previous) => ({ ...previous, [item.id]: !open }))
-                        }
-                      >
-                        ▾
-                      </button>
-                    )}
-                  </div>
-
-                  {hasChildren && open && (
-                    <ul className={styles.subList}>
-                      {item.children!.map((child) => (
-                        <li key={child.href}>
-                          <Link
-                            href={child.href}
-                            className={styles.subLink}
-                            data-active={pathname === child.href}
-                            aria-current={pathname === child.href ? "page" : undefined}
-                            onClick={closeMenu}
-                          >
-                            {child.label}
-                          </Link>
-                        </li>
-                      ))}
-                    </ul>
-                  )}
-                </li>
-              );
-            })}
+            {NAV.map((item) => renderNode(item, 0))}
           </ul>
         </nav>
 

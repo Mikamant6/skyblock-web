@@ -1,0 +1,35 @@
+/* Aussehen wie ein Minecraft-Tooltip: dunkelvioletter Kasten, lila Rand.
+   Bewusst immer dunkel, damit die Spielfarben in jedem Theme lesbar sind. */
+.box {
+  position: fixed;
+  z-index: 60;
+  left: 0;
+  top: 0;
+  visibility: hidden; /* wird nach dem Messen sichtbar (siehe ShardTooltip.tsx) */
+  width: max-content;
+  max-width: min(360px, calc(100vw - 16px));
+  padding: 8px 10px;
+  border: 2px solid #2a0a5e;
+  border-radius: 4px;
+  background: rgb(16 0 16 / 0.95);
+  box-shadow: 0 4px 16px rgb(0 0 0 / 0.5);
+  color: #ffffff;
+  font-family: var(--font-geist-mono, ui-monospace, "Cascadia Mono", Consolas, monospace);
+  font-size: 0.82rem;
+  line-height: 1.45;
+  pointer-events: none; /* der Kasten faengt keine Mausereignisse ab */
+}
+.line {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+.blank {
+  height: 0.7em;
+}
+.footer {
+  margin-top: 8px;
+  padding-top: 6px;
+  border-top: 1px solid #2a0a5e;
+  color: #aaaaaa;
+  font-size: 0.78rem;
+}

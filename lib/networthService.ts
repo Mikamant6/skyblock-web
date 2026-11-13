@@ -4,6 +4,7 @@ import { calculateProfileNetworth } from "./networthEngine";
 import { summarizeNetworth, type NetworthSummary } from "./networthSummary";
 
 export type NetworthResponse = NetworthSummary & {
+  uuid: string; // Spieler-ID (fuer das Skin-Bild)
   playerName: string; // Schreibweise laut Mojang
   profileName: string; // Schreibweise laut Hypixel
 };
@@ -23,6 +24,7 @@ export async function getNetworth(
 
   return {
     ...summarizeNetworth(raw),
+    uuid,
     playerName: name,
     profileName: selected.profileName,
   };
