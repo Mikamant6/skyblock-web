@@ -1,0 +1,215 @@
+/* Gerüst: Seitenleiste links, Inhalt rechts. Farben ueber die gleichen
+   Variablen wie der Rest (mit Rueckfallwerten), damit Themes greifen. */
+
+.shell {
+  display: flex;
+  flex: 1;
+  min-height: 100vh;
+}
+
+/* ---- Seitenleiste ---- */
+.sidebar {
+  position: sticky;
+  top: 0;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 248px;
+  height: 100vh;
+  flex-shrink: 0;
+  overflow-y: auto;
+  padding: 20px 12px;
+  border-right: 1px solid var(--line, rgb(128 128 128 / 0.3));
+  background: var(--sidebar-bg, rgb(128 128 128 / 0.06));
+}
+.brand,
+.brandSmall {
+  color: var(--title-color, inherit);
+  font-size: 1.35rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  text-decoration: none;
+}
+.brand {
+  padding: 4px 10px;
+}
+.navList,
+.subList {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.navList {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.navRow {
+  display: flex;
+  align-items: center;
+  border-radius: 8px;
+}
+.navRow[data-active="true"] {
+  background: var(--surface-strong, rgb(128 128 128 / 0.14));
+}
+.navLink {
+  flex: 1;
+  padding: 9px 10px;
+  color: inherit;
+  font-weight: 600;
+  text-decoration: none;
+}
+.navRow[data-active="true"] .navLink {
+  color: var(--accent, #2f9e6f);
+}
+.navLink:hover,
+.subLink:hover {
+  text-decoration: underline;
+}
+.chevron {
+  padding: 8px 10px;
+  border: 0;
+  background: none;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+  transition: transform 0.15s;
+}
+.chevron[data-open="false"] {
+  transform: rotate(-90deg);
+}
+.subList {
+  margin: 2px 0 6px 14px;
+  padding-left: 8px;
+  border-left: 1px solid var(--line, rgb(128 128 128 / 0.3));
+}
+.subLink {
+  display: block;
+  padding: 7px 10px;
+  border-radius: 6px;
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.8;
+}
+.subLink[data-active="true"] {
+  background: var(--surface, rgb(128 128 128 / 0.1));
+  color: var(--accent, #2f9e6f);
+  font-weight: 600;
+  opacity: 1;
+}
+.navLink:focus-visible,
+.subLink:focus-visible,
+.chevron:focus-visible,
+.brand:focus-visible,
+.brandSmall:focus-visible,
+.menuButton:focus-visible {
+  outline: 2px solid var(--accent, #2f9e6f);
+  outline-offset: 2px;
+}
+.sidebarFoot {
+  margin-top: auto;
+}
+
+/* ---- Inhalt ---- */
+.main {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-width: 0;
+}
+.content {
+  flex: 1;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 32px 16px 48px;
+}
+.footer {
+  max-width: 960px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 16px 32px;
+  font-size: 0.8rem;
+  line-height: 1.6;
+  opacity: 0.7;
+}
+
+/* ---- Obere Leiste: am Handy immer, am PC nur solange es keine Seitenleiste gibt ---- */
+.topbar,
+.backdrop {
+  display: none;
+}
+.shell[data-sidebar="false"] {
+  flex-direction: column;
+}
+.shell[data-sidebar="false"] .topbar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 24px;
+  border-bottom: 1px solid var(--line, rgb(128 128 128 / 0.3));
+}
+.topbarTools {
+  margin-left: auto;
+}
+
+@media (max-width: 800px) {
+  .shell {
+    flex-direction: column;
+  }
+  .topbar {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 16px;
+    border-bottom: 1px solid var(--line, rgb(128 128 128 / 0.3));
+    background: var(--background);
+  }
+  .menuButton {
+    padding: 4px 12px;
+    border: 1px solid var(--line-strong, rgb(128 128 128 / 0.5));
+    border-radius: 8px;
+    background: none;
+    color: inherit;
+    font: inherit;
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+  .sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 40;
+    height: 100vh;
+    height: 100dvh;
+    background: var(--background);
+    visibility: hidden; /* geschlossen: auch per Tastatur nicht erreichbar */
+    transform: translateX(-100%);
+    transition: transform 0.2s ease, visibility 0s linear 0.2s;
+  }
+  .sidebar[data-open="true"] {
+    visibility: visible;
+    transform: none;
+    transition: transform 0.2s ease;
+  }
+  .backdrop {
+    position: fixed;
+    inset: 0;
+    z-index: 30;
+    display: block;
+    border: 0;
+    background: rgb(0 0 0 / 0.5);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sidebar,
+  .chevron {
+    transition: none;
+  }
+}

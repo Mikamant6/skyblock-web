@@ -1,14 +1,12 @@
-// Die Startseite. Sie ist selbst ganz kurz: die eigentliche Arbeit macht der
-// Shard-Rechner, der im Browser laeuft (ShardCalculator.tsx).
-import ShardCalculator from "./ShardCalculator";
+// Die Startseite: Eingabe von Name und Profil (siehe HomeEntry.tsx).
+import HomeEntry from "./HomeEntry";
 
-// Titel und Beschreibung im Browser-Tab und bei Suchmaschinen
 export const metadata = {
-  title: "SkyBlock Shard Calculator",
+  title: "Home",
   description:
-    "Estimate the Bazaar value of all shards you have syphoned in Hypixel SkyBlock.",
+    "Networth and shard value of your Hypixel SkyBlock profile, calculated automatically from the Hypixel API.",
 };
 
 export default function Home() {
-  return <ShardCalculator />;
+  return <HomeEntry />;
 }

@@ -20,9 +20,13 @@ function categoryLabel(id: string): string {
 export default function NetworthSection({
   state,
   shardValueRaw,
+  shardNote,
 }: {
   state: NetworthState;
-  shardValueRaw: number;
+  // null = Shard-Wert nicht verfuegbar (laedt noch oder Fehler): dann zeigen
+  // wir nur den Networth ohne Shards und den Hinweistext shardNote
+  shardValueRaw: number | null;
+  shardNote: string;
 }) {
   if (state.status === "loading") {
     return (
@@ -35,25 +39,27 @@ export default function NetworthSection({
   if (state.status === "error") {
     return (
       <div className={styles.warning} role="note">
-        <strong>Networth is not available:</strong> {state.message} The shard
-        value below is still correct.
+        <strong>Networth is not available:</strong> {state.message}
       </div>
     );
   }
 
   const { data } = state;
-  const total = grandTotal(data.networth, shardValueRaw);
+  const total =
+    shardValueRaw === null ? null : grandTotal(data.networth, shardValueRaw);
 
   return (
     <>
       <div className={styles.cards}>
-        <div className={styles.card}>
-          <span className={styles.cardLabel}>Total networth</span>
-          <strong className={styles.cardValue} title={formatCoins(total)}>
-            {formatCompact(total)}
-          </strong>
-          <span className={styles.cardHint}>networth + shard value</span>
-        </div>
+        {total !== null && (
+          <div className={styles.card}>
+            <span className={styles.cardLabel}>Total networth</span>
+            <strong className={styles.cardValue} title={formatCoins(total)}>
+              {formatCompact(total)}
+            </strong>
+            <span className={styles.cardHint}>networth + shard value</span>
+          </div>
+        )}
         <div className={styles.card}>
           <span className={styles.cardLabel}>Networth without shards</span>
           <strong
@@ -66,14 +72,22 @@ export default function NetworthSection({
             {formatCompact(data.unsoulboundNetworth)} unsoulbound
           </span>
         </div>
-        <div className={styles.card}>
-          <span className={styles.cardLabel}>Shard value</span>
-          <strong className={styles.cardValue} title={formatCoins(shardValueRaw)}>
-            {formatCompact(shardValueRaw)}
-          </strong>
-          <span className={styles.cardHint}>before Bazaar tax</span>
-        </div>
+        {shardValueRaw !== null && (
+          <div className={styles.card}>
+            <span className={styles.cardLabel}>Shard value</span>
+            <strong className={styles.cardValue} title={formatCoins(shardValueRaw)}>
+              {formatCompact(shardValueRaw)}
+            </strong>
+            <span className={styles.cardHint}>before Bazaar tax</span>
+          </div>
+        )}
       </div>
+
+      {shardValueRaw === null && (
+        <div className={styles.notice} role="status">
+          {shardNote}
+        </div>
+      )}
 
       {data.noInventory && (
         <div className={styles.warning} role="note">
