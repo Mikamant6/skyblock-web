@@ -18,6 +18,7 @@
   flex-wrap: wrap;
   align-items: center;
   gap: 12px;
+  color: var(--title-color, inherit);
   font-size: 2rem;
   font-weight: 700;
   line-height: 1.2;
@@ -58,28 +59,28 @@
 .input {
   width: 100%;
   padding: 10px 12px;
-  border: 1px solid rgb(128 128 128 / 0.5);
+  border: 1px solid var(--line-strong, rgb(128 128 128 / 0.5));
   border-radius: 8px;
-  background: rgb(128 128 128 / 0.12);
+  background: var(--input-bg, rgb(128 128 128 / 0.12));
   color: inherit;
   font: inherit;
 }
 .input:focus-visible {
-  outline: 2px solid #2f9e6f;
+  outline: 2px solid var(--accent, #2f9e6f);
   outline-offset: 1px;
 }
 .button {
   padding: 10px 20px;
   border: 0;
   border-radius: 8px;
-  background: #2f9e6f;
+  background: var(--accent, #2f9e6f);
   color: #fff;
   font: inherit;
   font-weight: 600;
   cursor: pointer;
 }
 .button:hover:not(:disabled) {
-  background: #278a60;
+  background: var(--accent-hover, #278a60);
 }
 .button:disabled {
   opacity: 0.6;
@@ -88,7 +89,7 @@
 .button:focus-visible,
 .sortButton:focus-visible,
 .linkButton:focus-visible {
-  outline: 2px solid #2f9e6f;
+  outline: 2px solid var(--accent, #2f9e6f);
   outline-offset: 2px;
 }
 
@@ -117,15 +118,16 @@
   flex-direction: column;
   gap: 4px;
   padding: 16px;
-  border: 1px solid rgb(128 128 128 / 0.3);
+  border: 1px solid var(--line, rgb(128 128 128 / 0.3));
   border-radius: 12px;
-  background: rgb(128 128 128 / 0.08);
+  background: var(--surface, rgb(128 128 128 / 0.08));
 }
 .cardLabel {
   font-size: 0.85rem;
   opacity: 0.75;
 }
 .cardValue {
+  color: var(--title-color, inherit);
   font-size: 1.9rem;
   font-variant-numeric: tabular-nums;
   line-height: 1.2;
@@ -173,7 +175,7 @@
 }
 .tableWrap {
   overflow-x: auto;
-  border: 1px solid rgb(128 128 128 / 0.3);
+  border: 1px solid var(--line, rgb(128 128 128 / 0.3));
   border-radius: 12px;
 }
 .table {
@@ -184,15 +186,18 @@
 .table th,
 .table td {
   padding: 10px 12px;
-  border-bottom: 1px solid rgb(128 128 128 / 0.2);
+  border-bottom: 1px solid var(--line-soft, rgb(128 128 128 / 0.2));
   text-align: left;
   white-space: nowrap;
+}
+.table tbody tr:nth-child(even) {
+  background: var(--row-alt, transparent);
 }
 .table tbody tr:last-child td {
   border-bottom: 0;
 }
 .table th {
-  background: rgb(128 128 128 / 0.1);
+  background: var(--surface-strong, rgb(128 128 128 / 0.1));
   font-size: 0.85rem;
 }
 .table .num,
@@ -213,7 +218,7 @@
   padding: 0;
   border: 0;
   background: none;
-  color: #2f9e6f;
+  color: var(--accent, #2f9e6f);
   font: inherit;
   font-weight: 600;
   cursor: pointer;
@@ -248,7 +253,8 @@
 .details {
   margin-top: 32px;
   padding: 12px 16px;
-  border: 1px solid rgb(128 128 128 / 0.3);
+  background: var(--surface, transparent);
+  border: 1px solid var(--line, rgb(128 128 128 / 0.3));
   border-radius: 10px;
   line-height: 1.55;
 }
@@ -274,4 +280,11 @@
   .button {
     width: 100%;
   }
+}
+
+/* ---- Kopfleiste mit Farbschema-Auswahl ---- */
+.headerTools {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 8px;
 }

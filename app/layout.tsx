@@ -22,7 +22,17 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     <html
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      suppressHydrationWarning
     >
+      <head>
+        {/* Setzt ein gemerktes Farbschema, bevor die Seite gezeichnet wird.
+            "ok" ist die Liste der erlaubten Schemata (derzeit keine ausser Standard). */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `try{var ok=[];var t=localStorage.getItem("theme");if(ok.indexOf(t)>-1){document.documentElement.setAttribute("data-theme",t)}}catch(e){}`,
+          }}
+        />
+      </head>
       <body className="min-h-full flex flex-col">{children}</body>
     </html>
   );

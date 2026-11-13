@@ -8,6 +8,7 @@ import type { ShardNetworthResponse } from "../lib/shardService";
 import styles from "./calculator.module.css";
 import { formatCoins, formatCompact } from "./format";
 import ShardTable from "./ShardTable";
+import ThemePicker from "./ThemePicker";
 
 // Hier spaeter den Link zum Reddit-Thread eintragen. Solange der Text leer
 // ist, wird kein Link angezeigt.
@@ -61,6 +62,9 @@ export default function ShardCalculator() {
   return (
     <div className={styles.app}>
       <header className={styles.header}>
+        <div className={styles.headerTools}>
+          <ThemePicker />
+        </div>
         <h1 className={styles.title}>
           SkyBlock Shard Calculator <span className={styles.beta}>Beta</span>
         </h1>

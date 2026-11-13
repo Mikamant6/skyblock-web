@@ -24,3 +24,13 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* ---- Farbschemata ----
+   Das Schema steht als data-theme="..." am <html>-Element (siehe ThemePicker).
+   Ohne data-theme gilt das Standard-Schema (folgt dem Hell/Dunkel-Modus des
+   Geraets). Neue Schemata, z. B. Weihnachten, kommen als weitere Bloecke dazu
+   (Beispiel: :root[data-theme="weihnachten"] { --accent: ...; }). */
+:root {
+  --accent: #2f9e6f;
+  --accent-hover: #278a60;
+}
