@@ -6,6 +6,8 @@ const nextConfig: NextConfig = {
     agentFeedback: true,
   },
   cacheComponents: true,
+  // Die Networth-Bibliothek bleibt ein normales Node-Paket (wird nicht gebuendelt)
+  serverExternalPackages: ["skyhelper-networth"],
   partialPrefetching: true,
   turbopack: {
     rules: {

@@ -3,10 +3,12 @@
 // (/api/shards) und Anzeige des Ergebnisses.
 // "use client" heisst: dieser Code laeuft im Browser des Besuchers.
 
-import { useState, type FormEvent } from "react";
+import { useRef, useState, type FormEvent } from "react";
+import type { NetworthResponse } from "../lib/networthService";
 import type { ShardNetworthResponse } from "../lib/shardService";
 import styles from "./calculator.module.css";
 import { formatCoins, formatCompact } from "./format";
+import NetworthSection, { type NetworthState } from "./NetworthSection";
 import ShardTable from "./ShardTable";
 import ThemePicker from "./ThemePicker";
 
@@ -21,10 +23,43 @@ type ViewState =
   | { status: "error"; message: string } // etwas ist schiefgegangen
   | { status: "done"; data: ShardNetworthResponse }; // Ergebnis liegt vor
 
+// Eine Adresse unseres Servers abfragen. Gibt entweder die Daten oder einen
+// Fehlertext zurueck (wirft nie einen Fehler).
+type FetchResult<T> =
+  | { ok: true; data: T }
+  | { ok: false; message: string };
+
+async function fetchApi<T>(path: string, query: URLSearchParams): Promise<FetchResult<T>> {
+  try {
+    const response = await fetch(`${path}?${query.toString()}`);
+    const body = await response.json();
+    if (!response.ok) {
+      // Unser Server schickt bei Fehlern { error: "Text" }
+      return {
+        ok: false,
+        message: typeof body.error === "string" ? body.error : "Something went wrong.",
+      };
+    }
+    return { ok: true, data: body as T };
+  } catch {
+    return {
+      ok: false,
+      message: "Could not reach the server. Please check your connection and try again.",
+    };
+  }
+}
+
 export default function ShardCalculator() {
   const [playerName, setPlayerName] = useState("");
   const [profileName, setProfileName] = useState("");
   const [view, setView] = useState<ViewState>({ status: "idle" });
+  // Der Networth wird getrennt abgefragt: er dauert laenger, und ein Fehler
+  // dort soll die Shard-Anzeige nicht verhindern
+  const [networth, setNetworth] = useState<NetworthState>({ status: "loading" });
+
+  // Zaehlt die Abfragen: kommt eine alte Networth-Antwort nach einer neuen
+  // Abfrage an, wird sie verworfen
+  const requestId = useRef(0);
 
   async function handleSubmit(event: FormEvent<HTMLFormElement>) {
     // Ohne das wuerde der Browser die ganze Seite neu laden
@@ -32,29 +67,30 @@ export default function ShardCalculator() {
     if (view.status === "loading") return;
 
     setView({ status: "loading" });
-    try {
-      const query = new URLSearchParams({
-        name: playerName.trim(),
-        profile: profileName.trim(),
-      });
-      const response = await fetch(`/api/shards?${query.toString()}`);
-      const body = await response.json();
+    setNetworth({ status: "loading" });
+    const thisRequest = ++requestId.current;
 
-      if (!response.ok) {
-        // Unser Server schickt bei Fehlern { error: "Text" }
-        setView({
-          status: "error",
-          message: typeof body.error === "string" ? body.error : "Something went wrong.",
-        });
-        return;
-      }
-      setView({ status: "done", data: body as ShardNetworthResponse });
-    } catch {
-      setView({
-        status: "error",
-        message: "Could not reach the server. Please check your connection and try again.",
-      });
-    }
+    const query = new URLSearchParams({
+      name: playerName.trim(),
+      profile: profileName.trim(),
+    });
+
+    // Networth startet gleichzeitig mit den Shards und meldet sich, wenn er fertig ist
+    void fetchApi<NetworthResponse>("/api/networth", query).then((result) => {
+      if (thisRequest !== requestId.current) return;
+      setNetworth(
+        result.ok
+          ? { status: "done", data: result.data }
+          : { status: "error", message: result.message },
+      );
+    });
+
+    const shards = await fetchApi<ShardNetworthResponse>("/api/shards", query);
+    setView(
+      shards.ok
+        ? { status: "done", data: shards.data }
+        : { status: "error", message: shards.message },
+    );
   }
 
   const loading = view.status === "loading";
@@ -114,7 +150,7 @@ export default function ShardCalculator() {
             {view.message}
           </div>
         )}
-        {view.status === "done" && <Result data={view.data} />}
+        {view.status === "done" && <Result data={view.data} networth={networth} />}
       </div>
 
       <details className={styles.details}>
@@ -163,7 +199,13 @@ export default function ShardCalculator() {
 }
 
 // Anzeige des Ergebnisses: Kennzahlen, Hinweise und Tabelle
-function Result({ data }: { data: ShardNetworthResponse }) {
+function Result({
+  data,
+  networth,
+}: {
+  data: ShardNetworthResponse;
+  networth: NetworthState;
+}) {
   const { totals } = data;
   const unpriced = data.shards.filter((row) => row.unitsUnpriced > 0);
   const taxPercent = (data.taxRate * 100).toFixed(2);
@@ -174,6 +216,9 @@ function Result({ data }: { data: ShardNetworthResponse }) {
         {data.playerName} <span className={styles.muted}>on {data.profileName}</span>
       </h2>
 
+      <NetworthSection state={networth} shardValueRaw={totals.valueRaw} />
+
+      <h3 className={styles.sectionTitle}>Shards</h3>
       <div className={styles.cards}>
         <div className={styles.card}>
           <span className={styles.cardLabel}>Total value</span>

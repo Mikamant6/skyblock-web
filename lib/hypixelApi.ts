@@ -11,6 +11,7 @@ export type SkyblockMember = {
 export type SkyblockProfile = {
   cute_name: string; // Profilname, z. B. "Blueberry"
   members: Record<string, SkyblockMember>; // UUID -> Daten des Spielers
+  banking?: { balance?: number }; // Bankguthaben des Profils (Coins)
 };
 export type ProfilesResponse = { profiles: SkyblockProfile[] | null };
 
@@ -148,7 +149,7 @@ export function selectMember(
   profilesRaw: ProfilesResponse,
   uuid: string,
   profileName: string,
-): { profileName: string; member: SkyblockMember } {
+): { profileName: string; member: SkyblockMember; bankBalance: number } {
   const profiles = profilesRaw.profiles ?? [];
   if (profiles.length === 0) {
     throw new UserError(
@@ -178,5 +179,8 @@ export function selectMember(
       404,
     );
   }
-  return { profileName: profile.cute_name, member };
+  const balance = profile.banking?.balance;
+  const bankBalance =
+    typeof balance === "number" && Number.isFinite(balance) ? balance : 0;
+  return { profileName: profile.cute_name, member, bankBalance };
 }
