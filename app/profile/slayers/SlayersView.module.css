@@ -1,0 +1,124 @@
+/* Slayer-Seite: Farbe pro Slayer ueber --slayer-color */
+.heading {
+  margin: 0 0 12px;
+  font-size: 1.3rem;
+}
+.summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 36px;
+  margin-bottom: 14px;
+}
+.stat {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  font-size: 0.8rem;
+}
+.stat span {
+  opacity: 0.65;
+}
+.stat strong {
+  font-size: 1.4rem;
+  font-variant-numeric: tabular-nums;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border-left: 4px solid var(--slayer-color, var(--accent, #f2c260));
+}
+.top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+}
+.name {
+  font-weight: 700;
+}
+.boss {
+  font-size: 0.8rem;
+  opacity: 0.65;
+}
+.level {
+  color: var(--slayer-color, var(--accent, #f2c260));
+  font-size: 1.3rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+.level small {
+  font-size: 0.8rem;
+  font-weight: 400;
+  opacity: 0.6;
+}
+.bar {
+  height: 8px;
+  overflow: hidden;
+  border-radius: 999px;
+  background: var(--surface-strong, rgb(128 128 128 / 0.2));
+}
+.barFill {
+  height: 100%;
+  background: var(--slayer-color, var(--accent, #f2c260));
+}
+.detail {
+  font-size: 0.8rem;
+  opacity: 0.75;
+  font-variant-numeric: tabular-nums;
+}
+.kills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.kill {
+  display: flex;
+  min-width: 48px;
+  flex-direction: column;
+  align-items: center;
+  padding: 4px 8px;
+  border: 1px solid var(--line-soft, rgb(128 128 128 / 0.2));
+  border-radius: 8px;
+  font-variant-numeric: tabular-nums;
+}
+.kill small {
+  font-size: 0.7rem;
+  opacity: 0.65;
+}
+.none {
+  font-size: 0.8rem;
+  opacity: 0.55;
+}
+.tableWrap {
+  overflow-x: auto;
+}
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8rem;
+  font-variant-numeric: tabular-nums;
+}
+.table th,
+.table td {
+  padding: 6px 10px;
+  border-top: 1px solid var(--line-soft, rgb(128 128 128 / 0.15));
+  text-align: right;
+  white-space: nowrap;
+}
+.table th:first-child {
+  text-align: left;
+}
+.footnote {
+  margin: 8px 0 0;
+  font-size: 0.78rem;
+  opacity: 0.55;
+}

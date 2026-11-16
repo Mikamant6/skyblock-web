@@ -41,3 +41,27 @@
   font-weight: 700;
   font-variant-numeric: tabular-nums;
 }
+
+/* Knoepfe: Link kopieren, neu laden */
+.actions {
+  display: flex;
+  gap: 8px;
+  margin-left: 12px;
+}
+.action {
+  padding: 6px 12px;
+  border: 1px solid var(--line-strong, rgb(128 128 128 / 0.5));
+  border-radius: 8px;
+  background: var(--input-bg, rgb(128 128 128 / 0.12));
+  color: inherit;
+  font: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+.action:hover:not(:disabled) {
+  border-color: var(--accent, #2f9e6f);
+}
+.action:disabled {
+  cursor: default;
+  opacity: 0.6;
+}

@@ -1,0 +1,255 @@
+/* Einzelne Skill-Seite. Die Skill-Farbe kommt als --skill-color vom Elternelement. */
+.heading {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 12px;
+  font-size: 1.3rem;
+}
+.dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--skill-color, var(--accent, #f2c260));
+}
+
+.hero {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px 28px;
+  margin-bottom: 14px;
+  border-left: 4px solid var(--skill-color, var(--accent, #f2c260));
+}
+.bigLevel {
+  display: flex;
+  min-width: 90px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.bigLevel span,
+.bigLevel small {
+  font-size: 0.8rem;
+  opacity: 0.65;
+}
+.bigLevel strong {
+  color: var(--skill-color, var(--accent, #f2c260));
+  font-size: 3rem;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+.heroBody {
+  display: flex;
+  min-width: 240px;
+  flex: 1 1 320px;
+  flex-direction: column;
+  gap: 12px;
+}
+.facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 28px;
+  margin: 0;
+}
+.fact {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.fact dt {
+  font-size: 0.8rem;
+  opacity: 0.65;
+}
+.fact dd {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+.about {
+  margin: 0;
+  font-size: 0.85rem;
+  opacity: 0.7;
+}
+
+.bar {
+  height: 8px;
+  overflow: hidden;
+  border-radius: 999px;
+  background: var(--surface-strong, rgb(128 128 128 / 0.2));
+}
+.barFill {
+  height: 100%;
+  background: var(--skill-color, var(--accent, #f2c260));
+}
+
+.section {
+  margin-bottom: 14px;
+}
+.sectionHead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+.sectionTitle {
+  margin: 0 0 10px;
+  font-size: 1.05rem;
+}
+.sectionHead .sectionTitle {
+  margin: 0;
+}
+.count {
+  font-size: 0.85rem;
+  opacity: 0.65;
+}
+.check {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.85rem;
+}
+
+/* Planer */
+.plannerFields {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 14px;
+  margin-bottom: 12px;
+}
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 0.85rem;
+}
+.field > span {
+  opacity: 0.75;
+}
+.field input,
+.field select {
+  width: 100%;
+}
+.field select {
+  color-scheme: dark light;
+}
+.field select option {
+  background: var(--background, #fff);
+  color: var(--foreground, #171717);
+}
+.result {
+  margin: 0;
+}
+.result strong {
+  color: var(--skill-color, var(--accent, #f2c260));
+}
+
+/* Level-Tabelle */
+.tableWrap {
+  max-height: 520px;
+  overflow: auto;
+}
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+  font-variant-numeric: tabular-nums;
+}
+.table th {
+  position: sticky;
+  top: 0;
+  padding: 8px 10px;
+  background: var(--background, #0c0f15);
+  text-align: left;
+  font-weight: 600;
+  opacity: 0.85;
+}
+.table td {
+  padding: 7px 10px;
+  border-top: 1px solid var(--line-soft, rgb(128 128 128 / 0.15));
+  vertical-align: top;
+}
+.table tr[data-state="done"] td {
+  opacity: 0.6;
+}
+.table tr[data-state="next"] td {
+  background: var(--surface-strong, rgb(128 128 128 / 0.12));
+}
+.tick {
+  color: var(--skill-color, var(--accent, #f2c260));
+}
+.nextTag {
+  margin-left: 6px;
+  padding: 1px 6px;
+  border-radius: 999px;
+  background: var(--skill-color, var(--accent, #f2c260));
+  color: #111;
+  font-size: 0.7rem;
+  font-weight: 700;
+}
+.missing {
+  opacity: 0.6;
+}
+.none {
+  opacity: 0.4;
+}
+.unlocks {
+  margin: 0;
+  padding-left: 16px;
+}
+
+/* Collections */
+.collections {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.collection {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  padding: 10px 12px;
+  border: 1px solid var(--line, rgb(128 128 128 / 0.3));
+  border-radius: 10px;
+  background: var(--surface, rgb(128 128 128 / 0.08));
+}
+.collection[data-empty="true"] {
+  opacity: 0.5;
+}
+.top {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+}
+.collectionName {
+  overflow: hidden;
+  font-weight: 700;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.tier {
+  color: var(--skill-color, var(--accent, #f2c260));
+  font-size: 0.85rem;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.tier small {
+  font-weight: 400;
+  opacity: 0.6;
+}
+.collectionDetail {
+  font-size: 0.78rem;
+  opacity: 0.75;
+  font-variant-numeric: tabular-nums;
+}
+.footnote {
+  margin: 12px 0 0;
+  font-size: 0.78rem;
+  opacity: 0.55;
+}

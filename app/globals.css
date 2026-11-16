@@ -2,8 +2,8 @@
 
 :root {
   color-scheme: dark;
-  --background: #0c0f15;
-  --foreground: #e9edf3;
+  --background: #070f13;
+  --foreground: #e7f1ee;
 }
 
 @theme inline {
@@ -25,18 +25,19 @@ body {
    Geraets). Neue Schemata, z. B. Weihnachten, kommen als weitere Bloecke dazu
    (Beispiel: :root[data-theme="weihnachten"] { --accent: ...; }). */
 :root {
-  --accent: #f2c260;
-  --accent-hover: #e0ad45;
-  --on-accent: #1a1405;
-  --title-color: #ffffff;
-  --surface: rgb(19 23 32 / 0.82);
-  --surface-strong: rgb(255 255 255 / 0.08);
-  --line: rgb(255 255 255 / 0.12);
-  --line-soft: rgb(255 255 255 / 0.07);
-  --line-strong: rgb(255 255 255 / 0.28);
-  --sidebar-bg: rgb(14 17 24 / 0.82);
-  --input-bg: rgb(255 255 255 / 0.06);
-  --row-alt: rgb(255 255 255 / 0.03);
+  /* Farben aus dem Logo: tiefes Blaugruen (Nacht), Jade/Tuerkis (Baum), Mondweiss */
+  --accent: #5fd3b3;
+  --accent-hover: #49b99a;
+  --on-accent: #04201a;
+  --title-color: #e6fbf5;
+  --surface: rgb(11 27 31 / 0.82);
+  --surface-strong: rgb(170 235 220 / 0.09);
+  --line: rgb(170 235 220 / 0.15);
+  --line-soft: rgb(170 235 220 / 0.08);
+  --line-strong: rgb(170 235 220 / 0.32);
+  --sidebar-bg: rgb(7 17 21 / 0.85);
+  --input-bg: rgb(170 235 220 / 0.07);
+  --row-alt: rgb(170 235 220 / 0.035);
 }
 
 /* Standard-Design: dunkle Seite. Das Szenenbild gibt es nur im Profil-Bereich (app/profile/profileBackground.module.css). */

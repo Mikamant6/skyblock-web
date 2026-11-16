@@ -19,6 +19,20 @@ export const NAV: NavItem[] = [
     children: [
       { label: "Overview", href: "/profile" },
       {
+        label: "Skills",
+        href: "/profile/skills",
+        children: [
+          { label: "Overview", href: "/profile/skills" },
+          ...["Farming", "Mining", "Combat", "Foraging", "Fishing", "Enchanting", "Alchemy", "Taming", "Carpentry", "Runecrafting", "Social"].map(
+            (name) => ({ label: name, href: `/profile/skills/${name.toLowerCase()}` }),
+          ),
+        ],
+      },
+      { label: "Slayers", href: "/profile/slayers" },
+      { label: "Dungeons", href: "/profile/dungeons" },
+      { label: "Pets", href: "/profile/pets" },
+      { label: "Minions", href: "/profile/minions" },
+      {
         label: "Shards",
         href: "/profile/shards",
         children: [

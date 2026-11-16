@@ -31,8 +31,20 @@
   letter-spacing: 0.01em;
   text-decoration: none;
 }
+.brand,
+.brandSmall {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
 .brand {
   padding: 4px 10px;
+}
+/* Logo-Zeichen neben dem Namen */
+.logo {
+  flex-shrink: 0;
+  border-radius: 8px;
+  box-shadow: 0 0 0 1px var(--line, rgb(128 128 128 / 0.3));
 }
 .navList,
 .subList {

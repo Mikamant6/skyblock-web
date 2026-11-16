@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: { default: "flawlesssb", template: "%s | flawlesssb" },
+  title: { default: "FlawlessSB", template: "%s | FlawlessSB" },
   description:
     "Tools for Hypixel SkyBlock: networth and shard value of your profile, calculated automatically.",
 };

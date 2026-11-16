@@ -33,6 +33,19 @@
   letter-spacing: 0.04em;
   text-transform: uppercase;
 }
+/* Startseite: breites Titelbild, unten weich in den Hintergrund ausgeblendet */
+.banner {
+  display: block;
+  width: 100%;
+  height: clamp(130px, 20vw, 240px); /* flacher Streifen, damit das Eingabefeld weiter oben sitzt */
+  object-fit: cover;
+  object-position: center 35%;
+  margin-bottom: 16px;
+  border-radius: 16px;
+  box-shadow: 0 0 40px rgb(95 211 179 / 0.15);
+  -webkit-mask-image: linear-gradient(to bottom, #000 70%, transparent 100%);
+  mask-image: linear-gradient(to bottom, #000 70%, transparent 100%);
+}
 .subtitle {
   margin: 8px 0 0;
   opacity: 0.75;

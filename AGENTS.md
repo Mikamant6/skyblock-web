@@ -18,3 +18,4 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 - Do not put `dynamic` route segment config in files (incompatible with `cacheComponents`). Do not use `npm audit fix --force` blindly.
 - `next.config.ts`: the Tailwind loader rule must stay limited to `globals.css`, otherwise CSS Modules (`*.module.css`) stop working.
 - After code changes run: `npx.cmd tsx lib/shardAttributes.test.ts`, `npx.cmd tsx lib/shardValue.test.ts`, `npx.cmd tsx lib/serverLogic.test.ts` (PowerShell: use the `.cmd` variants).
+- Also run the newer tests: `lib/skillProgress.test.ts`, `lib/skillResources.test.ts`, `lib/skillPlanner.test.ts`, `lib/collectionProgress.test.ts`, `lib/slayerService.test.ts` (same `npx.cmd tsx` way). `scripts/checkSkills.ts` checks the public Hypixel skill and collection tables once.

@@ -1,0 +1,32 @@
+/* Tableiste: einzeilig, am Handy seitlich scrollbar */
+.tabs {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 14px;
+  padding-bottom: 4px;
+  overflow-x: auto;
+}
+.tab {
+  flex-shrink: 0;
+  padding: 7px 14px;
+  border: 1px solid var(--line, rgb(128 128 128 / 0.3));
+  border-radius: 999px;
+  background: var(--surface, rgb(128 128 128 / 0.08));
+  color: inherit;
+  font-size: 0.85rem;
+  text-decoration: none;
+  /* kleiner Farbpunkt in der Skill-Farbe */
+  border-left: 4px solid var(--tab-color, currentColor);
+}
+.tab:hover {
+  background: var(--surface-strong, rgb(128 128 128 / 0.18));
+}
+.tab[data-active="true"] {
+  border-color: var(--tab-color, currentColor);
+  background: var(--surface-strong, rgb(128 128 128 / 0.18));
+  font-weight: 700;
+}
+.tab:focus-visible {
+  outline: 2px solid var(--tab-color, currentColor);
+  outline-offset: 2px;
+}

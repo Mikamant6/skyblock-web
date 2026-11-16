@@ -4,9 +4,20 @@
 import { UserError } from "./errors";
 import { createTtlCache } from "./ttlCache";
 
+// Rohdaten eines Slayers: xp und boss_kills_tier_0, boss_kills_tier_1, ...
+export type SlayerBossData = Record<string, unknown>;
+
 // Nur die Teile der Hypixel-Antwort, die wir brauchen
 export type SkyblockMember = {
   attributes?: { stacks?: Record<string, number> };
+  player_data?: {
+    experience?: Record<string, number>; // z. B. SKILL_FARMING: XP
+    crafted_generators?: unknown; // Minions, z. B. ["COBBLESTONE_1", "COBBLESTONE_2"]
+  };
+  pets_data?: { pets?: unknown }; // Liste der Pets
+  dungeons?: unknown; // Dungeon-Daten (wird in lib/extras.ts vorsichtig gelesen)
+  collection?: Record<string, number>; // Collection-Mengen, z. B. WHEAT: 12345
+  slayer?: { slayer_bosses?: Record<string, SlayerBossData> }; // Slayer-XP und Boss-Kills
 };
 export type SkyblockProfile = {
   cute_name: string; // Profilname, z. B. "Blueberry"

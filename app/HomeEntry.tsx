@@ -31,8 +31,17 @@ export default function HomeEntry() {
   return (
     <>
       <header className={styles.header}>
+        {/* Titelbild der Startseite: leuchtender Sumpfwald bei Nacht (blendet unten in den Hintergrund aus) */}
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          className={styles.banner}
+          src="/themes/home-swamp.jpg"
+          alt="A glowing blocky swamp forest at night under a square moon"
+          width={1800}
+          height={734}
+        />
         <h1 className={styles.title}>
-          flawlesssb <span className={styles.beta}>Beta</span>
+          FlawlessSB <span className={styles.beta}>Beta</span>
         </h1>
         <p className={styles.subtitle}>
           Tools for Hypixel SkyBlock. Enter a Minecraft name and a profile name

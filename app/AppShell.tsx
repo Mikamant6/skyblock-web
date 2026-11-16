@@ -94,7 +94,9 @@ export default function AppShell({ children }: { children: ReactNode }) {
           </button>
         )}
         <Link href="/" className={styles.brandSmall}>
-          flawlesssb
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img className={styles.logo} src="/logo-mark.png" alt="" width={32} height={32} />
+          FlawlessSB
         </Link>
         {/* Ohne Seitenleiste steht die Theme-Wahl hier oben */}
         {!hasProfile && (
@@ -116,7 +118,9 @@ export default function AppShell({ children }: { children: ReactNode }) {
       {hasProfile && (
       <aside id="sidebar" className={styles.sidebar} data-open={menuOpen}>
         <Link href="/" className={styles.brand} onClick={closeMenu}>
-          flawlesssb
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img className={styles.logo} src="/logo-mark.png" alt="" width={36} height={36} />
+          FlawlessSB
         </Link>
 
         <nav aria-label="Main navigation">
@@ -140,6 +144,10 @@ export default function AppShell({ children }: { children: ReactNode }) {
             Prices and profile data come from the Hypixel API. Shard data is
             partly based on the Hypixel SkyBlock Wiki (CC BY-NC-SA 3.0).
             Networth is calculated with the SkyHelper-Networth library.
+          </p>
+          <p>
+            <Link href="/impressum">Impressum</Link> ·{" "}
+            <Link href="/datenschutz">Datenschutz</Link>
           </p>
         </footer>
       </div>

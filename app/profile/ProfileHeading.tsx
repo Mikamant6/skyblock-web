@@ -2,6 +2,7 @@
 // Kopf jeder Profil-Seite als Box: Skin-Kopf, Spielername, Profilname und
 // ein paar Kennzahlen (Networth, Purse, Bank), sobald der Networth da ist.
 
+import { useState } from "react";
 import { formatCompact } from "../format";
 import Panel from "../Panel.module.css";
 import PlayerAvatar from "../PlayerAvatar";
@@ -10,8 +11,23 @@ import { useProfile } from "./ProfileProvider";
 import styles from "./ProfileHeading.module.css";
 
 export default function ProfileHeading() {
-  const { subject, networth, shards } = useProfile();
+  const { subject, networth, shards, skills, loading, submit } = useProfile();
+  const [copied, setCopied] = useState(false);
   if (subject === null) return null;
+
+  // Teilbarer Link: Startseite mit Name und Profil, fragt beim Oeffnen selbst ab
+  async function copyLink() {
+    const link = new URL("/", window.location.origin);
+    link.searchParams.set("name", subject!.playerName);
+    link.searchParams.set("profile", subject!.profileName);
+    try {
+      await navigator.clipboard.writeText(link.toString());
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    } catch {
+      // Zwischenablage nicht erlaubt
+    }
+  }
 
   // Gesamt-Networth wie auf der Overview: ohne Shards + Shard-Rohwert
   let total: number | null = null;
@@ -27,10 +43,21 @@ export default function ProfileHeading() {
           <h1 className={styles.name}>{subject.playerName}</h1>
           <span className={styles.profile}>{subject.profileName}</span>
         </div>
+        <div className={styles.actions}>
+          <button type="button" className={styles.action} onClick={copyLink}>
+            {copied ? "Copied!" : "Copy link"}
+          </button>
+          <button type="button" className={styles.action} onClick={submit} disabled={loading}>
+            {loading ? "Loading…" : "Refresh"}
+          </button>
+        </div>
       </div>
       {networth.status === "done" && (
         <dl className={styles.stats}>
           {total !== null && <Stat label="Total networth" value={formatCompact(total)} />}
+          {skills.status === "done" && (
+            <Stat label="Skill average" value={skills.data.average.toFixed(2)} />
+          )}
           <Stat label="Purse" value={formatCompact(networth.data.purse)} />
           <Stat label="Bank" value={formatCompact(networth.data.bank)} />
         </dl>
