@@ -1,1 +1,615 @@
-{ "pets": [] }
+{
+  "source": "https://hypixelskyblock.minecraft.wiki/w/Pets",
+  "fetchedAt": "2026-11-16T11:53:35.643Z",
+  "pets": [
+    {
+      "key": "bee",
+      "name": "Bee",
+      "title": "&7[Lvl 1➡100] &dBee",
+      "tooltip": "&8Farming Pet//&7&7Strength: &c+5.25➡30/&7Intelligence: &b+0.5➡50/&7Speed: &f+0.1➡10/&7Mining Fortune: &6+0.4➡40/&7Foraging Fortune: &6+0.4➡40/&7Farming Fortune: &6+0.4➡40//&6Hive/&r&7For each player within &a25 &7blocks:/&b +1.09➡10 Intelligence/&c +1.07➡8 Strength/&a +1.04➡5 Defense/&8Max 15 players//&6Busy Buzz Buzz/&r&7Grants &a+0.4➡40 &7of each to your pet:/&6 Farming Fortune/&6 Foraging Fortune/&6 Mining Fortune//&6Honey Harvester/&r&7You have a &a0➡0.02% &7chance to find a/&aHoney Jar &7when farming crops.//&6Powered by Pollen/&r&7Grants &6+160 Sunflower&7,/&6Moonflower&7, and &6Wild Rose Fortune/&7while in &aThe Garden&7.//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/bee.png"
+    },
+    {
+      "key": "chicken",
+      "name": "Chicken",
+      "title": "&7[Lvl 1➡100] &6Chicken",
+      "tooltip": "&8Farming Pet//&7&7Speed: &f+0.5➡50/&7Farming Fortune: &6+0.5➡50//&6Free Range/&r&7Grants &6+1➡100 Farming Fortune &7while/&7on &bPublic Islands&7.//&6Eggstra Loot/&r&7Chickens always drop an &fEgg &7when/&7killed. Grants a &a1➡100% &7chance for/&7animals to drop an additional item.//&6Light Feet/&r&7Reduces fall damage by &a1➡100%&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/chicken.png"
+    },
+    {
+      "key": "elephant",
+      "name": "Elephant",
+      "title": "&7[Lvl 1➡100] &dElephant",
+      "tooltip": "&8Farming Pet//&7&7Health: &c+1➡100/&7Intelligence: &b+0.75➡75/&7Farming Fortune: &6+0.5➡50//&6Stomp/&r&7Gain &a0.2➡20 Defense &7for every/&7100 &f Speed&7.//&6Walking Fortress/&r&7Gain &c0.01➡1 Health &7for every/&710 &a Defense&7.//&6Trunk Efficiency/&r&7Grants &6+1.5➡150 Farming/&6Fortune, &7which increases your/&7chance for multiple drops.//&6Abundant Harvest/&r&7Earn &2+0.2➡20% Sowdust &7while farming.//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/elephant.png"
+    },
+    {
+      "key": "hedgehog",
+      "name": "Hedgehog",
+      "title": "&7[Lvl 1➡100] &6Hedgehog",
+      "tooltip": "&8Farming Pet//&7&7Speed: &f+0.15➡15//&6Spiky Quills/&r&7Deal &a1➡100% &7more damage to &2 Pests&7.//&6Fearsome Farmer/&r&7Grants &6+1➡100 Farming Fortune &7and/&e+0.35➡35 Overbloom&7 &7on &2 Pests&7.//&6Hunter's Insight/&r&7Grants &6+0.7 Farming Fortune&7 per/&7Pest Bestiary Tier.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/hedgehog.png"
+    },
+    {
+      "key": "mooshroomcow",
+      "name": "Mooshroom Cow",
+      "title": "&7[Lvl 1➡100] &6Mooshroom Cow",
+      "tooltip": "&8Farming Pet//&7&7Health: &c+1➡100/&7Farming Fortune: &6+1➡100//&6Mushroom Eater/&r&7You have a &a+1➡100 &7chance to drop a/&7Mushroom when farming crops.//&6Farming Strength/&r&7Grants &6+0.7 Farming Fortune for/&7every &c39.8➡20  Strength &7you have.//&6Bovine Blessing/&r&7You have a &a+0➡0.02% &7chance to find/&aTasty Cheese &7or &aDung &7when farming/&7crops.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/mooshroomcow.png"
+    },
+    {
+      "key": "mosquito",
+      "name": "Mosquito",
+      "title": "&7[Lvl 1➡100] &6Mosquito",
+      "tooltip": "&8Farming Pet//&7&7Speed: &f+0.2➡20/&7Bonus Pest Chance: &2+0.5➡50%//&6Smooth Jazz/&r&7Pest Vinyls are &a+0.5➡50% &7more effective.//&6Buzzin' Barterer/&r&7Gain &6+0.02➡2 Sugar Cane Fortune &7for/&7every unique visitor you've served/&7in &aThe Garden&7./&8Your Bonus: # Sugar Cane Fortune/&8Capped at 175 Fortune//&6Bloodsucker's Betrayal/&r&7When collected, &2Pest Traps &7will catch/&7the next pest &a0.2➡20% &7faster.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/mosquito.png"
+    },
+    {
+      "key": "orchidmantis",
+      "name": "Orchid Mantis",
+      "title": "&7[Lvl 1➡100] &6Orchid Mantis",
+      "tooltip": "&8Farming Pet//&7&7Speed: &f+0.3➡30/&7Overbloom: &e+0.15➡15//&6Intelligent Specimen/&r&7Earn &a+0.2➡20% &7more Farming Tool Exp.//&6Swift Sickles/&r&7Convert every &f3 &f Speed &7you have/&7above &f100 &7into &6+0.01➡1 Farming/&6Fortune.//&6Orchid Nectar/&r&7You have a &a+0➡0.02% &7chance to find/&aJelly &7or &aPlant Matter &7when farming/&7crops.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/orchidmantis.png"
+    },
+    {
+      "key": "pig",
+      "name": "Pig",
+      "title": "&7[Lvl 1➡100] &6Pig",
+      "tooltip": "&8Farming Pet//&7&7Speed: &f+0.15➡15/&7Potato Fortune: &6+0.2➡20//&6Hamfisted/&r&7Increases &6Coin &7gain from &6Shiny Pigs/&7by &a0.5➡50%&7.//&6Shining Stampede/&r&7Grants &6+0.05➡5 Potato Fortune &7per/&6Shiny Pig &3Bestiary &7tier.//&6Pig Parade/&r&7Increases the base stats of this pet/&7by &a1➡100% &7during the &dYear of the Pig&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/pig.png"
+    },
+    {
+      "key": "rabbit",
+      "name": "Rabbit",
+      "title": "&7[Lvl 1➡100] &dRabbit",
+      "tooltip": "&8Farming Pet//&7&7Health: &c+1➡100/&7Speed: &f+0.2➡20//&6Happy Feet/&r&7Jump potions also give &a+0.5➡50/&a&7speed.//&6Farming Wisdom Boost/&r&7Gives &3+0.3➡30☯ Farming/&3Wisdom&7.//&6Efficient Farming/&r&7Farming minions work &a0.3➡30%/&a&7faster while on your island.//&6Chocolate Injections/&r&7Increases &6Chocolate Factory/&7production by &a+0.01➡0.05x&7. Duplicate/&aChocolate Rabbits&7 that you find/&7grant &6+1.62➡33.3% Chocolate.//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/rabbit.png"
+    },
+    {
+      "key": "rosedragon",
+      "name": "Rose Dragon",
+      "title": "&7[Lvl 101➡200] &6Rose Dragon",
+      "tooltip": "&8Farming Pet//&7&7Speed: &f+50.5➡100/&7Farming Fortune: &6+20.2➡40//&6Garden Power/&r&7Grants +&61.52➡3 Farming Fortune per/&aFarming &7level.//&6Rosy Scales/&r&7Grants &60.15 Farming Fortune &7and/&f0.1 Speed&7 per Crop Milestone.//&6Dragon's Gluttony/&r&7Grants &e+20.2➡40 Overbloom&7.//&6Spiritual Perfection/&r&7Gain &a20% &7more &cCopper &7from &aGarden/&aVisitors&7 and from analyzing &eMutations&7.//&6Symbiosis/&r&7If you own a level &a200 Rose Dragon&7,/&7Grants &6+3 Farming Fortune for/&7every other unique maxed Farming/&7Pet that you own.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/rosedragon.png"
+    },
+    {
+      "key": "slug",
+      "name": "Slug",
+      "title": "&7[Lvl 1➡100] &6Slug",
+      "tooltip": "&8Farming Pet//&7&7Defense: &a+0.2➡20/&7Intelligence: &b+0.25➡25//&6Slow and Steady/&r&7When fishing in the &cCrimson/&cIsle&7, &aSlugfish &7take &a0.5➡50%/&7less time to catch.//&6Pest Friends/&r&7Grants &2+0.4➡40 Bonus Pest/&2Chance&7.//&6Repugnant Aroma/&r&7When farming in a plot/&7affected by a &aSprayonator&7,/&7gain &6+1➡100 Farming Fortune&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/slug.png"
+    },
+    {
+      "key": "armadillo",
+      "name": "Armadillo",
+      "title": "&7[Lvl 1➡100] &dArmadillo",
+      "tooltip": "&8Mining Mount//&7&7Defense: &a+2➡200//&6Ridable/&r&7Right-click your summoned pet to/&7ride it! Moves faster based on your/&f Speed&7.//&6Tunneller/&r&7While in the &5Crystal Hollows&7, this Pet/&7breaks all blocks in its path using/&7your held item.//&6Rolling Miner/&r&7Every &a59.6➡20 &7seconds, the next/&dGemstone &7you mine gives &a2x &7drops.//&6Long Claws/&r&7Grants &e3➡300 Mining Spread &7while/&7mining Hard Stone.//&6Well-Worked/&r&7Consumes &e0.1➡10 &7less energy when/&7tunneling.//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/armadillo.png"
+    },
+    {
+      "key": "bal",
+      "name": "Bal",
+      "title": "&7[Lvl 1➡100] &6Bal",
+      "tooltip": "&8Mining Pet//&7&7Heat Resistance: &c+1.5➡150/&7Mining Fortune: &6+1➡100//&6Furnace/&r&7Grants &5+0.03➡3 Pristine &7while in the/&cMagma Fields&7.//&6Dispersion/&r&7While in the &5Crystal Hollows&7, killing/&7mobs reduces your &c Heat &7by &c4&7.//&6Cannibal/&r&7Increases damage dealt to &c&lBal &7by/&a1➡100%&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/bal.png"
+    },
+    {
+      "key": "bat",
+      "name": "Bat",
+      "title": "&7[Lvl 1➡100] &dBat",
+      "tooltip": "&8Mining Pet//&7&7Intelligence: &b+1➡100/&7Speed: &f+0.05➡5/&7Fishing Speed: &b+0.4➡40/&7Sea Creature Chance: &3+0.05➡5%//&6Candy Lover/&r&7Increases drop chance of candies/&7from mobs by &a0.2➡20%&7.//&6Nightmare/&r&7During night, gain &a0.3➡30 &b Intelligence&7,/&a0.5➡50 &f Speed&7, and &aNight Vision&7.//&6Wings of Steel/&r&7Deals &a+0.5➡50% &7damage to &6Spooky/&7enemies during the &6Spooky Festival&7.//&6Sonar/&r&7Grants a &a+0.2➡20% &7chance to catch/&6Spooky Sea Creatures &7during the/&6Spooky Festival&7.//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/bat.png"
+    },
+    {
+      "key": "endermite",
+      "name": "Endermite",
+      "title": "&7[Lvl 1➡100] &dEndermite",
+      "tooltip": "&8Mining Pet//&7&7Intelligence: &b+1.5➡150/&7Pet Luck: &d+0.1➡10//&6More Stonks/&r&7Gain more exp orbs for/&7breaking end stone and gain a/&7+&a1➡100% &7chance to get an extra/&7block dropped.//&6Daily Commuter/&r&9Transmission Abilities/&7cost &a0.4➡40% &7less mana.//&6Mite Bait/&r&7Gain a &a0.03➡3% &7chance to dig up/&7a bonus &cNest Endermite &7per/&d+1 Pet Luck &8(Stacks above/&8100%).//&6Sacrificer/&r&7Increases the odds of rolling/&7for bonus items in the/&cDraconic Altar &7by &a0.1➡10%&7.//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/endermite.png"
+    },
+    {
+      "key": "glacitegolem",
+      "name": "Glacite Golem",
+      "title": "&7[Lvl 1➡100] &6Glacite Golem",
+      "tooltip": "&8Mining Pet//&7&7Cold Resistance: &b+0.1➡10/&7Mining Speed: &6+1.25➡125//&6Powder-powered/&r&7Gain &a+0.2➡20%&7 more &bGlacite Powder &7from/&7most sources.//&6Iceborn/&r&7Gain &a+1➡100 &6 Mining Fortune &7while in the/&bGlacite Mineshafts&7.//&6Frozen Perfection/&r&7Gain &a+0.01➡1 &5 Pristine &7for every/&bFrozen Corpse &7you've looted in the/&7current &bGlacite Mineshaft&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/glacitegolem.png"
+    },
+    {
+      "key": "goblin",
+      "name": "Goblin",
+      "title": "&7[Lvl 1➡100] &6Goblin",
+      "tooltip": "&8Mining Pet//&7&7Magic Find: &b+0.07➡7/&7Ore Fortune: &6+1➡100//&6Grunt Work/&r&7Gain &6+2.5➡250 Mining Speed &7when mining/&6Ores&7.//&6Fetid Thief/&r&7Gain &e+1➡100 Mining Spread &7while in the/&2Mines of Divan&7.//&6Free-range Eggs/&r&7Increases the chance of finding/&7rare goblin eggs by &a0.5➡50%&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/goblin.png"
+    },
+    {
+      "key": "mithrilgolem",
+      "name": "Mithril Golem",
+      "title": "&7[Lvl 1➡100] &dMithril Golem",
+      "tooltip": "&8Mining Pet//&7&7True Defense: &f+0.5➡50/&7Mining Fortune: &6+0.25➡25//&6Mithril Affinity/&r&7Grants &6+2➡200&6 Mining Speed &7when/&7mining &2Mithril&7.//&6Subterranean Battler/&r&7Increases all &cCombat Stats &7by &a+0.2➡20%/&7on &bMining Islands&7.//&6The Smell Of Powder/&r&7Grants &2+0.2➡20% ᠅ Mithril Powder &7from/&7all sources.//&6Refined Senses/&r&7Grants &b+0.1➡10%  Magic Find&7 while on/&bMining Islands&7.//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/mithrilgolem.png"
+    },
+    {
+      "key": "mole",
+      "name": "Mole",
+      "title": "&7[Lvl 1➡100] &6Mole",
+      "tooltip": "&8Mining Pet//&7&7Intelligence: &b+1➡100/&7Magic Find: &b+0.05➡5/&7Mining Speed: &6+1.5➡150//&6Archaeologist/&r&cScavenged Items &7appear &a0.25➡25% &7more/&7often while in the &2Mines of Divan&7.//&6Magnetic Nose/&r&9Automatons &7drop their parts &a0.5➡50%/&7more frequently.//&6Nucleic Veins/&r&7The &5Crystal Nucleus &7has a &a1➡100%/&7chance to drop an additional item.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/mole.png"
+    },
+    {
+      "key": "rock",
+      "name": "Rock",
+      "title": "&7[Lvl 1➡100] &6Rock",
+      "tooltip": "&8Mining Mount//&7&7Defense: &a+2➡200/&7True Defense: &f+0.1➡10//&6Rideable/&r&7Right-click your summoned pet/&7to ride it!//&6Sailing Stone/&r&7Sneak to move your rock to/&7your location (15s cooldown).//&6Fortify/&r&7While sitting on your rock,/&7gain +&a0.25➡25% &7defense.//&6Steady Ground/&r&7While sitting on your rock,/&7gain &c+1➡1.3x &7damage.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/rock.png"
+    },
+    {
+      "key": "scatha",
+      "name": "Scatha",
+      "title": "&7[Lvl 1➡100] &6Scatha",
+      "tooltip": "&8Mining Pet//&7&7Mining Speed: &6+1➡100/&7Mining Fortune: &6+1.25➡125//&6Burrowing/&r&7Grants a &a+0.5➡50% &7chance to find/&eTreasure Chests &7while mining.//&6Drill Infusion/&r&7Grants &6+1.25➡125 Gemstone Fortune &7to/&7Drills.//&6Bejeweled Eyes/&r&7Earn &a+0.2➡20% &dGemstone Powder &7from all/&7sources.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/scatha.png"
+    },
+    {
+      "key": "silverfish",
+      "name": "Silverfish",
+      "title": "&7[Lvl 1➡100] &6Silverfish",
+      "tooltip": "&8Mining Pet//&7&7Defense: &a+1➡100/&7Mining Fortune: &6+0.2➡20//&6Magnetic/&r&7Earn &a+0.5➡50% &7more Exp when mining.//&6Experienced Burrower/&r&7Grants &3+0.3➡30☯ Mining Wisdom&7.//&6Dexterity/&r&7Grants &6+1.5➡150 Mining Speed &7and/&7permanent &eHaste I\\/II\\/III&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/silverfish.png"
+    },
+    {
+      "key": "snail",
+      "name": "Snail",
+      "title": "&7[Lvl 1➡100] &6Snail",
+      "tooltip": "&8Mining Pet//&7&7Defense: &a+1➡100/&7Intelligence: &b+1➡100//&6Red Sand Enjoyer/&r&9Red Sand Minions &7work &a0.3➡30% &7faster/&7while on your &bPrivate Island&7.//&6Slow and Steady/&r&7Convert every &f4.97➡2 Speed &7you have/&7above &f100 &7into &6+1 Block Fortune&7.//&6Slimy Reach/&r&7Grants &e+4➡400 Mining Spread &7while/&7mining &9Blocks&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/snail.png"
+    },
+    {
+      "key": "witherskeleton",
+      "name": "Wither Skeleton",
+      "title": "&7[Lvl 1➡100] &6Wither Skeleton",
+      "tooltip": "&8Mining Pet//&7&7Defense: &a+0.25➡25/&7Strength: &c+0.25➡25/&7Crit Chance: &9+0.05➡5%/&7Crit Damage: &9+0.25➡25%/&7Intelligence: &b+0.25➡25//&6Stronger Bones/&r&7Take &a0.3➡30% &7less damage from &f/&fSkeletal &7mobs.//&6Wither Blood/&r&7Deal &a1➡100% &7more damage to &8 Wither/&7mobs.//&6Death's Touch/&r&7Upon hitting an enemy inflict/&7the wither effect for &a2➡200%/&7damage over 3 seconds./&8Does not stack//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/witherskeleton.png"
+    },
+    {
+      "key": "ankylosaurus",
+      "name": "Ankylosaurus",
+      "title": "&7[Lvl 1➡100] &6Ankylosaurus",
+      "tooltip": "&8Combat Pet//&7&7Health: &c+1.5➡150/&7Defense: &a+0.5➡50/&7True Defense: &f+0.15➡15//&6Armored Tank/&r&7Gain &a0.5➡50% &7of your &a Defense &7as &c/&cStrength&7. &8(Max +500)//&6Unyielding/&r&7Increase the effectiveness of &d&lLast/&d&lStand &7and &6Lifeline &7by &a0.5➡50%&7.//&6Clubbed Tail/&r&7Every 5th hit deals &a0.5➡50% &7of your/&7final damage to enemies within 5/&7blocks. Enemies hit deal 10% less/&7damage for 10s.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/ankylosaurus.png"
+    },
+    {
+      "key": "blackcat",
+      "name": "Black Cat",
+      "title": "&7[Lvl 1➡100] &dBlack Cat",
+      "tooltip": "&8Combat Pet//&7&7Intelligence: &b+1➡100/&7Speed: &f+1.25➡125/&7Magic Find: &b+0.15➡15/&7Pet Luck: &d+0.15➡15//&6Hunter/&r&7Increases your speed and/&7speed cap by +&a1➡100&7.//&6Omen/&r&7Grants &a0.15➡15 &7&d Pet Luck&7.//&6Supernatural/&r&7Grants &a0.15➡15 &7&b Magic Find&7.//&6Looting/&r&7Gain &c0.15➡15% &7more collection/&7items from monsters!//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/blackcat.png"
+    },
+    {
+      "key": "blaze",
+      "name": "Blaze",
+      "title": "&7[Lvl 1➡100] &6Blaze",
+      "tooltip": "&8Combat Pet//&7&7Defense: &a+0.3➡30/&7Intelligence: &b+1➡100//&6Nether Embodiment/&r&7Increases &cCombat &7and &dMiscellaneous/&7stats by &a0.1➡10% &7while on the &cCrimson/&cIsle&7.//&6Bling Armor/&r&7Upgrades &cBlaze Armor &7stats/&7and ability by &a0.4➡40%//&6Fusion-Style Potato/&r&7Double effects of hot potato/&7books.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/blaze.png"
+    },
+    {
+      "key": "crow",
+      "name": "Crow",
+      "title": "&7[Lvl 1➡100] &6Crow",
+      "tooltip": "&8Combat Pet//&7&7Intelligence: &b+1.5➡150/&7Ability Damage: &c+0.2➡20//&6Quick Hands/&r&7Lowers the cooldown of your &cWeapon/&7abilities by &a+3.12➡15%&7.//&6Camouflage/&r&7After casting an ability, increase/&7your &a Defense &7by &a+5.15➡20 &7for &b20/&bseconds&7./&8Capped at 500 Defense//&6Insightful/&r&7Gives a &a3.12➡15% &7chance to not consume/&7Mana when using an ability.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/crow.png"
+    },
+    {
+      "key": "eerie",
+      "name": "Eerie",
+      "title": "&7[Lvl 1➡100] &6Eerie",
+      "tooltip": "&8Combat Pet//&7&7Speed: &f+0.1➡10/&7Intelligence: &b+0.5➡50//&6Fearnesy/&r&5Fear &7from &5Great Spook Armor &7in/&7your &bwardrobe &7applies to you, even/&7if you aren't wearing it.//&6Fearama/&r&7Increases &cdamage &7dealt to Primal/&7Fears and Spooky Mobs by &a0.11➡1.01% &7for/&7every &5Fear &7you have.//&6Fearcreasing/&r&7Gives &a+0.1➡0.4 &5Fear &7for every &a10 &cPrimal/&cFears &7killed, up to &a150 &cPrimal Fears&7./&cPrimal Fear Kills&7: (&a0&7\\/&a150&7)//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/eerie.png"
+    },
+    {
+      "key": "enderdragon",
+      "name": "Ender Dragon",
+      "title": "&7[Lvl 1➡100] &6Ender Dragon",
+      "tooltip": "&8Combat Pet//&7&7Strength: &c+0.5➡50/&7Crit Chance: &9+0.1➡10%/&7Crit Damage: &9+0.5➡50%//&6End Strike/&r&7Deal &a2➡200% &7more damage to &5 Ender/&7mobs.//&6One with the Dragons/&r&7Buffs the &6Aspect of the Dragons/&7sword by &a0.5➡50 &c Damage &7and &a0.3➡30 &c/&cStrength&7.//&6Superior/&r&7Increases all &cCombat &7stats and &b/&bMagic Find &7by &a0.1➡10%&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/enderdragon.png"
+    },
+    {
+      "key": "enderman",
+      "name": "Enderman",
+      "title": "&7[Lvl 1➡100] &dEnderman",
+      "tooltip": "&8Combat Pet//&7&7Crit Damage: &9+0.75➡75%//&6Enderian/&r&7Take &a0.3➡30% &7less damage from &5 Ender /&7mobs//&6Teleport Savvy/&r&7Buffs the Transmission abilities, granting /&a0.5➡50 &7weapon damage for 5s on use//&6Zealot Madness/&r&7Increases your odds to find a/&7special Zealot by &a0.25➡25%&7.//&6Enderman Slayer/&r&7Gain &3+0.5➡50☯ Combat Wisdom &7towards/&5Endermen&7.//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/enderman.png"
+    },
+    {
+      "key": "ghoul",
+      "name": "Ghoul",
+      "title": "&7[Lvl 1➡100] &6Ghoul",
+      "tooltip": "&8Combat Pet//&7&7Health: &c+1➡100/&7Ferocity: &c+0.05➡5/&7Intelligence: &b+0.75➡75/&7Vitality: &4+0.15➡15/&7Mending: &a+0.25➡25//&6Undead Slayer/&r&7Gain &3+0.5➡50☯ Combat Wisdom &7towards/&2Zombies&7.//&6Army of the Dead/&r&7Increases the amount of souls you/&7can store by &a2 &7and the chance of/&7getting a mob's soul by &a0.2➡20%//&6Reaper Soul/&r&7Reduces the summoning cost of mobs/&7by &a0.3➡30% &7and increases their damage/&7output by &a0.2➡20%&7. Increases the health/&7of all summoned mobs by &a1➡100%&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/ghoul.png"
+    },
+    {
+      "key": "goldendragon",
+      "name": "Golden Dragon",
+      "title": "&7[Lvl 101➡200] &6Golden Dragon",
+      "tooltip": "&8Combat Pet//&7&7Strength: &c+25.25➡50/&7Attack Speed: &e+25.25➡50%/&7Magic Find: &b+5.05➡10//&6Gold's Power/&r&7Increase the potency of &6Midas'/&6Sword &7and &6Midas Staff's &5Greed Ability/&7by &a5.05➡10%//&6Shining Scales/&r&7Grants &c+11.1 Strength &7and &b+2.2/&bMagic Find &7to your pet for each digit/&7in your &6Gold Collection&7./&8(Max 100M collection)//&6Dragon's Greed/&r&7Grants &c+0.25➡0.5% &c Strength &7per &b5/&bMagic Find&7. &8(Max +5%)//&6Legendary Treasure/&r&7Gain &c0.13➡0.25% &7damage for every million/&7coins in your bank. &8(Max 250%)//&6Symbiosis/&r&7If you own a level &a200 Golden/&aDragon&7, gain &6+5 coins &7per monster/&7kill for every other unique maxed/&7Combat Pet that you own.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/goldendragon.png"
+    },
+    {
+      "key": "golem",
+      "name": "Golem",
+      "title": "&7[Lvl 1➡100] &6Golem",
+      "tooltip": "&8Combat Pet//&7&7Health: &c+1.5➡150/&7Strength: &c+0.5➡50/&7Swing Range: &e+0.01➡1//&6Last Stand/&r&7While at less than &a20% HP&7, reduce/&7incoming damage by &a20%&7. Additionally,/&7gain a temporary shield equal to &a40%/&7of your maximum health and deal &a40%/&7more damage./&8(Lasts 12s, 60s cooldown)//&6Ricochet/&r&7Your iron plating causes &a0.25➡25% &7of/&7attacks to ricochet and hit the/&7attacker.//&6Toss/&r&7Every 5 hits, throw the enemy up into/&7the air and deal &a5x &7damage &8(5s cooldown).//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/golem.png"
+    },
+    {
+      "key": "grandmawolf",
+      "name": "Grandma Wolf",
+      "title": "&7[Lvl 1➡100] &6Grandma Wolf",
+      "tooltip": "&8Combat Pet//&7&7Strength: &c+0.25➡25/&7Health: &c+1➡100//&6Kill Combo/&r&7Gain buffs for combo kills./&7Effects stack as you increase/&7your combo.//&a5 Combo &8(lasts &a8.02➡10s&8)/ &8+&b3% &b Magic Find/&a10 Combo &8(lasts &a6.02➡8s&8)/ &8+&610 &7coins per kill/&a15 Combo &8(lasts &a4.02➡6s&8)/ &8+&b3% &b Magic Find/&a20 Combo &8(lasts &a3.02➡5s&8)/ &8+&315☯ Combat Wisdom/&a25 Combo &8(lasts &a3.01➡4s&8)/ &8+&b3% &b Magic Find/&a30 Combo &8(lasts &a2.01➡3s&8)/ &8+&610 &7coins per kill//&8This pet's perks are active even/&8when the pet is not summoned!//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/grandmawolf.png"
+    },
+    {
+      "key": "griffin",
+      "name": "Griffin",
+      "title": "&7[Lvl 1➡100] &dGriffin",
+      "tooltip": "&8Combat Pet//&7&7Strength: &c+0.5➡50/&7Crit Chance: &9+0.1➡10%/&7Crit Damage: &9+0.5➡50%/&7Attack Speed: &e+0.25➡25%//&6Odyssey/&r&c12 &7types of &2 Mythological &7can/&7spawn from &eGriffin Burrows&7. Their/&7stats scale with your Griffin's/&7rarity.//&6Sacred Strength/&r&7Gain &c+0.15➡15% &c Strength/&7when above &c85% &7health.//&6King of Kings/&r&7Grants &b+0.2➡20  Magic Find &7on &2/&2Mythological &7mobs.//&6Ancient Earth/&r&7Grants &d+1  Tracking &7on &eGriffin/&eBurrows &7for each burrow excavated/&7in your current chain.//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/griffin.png"
+    },
+    {
+      "key": "horse",
+      "name": "Horse",
+      "title": "&7[Lvl 1➡100] &6Horse",
+      "tooltip": "&8Combat Pet//&7&7Intelligence: &b+0.5➡50/&7Speed: &f+1➡100//&6High Stride/&r&7Grants permanent &bJump Boost IV&7.//&6Stampede/&r&7Mob kills grant a stack of &f+1.2➡21 /&fSpeed &7and &c+1.05➡6  Strength &7for &a5s&7./&8(Max 20 stacks)//&6Trample/&r&7After falling &a20 &7or more blocks,/&7absorb your fall damage and deal/&a0.55➡5% &7of your weapon's &c Damage &7for/&7every block fallen to mobs within &a3/&7blocks.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/horse.png"
+    },
+    {
+      "key": "hound",
+      "name": "Hound",
+      "title": "&7[Lvl 1➡100] &6Hound",
+      "tooltip": "&8Combat Pet//&7&7Strength: &c+0.4➡40/&7Attack Speed: &e+0.25➡25%/&7Ferocity: &c+0.05➡5/&7Speed: &f+0.1➡10//&6Scavenger/&r&7Gain +&a1➡100 &7coins per monster kill.//&6Finder/&r&7Increases the chance for monsters/&7to drop their armor by &a0.3➡30%&7.//&6Pack Slayer/&r&7Gain &3+0.5➡50☯ Combat Wisdom &7towards/&fWolves&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/hound.png"
+    },
+    {
+      "key": "jerry",
+      "name": "Jerry",
+      "title": "&7[Lvl 1➡100] &dJerry",
+      "tooltip": "&8Combat Pet//&7&7Intelligence: &b-1➡-100//&6Jerry/&r&7Gain &a50% &7chance to deal/&7your regular damage.//&6Jerry/&r&7Gain &a100% &7chance to/&7receive a normal amount of drops/&7from mobs.//&6Jerry/&r&7Actually adds &c0.5➡50 damage &7to/&7the Aspect of the Jerry.//&6Jerry/&r&7Tiny chance to find Jerry/&7Candies when killing mobs.//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/jerry.png"
+    },
+    {
+      "key": "kuudra",
+      "name": "Kuudra",
+      "title": "&7[Lvl 1➡100] &6Kuudra",
+      "tooltip": "&8Combat Pet//&7&7Strength: &c+0.4➡40/&7Health: &c+4➡400//&6Wither Bait/&r&7Increases the odds of finding/&7a vanquisher by &a0.2➡20%&7.//&6Trophy Bait/&r&7Grants &6+0.2➡20 Trophy Chance&7 while/&7on the &cCrimson Isle&f.//&6Crimson/&r&7Grants &a0.2➡20% &7extra Crimson/&7Essence.//&6Kuudra Fortune/&r&7Gain &6+1➡100 Mining Fortune/&7while on the Crimson Isle.//&6Kuudra Specialist/&r&7Increases all damage to Kuudra and/&7his minions by &c20%&7.//&8This pet's perks are active even/&8when the pet is not summoned!//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/kuudra.png"
+    },
+    {
+      "key": "magmacube",
+      "name": "Magma Cube",
+      "title": "&7[Lvl 1➡100] &6Magma Cube",
+      "tooltip": "&8Combat Pet//&7&7Health: &c+0.5➡50/&7Defense: &a+0.33➡33/&7Strength: &c+0.2➡20//&6Slimy Minions/&r&7Slime and Magma Cube minions work/&a0.3➡30% &a&7faster while on your island//&6Salt Blade/&r&7Deal &a0.25➡25% &7more damage to slimes//&6Hot Ember/&r&7Buffs the stats of &5Rekindled Ember/&5Armor &7by &a0.5➡50%.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/magmacube.png"
+    },
+    {
+      "key": "mammoth",
+      "name": "Mammoth",
+      "title": "&7[Lvl 1➡100] &6Mammoth",
+      "tooltip": "&8Combat Pet//&7&7Defense: &a+0.5➡50/&7Cold Resistance: &b+0.1➡10//&6Wooly Coat/&r&7Gain a &a1➡100% &7chance for mobs to not/&7inflict &b Cold &7when damaging you in/&7the &bGlacite Mineshafts&7.//&6Tusk Luck/&r&7Gain &b+0.01➡0.5 Magic Find &7for every/&7100 &6 Mining Fortune&7, doubled in the/&bGlacite Tunnels &7and &bGlacite/&bMineshafts&7.//&6Corpse Crusher/&r&7Gain &6+0.3➡30 Mining Fortune &7for each/&bFrozen Corpse &7looted in your/&7current &bGlacite Mineshaft&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/mammoth.png"
+    },
+    {
+      "key": "phoenix",
+      "name": "Phoenix",
+      "title": "&7[Lvl 1➡100] &cPhoenix",
+      "tooltip": "&8Combat Pet//&7&7Strength: &c+10.5➡60/&7Intelligence: &b+51➡150//&6Rekindle/&r&7Before death, become &eimmune/&e&7and gain &c15.15➡30 &c Strength/&c&7for &a2➡4 &7seconds./&81 minute cooldown//&6Fourth Flare/&r&7On 4th melee strike, &6ignite/&6&7mobs, dealing &c1.14➡15x &7your &9/&9Crit Damage &7each second for/&7&a2➡5 &7seconds.//&6Magic Bird/&r&7You may always fly on your/&7private island.//&6Eternal Coins/&r&7Don't lose coins from death.//&r&eRight-click to add this pet to your pet menu!//&r&c&lVERY SPECIAL",
+      "image": "/pets/phoenix.png"
+    },
+    {
+      "key": "pigman",
+      "name": "Pigman",
+      "title": "&7[Lvl 1➡100] &6Pigman",
+      "tooltip": "&8Combat Pet//&7&7Defense: &a+0.5➡50/&7Strength: &c+0.5➡50/&7Ferocity: &c+0.05➡5//&6Bacon Farmer/&r&7Pig minions work &a0.3➡30%/&a&7faster while on your island.//&6Pork Master/&r&7Buffs the Pigman sword by &a0.4➡40/&a&c Damage &7and &a0.25➡25 &c/&cStrength.//&6Giant Slayer/&r&7Deal &c+50% &7damage to monsters Level/&a50+ &7and &c+75% damage to monsters/&7Level &a100+&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/pigman.png"
+    },
+    {
+      "key": "rat",
+      "name": "Rat",
+      "title": "&7[Lvl 1➡100] &dRat",
+      "tooltip": "&8Combat Morph//&7&7Health: &c+1.25➡125/&7Strength: &c+0.6➡60/&7Crit Damage: &9+0.25➡25%//&6Morph/&r&7Right-click your summoned pet/&7to morph into it!//&6CHEESE!/&r&7As a Rat, you smell/&7&e&lCHEESE&r&7 nearby! Yummy!//&6Rat's Blessing/&r&7Has a chance to grant a random/&7player &b+2.05➡7 Magic Find&7 for/&7&a20.4➡60&7 seconds after finding a/&7yummy piece of Cheese! If the/&7player gets a drop during this/&7buff, you have a &a20% &7chance/&7to get it too.//&6Extreme Speed/&r&7The Rat is TWO times faster AND can/&7fly!//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/rat.png"
+    },
+    {
+      "key": "riftferret",
+      "name": "Rift Ferret",
+      "title": "&7[Lvl 1➡100] &6Rift Ferret",
+      "tooltip": "&8Combat Pet//&7&7Speed: &f+0.5➡50/&7Intelligence: &b-0.02➡-2//&6Orbs are Fun/&r&7Gain &a+10% &7experience from/&bXP Orbs&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/riftferret.png"
+    },
+    {
+      "key": "skeleton",
+      "name": "Skeleton",
+      "title": "&7[Lvl 1➡100] &6Skeleton",
+      "tooltip": "&8Combat Pet//&7&7Crit Chance: &9+0.15➡15%/&7Crit Damage: &9+0.3➡30%//&6Bone Arrows/&r&7Increase arrow damage by &a0.75➡75%/&7which is doubled while in dungeons.//&6Combo/&r&7Gain a combo stack for every bow hit/&7granting +&a3 &c Strength&7. Max &a0.2➡20/&7stacks, stacks disappear after 8/&7seconds.//&6Skeletal Defense/&r&7Your skeleton shoots an arrow/&7dealing &a30x &7your &9 Crit Damage/&7when a mob gets close to you (5s/&7cooldown).//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/skeleton.png"
+    },
+    {
+      "key": "skeletonhorse",
+      "name": "Skeleton Horse",
+      "title": "&7[Lvl 1➡100] &6Skeleton Horse",
+      "tooltip": "&8Combat Pet//&7&7Intelligence: &b+0.75➡75/&7Speed: &f+1.5➡150//&6High Stride/&r&7Grants permanent &bJump Boost IV&7.//&6Stampede/&r&7Mob kills grant a stack of &e+0.01➡1 /&eAttack Speed &7and &c+0.1➡10  Strength/&7for &a5s&7./&8(Max 20 stacks)//&6Trample/&r&7After falling &a20 &7or more blocks,/&7absorb your fall damage and deal &a0.81➡7%/&7of your weapon's &c Damage &7for/&7every block fallen to mobs within &a3/&7blocks.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/skeletonhorse.png"
+    },
+    {
+      "key": "snowman",
+      "name": "Snowman",
+      "title": "&7[Lvl 1➡100] &dSnowman",
+      "tooltip": "&8Combat Pet//&7&7Damage: &c+0.25➡25/&7Strength: &c+0.25➡25/&7Crit Damage: &9+0.25➡25%//&6Blizzard/&r&7Enemies within &a8.08➡16 &7blocks are slowed/&7by &a25% &7and deal &a0.1➡10% &7less damage.//&6Frostbite/&r&7Your freezing aura slows enemy/&7attacks causing you to take &a0.1➡10%/&7reduced damage.//&6Snow Cannon/&r&7Shoots a snowball towards an enemy/&7when you attack dealing &a10.1➡20% &7of/&7your last dealt melee damage,/&7capped at &f200,000&7. &8(1s cooldown).//&6Ouch!/&r&7Your snowballs have &a50% &7chance of/&7dealing &cdouble &7damage!//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/snowman.png"
+    },
+    {
+      "key": "spider",
+      "name": "Spider",
+      "title": "&7[Lvl 1➡100] &dSpider",
+      "tooltip": "&8Combat Pet//&7&7Strength: &c+0.5➡50/&7Crit Chance: &9+0.1➡10%//&6One With the Spider/&r&7Applies &c5.1➡15  Strength &7to all/&4Arachnal  &7weapons, armor, and/&7equipment you have equipped.//&6Web-Weaver/&r&7Upon hitting a monster it becomes/&7slowed by &a0.4➡40%//&6Spider Whisperer/&r&7Spider, Cave Spider and Tarantula/&7minions work &a0.3➡30% &7faster while on/&7your island.//&6Web Battlefield/&r&7Killing mobs grants &c+0.06➡6 &cStrength/&7and &b+0.01➡1 Magic Find &7for &a40s &7to all /&7players staying within &a20 &7blocks of/&7where they died. &8Stacks up to 10/&8times.//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/spider.png"
+    },
+    {
+      "key": "spirit",
+      "name": "Spirit",
+      "title": "&7[Lvl 1➡100] &6Spirit",
+      "tooltip": "&8Combat Pet//&7&7Intelligence: &b+1➡100/&7Speed: &f+0.3➡30//&6Spirit Assistance/&r&7Spawns and assists you when/&7you are a ghost in Dungeons.//&6Spirit Cooldowns/&r&7Reduces the cooldown of your/&7ghost abilities in dungeons by/&7&a5.45➡50%&7.//&6Half Life/&r&7If you are the first player to/&7die in a dungeon, the score/&7penalty for that death is/&7reduced to &a1&7.//&8This pet's perks are active even/&8when the pet is not summoned!//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/spirit.png"
+    },
+    {
+      "key": "trex",
+      "name": "T-Rex",
+      "title": "&7[Lvl 1➡100] &6T-Rex",
+      "tooltip": "&8Combat Pet//&7&7Strength: &c+0.75➡75/&7Crit Chance: &9+0.05➡5%/&7Ferocity: &c+0.25➡25//&6Close Combat/&r&7Deal &a1➡100% &7more &cdamage &7to enemies/&7within 1.5 blocks.//&6Ferocious Roar/&r&7Attacks have a &a0.1➡10% &7chance to stun/&7the target &8(10s cooldown).//&6Tyrant/&r&7Combat stats granted by pet items on/&7this pet are increased by &a1➡100%&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/trex.png"
+    },
+    {
+      "key": "tarantula",
+      "name": "Tarantula",
+      "title": "&7[Lvl 1➡100] &dTarantula",
+      "tooltip": "&8Combat Pet//&7&7Strength: &c+0.1➡10/&7Crit Chance: &9+0.1➡10%/&7Crit Damage: &9+0.3➡30%//&6Webbed Cells/&r&cTarantula Broodfather's &4 Vitality/&7reduction is &a0.3➡30% &7less effective/&7against you.//&6Eight Legs/&r&7Decreases the mana cost of/&7Spider, Tarantula and Spirit/&7boots by &a0.5➡50%//&6Arachnid Slayer/&r&7Gain &3+0.5➡50☯ Combat Wisdom &7towards/&4Spiders&7.//&6Web Battlefield/&r&7Killing mobs grants &c+0.06➡6/&cStrength &7and &b+0.01➡1 Magic Find/&7for &a40s &7to all players/&7staying within &a20 &7blocks/&7of where they died. &8Stacks/&8up to 10 times.//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/tarantula.png"
+    },
+    {
+      "key": "tiger",
+      "name": "Tiger",
+      "title": "&7[Lvl 1➡100] &6Tiger",
+      "tooltip": "&8Combat Pet//&7&7Strength: &c+5.09➡15/&7Crit Chance: &9+0.05➡5%/&7Crit Damage: &9+0.5➡50%/&7Ferocity: &c+0.25➡25//&6Merciless Swipe/&r&7Gain &c+0.3➡30% &c Ferocity.//&6Hemorrhage/&r&7Melee attacks reduce healing/&7by &60.55➡55% &7for &a10s.//&6Apex Predator/&r&7Deal &c+1➡100% &7damage against/&7targets with no other mobs/&7within &a15 &7blocks.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/tiger.png"
+    },
+    {
+      "key": "turtle",
+      "name": "Turtle",
+      "title": "&7[Lvl 1➡100] &6Turtle",
+      "tooltip": "&8Combat Pet//&7&7Health: &c+50.25➡75/&7Defense: &a+100.5➡150/&7True Defense: &f+0.15➡15//&6Turtle Tactics/&r&7Gain &a+3.27➡30%  Defense &7and an/&7additional &a+10% &a Defense &7when/&7standing still.//&6Genius Amniote/&r&7Grants &a+1.01➡2.5%  Defense &7to 4/&7players within 50 blocks of you.//&6Unflippable/&r&7Gain &aimmunity &7to knockback.//&6Turtle Shell/&r&7When under &c40% &7maximum HP, you take/&a0.25➡25% &7less damage. Gain &4+5.05➡10 &4Vitality/&7after taking 10 hits.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/turtle.png"
+    },
+    {
+      "key": "wolf",
+      "name": "Wolf",
+      "title": "&7[Lvl 1➡100] &6Wolf",
+      "tooltip": "&8Combat Pet//&7&7Health: &c+0.5➡50/&7True Defense: &f+0.1➡10/&7Crit Damage: &9+0.1➡10%/&7Speed: &f+0.2➡20//&6Alpha Dog/&r&7Take &a0.3➡30% &7less damage from/&7wolves.//&6Pack Leader/&r&7Gain &a0.15➡15 &9 Crit Damage/&9&7for every nearby wolf monsters./&8Max 10 wolves//&6Combat Wisdom Boost/&r&7Grants &3+0.3➡30☯ Combat/&3Wisdom&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/wolf.png"
+    },
+    {
+      "key": "zombie",
+      "name": "Zombie",
+      "title": "&7[Lvl 1➡100] &6Zombie",
+      "tooltip": "&8Combat Pet//&7&7Health: &c+1➡100/&7Crit Damage: &9+0.3➡30%//&6Bite Shield/&r&7Reduce the damage taken from/&7zombies by &a15.1➡25%&7.//&6Rotten Blade/&r&7Deal &a26.25➡150% &7more damage to &2 Undead/&7mobs//&6Living Dead/&r&7Increases all stats on/&2Undead ༕ &7armor by &a0.25➡25%.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/zombie.png"
+    },
+    {
+      "key": "frog",
+      "name": "Frog",
+      "title": "&7[Lvl 1➡100] &dFrog",
+      "tooltip": "&8Foraging Pet//&7&7Speed: &f+0.5➡50/&7Fishing Speed: &b+0.4➡40/&7Trophy Chance: &6+0.05➡5%/&7Respiration: &3+0.1➡10/&7Sweep: &2+0.1➡10//&6Hop/&r&7Grants&6 1.59➡80 Foraging Fortune &7for/&a20s &7every time you jump. Gain &bJump/&bBoost IV &7while on &2Foraging Islands&7.//&6Happy Tree Friends/&r&7Grants&6 0.2➡10 Foraging Fortune &7and/&b0.04➡2 Fishing Speed&7 for every other/&2Frog Pet &7on the island, &7up to &b10/&7frogs.//&6Hunting Enjoyer/&r&7Increases your chance of fishing up/&bWater &7Shards by &a1➡50% &7while on/&aForaging Islands&7.//&6Home Sweet Home/&r&7Increases your chance of catching/&6&lGOLD &7and &b&lDIAMOND &2Trophy Frogs/&7by &a0.2➡10%&7.//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/frog.png"
+    },
+    {
+      "key": "giraffe",
+      "name": "Giraffe",
+      "title": "&7[Lvl 1➡100] &6Giraffe",
+      "tooltip": "&8Foraging Pet//&7&7Health: &c+1➡100/&7Crit Chance: &9+0.05➡5%/&7Swing Range: &e+0.01➡1//&6Good Heart/&r&7Grants &c+50.5➡100 Health Regen&7.//&6Higher Ground/&r&7Increases your &9 Crit Damage &7and/&c Strength &7by &c0➡0.15% &7for every/&e0.1 Swing Range &7over &e3 &7(up to /&e6&7).//&6Long Neck/&r&7Increases your melee damage by/&c50.5➡100 &7if you are more than 3 blocks/&7away from the target.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/giraffe.png"
+    },
+    {
+      "key": "jadedragon",
+      "name": "Jade Dragon",
+      "title": "&7[Lvl 101➡200] &6Jade Dragon",
+      "tooltip": "&8Foraging Pet//&7&7Strength: &c+25.25➡50/&7Magic Find: &b+5.05➡10/&7Foraging Fortune: &6+25.25➡50//&6Forest Power/&r&7Adds &c75.25➡100 Strength &7and &f37.63➡50 Speed/&7to all your Axes.//&6Jade Scale/&r&7Grants &615 Foraging Fortune &7and/&24 Sweep &7for every digit in your/&aMangrove Collection&7./&8(Max 10M collection)//&6Dragon's Pride/&r&7Grants &61 Foraging Fortune &7per &25/&2Sweep&7.//&6Apex Predator/&r&7Increases your total &2 Sweep &7by/&20.1% &7for every Maxed out Attribute/&7you unlocked.//&6Symbiosis/&r&7If you own a level &a200 Jade Dragon&7,/&7Grants &6+4 Foraging Fortune for/&7every other unique maxed Foraging/&7Pet that you own.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/jadedragon.png"
+    },
+    {
+      "key": "lion",
+      "name": "Lion",
+      "title": "&7[Lvl 1➡100] &6Lion",
+      "tooltip": "&8Foraging Pet//&7&7Strength: &c+0.5➡50/&7Ferocity: &c+0.05➡5/&7Speed: &f+0.25➡25//&6Primal Force/&r&7Adds &c+0.2➡20 &c Damage &7and/&7&c+0.2➡20 &c Strength &7to your/&7weapons.//&6First Pounce/&r&7First Strike&7,/&7Triple-Strike&7, and &d&lCombo/&r&7are &a1➡100% &7more effective.//&6King of the Jungle/&r&7Deal &c+1.5➡150% &c Damage/&c&7against mobs that have/&7attacked you.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/lion.png"
+    },
+    {
+      "key": "monkey",
+      "name": "Monkey",
+      "title": "&7[Lvl 1➡100] &6Monkey",
+      "tooltip": "&8Foraging Pet//&7&7Intelligence: &b+0.5➡50/&7Speed: &f+0.2➡20//&6Treeborn/&r&7Grants &a+0.6➡60 &6 Foraging/&6Fortune&7, which increases your/&7chance at double logs.//&6Vine Swing/&r&7Gain +&a1➡100 &f Speed &7while/&7in The Park.//&6Evolved Axes/&r&7Grants &20.1➡10 Sweep &7while in &aThe Park//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/monkey.png"
+    },
+    {
+      "key": "ocelot",
+      "name": "Ocelot",
+      "title": "&7[Lvl 1➡100] &6Ocelot",
+      "tooltip": "&8Foraging Pet//&7&7Ferocity: &c+0.1➡10/&7Speed: &f+0.5➡50//&6Foraging Wisdom Boost/&r&7Grants &3+0.3➡30☯ Foraging/&3Wisdom&7.//&6Tree Hugger/&r&7Foraging minions work &a0.3➡30%/&a&7faster while on your island.//&6Tree Essence/&r&7Gain a &a0.3➡30% &7chance to get/&7exp from breaking a log.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/ocelot.png"
+    },
+    {
+      "key": "sloth",
+      "name": "Sloth",
+      "title": "&7[Lvl 1➡100] &6Sloth",
+      "tooltip": "&8Foraging Pet//&7&7Sweep: &2+0.25➡25/&7Foraging Fortune: &6+0.25➡25//&6Slow Start/&r&7Every &a60s&7, your next cut gains/&2+0.25➡25  Sweep &7and &6+0.5➡50  Foraging/&6Fortune&7.//&6Stronk Arm/&r&7Gains &2+0.4➡40  Sweep &7and &6+1➡100/&6Foraging Fortune &7on &2Axe &7throws.//&6Starlyn's Favorite/&r&7Cutting &aTrees &7give &a+0.2➡20% &7more points/&7towards &dStarlyn Contests&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/sloth.png"
+    },
+    {
+      "key": "ammonite",
+      "name": "Ammonite",
+      "title": "&7[Lvl 1➡100] &6Ammonite",
+      "tooltip": "&8Fishing Pet//&7&7Sea Creature Chance: &3+0.05➡5%//&6Heart of the Sea/&r&7Grants &3+0.01➡1 Sea Creature/&3Chance &7to your pet for each/&5Heart of the Mountain &7level.//&6Expert Cave Fisher/&r&7Grants &9+0.01➡0.5 Double Hook Chance/&7for each &5Heart of the Mountain &7level/&7while in the &5Crystal Hollows&7.//&6Gift of the Ammonite/&r&7Each Mining and Fishing level grants/&b+0.01➡0.5 Fishing Speed&7, &7&f+0.02➡2 Speed /&7and &a+0.02➡2/&aDefense&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/ammonite.png"
+    },
+    {
+      "key": "babyyeti",
+      "name": "Baby Yeti",
+      "title": "&7[Lvl 1➡100] &dBaby Yeti",
+      "tooltip": "&8Fishing Pet//&7&7Strength: &c+0.5➡50/&7Fishing Speed: &b+0.5➡50/&7Sea Creature Chance: &3+0.05➡5%/&7Cold Resistance: &b+0.1➡10//&6Yeti Fury/&r&7Buffs the &6Yeti Sword &7by &a1.5➡150 &c/&cDamage &7and &b Intelligence &7and/&7reduces its cooldown by &a0.75➡75%&7.//&6Cold Breeze/&r&7Increases &cCombat Stats &7and &bFishing/&bStats &7by &a0.2➡20% &7while on &cJerry's/&cWorkshop&7.//&6Frosty Familiarity/&r&7Grants &b+0.1➡10 Magic Find &7against/&fWinter Sea Creatures&7.//&6Family Gathering/&r&7Grants &d0.1➡10 Tracking &7while on/&cJerry's Workshop&7.//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/babyyeti.png"
+    },
+    {
+      "key": "bluewhale",
+      "name": "Blue Whale",
+      "title": "&7[Lvl 1➡100] &6Blue Whale",
+      "tooltip": "&8Fishing Pet//&7&7Health: &c+2➡200//&6Ingest/&r&7If you have any absorption active,/&7gain &a+0.05➡5% Damage Reduction&7.//&6Bulk/&r&7Gain &a0.01➡1&a Defense &7per/&7&c20 Max &c Health.//&6Archimedes/&r&7Gain &c+0.2➡20% Max &c Health.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/bluewhale.png"
+    },
+    {
+      "key": "dolphin",
+      "name": "Dolphin",
+      "title": "&7[Lvl 1➡100] &6Dolphin",
+      "tooltip": "&8Fishing Pet//&7&7Intelligence: &b+1➡100/&7Sea Creature Chance: &3+0.05➡5%//&6Pod Tactics/&r&7Grants &b+0.1➡10 Fishing Speed/&7for each player within &a30/&7blocks, up to &a5 &7players.//&6Echolocation/&r&7Grants &3+0.1➡10 Sea Creature/&3Chance.//&6Splash Surprise/&r&7Stun sea creatures for &a5s/&a&7after fishing them up.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/dolphin.png"
+    },
+    {
+      "key": "flyingfish",
+      "name": "Flying Fish",
+      "title": "&7[Lvl 1➡100] &dFlying Fish",
+      "tooltip": "&8Fishing Pet//&7&7Defense: &a+0.5➡50/&7Strength: &c+0.5➡50//&6Quick Reel/&r&7Grants &b+0.8➡80 Fishing Speed&7.//&6Lava Bender/&r&7Gives &a1➡100 &c Strength &7and/&7&a Defense &7when near water or lava.//&6Magmatic Diver/&r&7Increases the stats of Magma/&7Lord armor by &a0.2➡20%//&6Rapid Decay/&r&7Increases the chance to/&7activate the &d&lFlash/&d&lEnchantment&a by 0.5➡50%&7.//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/flyingfish.png"
+    },
+    {
+      "key": "hermitcrab",
+      "name": "Hermit Crab",
+      "title": "&7[Lvl 1➡100] &dHermit Crab",
+      "tooltip": "&8Fishing Pet//&7&7Defense: &a+0.2➡20/&7Fishing Speed: &b+0.2➡20/&7Sea Creature Chance: &3+0.02➡2%//&6Comfort Zone/&r&7Grants &b+0.4➡40 Fishing Speed &7for &a30s/&7upon catching &6Treasure&7.//&6Seafloor Scalper/&r&6Treasure &7catches are &a0.1➡10% &7more/&7likely to be &6&lGREAT &7or &d&lOUTSTANDING&7.//&6Crab Rave/&r&7Grants &6+0➡0.2 Treasure Chance &7for/&7each player with a &aHermit Crab Pet/&7within &a30 &7blocks, up to &a5 &7players.//&6Hotspot Hazard/&r&7Increases the chance of catching/&dHotspot Sea Creatures &7by &a0.2➡20%&7.//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/hermitcrab.png"
+    },
+    {
+      "key": "megalodon",
+      "name": "Megalodon",
+      "title": "&7[Lvl 1➡100] &6Megalodon",
+      "tooltip": "&8Fishing Pet//&7&7Strength: &c+0.5➡50/&7Ferocity: &c+5.05➡10/&7Magic Find: &b+0.1➡10/&7Fishing Speed: &b+10.3➡40/&7Sea Creature Chance: &3+5.05➡10%//&6Blood Scent/&r&7Deal up to &c+51➡150% &c Damage &7based on/&7the enemy's missing health.//&6Enhanced Scales/&r&7Doubles the pet's base stats during/&7the &bFishing Festival&7.//&6Feeding Frenzy/&r&7Grants a &a10.1➡20% &7chance to catch/&bSharks &7during the &bFishing Festival&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/megalodon.png"
+    },
+    {
+      "key": "penguin",
+      "name": "Penguin",
+      "title": "&7[Lvl 1➡100] &6Penguin",
+      "tooltip": "&8Fishing Pet//&7&7Sea Creature Chance: &3+0.1➡10%/&7Cold Resistance: &b+0.15➡15//&6Thick Blubber/&r&7Each time you catch a Sea Creature,/&7reduce your &b Cold &7by &a1➡6&7.//&6Chilly Reception/&r&7Grants &b+0.01➡1 Cold Resistance &7for/&7each player within &a30 &7blocks, up to/&a10 &7players.//&6Subzero Hero/&r&7Gain &b+0.75➡75 Fishing Speed&7 while in the/&bGlacite Tunnels&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/penguin.png"
+    },
+    {
+      "key": "reindeer",
+      "name": "Reindeer",
+      "title": "&7[Lvl 1➡100] &6Reindeer",
+      "tooltip": "&8Fishing Pet//&7&7Health: &c+1➡100/&7Fishing Speed: &b+0.25➡25/&7Sea Creature Chance: &3+0.05➡5%//&6Winter Spirit/&r&7Gain &ddouble &7pet &aEXP&7.//&6Infused/&r&7Gives &b+0.75➡75&b Fishing Speed &7and &6+5/&6Treasure Chance &7while on &cJerry's/&cWorkshop&7.//&6Snow Power/&r&7Grants &a+0.5➡50% &7bonus gift/&7chance during the &cGift Attack/&c&7event.//&6Icy Wind/&r&7Grants &a+0.2➡20% &7chance of/&7getting double &bIce Essence&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/reindeer.png"
+    },
+    {
+      "key": "seal",
+      "name": "Seal",
+      "title": "&7[Lvl 1➡100] &6Seal",
+      "tooltip": "&8Fishing Pet//&7&7Fishing Speed: &b+0.35➡35/&7Sea Creature Chance: &3+0.05➡5%/&7Treasure Chance: &6+0.01➡1%//&6Showboater/&r&7Increases your chance of catching/&5Bouncy Beach Balls &7and &6Giant Bouncy/&6Beach Balls &7during the &9Year of the/&9Seal &7by &a1➡100%&7.//&6Peak Performance/&r&7Gain a &a0.05➡5% &7chance to materialize/&7some &9Treasure Bait &7in your/&7inventory upon catching &6Treasure&7. /&7Materializes &aGolden Bait &7instead /&7during the &9Year of the Seal&7.//&6Amphibious/&r&7Increases the base stats of this pet/&7by &a1➡100% &7during the &9Year of the Seal&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/seal.png"
+    },
+    {
+      "key": "spinosaurus",
+      "name": "Spinosaurus",
+      "title": "&7[Lvl 1➡100] &6Spinosaurus",
+      "tooltip": "&8Fishing Pet//&7&7Fishing Speed: &b+0.5➡50/&7Sea Creature Chance: &3+0.05➡5%/&7Trophy Chance: &6+0.05➡5%//&6Sharp Attitude/&r&bSea Creatures &7spawn with &a0.1➡10% &7of/&7their maximum health missing.//&6Pursuit/&r&7Increases the chance of catching/&6&lGOLD&r&7 and &b&lDIAMOND&r&7 tier &6Trophy/&6Fish &7by &a0.1➡10%&7.//&6Adaptive Predator/&r&7Increases this pet's base stats by/&a0.5➡50% &7during any &bWeather&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/spinosaurus.png"
+    },
+    {
+      "key": "squid",
+      "name": "Squid",
+      "title": "&7[Lvl 1➡100] &6Squid",
+      "tooltip": "&8Fishing Pet//&7&7Health: &c+0.5➡50/&7Intelligence: &b+0.5➡50//&6More Ink/&r&7Gain a &a1➡100% &7chance to get/&7double drops from squids.//&6Ink Specialty/&r&7Buffs the &5Ink Wand &7by &a0.4➡40 &c/&cDamage &7and &a0.2➡20 &c Strength.//&6Fishing Wisdom Boost/&r&7Gives &3+0.3➡30☯ Fishing/&3Wisdom&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/squid.png"
+    },
+    {
+      "key": "eagle",
+      "name": "Eagle",
+      "title": "&7[Lvl 100] &6Eagle",
+      "tooltip": "&8Hunting Pet//&7&7Health: &c+25/&7Speed: &f+50//&6Critter Capturer/&r&7Your &cCritter Capsules &7are &a50% &7more/&7likely to catch &a Critters&7.//&6Seer of the Skies/&r&7Grants &3+30 ☯ Hunting Wisdom &7while in/&7the &2Critter Safari&7.//&6Flock Mentality/&r&7Gain &d+2.5  Hunting Fortune &7for/&7every &eEagle Pet &7in the &2Critter Safari&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/eagle.png"
+    },
+    {
+      "key": "jellyfish",
+      "name": "Jellyfish",
+      "title": "&7[Lvl 1➡100] &6Jellyfish",
+      "tooltip": "&8Alchemy Pet//&7&7Health: &c+2➡200/&7Health Regen: &c+1➡100//&6Radiant Scyphozoa/&r&7While in dungeons, reduces the/&7mana cost of/&7Power Orbs by &a0.5➡50%&7.//&6Stored Energy/&r&7While in dungeons, for every/&c2,000 HP &7you heal teammates/&7the cooldown of &aWish &7is/&7reduced by &a0.01➡1s&7, up to/&a30s&7.//&6Powerful Potions/&r&7While in dungeons, increase/&7the effectiveness of Dungeon/&7Potions by &a0.5➡50%//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/jellyfish.png"
+    },
+    {
+      "key": "parrot",
+      "name": "Parrot",
+      "title": "&7[Lvl 1➡100] &6Parrot",
+      "tooltip": "&8Alchemy Pet//&7&7Crit Damage: &9+0.1➡10%/&7Intelligence: &b+1➡100//&6Flamboyant/&r&7Adds &a1➡20 &7levels to/&7intimidation accessories.//&6Repeat/&r&7Boosts potions duration by/&7&a5.35➡40%//&6Bird Discourse/&r&7Gives &c+5.25➡30 Strength &7to/&7players within &a20 &7blocks/&8Doesn't stack.//&6Parrot Feather Infusion/&r&7When summoned or in your pets/&7menu, boost the duration of/&7consumed &cGod Potions &7by/&7&a0.2➡20%//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/parrot.png"
+    },
+    {
+      "key": "sheep",
+      "name": "Sheep",
+      "title": "&7[Lvl 1➡100] &6Sheep",
+      "tooltip": "&8Alchemy Pet//&7&7Intelligence: &b+1➡100/&7Ability Damage: &c+0.2➡20//&6Mana Saver/&r&7Reduces the mana cost of/&7abilities by &a0.2➡20%//&6Overheal/&r&7Gives a &a0.1➡10% &7shield after/&7not taking damage for 10s.//&6Dungeon Wizard/&r&7Increases your total mana by/&7&a0.25➡25% &7while in dungeons.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/sheep.png"
+    },
+    {
+      "key": "witch",
+      "name": "Witch",
+      "title": "&7[Lvl 1➡100] &6Witch",
+      "tooltip": "&8Alchemy Pet//&7&7Intelligence: &b+1➡100/&7Alchemy Wisdom: &3+0.05➡5//&6Toil and Trouble/&r&7Increases your chance of dropping/&6Ingredients &7during the &5Year of the/&5Witch by &a1➡100%&7.//&6Alchemism/&r&7Reduces how long &5Potions &7take to/&7brew by &a0.5➡50%&7.//&6Witching Hour/&r&7Increases the base stats of this pet/&7by &a1➡100% &7during the &5Year of the Witch&7.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/witch.png"
+    },
+    {
+      "key": "guardian",
+      "name": "Guardian",
+      "title": "&7[Lvl 1➡100] &dGuardian",
+      "tooltip": "&8Enchanting Pet//&7&7Defense: &a+0.5➡50/&7Intelligence: &b+1➡100//&6Lazerbeam/&r&7Zaps your enemies for &b1.2➡120x/&b&7your &b Intelligence &7every/&7&a3s.//&6Enchanting Wisdom Boost/&r&7Grants &3+0.3➡30☯ Enchanting/&3Wisdom&7.//&6Mana Pool/&r&7Regenerate &b0.3➡30% &7extra mana,/&7doubled when near or in water.//&6Lucky Seven/&r&7Gain &b+0.07➡7% &7chance to find/&5ultra rare &7books in/&dSuperpairs&7.//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/guardian.png"
+    },
+    {
+      "key": "owl",
+      "name": "Owl",
+      "title": "&7[Lvl 1➡100] &6Owl",
+      "tooltip": "&8Taming Pet//&7&6Training Refunds/&r&7The more coins to spend on/&7Fann's Sessions, the less coins/&7they will cost. &8(max 5% off).//&6Efficient Trainer/&r&7Makes training sessions at/&7Fann more efficient when added/&7into a session.//&7Increased EXP: &b+0.2➡10% EXP//&6Fast Learner/&r&7Passively grants &3+0.1➡4.55☯ Taming/&3Wisdom//&8This pet's perks are active even/&8when the pet is not summoned!//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/owl.png"
+    },
+    {
+      "key": "bingo",
+      "name": "Bingo",
+      "title": "&7[Lvl 1➡100] &dBingo",
+      "tooltip": "&8All Skills//&7&7Health: &c+1➡100/&7Strength: &c+0.25➡25/&7Speed: &f+0.75➡75//&6Lucky Looting/&r&7Gain &c5.2➡25% &7more collection/&7items from any source!//&6Climber/&r&7Gain &c101.5➡250% &7more &6HOTM&7 and &aHOTF&7 XP.//&6Fast Learner/&r&7Gain &c5.1➡15% &7more Skill Experience and/&7Slayer Experience.//&6Chimera/&r&7Increases the base stats of your/&7active pet by &c10.3➡40%&7.//&6Scavenger/&r&7Gain &c0.11➡1 &7more coins per/&7monster level on kill//&6Consumer/&r&7Potion effects you obtain will have/&c10.4➡50 &7more time.//&6Power Of Completion/&r&7Gain &c+2 Strength&7, &9+1/&9Crit Chance&7, and &c+5/&cHealth&7 per completed Personal/&7Bingo Goal in the current Bingo/&7Event.//&8This pet's perks are active even/&8when the pet is not summoned!//&r&eRight-click to add this pet to your pet menu!//&r&d&lMYTHIC",
+      "image": "/pets/bingo.png"
+    },
+    {
+      "key": "precursordrone",
+      "name": "Precursor Drone",
+      "title": "&7[Lvl 1➡100] &6Precursor Drone",
+      "tooltip": "&8All Skills//&7&7Speed: &f+0.25➡25/&7Sea Creature Chance: &3+7.5%/&7Foraging Fortune: &6+50/&7Mining Fortune: &6+75//&6Creative Mind/&r&7This pet can have &bDrone Mods/&7applied to it, which allows you to/&7modify its &6Perks &7to your liking./&8Precursor Drones may possess up/&8to 3 perks at a time, this one included.//&6Contraband/&r&7When &bFishing&7, catching a &3Sea/&3Creature &7has a &a0.1➡10% &7chance to also/&7give you &6Treasure&7.//&6Grungle/&r&7When &2Foraging&7, you can now &c&lONLY/&7throw your Foraging Axe, but the/&cThrowing Axe Penalty &7 is reduced by/&a1➡100%&7.//&6Mining Off Camera/&r&7When &6Mining&7, each collection/&7progress grants a &a0➡0.01%/&7chance to drop a random enchanted/&7mining item.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/precursordrone.png"
+    },
+    {
+      "key": "montezuma",
+      "name": "Montezuma",
+      "title": "&7[Lvl 100] &5Montezuma",
+      "tooltip": "&8Fractured Soul Pet//&7&7Rift Time: &a+25/&7Mana Regen: &b+0//&6Nine Lives/&r&7Gain &a+15 Rift Time &7per/&7soul piece.//&6Trickery/&r&7Gain &b+2 Mana Regen &7per/&7soul piece found.//&r&eRight-click to add this pet to your pet menu!//&r&5&lEPIC",
+      "image": "/pets/montezuma.png"
+    },
+    {
+      "key": "subzerowisp",
+      "name": "Subzero Wisp",
+      "title": "&7[Lvl 1➡100] &6Subzero Wisp",
+      "tooltip": "&8Gabagool Pet, feed to gain XP//&7&7Health: &c+6➡600/&7True Defense: &f+0.35➡35/&7Damage: &c+0.25➡25/&7Intelligence: &b+2.5➡250//&6Icehammer/&r&7Lets you break fire pillars &a2x/&7faster, healing you for &c50% &7of your/&7max &c &7over &a3s&7.//&6Bulwark/&r&7Kill Blazes to gain defense against/&7them and demons./&7Bonus: &a+0 & &f+0/&7Next Upgrade: &a+30 & &f+3 &8(&a0&7\\/&c100&8)//&6Blaze Slayer/&r&7Gain &3+0.5➡50☯ Combat Wisdom &7towards/&6Blazes&7.//&6Extinguish/&r&7While in combat on the Crimson Isle,/&7spawn a pool every &a8s&7./&7Bathing in it heals &c25% &7now and/&c10%&7\\/s for &a8s&7.//&6Ephemeral Stability/&r&7Regenerate mana &b40% &7faster//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY",
+      "image": "/pets/subzerowisp.png"
+    }
+  ]
+}
