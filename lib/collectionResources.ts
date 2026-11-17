@@ -5,7 +5,7 @@
 import { UserError } from "./errors";
 import { createTtlCache } from "./ttlCache";
 
-export type CollectionTier = { tier: number; amountRequired: number };
+export type CollectionTier = { tier: number; amountRequired: number; unlocks?: string[] }; // unlocks: freigeschaltete Rezepte/Belohnungen laut Hypixel
 export type CollectionItem = { id: string; name: string; tiers: CollectionTier[] };
 export type CollectionGroup = { key: string; name: string; items: CollectionItem[] };
 export type CollectionGroups = Record<string, CollectionGroup>; // Schluessel wie "FARMING"
@@ -34,7 +34,9 @@ export function parseCollectionResources(raw: unknown): CollectionGroups | null 
         const tier = (tierValue as { tier?: unknown })?.tier;
         const amount = (tierValue as { amountRequired?: unknown })?.amountRequired;
         if (typeof tier !== "number" || typeof amount !== "number") return null;
-        tiers.push({ tier, amountRequired: amount });
+        const rawUnlocks = (tierValue as { unlocks?: unknown })?.unlocks;
+        const unlocks = Array.isArray(rawUnlocks) ? rawUnlocks.filter((entry): entry is string => typeof entry === "string") : [];
+        tiers.push({ tier, amountRequired: amount, unlocks });
       }
       tiers.sort((a, b) => a.tier - b.tier);
       if (tiers.length > 0) items.push({ id, name: item.name, tiers });

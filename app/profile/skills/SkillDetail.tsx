@@ -3,6 +3,10 @@
 // Level-Tabelle mit Belohnungen und - falls der Skill welche hat - seine Collections.
 
 import { useEffect, useMemo, useState, type CSSProperties } from "react";
+import { collectionIconPath } from "../../../lib/collectionIcons";
+import { findRecipe, itemIconPath } from "../../../lib/recipes";
+import { getSkillExtras } from "../../../lib/skillExtras";
+import { colorizeReward } from "../../../lib/rewardText";
 import { getSkillMeta } from "../../../lib/skillMeta";
 import type { SkillDetailResponse } from "../../../lib/skillDetailService";
 import { formatDuration, hoursNeeded, xpToLevel } from "../../../lib/skillPlanner";
@@ -12,10 +16,18 @@ import { formatCoins } from "../../format";
 import { fetchApi } from "../fetchApi";
 import { useProfile } from "../ProfileProvider";
 import styles from "./SkillDetail.module.css";
+import SkillSubTabs from "./SkillSubTabs";
 
 type Loaded = { key: string; result: { ok: true; data: SkillDetailResponse } | { ok: false; message: string } };
 
-export default function SkillDetail({ skillKey }: { skillKey: string }) {
+// Die drei Ansichten eines Skills (je eine eigene Adresse): Uebersicht, Level & Belohnungen, Collections
+export type SkillView = "overview" | "levels" | "collections";
+
+// Zuletzt geladene Antwort pro Skill/Profil: beim Wechsel zwischen den Tabs erscheint sie sofort,
+// waehrend im Hintergrund neu geladen wird
+const lastLoaded = new Map<string, Loaded>();
+
+export default function SkillDetail({ skillKey, view = "overview" }: { skillKey: string; view?: SkillView }) {
   const { subject } = useProfile();
   const meta = getSkillMeta(skillKey);
 
@@ -24,14 +36,17 @@ export default function SkillDetail({ skillKey }: { skillKey: string }) {
   const playerName = subject?.playerName;
   const profileName = subject?.profileName;
   const wanted = playerName === undefined || profileName === undefined ? null : `${playerName}|${profileName}|${skillKey}`;
-  const [loaded, setLoaded] = useState<Loaded | null>(null);
+  const [loaded, setLoaded] = useState<Loaded | null>(() => (wanted === null ? null : (lastLoaded.get(wanted) ?? null)));
 
   useEffect(() => {
     if (playerName === undefined || profileName === undefined || wanted === null) return;
     let cancelled = false;
     const query = new URLSearchParams({ name: playerName, profile: profileName, skill: skillKey });
     void fetchApi<SkillDetailResponse>("/api/skill-detail", query).then((result) => {
-      if (!cancelled) setLoaded({ key: wanted, result });
+      if (cancelled) return;
+      const next: Loaded = { key: wanted, result };
+      if (result.ok) lastLoaded.set(wanted, next);
+      setLoaded(next);
     });
     return () => {
       cancelled = true;
@@ -60,23 +75,35 @@ export default function SkillDetail({ skillKey }: { skillKey: string }) {
     );
   }
 
-  return <Content data={loaded.result.data} color={meta.color} about={meta.about} />;
+  return <Content data={loaded.result.data} color={meta.color} about={meta.about} skillKey={skillKey} view={view} />;
 }
 
-function Content({ data, color, about }: { data: SkillDetailResponse; color: string; about: string }) {
+function Content({
+  data,
+  color,
+  about,
+  skillKey,
+  view,
+}: {
+  data: SkillDetailResponse;
+  color: string;
+  about: string;
+  skillKey: string;
+  view: SkillView;
+}) {
   const { skill, levels, collections } = data;
   const style = { "--skill-color": color } as CSSProperties;
   const maxXp = levels.length > 0 ? levels[levels.length - 1].totalExpRequired : 0;
 
   return (
     <div style={style}>
-      <h2 className={styles.heading}>
+      <h2 className={`${styles.heading} ${view !== "overview" ? styles.headingCompact : ""}`}>
         <span className={styles.dot} aria-hidden="true" />
         {skill.name}
       </h2>
 
       {/* Kopf: Level, XP, Fortschritt */}
-      <div className={`${Panel.panel} ${styles.hero}`}>
+      <div className={`${Panel.panel} ${styles.hero} ${view !== "overview" ? styles.compact : ""}`}>
         <div className={styles.bigLevel}>
           <span>Level</span>
           <strong>{skill.level}</strong>
@@ -106,11 +133,125 @@ function Content({ data, color, about }: { data: SkillDetailResponse; color: str
         </div>
       </div>
 
-      <Planner skillXp={skill.xp} levels={levels} currentLevel={skill.level} />
+      {/* Unterpunkte des Skills: Tabs; bei Combat/Taming zusaetzlich Links zu Seiten mit echten Daten */}
+      <SkillSubTabs skillKey={skillKey} hasCollections={collections.length > 0} extras={getSkillExtras(skillKey)} />
 
-      <LevelTable levels={levels} currentLevel={skill.level} xp={skill.xp} />
+      {view === "overview" && (
+        <div className={styles.overviewGrid}>
+          <Planner skillXp={skill.xp} levels={levels} currentLevel={skill.level} />
+          <NextRewards levels={levels} currentLevel={skill.level} xp={skill.xp} />
+        </div>
+      )}
+      {view === "levels" && <LevelTable levels={levels} currentLevel={skill.level} xp={skill.xp} />}
+      {view === "collections" &&
+        (collections.length > 0 ? (
+          <Collections items={collections} />
+        ) : (
+          <div className={`${Panel.panel} ${styles.section}`}>
+            <p className={calc.muted}>This skill has no collections.</p>
+          </div>
+        ))}
+    </div>
+  );
+}
 
-      {collections.length > 0 && <Collections items={collections} />}
+// Belohnungen eines Levels, in den Spielfarben (Coins gold, SkyBlock XP tuerkis ...)
+function Rewards({ unlocks }: { unlocks: string[] }) {
+  if (unlocks.length === 0) return <span className={styles.none}>-</span>;
+  return (
+    <ul className={styles.unlocks}>
+      {unlocks.map((text) => (
+        <UnlockLine key={text} text={text} />
+      ))}
+    </ul>
+  );
+}
+
+// Ein Inventarfeld wie im Spiel: Item-Bild mit Menge unten rechts (Name als Tooltip).
+// Ohne Bild steht der Name als Text im Feld; ohne Item bleibt das Feld leer.
+function ItemSlot({ name, count, large = false }: { name: string | null; count: number; large?: boolean }) {
+  const [failed, setFailed] = useState(false);
+  const src = name === null ? null : itemIconPath(name);
+  return (
+    <div className={`${styles.slot} ${large ? styles.slotLarge : ""}`} data-empty={name === null} title={name ?? undefined}>
+      {name !== null && src !== null && !failed && (
+        // eslint-disable-next-line @next/next/no-img-element
+        <img className={styles.slotImage} src={src} alt={name} loading="lazy" onError={() => setFailed(true)} />
+      )}
+      {name !== null && (src === null || failed) && <span className={styles.slotText}>{name}</span>}
+      {name !== null && count > 1 && <span className={styles.slotCount}>{count}</span>}
+    </div>
+  );
+}
+
+// Eine Freischaltung; bei "<Item> Recipe" mit Knopf, der das echte Crafting-Rezept aufklappt
+function UnlockLine({ text }: { text: string }) {
+  const [open, setOpen] = useState(false);
+  const found = findRecipe(text);
+  return (
+    <li>
+      {colorizeReward(text).map((part, index) => (
+        <span key={index} style={{ color: part.color }}>
+          {part.text}
+        </span>
+      ))}
+      {found !== null && (
+        <>
+          <button
+            type="button"
+            className={styles.recipeButton}
+            aria-expanded={open}
+            onClick={() => setOpen((value) => !value)}
+          >
+            {open ? "Hide recipe ▴" : "Show recipe ▾"}
+          </button>
+          {open && (
+            <div className={styles.recipeBox}>
+              <div className={styles.recipeGrid} role="img" aria-label={`Crafting recipe for ${found.name}`}>
+                {found.recipe.grid.map((slot, index) => (
+                  <ItemSlot key={index} name={slot?.name ?? null} count={slot?.count ?? 0} />
+                ))}
+              </div>
+              <span className={styles.recipeArrow} aria-hidden="true">→</span>
+              <div className={styles.recipeResult}>
+                <ItemSlot name={found.name} count={found.recipe.outputCount} large />
+                <strong>{found.name}</strong>
+                {found.recipe.craftText !== null && <small>{found.recipe.craftText}</small>}
+              </div>
+            </div>
+          )}
+        </>
+      )}
+    </li>
+  );
+}
+
+// Uebersicht: die Belohnungen der naechsten drei Level mit fehlender XP
+function NextRewards({
+  levels,
+  currentLevel,
+  xp,
+}: {
+  levels: SkillDetailResponse["levels"];
+  currentLevel: number;
+  xp: number;
+}) {
+  const next = levels.filter((entry) => entry.level > currentLevel).slice(0, 3);
+  if (next.length === 0) return null;
+  return (
+    <div className={`${Panel.panel} ${styles.section}`}>
+      <h3 className={styles.sectionTitle}>Next rewards</h3>
+      <div className={styles.nextGrid}>
+        {next.map((entry) => (
+          <div key={entry.level} className={styles.nextLevel}>
+            <div className={styles.nextHead}>
+              <strong>Level {entry.level}</strong>
+              <small>{formatCoins(Math.max(0, entry.totalExpRequired - xp))} XP to go</small>
+            </div>
+            <Rewards unlocks={entry.unlocks} />
+          </div>
+        ))}
+      </div>
     </div>
   );
 }
@@ -203,20 +344,19 @@ function LevelTable({
   currentLevel: number;
   xp: number;
 }) {
-  const [onlyUpcoming, setOnlyUpcoming] = useState(false);
-  const rows = onlyUpcoming ? levels.filter((entry) => entry.level > currentLevel) : levels;
+  // Erreichte Level stehen eingeklappt in einer Zeile ganz oben; darunter beginnt die Liste mit dem, was noch fehlt
+  const [showDone, setShowDone] = useState(false);
+  const doneLevels = levels.filter((entry) => entry.level <= currentLevel);
+  const upcomingLevels = levels.filter((entry) => entry.level > currentLevel);
+  const rows = showDone ? levels : upcomingLevels;
 
   return (
     <div className={`${Panel.panel} ${styles.section}`}>
       <div className={styles.sectionHead}>
         <h3 className={styles.sectionTitle}>Levels &amp; rewards</h3>
-        <label className={styles.check}>
-          <input type="checkbox" checked={onlyUpcoming} onChange={(event) => setOnlyUpcoming(event.target.checked)} />
-          Only upcoming
-        </label>
       </div>
-      {rows.length === 0 ? (
-        <p className={calc.muted}>You reached every level.</p>
+      {levels.length === 0 ? (
+        <p className={calc.muted}>No level data.</p>
       ) : (
         <div className={styles.tableWrap}>
           <table className={styles.table}>
@@ -229,6 +369,28 @@ function LevelTable({
               </tr>
             </thead>
             <tbody>
+              {doneLevels.length > 0 && (
+                <tr className={styles.doneToggleRow}>
+                  <td colSpan={4}>
+                    <button
+                      type="button"
+                      className={styles.doneToggle}
+                      aria-expanded={showDone}
+                      onClick={() => setShowDone((open) => !open)}
+                    >
+                      <span aria-hidden="true">{showDone ? "▾" : "▸"}</span> Completed: Levels 1-{currentLevel} (
+                      {doneLevels.length}) <small>{showDone ? "click to hide" : "click to show"}</small>
+                    </button>
+                  </td>
+                </tr>
+              )}
+              {upcomingLevels.length === 0 && (
+                <tr>
+                  <td colSpan={4} className={styles.allDone}>
+                    You reached every level.
+                  </td>
+                </tr>
+              )}
               {rows.map((entry) => {
                 const state = entry.level <= currentLevel ? "done" : entry.level === currentLevel + 1 ? "next" : "locked";
                 return (
@@ -236,7 +398,6 @@ function LevelTable({
                     <td>
                       <strong>{entry.level}</strong>
                       {state === "done" && <span className={styles.tick} aria-label="reached"> ✓</span>}
-                      {state === "next" && <span className={styles.nextTag}>next</span>}
                     </td>
                     <td>{formatCoins(entry.xpForLevel)}</td>
                     <td>
@@ -246,15 +407,7 @@ function LevelTable({
                       )}
                     </td>
                     <td>
-                      {entry.unlocks.length === 0 ? (
-                        <span className={styles.none}>-</span>
-                      ) : (
-                        <ul className={styles.unlocks}>
-                          {entry.unlocks.map((text) => (
-                            <li key={text}>{text}</li>
-                          ))}
-                        </ul>
-                      )}
+                      <Rewards unlocks={entry.unlocks} />
                     </td>
                   </tr>
                 );
@@ -270,6 +423,73 @@ function LevelTable({
 
 type CollectionSort = "default" | "next" | "tier";
 
+// Bild des Gegenstands (lokal aus public/collections); ohne Bild oder bei Ladefehler: Anfangsbuchstabe
+function CollectionIcon({ name }: { name: string }) {
+  const [failed, setFailed] = useState(false);
+  const src = collectionIconPath(name);
+  if (src === null || failed) {
+    return (
+      <span className={`${styles.icon} ${styles.iconFallback}`} aria-hidden="true">
+        {name.charAt(0)}
+      </span>
+    );
+  }
+  // eslint-disable-next-line @next/next/no-img-element
+  return <img className={styles.icon} src={src} alt="" width={48} height={48} loading="lazy" onError={() => setFailed(true)} />;
+}
+
+// Eine Collection-Karte; per Klick klappt die Liste aller Stufen mit den freigeschalteten Rezepten auf
+function CollectionCard({ item }: { item: SkillDetailResponse["collections"][number] }) {
+  const [open, setOpen] = useState(false);
+  return (
+    <li className={styles.collection} data-empty={item.amount === 0} data-open={open}>
+      <div className={styles.collectionRow}>
+        <CollectionIcon name={item.name} />
+        <div className={styles.collectionBody}>
+          <div className={styles.top}>
+            <span className={styles.collectionName}>{item.name}</span>
+            <span className={styles.tier}>
+              Tier {item.tier}
+              <small> / {item.maxTier}</small>
+            </span>
+          </div>
+          <div className={styles.bar} role="progressbar" aria-label={`${item.name} progress`} aria-valuemin={0} aria-valuemax={100} aria-valuenow={Math.round(item.fraction * 100)}>
+            <div className={styles.barFill} style={{ width: `${item.fraction * 100}%` }} />
+          </div>
+          <span className={styles.collectionDetail}>
+            {item.nextRequired === null
+              ? `Maxed · ${formatCoins(item.amount)}`
+              : `${formatCoins(item.amount)} / ${formatCoins(item.nextRequired)}`}
+          </span>
+        </div>
+        <button
+          type="button"
+          className={styles.expandButton}
+          aria-expanded={open}
+          aria-label={`${open ? "Hide" : "Show"} unlocks of ${item.name}`}
+          title={open ? "Hide unlocks" : "Show unlocks"}
+          onClick={() => setOpen((value) => !value)}
+        >
+          {open ? "▴" : "▾"}
+        </button>
+      </div>
+      {open && (
+        <ol className={styles.tierList}>
+          {item.tiers.map((entry) => (
+            <li key={entry.tier} className={styles.tierItem} data-reached={entry.tier <= item.tier}>
+              <div className={styles.tierHead}>
+                <strong>Tier {entry.tier}</strong>
+                <span>{entry.tier <= item.tier ? "✓ " : ""}{formatCoins(entry.amountRequired)}</span>
+              </div>
+              <Rewards unlocks={entry.unlocks} />
+            </li>
+          ))}
+        </ol>
+      )}
+    </li>
+  );
+}
+
 // Collections des Skills: Stufe, Menge und Fortschritt zur naechsten Stufe
 function Collections({ items }: { items: SkillDetailResponse["collections"] }) {
   const [search, setSearch] = useState("");
@@ -278,7 +498,8 @@ function Collections({ items }: { items: SkillDetailResponse["collections"] }) {
   const visible = useMemo(() => {
     const needle = search.trim().toLowerCase();
     const filtered = items.filter((item) => needle === "" || item.name.toLowerCase().includes(needle));
-    if (sort === "tier") return [...filtered].sort((a, b) => b.tier - a.tier);
+    // Hoechste Stufe zuerst; bei gleicher Stufe der mit mehr Fortschritt zur naechsten Stufe, dann mehr Menge
+    if (sort === "tier") return [...filtered].sort((a, b) => b.tier - a.tier || b.fraction - a.fraction || b.amount - a.amount);
     if (sort === "next") {
       // Am naechsten dran zuerst; fertige (max) und leere ans Ende
       const rank = (item: (typeof items)[number]) =>
@@ -320,23 +541,7 @@ function Collections({ items }: { items: SkillDetailResponse["collections"] }) {
       </div>
       <ul className={styles.collections}>
         {visible.map((item) => (
-          <li key={item.id} className={styles.collection} data-empty={item.amount === 0}>
-            <div className={styles.top}>
-              <span className={styles.collectionName}>{item.name}</span>
-              <span className={styles.tier}>
-                Tier {item.tier}
-                <small> / {item.maxTier}</small>
-              </span>
-            </div>
-            <div className={styles.bar} role="progressbar" aria-label={`${item.name} progress`} aria-valuemin={0} aria-valuemax={100} aria-valuenow={Math.round(item.fraction * 100)}>
-              <div className={styles.barFill} style={{ width: `${item.fraction * 100}%` }} />
-            </div>
-            <span className={styles.collectionDetail}>
-              {item.nextRequired === null
-                ? `Maxed · ${formatCoins(item.amount)}`
-                : `${formatCoins(item.amount)} / ${formatCoins(item.nextRequired)}`}
-            </span>
-          </li>
+          <CollectionCard key={item.id} item={item} />
         ))}
       </ul>
       {visible.length === 0 && <p className={calc.muted}>No collection matches your search.</p>}

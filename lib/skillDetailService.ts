@@ -23,6 +23,7 @@ export type CollectionRow = {
   maxTier: number;
   nextRequired: number | null;
   fraction: number;
+  tiers: { tier: number; amountRequired: number; unlocks: string[] }[]; // alle Stufen mit Freischaltungen
 };
 
 export type SkillDetailResponse = {
@@ -79,7 +80,12 @@ export async function getSkillDetail(
       : group.items.map((item) => {
           const raw = owned[item.id];
           const amount = typeof raw === "number" && Number.isFinite(raw) ? raw : 0;
-          return { id: item.id, name: item.name, amount, ...getCollectionProgress(amount, item.tiers) };
+          const tiers = item.tiers.map((entry) => ({
+            tier: entry.tier,
+            amountRequired: entry.amountRequired,
+            unlocks: entry.unlocks ?? [],
+          }));
+          return { id: item.id, name: item.name, amount, ...getCollectionProgress(amount, item.tiers), tiers };
         });
 
   return { uuid, playerName: name, profileName: selected.profileName, skill, levels, collections };

@@ -147,6 +147,14 @@
 .shell[data-wide="true"] .footer {
   max-width: 1400px;
 }
+/* Skill-Seiten: fast die ganze Fensterbreite, weniger Luft nach oben */
+.shell[data-xwide="true"] .content {
+  max-width: 1800px;
+  padding: 16px 24px 32px;
+}
+.shell[data-xwide="true"] .footer {
+  max-width: 1800px;
+}
 .footer {
   max-width: 960px;
   width: 100%;

@@ -1,11 +1,12 @@
-// Gemeinsames Layout aller Skill-Seiten: Tableiste zum schnellen Wechseln zwischen den Skills.
+// Gemeinsames Layout aller Skill-Seiten.
+// Die Tableiste (SkillTabs) ist testweise ausgeblendet: zum Zurueckholen die zwei markierten Zeilen wieder aktivieren.
 import type { ReactNode } from "react";
-import SkillTabs from "./SkillTabs";
+// import SkillTabs from "./SkillTabs";
 
 export default function SkillsLayout({ children }: { children: ReactNode }) {
   return (
     <>
-      <SkillTabs />
+      {/* <SkillTabs /> */}
       {children}
     </>
   );

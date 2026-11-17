@@ -147,35 +147,47 @@
 }
 
 /* Level-Tabelle */
+/* Tabelle nutzt fast die ganze Fensterhoehe */
 .tableWrap {
-  max-height: 520px;
+  max-height: calc(100vh - 300px);
+  min-height: 420px;
   overflow: auto;
 }
 .table {
   width: 100%;
   border-collapse: collapse;
-  font-size: 0.85rem;
+  font-size: 1rem;
   font-variant-numeric: tabular-nums;
 }
 .table th {
   position: sticky;
   top: 0;
-  padding: 8px 10px;
+  box-sizing: border-box;
+  height: 38px; /* feste Hoehe: die "Completed"-Zeile klebt direkt darunter */
+  padding: 0 10px;
+  line-height: 38px;
+  white-space: nowrap; /* eine Zeile, sonst wird der Kopf hoeher als 38px und verdeckt die "Completed"-Zeile */
+  z-index: 2; /* immer ueber den Zeilen, sonst scheint deren Text beim Scrollen durch */
   background: var(--background, #0c0f15);
   text-align: left;
   font-weight: 600;
-  opacity: 0.85;
+  color: rgb(255 255 255 / 0.85); /* abgedunkelt ueber die Farbe, nicht ueber opacity (die macht den Kopf durchsichtig) */
 }
 .table td {
   padding: 7px 10px;
   border-top: 1px solid var(--line-soft, rgb(128 128 128 / 0.15));
   vertical-align: top;
+  overflow-wrap: anywhere; /* lange Texte umbrechen statt in die Nachbarspalte zu laufen */
 }
 .table tr[data-state="done"] td {
   opacity: 0.6;
 }
-.table tr[data-state="next"] td {
-  background: var(--surface-strong, rgb(128 128 128 / 0.12));
+/* Naechstes Level: nur ein Streifen in der Skill-Farbe links (kein Hintergrund, damit es sich von der "Completed"-Zeile unterscheidet) */
+.table tr[data-state="next"] td:first-child {
+  box-shadow: inset 4px 0 0 var(--skill-color, var(--accent, #f2c260));
+}
+.table tr[data-state="next"] td:first-child strong {
+  color: var(--skill-color, var(--accent, #f2c260));
 }
 .tick {
   color: var(--skill-color, var(--accent, #f2c260));
@@ -203,8 +215,9 @@
 /* Collections */
 .collections {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
-  gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 16px;
+  align-items: start; /* aufgeklappte Karte streckt die Nachbarn nicht */
   margin: 0;
   padding: 0;
   list-style: none;
@@ -212,8 +225,9 @@
 .collection {
   display: flex;
   flex-direction: column;
-  gap: 7px;
-  padding: 10px 12px;
+  gap: 12px;
+  padding: 16px 18px;
+  font-size: 1.05rem;
   border: 1px solid var(--line, rgb(128 128 128 / 0.3));
   border-radius: 10px;
   background: var(--surface, rgb(128 128 128 / 0.08));
@@ -244,7 +258,7 @@
   opacity: 0.6;
 }
 .collectionDetail {
-  font-size: 0.78rem;
+  font-size: 0.9rem;
   opacity: 0.75;
   font-variant-numeric: tabular-nums;
 }
@@ -252,4 +266,283 @@
   margin: 12px 0 0;
   font-size: 0.78rem;
   opacity: 0.55;
+}
+
+/* Eingeklappte Zeile "Completed" ganz oben in der Tabelle */
+.doneToggleRow td {
+  position: sticky;
+  top: 38px; /* direkt unter dem Tabellenkopf: bleibt beim Scrollen sichtbar, so laesst sich die Liste jederzeit zuklappen */
+  z-index: 1;
+  padding: 0;
+  opacity: 1;
+}
+.doneToggle {
+  width: 100%;
+  padding: 9px 10px;
+  border: 0;
+  /* deckend (Farbe ueber dem Seitenhintergrund), sonst scheinen die Zeilen beim Scrollen durch */
+  background:
+    linear-gradient(var(--surface-strong, rgb(128 128 128 / 0.12)), var(--surface-strong, rgb(128 128 128 / 0.12))),
+    var(--background, #0c0f15);
+  color: inherit;
+  font: inherit;
+  font-weight: 600;
+  text-align: left;
+  cursor: pointer;
+}
+.doneToggle:hover {
+  background: var(--line, rgb(128 128 128 / 0.25));
+}
+.doneToggle small {
+  margin-left: 6px;
+  font-weight: 400;
+  opacity: 0.6;
+}
+.allDone {
+  padding: 12px 10px;
+  opacity: 0.7;
+}
+
+/* Uebersicht: naechste Belohnungen */
+.nextGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 16px;
+}
+.nextLevel {
+  padding: 18px 20px;
+  border: 1px solid var(--line-soft, rgb(128 128 128 / 0.2));
+  border-left: 4px solid var(--skill-color, var(--accent, #f2c260));
+  border-radius: 10px;
+  font-size: 1rem;
+}
+.nextHead {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+.nextHead small {
+  opacity: 0.65;
+}
+
+/* Uebersicht: Planer und naechste Belohnungen nebeneinander, volle Breite */
+.overviewGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+  gap: 16px;
+  align-items: start;
+}
+/* Kompakter Kopf auf Levels/Collections: mehr Platz fuer den eigentlichen Inhalt */
+.hero.compact {
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 8px 22px;
+  margin-bottom: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.hero.compact .bigLevel {
+  min-width: 56px;
+  flex-direction: row;
+  gap: 6px;
+}
+.hero.compact .bigLevel strong {
+  font-size: 1.8rem;
+}
+.hero.compact .heroBody {
+  flex-direction: row;
+  align-items: center;
+  gap: 24px;
+}
+.hero.compact .facts {
+  flex-wrap: nowrap;
+}
+.hero.compact .about {
+  display: none;
+}
+.hero.compact .bar {
+  flex: 1;
+  min-width: 120px;
+}
+.headingCompact {
+  margin-bottom: 6px;
+  font-size: 1.05rem;
+}
+
+/* Collections: Bild links, Text und Balken rechts */
+.collectionBody {
+  display: flex;
+  min-width: 0;
+  flex: 1;
+  flex-direction: column;
+  gap: 8px;
+}
+.icon {
+  width: 48px;
+  height: 48px;
+  flex: none;
+  object-fit: contain;
+  image-rendering: pixelated;
+}
+.iconFallback {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  background: rgb(255 255 255 / 0.08);
+  color: var(--skill-color, var(--accent, #f2c260));
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+/* Eine Zeile: Bild, Text, Aufklapp-Knopf */
+.collectionRow {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.expandButton {
+  flex: none;
+  width: 30px;
+  height: 30px;
+  border: 1px solid var(--line-strong, rgb(128 128 128 / 0.5));
+  border-radius: 8px;
+  background: var(--input-bg, rgb(128 128 128 / 0.12));
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+}
+.expandButton:hover {
+  border-color: var(--skill-color, var(--accent, #f2c260));
+}
+.collection[data-open="true"] {
+  border-color: var(--skill-color, var(--accent, #f2c260));
+}
+
+/* Aufgeklappt: alle Stufen mit Freischaltungen */
+.tierList {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 0;
+  padding: 10px 0 0;
+  border-top: 1px solid var(--line-soft, rgb(128 128 128 / 0.2));
+  list-style: none;
+  font-size: 0.9rem;
+}
+.tierItem {
+  padding: 8px 10px;
+  border-left: 3px solid var(--line, rgb(128 128 128 / 0.3));
+  border-radius: 6px;
+  background: rgb(255 255 255 / 0.03);
+}
+.tierItem[data-reached="true"] {
+  border-left-color: var(--skill-color, var(--accent, #f2c260));
+}
+/* erreicht: Text gedimmt, das Rezept bleibt hell wie bei noch nicht erreichten Stufen */
+.tierItem[data-reached="true"] .tierHead,
+.tierItem[data-reached="true"] .unlocks > li > span {
+  opacity: 0.65;
+}
+.tierHead {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 4px;
+  font-variant-numeric: tabular-nums;
+}
+.tierHead span {
+  opacity: 0.7;
+}
+
+/* Crafting-Rezept: Knopf und 3x3-Raster */
+.recipeButton {
+  margin-left: 8px;
+  padding: 1px 8px;
+  border: 1px solid var(--line-strong, rgb(128 128 128 / 0.5));
+  border-radius: 6px;
+  background: var(--input-bg, rgb(128 128 128 / 0.12));
+  color: inherit;
+  font: inherit;
+  font-size: 0.75rem;
+  cursor: pointer;
+}
+.recipeButton:hover {
+  border-color: var(--skill-color, var(--accent, #f2c260));
+}
+.recipeBox {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 8px;
+  margin: 8px 0 4px;
+}
+.recipeGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 42px);
+  gap: 2px;
+  padding: 4px;
+  border-radius: 8px;
+  background: rgb(0 0 0 / 0.3);
+}
+.recipeArrow {
+  font-size: 1.3rem;
+  opacity: 0.7;
+}
+.recipeResult {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  max-width: 96px;
+  font-size: 0.78rem;
+  text-align: center;
+}
+.recipeResult small {
+  opacity: 0.7;
+}
+
+/* Inventarfeld wie im Spiel */
+.slot {
+  position: relative;
+  display: flex;
+  width: 42px;
+  height: 42px;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid rgb(0 0 0 / 0.55);
+  border-radius: 4px;
+  background: rgb(139 139 139 / 0.28);
+  overflow: hidden;
+}
+.slotLarge {
+  width: 52px;
+  height: 52px;
+}
+.slot[data-empty="true"] {
+  background: rgb(139 139 139 / 0.12);
+}
+.slotImage {
+  width: 75%;
+  height: 75%;
+  object-fit: contain;
+  image-rendering: pixelated;
+}
+.slotText {
+  padding: 2px;
+  font-size: 0.62rem;
+  line-height: 1.1;
+  overflow-wrap: anywhere;
+  text-align: center;
+}
+.slotCount {
+  position: absolute;
+  right: 3px;
+  bottom: 1px;
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-shadow: 1px 1px 0 #000;
 }
