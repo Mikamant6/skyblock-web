@@ -1,6 +1,7 @@
 // Crafting-Rezepte fuer die Collection-Freischaltungen. Die Daten stehen in data/recipes.json
 // und werden mit scripts/fetchRecipes.ts aus dem NotEnoughUpdates-REPO geladen (Community-Daten).
 import { collectionSlug } from "./collectionIcons";
+import { minionIngredientNames } from "./minionRecipes";
 import iconData from "../data/recipeIcons.json";
 import recipeData from "../data/recipes.json";
 
@@ -37,5 +38,6 @@ export function allRecipeItemNames(): string[] {
     names.add(name);
     for (const slot of recipe.grid) if (slot !== null) names.add(slot.name);
   }
+  for (const name of minionIngredientNames()) names.add(name); // Zutaten der Minion-Rezepte
   return [...names].sort();
 }

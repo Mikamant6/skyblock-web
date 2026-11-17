@@ -493,7 +493,7 @@ function CollectionCard({ item }: { item: SkillDetailResponse["collections"][num
 // Collections des Skills: Stufe, Menge und Fortschritt zur naechsten Stufe
 function Collections({ items }: { items: SkillDetailResponse["collections"] }) {
   const [search, setSearch] = useState("");
-  const [sort, setSort] = useState<CollectionSort>("default");
+  const [sort, setSort] = useState<CollectionSort>("tier");
 
   const visible = useMemo(() => {
     const needle = search.trim().toLowerCase();
@@ -533,9 +533,9 @@ function Collections({ items }: { items: SkillDetailResponse["collections"] }) {
         <label className={styles.field}>
           <span>Sort</span>
           <select className={calc.input} value={sort} onChange={(event) => setSort(event.target.value as CollectionSort)}>
-            <option value="default">Default order</option>
-            <option value="next">Closest to next tier</option>
             <option value="tier">Highest tier</option>
+            <option value="next">Closest to next tier</option>
+            <option value="default">Default order</option>
           </select>
         </label>
       </div>
