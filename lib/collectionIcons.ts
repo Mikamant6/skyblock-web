@@ -66,6 +66,8 @@ export const COLLECTION_ICON_FILES: Record<string, string> = {
   "Jungle Log": "Jungle_Log.png",
   "Fig Log": "Stripped_Spruce_Log.png",
   "Tender Wood": "Tender_Wood.png",
+  "Helix Log": "Stripped_Mangrove_Log.png",
+  "Honeycomb": "Honeycomb.png",
   "Mangrove Log": "Mangrove_Log.png",
   "Vinesap": "Vinesap.png",
   "Lushlilac": "Lushlilac.png",
@@ -96,7 +98,8 @@ export const COLLECTION_ICON_FILES: Record<string, string> = {
   "Hemovibe": "Redstone_Ore.png",
   "Living Metal Heart": "Living_Metal_Heart.png",
   "Timite": "Timite.png",
-  "Wilted Berberis": "Dead_Bush.png"
+  "Wilted Berberis": "Dead_Bush.png",
+  "Ruby Veilshroom": "Ruby_Veilshroom.png"
 };
 
 // "Wheat Seeds" -> "wheat-seeds": gleicher Dateiname im Skript und auf der Seite

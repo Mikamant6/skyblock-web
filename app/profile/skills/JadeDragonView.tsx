@@ -20,10 +20,10 @@ import SkillSubTabs from "./SkillSubTabs";
 type Loaded = { key: string; result: { ok: true; data: ShardMaxCostResponse } | { ok: false; message: string } };
 
 const RARITY_COLOR: Record<string, string> = {
-  common: "#d4d4d8",
+  common: "#e5e7eb",
   uncommon: "#55ff55",
-  rare: "#5555ff",
-  epic: "#aa00aa",
+  rare: "#6b8cff",
+  epic: "#c26bf0",
   legendary: "#ffaa00",
 };
 const RARITIES = ["common", "uncommon", "rare", "epic", "legendary"];
@@ -160,7 +160,6 @@ function Content({ data }: { data: ShardMaxCostResponse }) {
             <tr>
               <th className={styles.num}>#</th>
               <th>Shard</th>
-              <th>Rarity</th>
               <th className={styles.num}>Level</th>
               <th className={styles.num}>Owned</th>
               <th className={styles.num}>Still needed</th>
@@ -172,9 +171,13 @@ function Content({ data }: { data: ShardMaxCostResponse }) {
             {rows.map((row, index) => (
               <tr key={row.productId} data-state={row.maxed ? "maxed" : undefined}>
                 <td className={`${styles.num} ${styles.muted}`}>{index + 1}</td>
-                <td>{row.shardName}</td>
-                <td className={styles.rarity} style={{ color: RARITY_COLOR[row.rarity] }}>
-                  {row.rarity.charAt(0).toUpperCase() + row.rarity.slice(1)}
+                <td>
+                  <span className={styles.shardCell}>
+                    <ShardImage src={row.image} name={row.shardName} />
+                    <span className={styles.rarity} style={{ color: RARITY_COLOR[row.rarity] }}>
+                      {row.shardName}
+                    </span>
+                  </span>
                 </td>
                 <td className={styles.num}>{row.level} / 10</td>
                 <td className={styles.num}>{formatCoins(row.owned)}</td>
@@ -187,7 +190,7 @@ function Content({ data }: { data: ShardMaxCostResponse }) {
             ))}
             {rows.length === 0 && (
               <tr>
-                <td colSpan={8}>No shard matches.</td>
+                <td colSpan={7}>No shard matches.</td>
               </tr>
             )}
           </tbody>
@@ -199,5 +202,15 @@ function Content({ data }: { data: ShardMaxCostResponse }) {
         Hypixel SkyBlock Wiki (CC BY-NC-SA 3.0).
       </p>
     </>
+  );
+}
+
+// Shard-Textur (public/shards/...); fehlt sie, bleibt ein leerer Platz gleicher Groesse
+function ShardImage({ src, name }: { src: string | null; name: string }) {
+  const [broken, setBroken] = useState(false);
+  if (src === null || broken) return <span className={styles.shardImage} aria-hidden="true" />;
+  return (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img className={styles.shardImage} src={src} alt={name} width={28} height={28} loading="lazy" onError={() => setBroken(true)} />
   );
 }

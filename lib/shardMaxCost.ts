@@ -6,6 +6,7 @@ import type { ShardPrices } from "./bazaarApi";
 import { calculateLevel, getBazaarProductId, type BazaarOverride, type LevelTable, type ShardInfo } from "./shardAttributes";
 
 export type MaxCostRow = {
+  attributeId: string; // ID im Profil (fuer das Bild)
   shardName: string;
   productId: string;
   rarity: string;
@@ -42,6 +43,7 @@ export function calculateMaxCosts(
     const unitPrice = bazaarId === null ? null : (prices[bazaarId]?.sellOfferPrice ?? null);
 
     return {
+      attributeId: shard.attributeId,
       shardName: shard.shardName,
       productId: shard.productId,
       rarity: shard.rarity,
