@@ -1,0 +1,19 @@
+/* Reiter unter den Skill-Reitern: "Shards" (spaeter weitere Guides) */
+.guideTabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: -4px 0 14px;
+}
+.guideTab {
+  padding: 5px 14px;
+  border: 1px solid var(--line, rgb(128 128 128 / 0.3));
+  border-radius: 8px;
+  background: var(--surface, rgb(128 128 128 / 0.08));
+  font-size: 0.85rem;
+}
+.guideTab[data-active="true"] {
+  border-color: var(--skill-color, currentColor);
+  background: var(--surface-strong, rgb(128 128 128 / 0.18));
+  font-weight: 700;
+}

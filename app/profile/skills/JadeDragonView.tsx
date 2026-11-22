@@ -6,6 +6,7 @@
 
 import { useEffect, useMemo, useState, type CSSProperties } from "react";
 import type { ShardMaxCostResponse } from "../../../lib/shardMaxCostService";
+import { attributeNameOf } from "../../../lib/shardDetails";
 import { getSkillExtras } from "../../../lib/skillExtras";
 import { getSkillMeta } from "../../../lib/skillMeta";
 import Panel from "../../Panel.module.css";
@@ -15,20 +16,10 @@ import { fetchApi } from "../fetchApi";
 import { useProfile } from "../ProfileProvider";
 import skillStyles from "./SkillDetail.module.css";
 import styles from "./JadeDragonView.module.css";
+import ShardCostTable, { RARITIES } from "./ShardCostTable";
 import SkillSubTabs from "./SkillSubTabs";
 
 type Loaded = { key: string; result: { ok: true; data: ShardMaxCostResponse } | { ok: false; message: string } };
-
-const RARITY_COLOR: Record<string, string> = {
-  common: "#e5e7eb",
-  uncommon: "#55ff55",
-  rare: "#6b8cff",
-  epic: "#c26bf0",
-  legendary: "#ffaa00",
-};
-const RARITIES = ["common", "uncommon", "rare", "epic", "legendary"];
-
-const price = new Intl.NumberFormat("en-US", { maximumFractionDigits: 1 });
 
 // Letzte Antwort pro Profil: beim Zurueckwechseln erscheint sie sofort
 const lastLoaded = new Map<string, Loaded>();
@@ -95,7 +86,9 @@ function Content({ data }: { data: ShardMaxCostResponse }) {
     () =>
       data.rows.filter(
         (row) =>
-          (!hideMaxed || !row.maxed) && (rarity === "all" || row.rarity === rarity) && row.shardName.toLowerCase().includes(needle),
+          (!hideMaxed || !row.maxed) &&
+        (rarity === "all" || row.rarity === rarity) &&
+        (row.shardName.toLowerCase().includes(needle) || attributeNameOf(row.productId).toLowerCase().includes(needle)),
       ),
     [data.rows, hideMaxed, rarity, needle],
   );
@@ -138,7 +131,7 @@ function Content({ data }: { data: ShardMaxCostResponse }) {
         </div>
         </div>
       <div className={styles.introControls}>
-        <input className={styles.input} type="search" placeholder="Search shards" value={query} onChange={(e) => setQuery(e.target.value)} />
+        <input className={styles.input} type="search" placeholder="Search shard or attribute" value={query} onChange={(e) => setQuery(e.target.value)} />
         <select className={styles.select} value={rarity} onChange={(e) => setRarity(e.target.value)} aria-label="Filter by rarity">
           <option value="all">All rarities</option>
           {RARITIES.map((r) => (
@@ -154,63 +147,12 @@ function Content({ data }: { data: ShardMaxCostResponse }) {
       </div>
       </div>
 
-      <div className={`${Panel.panel} ${styles.tableWrap}`}>
-        <table className={styles.table}>
-          <thead>
-            <tr>
-              <th className={styles.num}>#</th>
-              <th>Shard</th>
-              <th className={styles.num}>Level</th>
-              <th className={styles.num}>Owned</th>
-              <th className={styles.num}>Still needed</th>
-              <th className={styles.num}>Price each</th>
-              <th className={styles.num}>Cost to max</th>
-            </tr>
-          </thead>
-          <tbody>
-            {rows.map((row, index) => (
-              <tr key={row.productId} data-state={row.maxed ? "maxed" : undefined}>
-                <td className={`${styles.num} ${styles.muted}`}>{index + 1}</td>
-                <td>
-                  <span className={styles.shardCell}>
-                    <ShardImage src={row.image} name={row.shardName} />
-                    <span className={styles.rarity} style={{ color: RARITY_COLOR[row.rarity] }}>
-                      {row.shardName}
-                    </span>
-                  </span>
-                </td>
-                <td className={styles.num}>{row.level} / 10</td>
-                <td className={styles.num}>{formatCoins(row.owned)}</td>
-                <td className={styles.num}>{row.maxed ? "-" : formatCoins(row.remaining)}</td>
-                <td className={styles.num}>{row.unitPrice === null ? "-" : price.format(row.unitPrice)}</td>
-                <td className={styles.num}>
-                  {row.maxed ? "Maxed" : row.cost === null ? <span className={styles.muted}>no price</span> : formatCoins(row.cost)}
-                </td>
-              </tr>
-            ))}
-            {rows.length === 0 && (
-              <tr>
-                <td colSpan={7}>No shard matches.</td>
-              </tr>
-            )}
-          </tbody>
-        </table>
-      </div>
+      <ShardCostTable rows={rows} />
       <p className={styles.note}>
         Cost to max = shards still missing for level 10 × Instant Buy price. For very large amounts the real price rises a little
         because cheaper offers run out. Shards without a Bazaar price (not tradable or unknown) are listed last. Shard data from the
         Hypixel SkyBlock Wiki (CC BY-NC-SA 3.0).
       </p>
     </>
-  );
-}
-
-// Shard-Textur (public/shards/...); fehlt sie, bleibt ein leerer Platz gleicher Groesse
-function ShardImage({ src, name }: { src: string | null; name: string }) {
-  const [broken, setBroken] = useState(false);
-  if (src === null || broken) return <span className={styles.shardImage} aria-hidden="true" />;
-  return (
-    // eslint-disable-next-line @next/next/no-img-element
-    <img className={styles.shardImage} src={src} alt={name} width={28} height={28} loading="lazy" onError={() => setBroken(true)} />
   );
 }

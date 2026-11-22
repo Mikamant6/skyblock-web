@@ -134,3 +134,71 @@
   object-fit: contain;
   image-rendering: pixelated;
 }
+
+/* Pfeil vor der Nummer: klappt die Beschreibung auf */
+.arrowCol {
+  width: 34px;
+  padding-right: 0 !important;
+  padding-left: 8px !important;
+}
+.arrowButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  border: 1px solid var(--line, rgb(128 128 128 / 0.3));
+  border-radius: 6px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+}
+.arrowButton:hover {
+  background: var(--surface-strong, rgb(128 128 128 / 0.18));
+}
+.arrowButton:focus-visible {
+  outline: 2px solid var(--skill-color, currentColor);
+  outline-offset: 2px;
+}
+.arrowIcon {
+  display: inline-block;
+  font-size: 0.85rem;
+  line-height: 1;
+  transition: transform 0.12s ease;
+}
+.arrowIcon[data-open="true"] {
+  transform: rotate(90deg);
+}
+/* Attribut-Name rechts neben dem Shard-Namen */
+.attribute {
+  font-size: 0.8rem;
+  color: #d99a1c; /* Gold wie die Attribut-Zeile im Spiel */
+  font-weight: 400;
+}
+/* aufgeklappte Beschreibung: Ingame-Tooltip (dunkel, damit die Spielfarben in jedem Theme lesbar sind) */
+.detailRow td {
+  padding: 8px 14px 12px 52px;
+  white-space: normal;
+}
+.tip {
+  width: max-content;
+  max-width: min(420px, 100%);
+  padding: 8px 10px;
+  border: 2px solid #2a0a5e;
+  border-radius: 4px;
+  background: rgb(16 0 16 / 0.95);
+  color: #ffffff;
+  font-family: var(--font-geist-mono, ui-monospace, "Cascadia Mono", Consolas, monospace);
+  font-size: 0.82rem;
+  line-height: 1.45;
+  text-align: left;
+}
+.tipLine {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+.tipBlank {
+  height: 0.7em;
+}

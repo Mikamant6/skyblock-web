@@ -1,5 +1,5 @@
 "use client";
-// Tabs innerhalb eines Skills: Overview, Levels & rewards, Collections (nur wenn der Skill welche hat)
+// Tabs innerhalb eines Skills: Overview, Levels & rewards, Collections (nur wenn der Skill welche hat), Guides
 // und - bei Combat/Taming - Links zu verwandten Seiten mit echten Daten.
 import Link from "next/link";
 import { usePathname } from "next/navigation";
@@ -24,6 +24,8 @@ export default function SkillSubTabs({
     { label: "Overview", href: base },
     { label: "Levels & rewards", href: `${base}/levels` },
     ...(hasCollections ? [{ label: "Collections", href: `${base}/collections` }] : []),
+    // Guides: pro Skill, zuerst die Shards des Skills
+    { label: "Guides", href: `${base}/guides` },
     // Foraging: Jade Dragon (billigste Shards zum Maximieren)
     ...(skillKey === "FORAGING" ? [{ label: "Jade Dragon", href: `${base}/jade-dragon` }] : []),
   ];

@@ -2,6 +2,7 @@
 // Die Tabelle mit allen Shards: sortierbar, durchsuchbar, zunaechst nur die obersten Zeilen.
 
 import { useState } from "react";
+import { attributeNameOf } from "../lib/shardDetails";
 import type { ShardRow } from "../lib/shardNetworth";
 import styles from "./calculator.module.css";
 import { formatCoins, formatPercent } from "./format";
@@ -46,8 +47,8 @@ export default function ShardTable({ shards, totalValue }: Props) {
 
   // 1. nach Suchtext filtern, 2. sortieren, 3. ggf. auf die obersten Zeilen kuerzen
   const needle = search.trim().toLowerCase();
-  const filtered = shards.filter((row) =>
-    row.shardName.toLowerCase().includes(needle),
+  const filtered = shards.filter(
+    (row) => row.shardName.toLowerCase().includes(needle) || attributeNameOf(row.productId).toLowerCase().includes(needle),
   );
   const sorted = [...filtered].sort((a, b) => {
     let result: number;
@@ -67,8 +68,8 @@ export default function ShardTable({ shards, totalValue }: Props) {
         <input
           className={styles.input}
           type="search"
-          placeholder="Search shard..."
-          aria-label="Search shards by name"
+          placeholder="Search shard or attribute..."
+          aria-label="Search shards by shard or attribute name"
           value={search}
           onChange={(event) => setSearch(event.target.value)}
         />
@@ -106,7 +107,11 @@ export default function ShardTable({ shards, totalValue }: Props) {
             {visible.map((row) => (
               // "key" hilft React, die Zeilen auseinanderzuhalten
               <tr key={row.attributeId}>
-                <td>{row.shardName}</td>
+                <td>
+                  {row.shardName}
+                  {/* Attribut-Name rechts neben dem Shard-Namen */}
+                  {attributeNameOf(row.productId) !== "" && <span className={styles.muted}> {attributeNameOf(row.productId)}</span>}
+                </td>
                 <td>
                   <span className={styles.rarity} data-rarity={row.rarity}>
                     {row.rarity}
