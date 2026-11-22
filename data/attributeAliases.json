@@ -110,5 +110,12 @@
     "productId": "SHARD_REVENANT",
     "rarity": "rare",
     "evidence": "elimination"
+  },
+  {
+    "apiAttributeId": "fishing_experience",
+    "shardName": "Loch Emperor",
+    "productId": "SHARD_LOCH_EMPEROR",
+    "rarity": "epic",
+    "evidence": "observation: 32 shards on a maxed Loch Emperor, matches Epic cumulative"
   }
 ]
