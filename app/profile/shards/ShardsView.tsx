@@ -109,7 +109,10 @@ function ShardResult({ data }: { data: ShardNetworthResponse }) {
         </div>
       )}
 
-      <ShardTable shards={data.shards} totalValue={totals.valueRaw} />
+      {/* Tabelle in derselben Box (Hintergrund + Rand) wie der "Shard breakdown" im Overview */}
+      <div className={styles.details} style={{ marginTop: 16 }}>
+        <ShardTable shards={data.shards} totalValue={totals.valueRaw} />
+      </div>
     </section>
   );
 }

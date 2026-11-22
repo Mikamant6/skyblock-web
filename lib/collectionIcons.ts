@@ -42,6 +42,7 @@ export const COLLECTION_ICON_FILES: Record<string, string> = {
   "Obsidian": "Obsidian.png",
   "Red Sand": "Red_Sand.png",
   "Redstone": "Redstone_Dust.png",
+  "Redstone Dust": "Redstone_Dust.png", // so heisst die Collection in der Hypixel-API
   "Sand": "Sand.png",
   "Sulphur": "Sulphur.png",
   "Tungsten": "Tungsten.png",

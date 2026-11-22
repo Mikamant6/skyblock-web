@@ -24,6 +24,8 @@ export default function SkillSubTabs({
     { label: "Overview", href: base },
     { label: "Levels & rewards", href: `${base}/levels` },
     ...(hasCollections ? [{ label: "Collections", href: `${base}/collections` }] : []),
+    // Foraging: Jade Dragon (billigste Shards zum Maximieren)
+    ...(skillKey === "FORAGING" ? [{ label: "Jade Dragon", href: `${base}/jade-dragon` }] : []),
   ];
 
   return (

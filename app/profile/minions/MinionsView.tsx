@@ -6,6 +6,7 @@ import { useMemo, useState } from "react";
 import { allMinionTypes, minionRecipe, parseMinionItemId } from "../../../lib/minionRecipes";
 import { minionIconPath } from "../../../lib/minionIcons";
 import { itemIconPath } from "../../../lib/recipes";
+import { SKILL_ORDER, minionSkill, type SkillGroup } from "../../../lib/skillGroups";
 import Panel from "../../Panel.module.css";
 import { formatCoins } from "../../format";
 import ExtrasGate from "../extras/Status";
@@ -13,14 +14,18 @@ import styles from "../extras/Extras.module.css";
 import MinionIcon from "./MinionIcon";
 
 type Row = { key: string; name: string; highestTier: number; maxTier: number | null };
+type Sort = "tier" | "name";
+type SkillFilter = SkillGroup | "all";
 
 export default function MinionsView() {
   const [query, setQuery] = useState("");
   const [onlyCrafted, setOnlyCrafted] = useState(false);
+  const [sort, setSort] = useState<Sort>("tier");
+  const [skill, setSkill] = useState<SkillFilter>("all");
   return (
     <ExtrasGate>
       {({ minions }) => (
-        <MinionsContent minions={minions} query={query} setQuery={setQuery} onlyCrafted={onlyCrafted} setOnlyCrafted={setOnlyCrafted} />
+        <MinionsContent minions={minions} query={query} setQuery={setQuery} onlyCrafted={onlyCrafted} setOnlyCrafted={setOnlyCrafted} sort={sort} setSort={setSort} skill={skill} setSkill={setSkill} />
       )}
     </ExtrasGate>
   );
@@ -32,12 +37,20 @@ function MinionsContent({
   setQuery,
   onlyCrafted,
   setOnlyCrafted,
+  sort,
+  setSort,
+  skill,
+  setSkill,
 }: {
   minions: { key: string; name: string; highestTier: number; craftedTiers: number }[];
   query: string;
   setQuery: (value: string) => void;
   onlyCrafted: boolean;
   setOnlyCrafted: (value: boolean) => void;
+  sort: Sort;
+  setSort: (value: Sort) => void;
+  skill: SkillFilter;
+  setSkill: (value: SkillFilter) => void;
 }) {
   // Alle bekannten Minions + eigene; hoechste Stufe zuerst, bei Gleichstand nach Name
   const rows = useMemo(() => {
@@ -54,7 +67,10 @@ function MinionsContent({
   }, [minions]);
 
   const needle = query.trim().toLowerCase();
-  const shown = rows.filter((row) => (!onlyCrafted || row.highestTier > 0) && row.name.toLowerCase().includes(needle));
+  const shown = rows.filter((row) => (!onlyCrafted || row.highestTier > 0) && (skill === "all" || minionSkill(row.key) === skill) && row.name.toLowerCase().includes(needle));
+  const sortedShown = sort === "name" ? [...shown].sort((a, b) => a.name.localeCompare(b.name)) : shown;
+  // Skills, die es in der Liste gibt (fuer das Filter-Feld)
+  const skillsPresent = SKILL_ORDER.filter((name) => rows.some((row) => minionSkill(row.key) === name));
   const totalTiers = minions.reduce((sum, m) => sum + m.craftedTiers, 0);
 
   return (
@@ -80,6 +96,18 @@ function MinionsContent({
           placeholder="Search minions"
           aria-label="Search minions"
         />
+        <select className={styles.sortSelect} value={skill} onChange={(e) => setSkill(e.target.value as SkillFilter)} aria-label="Filter minions by skill">
+          <option value="all">All skills</option>
+          {skillsPresent.map((name) => (
+            <option key={name} value={name}>
+              {name}
+            </option>
+          ))}
+        </select>
+        <select className={styles.sortSelect} value={sort} onChange={(e) => setSort(e.target.value as Sort)} aria-label="Sort minions">
+          <option value="tier">Sort: Highest tier</option>
+          <option value="name">Sort: Name</option>
+        </select>
         <label className={styles.toggle}>
           <input type="checkbox" checked={onlyCrafted} onChange={(e) => setOnlyCrafted(e.target.checked)} />
           Only minions I have crafted
@@ -88,7 +116,7 @@ function MinionsContent({
       </div>
       {minions.length === 0 && <p>No crafted minions found. It may be hidden by the API settings of this profile.</p>}
       <ul className={`${styles.grid} ${styles.minionGrid}`}>
-        {shown.map((row) => (
+        {sortedShown.map((row) => (
           <MinionCard key={row.key} row={row} />
         ))}
       </ul>

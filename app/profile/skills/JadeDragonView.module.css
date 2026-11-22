@@ -1,0 +1,123 @@
+.intro {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 18px 28px;
+  padding: 16px 24px;
+  margin-bottom: 14px;
+  line-height: 1.55;
+}
+.petImage {
+  flex-shrink: 0;
+  width: 96px;
+  height: 96px;
+  object-fit: contain;
+  image-rendering: pixelated;
+}
+.introText {
+  flex: 1 1 380px;
+  min-width: 0;
+  padding-left: 8px;
+}
+/* Rechts: Suche, Seltenheit, "Hide already maxed" untereinander */
+.introControls {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 10px;
+  flex: 0 0 220px;
+  margin-left: auto;
+}
+.introControls .input {
+  width: 100%;
+}
+.intro h3 {
+  margin: 0 0 6px;
+  font-size: 1.05rem;
+}
+.intro p {
+  margin: 0 0 8px;
+}
+.stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  margin-top: 10px;
+}
+.stat span {
+  display: block;
+  font-size: 0.8rem;
+  opacity: 0.7;
+}
+.stat strong {
+  font-size: 1.25rem;
+}
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px 16px;
+  margin-bottom: 12px;
+}
+.input,
+.select {
+  padding: 8px 12px;
+  border: 1px solid var(--line-strong, rgb(128 128 128 / 0.5));
+  border-radius: 8px;
+  background: var(--input-bg, rgb(128 128 128 / 0.12));
+  color: inherit;
+  font: inherit;
+  font-size: 0.85rem;
+}
+.input {
+  width: 220px;
+}
+.toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+.tableWrap {
+  max-height: 640px;
+  overflow: auto;
+}
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+  font-variant-numeric: tabular-nums;
+}
+.table th {
+  position: sticky;
+  top: 0;
+  padding: 8px 10px;
+  background: var(--background, #0c0f15);
+  text-align: left;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.table td {
+  padding: 7px 10px;
+  border-top: 1px solid var(--line-soft, rgb(128 128 128 / 0.15));
+  white-space: nowrap;
+}
+.num {
+  text-align: right !important;
+}
+.table tr[data-state="maxed"] td {
+  opacity: 0.55;
+}
+.rarity {
+  font-weight: 600;
+}
+.muted {
+  opacity: 0.6;
+}
+.note {
+  margin: 12px 0 0;
+  font-size: 0.8rem;
+  opacity: 0.7;
+  line-height: 1.5;
+}

@@ -278,3 +278,27 @@
   font-weight: 700;
   text-shadow: 0 0 3px #000;
 }
+
+/* Sortierung nach Skill: Auswahlfeld + Gruppen-Ueberschrift */
+.sortSelect {
+  padding: 8px 12px;
+  border: 1px solid var(--line-strong, rgb(128 128 128 / 0.5));
+  border-radius: 8px;
+  background: var(--input-bg, rgb(128 128 128 / 0.12));
+  color: inherit;
+  font: inherit;
+  font-size: 0.85rem;
+}
+.groupHeading {
+  margin: 20px 0 8px;
+  font-size: 1.05rem;
+}
+
+/* Pets, die man nicht hat: abgedunkelt und grau (wie ungecraftete Minions) */
+.petMissing {
+  opacity: 0.55;
+}
+.petMissing .petIcon,
+.petMissing .petIconFallback {
+  filter: grayscale(1);
+}
