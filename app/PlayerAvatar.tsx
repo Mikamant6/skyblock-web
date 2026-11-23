@@ -1,13 +1,10 @@
 "use client";
 // Kopf des Minecraft-Skins eines Spielers. Das Skin-Bild kommt von unserem
 // Server (/api/skin); der Kopf (Gesicht + Hut-Ebene) wird hier auf eine
-// Zeichenflaeche geschnitten. Klappt das nicht, nehmen wir ersatzweise einen
-// Fremddienst, und zuletzt bleibt ein leerer Platz.
+// Zeichenflaeche geschnitten. Klappt das nicht, bleibt ein leerer Platz
+// (bewusst kein Fremddienst, damit keine Daten an Dritte gehen).
 
 import { useEffect, useRef, useState } from "react";
-
-const FALLBACK = (uuid: string, size: number) =>
-  `https://mc-heads.net/avatar/${uuid}/${size}`;
 
 export default function PlayerAvatar({
   uuid,
@@ -17,8 +14,8 @@ export default function PlayerAvatar({
   size?: number;
 }) {
   const canvasRef = useRef<HTMLCanvasElement>(null);
-  // "skin" = eigener Server, "fallback" = Fremddienst, "none" = nichts
-  const [mode, setMode] = useState<"skin" | "fallback" | "none">("skin");
+  // "skin" = eigener Server, "none" = nichts
+  const [mode, setMode] = useState<"skin" | "none">("skin");
 
   useEffect(() => {
     if (mode !== "skin") return;
@@ -34,7 +31,7 @@ export default function PlayerAvatar({
       context.drawImage(image, 40, 8, 8, 8, 0, 0, canvas.width, canvas.height); // Hut-Ebene
     };
     image.onerror = () => {
-      if (!cancelled) setMode("fallback");
+      if (!cancelled) setMode("none");
     };
     image.src = `/api/skin?uuid=${encodeURIComponent(uuid)}`;
     return () => {
@@ -46,17 +43,6 @@ export default function PlayerAvatar({
 
   if (mode === "skin") {
     return <canvas ref={canvasRef} width={64} height={64} style={style} aria-hidden="true" />;
-  }
-  if (mode === "fallback") {
-    return (
-      // eslint-disable-next-line @next/next/no-img-element
-      <img
-        src={FALLBACK(uuid, size * 2)}
-        alt=""
-        style={style}
-        onError={() => setMode("none")}
-      />
-    );
   }
   return <span aria-hidden="true" style={{ width: size, height: size, display: "inline-block" }} />;
 }

@@ -147,8 +147,8 @@ export default function AppShell({ children }: { children: ReactNode }) {
             Networth is calculated with the SkyHelper-Networth library.
           </p>
           <p>
-            <Link href="/impressum">Impressum</Link> ·{" "}
-            <Link href="/datenschutz">Datenschutz</Link>
+            <Link href="/datenschutz">Datenschutz</Link> ·{" "}
+            <Link href="/credits">Credits</Link>
           </p>
         </footer>
       </div>
