@@ -17,3 +17,29 @@
   background: var(--surface-strong, rgb(128 128 128 / 0.18));
   font-weight: 700;
 }
+
+/* Beschreibung schmaler: der Text bricht frueher um, rechts daneben bleibt Platz frei */
+.introText p {
+  max-width: 1000px;
+}
+/* Zeile: Zahlen links, Filter ganz rechts */
+.statsRow {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 14px 40px;
+  margin-top: 10px;
+  padding-right: clamp(0px, 9vw, 150px); /* Filter etwas vom rechten Rand weg */
+}
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px 12px;
+  margin-left: auto;
+}
+.filters input[type="search"] {
+  width: 210px;
+}

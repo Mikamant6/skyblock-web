@@ -126,13 +126,14 @@ function Content({ data, label }: { data: ShardMaxCostResponse; label: string })
   return (
     <>
       <div className={`${Panel.panel} ${jade.intro}`}>
-        <div className={jade.introText}>
+        <div className={`${jade.introText} ${styles.introText}`}>
           <h3>{label} shards</h3>
           <p>
             Attribute shards whose effect belongs to the {label} skill (skill column of the Hypixel SkyBlock Wiki). Level, owned
             shards and cost are for your profile. Prices are the Instant Buy price (lowest sell offer in the Bazaar).
           </p>
-          <div className={jade.stats}>
+          <div className={styles.statsRow}>
+          <div className={jade.stats} style={{ marginTop: 0 }}>
             <div className={jade.stat}>
               <span>Maxed</span>
               <strong>
@@ -150,26 +151,27 @@ function Content({ data, label }: { data: ShardMaxCostResponse; label: string })
               </div>
             )}
           </div>
-        </div>
-        <div className={jade.introControls}>
-          <input className={jade.input} type="search" placeholder="Search shard or attribute" value={query} onChange={(e) => setQuery(e.target.value)} />
-          <select className={jade.select} value={rarity} onChange={(e) => setRarity(e.target.value)} aria-label="Filter by rarity">
-            <option value="all">All rarities</option>
-            {RARITIES.map((r) => (
-              <option key={r} value={r}>
-                {r.charAt(0).toUpperCase() + r.slice(1)}
-              </option>
-            ))}
-          </select>
-          <select className={jade.select} value={sort} onChange={(e) => setSort(e.target.value as SortMode)} aria-label="Sort shards">
-            <option value="cost">Sort: cheapest to max</option>
-            <option value="name">Sort: name</option>
-            <option value="rarity">Sort: rarity</option>
-          </select>
-          <label className={jade.toggle}>
-            <input type="checkbox" checked={hideMaxed} onChange={(e) => setHideMaxed(e.target.checked)} />
-            Hide already maxed
-          </label>
+          <div className={styles.filters}>
+            <input className={jade.input} type="search" placeholder="Search shard or attribute" value={query} onChange={(e) => setQuery(e.target.value)} />
+            <select className={jade.select} value={rarity} onChange={(e) => setRarity(e.target.value)} aria-label="Filter by rarity">
+              <option value="all">All rarities</option>
+              {RARITIES.map((r) => (
+                <option key={r} value={r}>
+                  {r.charAt(0).toUpperCase() + r.slice(1)}
+                </option>
+              ))}
+            </select>
+            <select className={jade.select} value={sort} onChange={(e) => setSort(e.target.value as SortMode)} aria-label="Sort shards">
+              <option value="cost">Sort: cheapest to max</option>
+              <option value="name">Sort: name</option>
+              <option value="rarity">Sort: rarity</option>
+            </select>
+            <label className={jade.toggle}>
+              <input type="checkbox" checked={hideMaxed} onChange={(e) => setHideMaxed(e.target.checked)} />
+              Hide already maxed
+            </label>
+          </div>
+          </div>
         </div>
       </div>
 
