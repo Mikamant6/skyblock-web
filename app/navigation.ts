@@ -28,6 +28,16 @@ export const NAV: NavItem[] = [
           ),
         ],
       },
+      {
+        label: "Guides",
+        href: "/profile/guides",
+        children: [
+          { label: "Overview", href: "/profile/guides" },
+          ...["Farming", "Mining", "Combat", "Foraging", "Fishing", "Enchanting", "Alchemy", "Taming", "Carpentry", "Runecrafting", "Social"].map(
+            (name) => ({ label: name, href: `/profile/guides/${name.toLowerCase()}` }),
+          ),
+        ],
+      },
       { label: "Slayers", href: "/profile/slayers" },
       { label: "Dungeons", href: "/profile/dungeons" },
       { label: "Pets", href: "/profile/pets" },

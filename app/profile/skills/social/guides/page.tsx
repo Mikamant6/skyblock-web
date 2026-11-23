@@ -1,10 +1,6 @@
-import ShardsGuideView from "../../ShardsGuideView";
+// Die Guides sind jetzt ein eigener Bereich: alte Adresse leitet dorthin um.
+import { redirect } from "next/navigation";
 
-export const metadata = {
-  title: "Social guides: shards",
-  description: "Attribute shards that belong to the Social skill in Hypixel SkyBlock, with your level and the cost to max them.",
-};
-
-export default function SocialGuidesPage() {
-  return <ShardsGuideView skillKey="SOCIAL" />;
+export default function OldGuidesPage() {
+  redirect("/profile/guides/social");
 }

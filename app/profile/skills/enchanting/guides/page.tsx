@@ -1,10 +1,6 @@
-import ShardsGuideView from "../../ShardsGuideView";
+// Die Guides sind jetzt ein eigener Bereich: alte Adresse leitet dorthin um.
+import { redirect } from "next/navigation";
 
-export const metadata = {
-  title: "Enchanting guides: shards",
-  description: "Attribute shards that belong to the Enchanting skill in Hypixel SkyBlock, with your level and the cost to max them.",
-};
-
-export default function EnchantingGuidesPage() {
-  return <ShardsGuideView skillKey="ENCHANTING" />;
+export default function OldGuidesPage() {
+  redirect("/profile/guides/enchanting");
 }

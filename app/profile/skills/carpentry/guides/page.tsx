@@ -1,10 +1,6 @@
-import ShardsGuideView from "../../ShardsGuideView";
+// Die Guides sind jetzt ein eigener Bereich: alte Adresse leitet dorthin um.
+import { redirect } from "next/navigation";
 
-export const metadata = {
-  title: "Carpentry guides: shards",
-  description: "Attribute shards that belong to the Carpentry skill in Hypixel SkyBlock, with your level and the cost to max them.",
-};
-
-export default function CarpentryGuidesPage() {
-  return <ShardsGuideView skillKey="CARPENTRY" />;
+export default function OldGuidesPage() {
+  redirect("/profile/guides/carpentry");
 }

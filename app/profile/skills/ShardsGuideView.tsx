@@ -1,13 +1,12 @@
 "use client";
-// Skill > Guides > Shards: alle Attribute Shards, die zu diesem Skill gehoeren (Spalte "Skill" der Wiki),
+// Guides > <Skill> > Shards: alle Attribute Shards, die zu diesem Skill gehoeren (Spalte "Skill" der Wiki),
 // mit deinem Level, deinem Besitz und den Kosten bis Level 10 (Instant Buy).
-// Spaeter kommen weitere Guides als zusaetzliche Reiter neben "Shards" dazu.
+// Spaeter kommen weitere Guides (z. B. Ruestung, Progression) als zusaetzliche Reiter neben "Shards" dazu.
 
 import { useEffect, useMemo, useState, type CSSProperties } from "react";
 import type { ShardMaxCostResponse } from "../../../lib/shardMaxCostService";
 import { attributeNameOf } from "../../../lib/shardDetails";
 import { shardCountForSkill, skillWikiName } from "../../../lib/shardSkills";
-import { getSkillExtras } from "../../../lib/skillExtras";
 import { getSkillMeta } from "../../../lib/skillMeta";
 import Panel from "../../Panel.module.css";
 import calc from "../../calculator.module.css";
@@ -17,13 +16,9 @@ import { useProfile } from "../ProfileProvider";
 import jade from "./JadeDragonView.module.css";
 import ShardCostTable, { RARITIES } from "./ShardCostTable";
 import skillStyles from "./SkillDetail.module.css";
-import SkillSubTabs from "./SkillSubTabs";
 import styles from "./ShardsGuideView.module.css";
 
 type Loaded = { key: string; result: { ok: true; data: ShardMaxCostResponse } | { ok: false; message: string } };
-
-// Skills, die Collections haben (damit der Reiter "Collections" hier genauso erscheint wie auf den anderen Skill-Seiten)
-const SKILLS_WITH_COLLECTIONS = new Set(["FARMING", "MINING", "COMBAT", "FORAGING", "FISHING"]);
 
 // Letzte Antwort pro Profil: beim Zurueckwechseln erscheint sie sofort
 const lastLoaded = new Map<string, Loaded>();
@@ -66,7 +61,6 @@ export default function ShardsGuideView({ skillKey }: { skillKey: string }) {
         <span className={skillStyles.dot} aria-hidden="true" />
         {label}
       </h2>
-      <SkillSubTabs skillKey={skillKey} hasCollections={SKILLS_WITH_COLLECTIONS.has(skillKey)} extras={getSkillExtras(skillKey)} />
       <nav className={styles.guideTabs} aria-label="Guides">
         <span className={styles.guideTab} data-active="true">
           Shards

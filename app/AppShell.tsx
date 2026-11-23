@@ -79,7 +79,7 @@ export default function AppShell({ children }: { children: ReactNode }) {
       className={styles.shell}
       data-sidebar={hasProfile}
       data-wide={WIDE_PATHS.includes(pathname)}
-      data-xwide={pathname.startsWith("/profile/skills/")}
+      data-xwide={pathname.startsWith("/profile/skills/") || pathname.startsWith("/profile/guides/")}
     >
       <header className={styles.topbar}>
         {hasProfile && (
