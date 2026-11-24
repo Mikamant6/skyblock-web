@@ -42,6 +42,10 @@ type NetworthLibrary = {
   ) => { getNetworth(options?: object): Promise<RawNetworth> };
   NetworthManager: { itemsPromise?: Promise<unknown> };
   UpdateManager: { disable?: () => void };
+  // Entschluesselt alle Inventare des Spielers (Ruestung, Inventar, Enderchest, Kleiderschrank, ...)
+  parseItems: (profileData: object, museumData?: object) => Promise<Record<string, unknown[]>>;
+  // Preisliste der Bibliothek (SkyHelper-Prices): Item-ID -> Preis in Coins
+  getPrices: () => Promise<Record<string, number>>;
 };
 
 let libraryPromise: Promise<NetworthLibrary> | null = null;
@@ -91,5 +95,29 @@ export async function calculateProfileNetworth(
       "The networth could not be calculated right now. Please try again later.",
       503,
     );
+  }
+}
+
+// Alle Inventare eines Mitglieds entschluesselt: Name des Inventars (z. B. "armor", "wardrobe", "enderchest")
+// -> Liste der Gegenstaende. Nutzt dieselbe (geschuetzte) Bibliothek wie die Networth-Berechnung.
+export async function parseMemberInventories(memberData: object): Promise<Record<string, unknown[]>> {
+  try {
+    const lib = await loadLibrary();
+    return await lib.parseItems(memberData);
+  } catch (error) {
+    console.error("Reading inventories failed:", error);
+    throw new UserError("Your items could not be read right now. Please try again later.", 503);
+  }
+}
+
+// Preisliste (Item-ID -> Coins) aus der Bibliothek. Sie wird dort 5 Minuten zwischengespeichert.
+// Ein Preis ist nur eine Zugabe: scheitert das Laden, gibt es einfach keine Preise (statt eines Fehlers).
+export async function getItemPrices(): Promise<Record<string, number>> {
+  try {
+    const lib = await loadLibrary();
+    return await lib.getPrices();
+  } catch (error) {
+    console.error("Loading item prices failed:", error);
+    return {};
   }
 }

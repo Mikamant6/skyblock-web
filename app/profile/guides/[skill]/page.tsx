@@ -1,8 +1,8 @@
-// Guides eines Skills (Adresse z. B. /profile/guides/farming). Unbekannte Skills ergeben eine 404-Seite.
+// Level-Guide eines Skills (Adresse z. B. /profile/guides/farming). Unbekannte Skills ergeben eine 404-Seite.
 import { notFound } from "next/navigation";
 import { skillWikiName } from "../../../../lib/shardSkills";
 import { SKILL_ORDER, skillSlug } from "../../../../lib/skillMeta";
-import ShardsGuideView from "../../skills/ShardsGuideView";
+import LevelGuideView from "../LevelGuideView";
 
 type Props = { params: Promise<{ skill: string }> };
 
@@ -18,13 +18,13 @@ export async function generateMetadata({ params }: Props) {
   const key = skillKeyOf((await params).skill);
   if (key === undefined) return { title: "Guides" };
   return {
-    title: `${skillWikiName(key)} guides`,
-    description: `Attribute shards that belong to the ${skillWikiName(key)} skill in Hypixel SkyBlock, with your level and the cost to max them.`,
+    title: `${skillWikiName(key)} level guide`,
+    description: `Which equipment you need for each ${skillWikiName(key)} level range in Hypixel SkyBlock.`,
   };
 }
 
-export default async function SkillGuidesPage({ params }: Props) {
+export default async function SkillGuidePage({ params }: Props) {
   const key = skillKeyOf((await params).skill);
   if (key === undefined) notFound();
-  return <ShardsGuideView skillKey={key} />;
+  return <LevelGuideView skillKey={key} />;
 }

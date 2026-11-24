@@ -1,0 +1,331 @@
+{
+  "FARMING": {
+    "ranges": [
+      {
+        "from": 3,
+        "to": 9,
+        "gear": [
+          {
+            "slot": "Armor",
+            "name": "Farmhand Armor",
+            "note": "Requires Farming level 3. Unlocked at Wheat collection level 2.",
+            "pieces": [
+              {
+                "name": "Farmhand Helmet",
+                "id": "FARM_SUIT_HELMET",
+                "icon": "/items/farmhand-helmet.png",
+                "rarity": "COMMON",
+                "category": "HELMET",
+                "stats": {
+                  "DEFENSE": 10,
+                  "FARMING_FORTUNE": 5
+                },
+                "requirement": {
+                  "skill": "Farming",
+                  "level": 3
+                }
+              },
+              {
+                "name": "Farmhand Chestplate",
+                "id": "FARM_SUIT_CHESTPLATE",
+                "icon": "/items/farmhand-chestplate.png",
+                "rarity": "COMMON",
+                "category": "CHESTPLATE",
+                "stats": {
+                  "DEFENSE": 10,
+                  "FARMING_FORTUNE": 5
+                },
+                "requirement": {
+                  "skill": "Farming",
+                  "level": 3
+                }
+              },
+              {
+                "name": "Farmhand Leggings",
+                "id": "FARM_SUIT_LEGGINGS",
+                "icon": "/items/farmhand-leggings.png",
+                "rarity": "COMMON",
+                "category": "LEGGINGS",
+                "stats": {
+                  "DEFENSE": 10,
+                  "FARMING_FORTUNE": 5
+                },
+                "requirement": {
+                  "skill": "Farming",
+                  "level": 3
+                }
+              },
+              {
+                "name": "Farmhand Boots",
+                "id": "FARM_SUIT_BOOTS",
+                "icon": "/items/farmhand-boots.png",
+                "rarity": "COMMON",
+                "category": "BOOTS",
+                "stats": {
+                  "DEFENSE": 10,
+                  "FARMING_FORTUNE": 5
+                },
+                "requirement": {
+                  "skill": "Farming",
+                  "level": 3
+                }
+              }
+            ]
+          },
+          {
+            "slot": "Pet",
+            "name": "Legendary Rabbit Pet",
+            "id": "PET:RABBIT:LEGENDARY",
+            "icon": "/pets/rabbit.png",
+            "note": "Farming pet: Farming Wisdom Boost and faster Farming minions. Mythic only adds a Chocolate Factory perk. Source: Hypixel SkyBlock Wiki.",
+            "tooltip": {
+              "title": "&7[Lvl 1➡100] &6Rabbit",
+              "text": "&8Farming Pet//&7&7Health: &c+1➡100/&7Speed: &f+0.2➡20//&6Happy Feet/&r&7Jump potions also give &a+0.5➡50/&a&7speed.//&6Farming Wisdom Boost/&r&7Gives &3+0.3➡30☯ Farming/&3Wisdom&7.//&6Efficient Farming/&r&7Farming minions work &a0.3➡30%/&a&7faster while on your island.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY"
+            }
+          }
+        ]
+      },
+      {
+        "from": 10,
+        "to": 14,
+        "gear": [
+          {
+            "slot": "Armor",
+            "name": "Haymaker Armor",
+            "note": "Requires Farming level 10.",
+            "pieces": [
+              {
+                "name": "Haymaker Helmet",
+                "id": "FARM_ARMOR_HELMET",
+                "icon": "/items/haymaker-helmet.png",
+                "rarity": "COMMON",
+                "category": "HELMET",
+                "stats": {
+                  "DEFENSE": 15,
+                  "FARMING_FORTUNE": 10
+                },
+                "requirement": {
+                  "skill": "Farming",
+                  "level": 10
+                }
+              },
+              {
+                "name": "Haymaker Chestplate",
+                "id": "FARM_ARMOR_CHESTPLATE",
+                "icon": "/items/haymaker-chestplate.png",
+                "rarity": "COMMON",
+                "category": "CHESTPLATE",
+                "stats": {
+                  "DEFENSE": 15,
+                  "FARMING_FORTUNE": 10
+                },
+                "requirement": {
+                  "skill": "Farming",
+                  "level": 10
+                }
+              },
+              {
+                "name": "Haymaker Leggings",
+                "id": "FARM_ARMOR_LEGGINGS",
+                "icon": "/items/haymaker-leggings.png",
+                "rarity": "COMMON",
+                "category": "LEGGINGS",
+                "stats": {
+                  "DEFENSE": 15,
+                  "FARMING_FORTUNE": 10
+                },
+                "requirement": {
+                  "skill": "Farming",
+                  "level": 10
+                }
+              },
+              {
+                "name": "Haymaker Boots",
+                "id": "FARM_ARMOR_BOOTS",
+                "icon": "/items/haymaker-boots.png",
+                "rarity": "COMMON",
+                "category": "BOOTS",
+                "stats": {
+                  "DEFENSE": 15,
+                  "FARMING_FORTUNE": 10
+                },
+                "requirement": {
+                  "skill": "Farming",
+                  "level": 10
+                }
+              }
+            ]
+          },
+          {
+            "slot": "Pet",
+            "name": "Legendary Rabbit Pet",
+            "id": "PET:RABBIT:LEGENDARY",
+            "icon": "/pets/rabbit.png",
+            "note": "Farming pet: Farming Wisdom Boost and faster Farming minions. Mythic only adds a Chocolate Factory perk. Source: Hypixel SkyBlock Wiki.",
+            "tooltip": {
+              "title": "&7[Lvl 1➡100] &6Rabbit",
+              "text": "&8Farming Pet//&7&7Health: &c+1➡100/&7Speed: &f+0.2➡20//&6Happy Feet/&r&7Jump potions also give &a+0.5➡50/&a&7speed.//&6Farming Wisdom Boost/&r&7Gives &3+0.3➡30☯ Farming/&3Wisdom&7.//&6Efficient Farming/&r&7Farming minions work &a0.3➡30%/&a&7faster while on your island.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY"
+            }
+          }
+        ]
+      },
+      {
+        "from": 15,
+        "to": 19,
+        "gear": [
+          {
+            "slot": "Armor",
+            "name": "Sprout Armor",
+            "note": "Requires Farming level 15.",
+            "pieces": [
+              {
+                "name": "Sprout Helmet",
+                "id": "PUMPKIN_HELMET",
+                "icon": "/items/sprout-helmet.png",
+                "rarity": "UNCOMMON",
+                "category": "HELMET",
+                "stats": {
+                  "DEFENSE": 20,
+                  "FARMING_FORTUNE": 15
+                },
+                "requirement": {
+                  "skill": "Farming",
+                  "level": 15
+                }
+              },
+              {
+                "name": "Sprout Chestplate",
+                "id": "PUMPKIN_CHESTPLATE",
+                "icon": "/items/sprout-chestplate.png",
+                "rarity": "UNCOMMON",
+                "category": "CHESTPLATE",
+                "stats": {
+                  "DEFENSE": 20,
+                  "FARMING_FORTUNE": 15
+                },
+                "requirement": {
+                  "skill": "Farming",
+                  "level": 15
+                }
+              },
+              {
+                "name": "Sprout Leggings",
+                "id": "PUMPKIN_LEGGINGS",
+                "icon": "/items/sprout-leggings.png",
+                "rarity": "UNCOMMON",
+                "category": "LEGGINGS",
+                "stats": {
+                  "DEFENSE": 20,
+                  "FARMING_FORTUNE": 15
+                },
+                "requirement": {
+                  "skill": "Farming",
+                  "level": 15
+                }
+              },
+              {
+                "name": "Sprout Boots",
+                "id": "PUMPKIN_BOOTS",
+                "icon": "/items/sprout-boots.png",
+                "rarity": "UNCOMMON",
+                "category": "BOOTS",
+                "stats": {
+                  "DEFENSE": 20,
+                  "FARMING_FORTUNE": 15
+                },
+                "requirement": {
+                  "skill": "Farming",
+                  "level": 15
+                }
+              }
+            ]
+          },
+          {
+            "slot": "Pet",
+            "name": "Legendary Rabbit Pet",
+            "id": "PET:RABBIT:LEGENDARY",
+            "icon": "/pets/rabbit.png",
+            "note": "Farming pet: Farming Wisdom Boost and faster Farming minions. Mythic only adds a Chocolate Factory perk. Source: Hypixel SkyBlock Wiki.",
+            "tooltip": {
+              "title": "&7[Lvl 1➡100] &6Rabbit",
+              "text": "&8Farming Pet//&7&7Health: &c+1➡100/&7Speed: &f+0.2➡20//&6Happy Feet/&r&7Jump potions also give &a+0.5➡50/&a&7speed.//&6Farming Wisdom Boost/&r&7Gives &3+0.3➡30☯ Farming/&3Wisdom&7.//&6Efficient Farming/&r&7Farming minions work &a0.3➡30%/&a&7faster while on your island.//&r&eRight-click to add this pet to your pet menu!//&r&6&lLEGENDARY"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "MINING": {
+    "ranges": []
+  },
+  "COMBAT": {
+    "ranges": []
+  },
+  "FORAGING": {
+    "ranges": [
+      {
+        "from": 0,
+        "to": 11,
+        "gear": [
+          {
+            "slot": "Axe",
+            "name": "Axe upgrade path",
+            "flow": true,
+            "note": "Craft the Spruce Axe after unlocking Spruce Log Collection II (96 Spruce Logs + 2 Sticks). Upgrade it to the Treecapitator after unlocking Jungle Log Collection VII (32 Enchanted Jungle Logs + 1 Spruce Axe). Source: Hypixel SkyBlock Wiki (wiki.hypixel.net).",
+            "pieces": [
+              {
+                "name": "Spruce Axe",
+                "id": "JUNGLE_AXE",
+                "icon": "/items/spruce-axe.png",
+                "rarity": "UNCOMMON",
+                "category": "AXE",
+                "stats": {
+                  "SWEEP": 4
+                },
+                "tooltip": {
+                  "title": "&aSpruce Axe",
+                  "text": "&7Sweep: &a+4∮ &8[☘]//&6Ability: Throwing Axe &e&lRIGHT CLICK/&7While on Foraging Islands, throw/&7your Axe at a tree! It will/&7sweep &a50%&7 of the logs it normally/&7would!/&8Cooldown: &a1s//&6Ability: Park Enjoyer/&7Gain &6+50☘ Foraging Fortune &7while in/&7The Park.//&7This item can be reforged!/&a&lUNCOMMON AXE"
+                }
+              },
+              {
+                "name": "Treecapitator",
+                "id": "TREECAPITATOR_AXE",
+                "icon": "/items/treecapitator.png",
+                "rarity": "EPIC",
+                "category": "AXE",
+                "stats": {
+                  "SWEEP": 25
+                },
+                "tooltip": {
+                  "title": "&5Treecapitator",
+                  "text": "&7Sweep: &a+25∮ &8[☘] [☘]//&6Ability: Throwing Axe &e&lRIGHT CLICK/&7While on Foraging Islands, throw/&7your Axe at a tree! It will/&7sweep &a50%&7 of the logs it normally/&7would!/&8Cooldown: &a1s//&6Ability: Park Enthusiast/&7Gain &6+100☘ Foraging Fortune &7while in/&7The Park.//&7This item can be reforged!/&5&lEPIC AXE"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "FISHING": {
+    "ranges": []
+  },
+  "ENCHANTING": {
+    "ranges": []
+  },
+  "ALCHEMY": {
+    "ranges": []
+  },
+  "TAMING": {
+    "ranges": []
+  },
+  "CARPENTRY": {
+    "ranges": []
+  },
+  "RUNECRAFTING": {
+    "ranges": []
+  },
+  "SOCIAL": {
+    "ranges": []
+  }
+}
