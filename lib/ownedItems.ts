@@ -4,6 +4,7 @@
 import { parsePets } from "./extras";
 import { fetchProfiles, getUuid, selectMember } from "./hypixelApi";
 import { getItemPrices, parseMemberInventories } from "./networthEngine";
+import { shardLookup } from "./shardData";
 
 export type OwnedItemsResponse = {
   uuid: string;
@@ -29,7 +30,7 @@ const PLACE_NAMES: Record<string, string> = {
   quiver: "quiver",
 };
 
-const MAX_IDS = 200;
+const MAX_IDS = 300;
 
 function itemIdOf(item: unknown): string | undefined {
   const id = (item as { tag?: { ExtraAttributes?: { id?: unknown } } } | null)?.tag?.ExtraAttributes?.id;
@@ -78,6 +79,19 @@ export async function getOwnedItems(playerName: string, profileName: string, wan
 
   const inventories = await parseMemberInventories(selected.member);
   const owned: Record<string, string[]> = {};
+  // Shards stehen nicht in den Inventaren, sondern in den Attributen (Hunting Box): ID "SHARD:" + Shard-ID, z. B. "SHARD:SHARD_CROW".
+  // Ein Shard zaehlt, sobald man mindestens einen davon gesammelt hat (Menge steht im Ort).
+  const shardCounts = new Map<string, number>();
+  for (const [attributeId, count] of Object.entries(selected.member.attributes?.stacks ?? {})) {
+    const info = shardLookup.get(attributeId);
+    if (info === undefined || !(count > 0)) continue;
+    shardCounts.set(info.productId, (shardCounts.get(info.productId) ?? 0) + count);
+  }
+  for (const id of wanted) {
+    if (!id.startsWith("SHARD:")) continue;
+    const count = shardCounts.get(id.slice("SHARD:".length));
+    if (count !== undefined) owned[id] = [`hunting box (${count} shards)`];
+  }
   // Pets stehen nicht in den Inventaren, sondern im Pet-Menue: ID "PET:" + Typ + ":" + Mindest-Seltenheit,
   // z. B. "PET:RABBIT:LEGENDARY". Ein Pet zaehlt, wenn es den Typ hat und mindestens diese Seltenheit
   // (ein Mythic Rabbit erfuellt also auch "Legendary").

@@ -5,6 +5,17 @@
   gap: 6px;
   margin: 0 0 14px;
 }
+.cropPicker {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin: 0 0 10px;
+}
+.cropLabel {
+  margin-right: 6px;
+  font-weight: 700;
+}
 .rangeTab {
   padding: 6px 14px;
   border: 1px solid var(--line, rgb(128 128 128 / 0.3));
@@ -133,6 +144,28 @@
 .pieceName {
   min-width: 0;
 }
+/* Zeile um ein Teil: normal unsichtbar, mit Hinweis (z. B. Sloth) volle Breite */
+.pieceRow {
+  display: contents;
+}
+.pieceRow[data-tagged="true"] {
+  display: flex;
+  align-items: center;
+  flex: 1 1 100%;
+}
+.pieceTag {
+  margin-left: auto;
+  padding-left: 12px;
+  flex: 0 0 33%;
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+/* Einsatzzweck neben dem Namen eines Sets (z. B. "Killing Magmatic mobs") */
+.setTag {
+  margin-left: 14px;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
 .piece[data-owned="true"] {
   color: #3fae5a;
 }
@@ -149,4 +182,20 @@
   font-size: 1.4rem;
   font-weight: 700;
   color: var(--skill-color, currentColor);
+}
+
+/* Aufklappbare Zusatzinfos (Enchantments, Reforge-Optionen, Pet-Item) */
+.details {
+  grid-column: 2;
+  font-size: 0.85rem;
+  line-height: 1.45;
+}
+.details summary {
+  cursor: pointer;
+  opacity: 0.85;
+  width: fit-content;
+}
+.details ul {
+  margin: 4px 0 4px 18px;
+  padding: 0;
 }

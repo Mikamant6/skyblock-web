@@ -5,7 +5,7 @@
 
 import { Fragment, useEffect, useMemo, useState, type CSSProperties } from "react";
 import type { OwnedItemsResponse } from "../../../lib/ownedItems";
-import { getLevelGuide, itemIdsOf, piecesOf, withUpgradeOwnership, type GearItem, type GearPiece } from "../../../lib/levelGuides";
+import { getLevelGuide, itemIdsOf, pieceLabel, piecesOf, withUpgradeOwnership, type GearItem, type GearPiece } from "../../../lib/levelGuides";
 import { skillWikiName } from "../../../lib/shardSkills";
 import { getSkillMeta } from "../../../lib/skillMeta";
 import Panel from "../../Panel.module.css";
@@ -28,11 +28,31 @@ export default function LevelGuideView({ skillKey }: { skillKey: string }) {
   const { subject } = useProfile();
   const meta = getSkillMeta(skillKey);
   const label = skillWikiName(skillKey);
-  const { ranges } = getLevelGuide(skillKey);
+  const { ranges, crops = [] } = getLevelGuide(skillKey);
   const ids = useMemo(() => itemIdsOf(skillKey), [skillKey]);
   const [selected, setSelected] = useState(0);
   const [hovered, setHovered] = useState<Hovered | null>(null);
+  // Farming: gewaehlte Pflanze (jede hat ihr eigenes Werkzeug). Standard ist die erste, die letzte Wahl wird im Browser gemerkt.
+  const [crop, setCrop] = useState<string | undefined>(crops[0]?.id);
+  useEffect(() => {
+    try {
+      const saved = window.localStorage.getItem(`guide-crop-${skillKey}`);
+      if (saved !== null && crops.some((c) => c.id === saved)) setCrop(saved);
+    } catch {
+      // Browser-Speicher nicht verfuegbar: Standard bleibt
+    }
+  }, [skillKey, crops]);
+  function chooseCrop(id: string) {
+    setCrop(id);
+    try {
+      window.localStorage.setItem(`guide-crop-${skillKey}`, id);
+    } catch {
+      // egal
+    }
+  }
   const range = ranges[Math.min(selected, ranges.length - 1)];
+  // Eintraege fuer eine bestimmte Pflanze nur zeigen, wenn diese Pflanze gewaehlt ist
+  const gear = range === undefined ? [] : range.gear.filter((item) => item.crop === undefined || item.crop === crop);
 
   const playerName = subject?.playerName;
   const profileName = subject?.profileName;
@@ -83,6 +103,23 @@ export default function LevelGuideView({ skillKey }: { skillKey: string }) {
         </div>
       ) : (
         <>
+          {crops.length > 0 && (
+            <nav className={styles.cropPicker} aria-label="Crop">
+              <span className={styles.cropLabel}>Crop</span>
+              {crops.map((c) => (
+                <button
+                  key={c.id}
+                  type="button"
+                  className={styles.rangeTab}
+                  data-active={c.id === crop}
+                  aria-pressed={c.id === crop}
+                  onClick={() => chooseCrop(c.id)}
+                >
+                  {c.label}
+                </button>
+              ))}
+            </nav>
+          )}
           <nav className={styles.rangeTabs} aria-label="Level range">
             {ranges.map((r, index) => (
               <button
@@ -93,7 +130,7 @@ export default function LevelGuideView({ skillKey }: { skillKey: string }) {
                 aria-pressed={index === selected}
                 onClick={() => setSelected(index)}
               >
-                Level {r.from}–{r.to}
+                {r.label ?? `Level ${r.from}–${r.to}`}
               </button>
             ))}
           </nav>
@@ -102,13 +139,13 @@ export default function LevelGuideView({ skillKey }: { skillKey: string }) {
 
           <div className={`${Panel.panel} ${styles.panel}`}>
             <h3>
-              {label} level {range.from}–{range.to}
+              {label} {range.label ?? `level ${range.from}–${range.to}`}
             </h3>
-            {range.gear.length === 0 ? (
+            {gear.length === 0 ? (
               <p className={styles.empty}>No equipment has been added for this level range yet.</p>
             ) : (
               <ul className={styles.gearList}>
-                {range.gear.map((item) => (
+                {gear.map((item) => (
                   <GearRow key={`${item.slot}-${item.name}`} item={item} owned={owned} onHover={setHovered} />
                 ))}
               </ul>
@@ -175,6 +212,11 @@ function GearRow({ item, owned, onHover }: { item: GearItem; owned: Record<strin
               {have} / {pieces.length} pieces
             </span>
           )}
+          {item.tag !== undefined && (
+            <span className={styles.setTag} style={{ color: item.tag.color }}>
+              {item.tag.text}
+            </span>
+          )}
         </span>
       )}
       {item.note !== undefined && <span className={styles.gearNote}>{item.note}</span>}
@@ -189,7 +231,9 @@ function GearRow({ item, owned, onHover }: { item: GearItem; owned: Record<strin
                   →
                 </li>
               )}
-              <li
+              {/* Aeussere Zeile: Teil (mit Hover) und Hinweis sind getrennte Elemente */}
+              <li className={styles.pieceRow} data-tagged={piece.tag !== undefined ? true : undefined}>
+              <div
                 className={styles.piece}
                 data-owned={owned === null ? undefined : places !== undefined}
                 tabIndex={0}
@@ -206,15 +250,31 @@ function GearRow({ item, owned, onHover }: { item: GearItem; owned: Record<strin
                   </span>
                 )}
                 <span className={styles.pieceName}>
-                  <span aria-hidden="true">{owned === null ? "•" : places !== undefined ? "✔" : "✘"}</span> {piece.name}
+                  <span aria-hidden="true">{owned === null ? "•" : places !== undefined ? "✔" : "✘"}</span> {pieceLabel(item, piece)}
                   {places !== undefined && <small className={styles.where}> ({places.join(", ")})</small>}
                 </span>
+              </div>
+              {piece.tag !== undefined && (
+                <span className={styles.pieceTag} style={{ color: piece.tag.color }}>
+                  {piece.tag.text}
+                </span>
+              )}
               </li>
               </Fragment>
             );
           })}
         </ul>
       )}
+      {item.details?.map((detail, detailIndex) => (
+        <details key={`${detail.label}-${detailIndex}`} className={styles.details}>
+          <summary>{detail.label}</summary>
+          <ul>
+            {detail.lines.map((line) => (
+              <li key={line}>{line}</li>
+            ))}
+          </ul>
+        </details>
+      ))}
     </li>
   );
 }

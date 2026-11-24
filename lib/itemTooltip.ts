@@ -29,6 +29,18 @@ const STATS: { key: string; label: string; color: string; symbol: string }[] = [
   { key: "INTELLIGENCE", label: "Intelligence", color: "a", symbol: "✎" },
   { key: "FARMING_FORTUNE", label: "Farming Fortune", color: "6", symbol: "☘" },
   { key: "BONUS_PEST_CHANCE", label: "Bonus Pest Chance", color: "2", symbol: "ൠ" },
+  { key: "FORAGING_FORTUNE", label: "Foraging Fortune", color: "6", symbol: "☘" },
+  { key: "MINING_FORTUNE", label: "Mining Fortune", color: "6", symbol: "☘" },
+  { key: "MINING_SPEED", label: "Mining Speed", color: "6", symbol: "⸕" },
+  { key: "FISHING_SPEED", label: "Fishing Speed", color: "b", symbol: "☂" },
+  { key: "SEA_CREATURE_CHANCE", label: "Sea Creature Chance", color: "3", symbol: "α" },
+  { key: "TREASURE_CHANCE", label: "Treasure Chance", color: "6", symbol: "" },
+  { key: "MAGIC_FIND", label: "Magic Find", color: "b", symbol: "✯" },
+  { key: "TRUE_DEFENSE", label: "True Defense", color: "f", symbol: "❂" },
+  { key: "HEALTH_REGENERATION", label: "Health Regen", color: "c", symbol: "❣" },
+  { key: "COLD_RESISTANCE", label: "Cold Resistance", color: "b", symbol: "❄" },
+  { key: "ATTACK_SPEED", label: "Bonus Attack Speed", color: "e", symbol: "⚔" },
+  { key: "FEROCITY", label: "Ferocity", color: "c", symbol: "⫽" },
 ];
 
 function escapeCodes(text: string): string {
@@ -72,7 +84,7 @@ export function buildPieceTooltip(piece: GearPiece): { title: TextLine; body: Te
   }
 
   if (body.length > 0) body.push([]);
-  const kind = piece.category === undefined ? "" : ` ${piece.category}`;
+  const kind = piece.category === undefined ? "" : ` ${piece.category.replace(/_/g, " ")}`;
   body.push(parseColoredLine(`&${rarityColor}&l${rarity.replace("_", " ")}${kind}`));
   return { title, body };
 }
