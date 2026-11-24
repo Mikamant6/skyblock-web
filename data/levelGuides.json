@@ -285,7 +285,10 @@
                 "tooltip": {
                   "title": "&aSpruce Axe",
                   "text": "&7Sweep: &a+4∮ &8[☘]//&6Ability: Throwing Axe &e&lRIGHT CLICK/&7While on Foraging Islands, throw/&7your Axe at a tree! It will/&7sweep &a50%&7 of the logs it normally/&7would!/&8Cooldown: &a1s//&6Ability: Park Enjoyer/&7Gain &6+50☘ Foraging Fortune &7while in/&7The Park.//&7This item can be reforged!/&a&lUNCOMMON AXE"
-                }
+                },
+                "countsAs": [
+                  "TREECAPITATOR_AXE"
+                ]
               },
               {
                 "name": "Treecapitator",
@@ -300,6 +303,487 @@
                   "title": "&5Treecapitator",
                   "text": "&7Sweep: &a+25∮ &8[☘] [☘]//&6Ability: Throwing Axe &e&lRIGHT CLICK/&7While on Foraging Islands, throw/&7your Axe at a tree! It will/&7sweep &a50%&7 of the logs it normally/&7would!/&8Cooldown: &a1s//&6Ability: Park Enthusiast/&7Gain &6+100☘ Foraging Fortune &7while in/&7The Park.//&7This item can be reforged!/&5&lEPIC AXE"
                 }
+              }
+            ]
+          },
+          {
+            "slot": "Armor",
+            "name": "Park Armor",
+            "note": "Complete the quests in The Park (Into the Woods, A Helping Hand, The Rebuild and Mole Problems) to get the four pieces. Source: Hypixel SkyBlock Wiki.",
+            "pieces": [
+              {
+                "name": "Mole Hat",
+                "id": "MOLE_HAT",
+                "rarity": "COMMON",
+                "category": "HELMET",
+                "tooltip": {
+                  "title": "&fMole Hat",
+                  "text": "&7Health: &a+35❤/&7Defense: &a+10❈/&7Foraging Fortune: &6+6☘//&f&lCOMMON HELMET"
+                }
+              },
+              {
+                "name": "Kelly's T-Shirt",
+                "id": "KELLY_TSHIRT",
+                "rarity": "COMMON",
+                "category": "CHESTPLATE",
+                "tooltip": {
+                  "title": "&fKelly's T-Shirt",
+                  "text": "&7Health: &a+100❤/&7Defense: &a+30❈/&7Foraging Fortune: &6+6☘//&f&lCOMMON CHESTPLATE"
+                }
+              },
+              {
+                "name": "Charlie's Trousers",
+                "id": "CHARLIE_TROUSERS",
+                "rarity": "COMMON",
+                "category": "LEGGINGS",
+                "tooltip": {
+                  "title": "&fCharlie's Trousers",
+                  "text": "&7Health: &a+45❤/&7Defense: &a+15❈/&7Foraging Fortune: &6+6☘//&f&lCOMMON LEGGINGS"
+                }
+              },
+              {
+                "name": "Melody's Shoes",
+                "id": "MELODY_SHOES",
+                "rarity": "COMMON",
+                "category": "BOOTS",
+                "tooltip": {
+                  "title": "&fMelody's Shoes",
+                  "text": "&7Health: &a+90❤/&7Defense: &a+20❈/&7Foraging Fortune: &6+6☘//&f&lCOMMON BOOTS"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "from": 12,
+        "to": 14,
+        "gear": [
+          {
+            "slot": "Axe",
+            "name": "Axe upgrade path",
+            "flow": true,
+            "note": "Buy the Seriously Damaged Axe from Amaury at SwampCut Inc. on Galatea (5,000 Coins, Foraging 12) and switch to the Fig Hew, which needs Fig Log Collection IV and Foraging 12. Source: Hypixel SkyBlock Wiki.",
+            "pieces": [
+              {
+                "name": "Seriously Damaged Axe",
+                "id": "SERIOUSLY_DAMAGED_AXE",
+                "rarity": "UNCOMMON",
+                "category": "AXE",
+                "requirement": {
+                  "skill": "Foraging",
+                  "level": 12
+                },
+                "tooltip": {
+                  "title": "&aSeriously Damaged Axe",
+                  "text": "&7Damage: &c+10❁/&7Foraging Fortune: &6+5☘/&7Sweep: &a+10∮//&6Ability: Throwing Axe &e&lRIGHT CLICK/&7While on Foraging Islands, throw/&7your Axe at a tree! It will/&7sweep &a50%&7 of the logs it normally/&7would!//&4❣ &cRequires &aForaging Skill 12&c.//&a&lUNCOMMON AXE"
+                },
+                "countsAs": [
+                  "DECENT_AXE"
+                ]
+              },
+              {
+                "name": "Fig Hew",
+                "id": "FIG_AXE",
+                "icon": "/items/fig-hew.png",
+                "rarity": "UNCOMMON",
+                "category": "AXE",
+                "requirement": {
+                  "skill": "Foraging",
+                  "level": 12
+                },
+                "tooltip": {
+                  "title": "&aFig Hew",
+                  "text": "&7Damage: &c+30❁/&7Strength: &c+10❁/&7Foraging Fortune: &6+20☘/&7Sweep: &a+15∮ &8[☘]//&6Ability: Frenzy/&7Gains &a1∮ Sweep &7every &a2,000/&7Logs cut on Galatea. &8(max 20)//&7Current Bonus: &a+0∮/&7Next Upgrade: &a+1∮ &8(0/2,000)/&7Logs Cut: &a0//&7This item can be reforged!//&4❣ &cRequires &aForaging Skill 12&c.//&a&lUNCOMMON AXE"
+                },
+                "countsAs": [
+                  "FIGSTONE_AXE",
+                  "HELIX_CHOPPER"
+                ]
+              }
+            ]
+          },
+          {
+            "slot": "Armor",
+            "name": "Canopy Armor",
+            "note": "Buy the pieces from Amaury at SwampCut Inc. on Galatea for 500,000 Coins in total (Foraging 12). Source: Hypixel SkyBlock Wiki.",
+            "pieces": [
+              {
+                "name": "Canopy Mask",
+                "id": "CANOPY_HELMET",
+                "rarity": "UNCOMMON",
+                "category": "HELMET",
+                "icon": "/items/canopy-mask.png",
+                "requirement": {
+                  "skill": "Foraging",
+                  "level": 12
+                },
+                "tooltip": {
+                  "title": "&aCanopy Mask",
+                  "text": "&7Health: &a+60❤/&7Defense: &a+25❈/&7Sweep: &a+6∮//&7This item can be reforged!/&4❣ &cRequires &aForaging Skill 12&c.//&a&lUNCOMMON HELMET"
+                },
+                "countsAs": [
+                  "FIG_HELMET",
+                  "HELIX_ARMOR_HELMET",
+                  "HELIX_HELMET"
+                ]
+              },
+              {
+                "name": "Canopy Shirt",
+                "id": "CANOPY_CHESTPLATE",
+                "rarity": "UNCOMMON",
+                "category": "CHESTPLATE",
+                "icon": "/items/canopy-shirt.png",
+                "requirement": {
+                  "skill": "Foraging",
+                  "level": 12
+                },
+                "tooltip": {
+                  "title": "&aCanopy Shirt",
+                  "text": "&7Health: &a+120❤/&7Defense: &a+40❈/&7Sweep: &a+6∮//&7This item can be reforged!/&4❣ &cRequires &aForaging Skill 12&c.//&a&lUNCOMMON CHESTPLATE"
+                },
+                "countsAs": [
+                  "FIG_CHESTPLATE",
+                  "HELIX_ARMOR_CHESTPLATE",
+                  "HELIX_CHESTPLATE"
+                ]
+              },
+              {
+                "name": "Canopy Pants",
+                "id": "CANOPY_LEGGINGS",
+                "rarity": "UNCOMMON",
+                "category": "LEGGINGS",
+                "icon": "/items/canopy-pants.png",
+                "requirement": {
+                  "skill": "Foraging",
+                  "level": 12
+                },
+                "tooltip": {
+                  "title": "&aCanopy Pants",
+                  "text": "&7Health: &a+110❤/&7Defense: &a+30❈/&7Sweep: &a+6∮//&7This item can be reforged!/&4❣ &cRequires &aForaging Skill 12&c.//&a&lUNCOMMON LEGGINGS"
+                },
+                "countsAs": [
+                  "FIG_LEGGINGS",
+                  "HELIX_ARMOR_LEGGINGS",
+                  "HELIX_LEGGINGS"
+                ]
+              },
+              {
+                "name": "Canopy Sandals",
+                "id": "CANOPY_BOOTS",
+                "rarity": "UNCOMMON",
+                "category": "BOOTS",
+                "icon": "/items/canopy-sandals.png",
+                "requirement": {
+                  "skill": "Foraging",
+                  "level": 12
+                },
+                "tooltip": {
+                  "title": "&aCanopy Sandals",
+                  "text": "&7Health: &a+50❤/&7Defense: &a+20❈/&7Sweep: &a+6∮//&7This item can be reforged!/&4❣ &cRequires &aForaging Skill 12&c.//&a&lUNCOMMON BOOTS"
+                },
+                "countsAs": [
+                  "FIG_BOOTS",
+                  "HELIX_ARMOR_BOOTS",
+                  "HELIX_BOOTS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "from": 15,
+        "to": 19,
+        "gear": [
+          {
+            "slot": "Axe",
+            "name": "Figstone Splitter",
+            "note": "Needs Fig Log Collection VI and Foraging 15; it is the upgrade of the Fig Hew. Source: Hypixel SkyBlock Wiki.",
+            "id": "FIGSTONE_AXE",
+            "icon": "/items/figstone-splitter.png",
+            "tooltip": {
+              "title": "&9Figstone Splitter",
+              "text": "&7Damage: &c+50❁/&7Strength: &c+15❁/&7Foraging Fortune: &6+35☘/&7Sweep: &a+25∮ &8[☘] [☘]//&6Ability: Super Frenzy/&7Gains &a1∮ Sweep &7every &a10,000/&7Logs cut on Galatea. &8(max 20)//&7Current Bonus: &a+0∮/&7Next Upgrade: &a+1∮ &8(0/10,000)/&7Logs Cut: &a0//&7This item can be reforged!/&4❣ &cRequires &aForaging Skill 15&c.//&9&lRARE AXE"
+            },
+            "countsAs": [
+              "HELIX_CHOPPER"
+            ]
+          },
+          {
+            "slot": "Armor",
+            "name": "Fig Armor",
+            "note": "Unlocked at Fig Log Collection VIII (Foraging 15); crafted using the matching Canopy Armor piece. Source: Hypixel SkyBlock Wiki.",
+            "pieces": [
+              {
+                "name": "Fig Cap",
+                "id": "FIG_HELMET",
+                "rarity": "RARE",
+                "category": "HELMET",
+                "icon": "/items/fig-cap.png",
+                "requirement": {
+                  "skill": "Foraging",
+                  "level": 15
+                },
+                "tooltip": {
+                  "title": "&9Fig Cap",
+                  "text": "&7Health: &a+80❤/&7Defense: &a+30❈/&7Sweep: &a+10∮/&7Foraging Fortune: &6+30☘//&7This item can be reforged!/&4❣ &cRequires &aForaging Skill 15&c.//&9&lRARE HELMET"
+                },
+                "countsAs": [
+                  "HELIX_ARMOR_HELMET",
+                  "HELIX_HELMET"
+                ]
+              },
+              {
+                "name": "Figmail",
+                "id": "FIG_CHESTPLATE",
+                "rarity": "RARE",
+                "category": "CHESTPLATE",
+                "requirement": {
+                  "skill": "Foraging",
+                  "level": 15
+                },
+                "tooltip": {
+                  "title": "&9Figmail",
+                  "text": "&7Health: &a+160❤/&7Defense: &a+45❈/&7Sweep: &a+10∮/&7Foraging Fortune: &6+30☘//&7This item can be reforged!/&4❣ &cRequires &aForaging Skill 15&c.//&9&lRARE CHESTPLATE"
+                },
+                "countsAs": [
+                  "HELIX_ARMOR_CHESTPLATE",
+                  "HELIX_CHESTPLATE"
+                ]
+              },
+              {
+                "name": "Fig Trousers",
+                "id": "FIG_LEGGINGS",
+                "rarity": "RARE",
+                "category": "LEGGINGS",
+                "icon": "/items/fig-trousers.png",
+                "requirement": {
+                  "skill": "Foraging",
+                  "level": 15
+                },
+                "tooltip": {
+                  "title": "&9Fig Trousers",
+                  "text": "&7Health: &a+140❤/&7Defense: &a+35❈/&7Sweep: &a+10∮/&7Foraging Fortune: &6+30☘//&7This item can be reforged!/&4❣ &cRequires &aForaging Skill 15&c.//&9&lRARE LEGGINGS"
+                },
+                "countsAs": [
+                  "HELIX_ARMOR_LEGGINGS",
+                  "HELIX_LEGGINGS"
+                ]
+              },
+              {
+                "name": "Fig Striders",
+                "id": "FIG_BOOTS",
+                "rarity": "RARE",
+                "category": "BOOTS",
+                "icon": "/items/fig-striders.png",
+                "requirement": {
+                  "skill": "Foraging",
+                  "level": 15
+                },
+                "tooltip": {
+                  "title": "&9Fig Striders",
+                  "text": "&7Health: &a+65❤/&7Defense: &a+25❈/&7Sweep: &a+10∮/&7Foraging Fortune: &6+30☘//&7This item can be reforged!/&4❣ &cRequires &aForaging Skill 15&c.//&9&lRARE BOOTS"
+                },
+                "countsAs": [
+                  "HELIX_ARMOR_BOOTS",
+                  "HELIX_BOOTS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "from": 20,
+        "to": 24,
+        "gear": [
+          {
+            "slot": "Axe",
+            "name": "Helix Chopper",
+            "note": "Unlocked at Helix Log Collection VI (Foraging 20); crafted from a Figstone Splitter, Helixis and Flexbone. Source: Hypixel SkyBlock Wiki.",
+            "id": "HELIX_CHOPPER",
+            "icon": "/items/helix-chopper.png",
+            "tooltip": {
+              "title": "&5Helix Chopper",
+              "text": "&7Damage: &c+75❁/&7Strength: &c+25❁/&7Foraging Fortune: &6+50☘/&7Sweep: &a+50∮//&6Ability: Mega Frenzy/&7Gains &a1∮ Sweep &7every &a20,000/&7Logs cut on Galatea. &8(max 40)//&7This item can be reforged!/&4❣ &cRequires &aForaging Skill 20&c.//&5&lEPIC AXE"
+            }
+          },
+          {
+            "slot": "Armor",
+            "name": "Fig Armor",
+            "note": "You can keep wearing the Fig Armor until you reach Foraging 25 for the Helix Armor. Unlocked at Fig Log Collection VIII (Foraging 15); crafted using the matching Canopy Armor piece. Source: Hypixel SkyBlock Wiki.",
+            "pieces": [
+              {
+                "name": "Fig Cap",
+                "id": "FIG_HELMET",
+                "rarity": "RARE",
+                "category": "HELMET",
+                "icon": "/items/fig-cap.png",
+                "requirement": {
+                  "skill": "Foraging",
+                  "level": 15
+                },
+                "tooltip": {
+                  "title": "&9Fig Cap",
+                  "text": "&7Health: &a+80❤/&7Defense: &a+30❈/&7Sweep: &a+10∮/&7Foraging Fortune: &6+30☘//&7This item can be reforged!/&4❣ &cRequires &aForaging Skill 15&c.//&9&lRARE HELMET"
+                },
+                "countsAs": [
+                  "HELIX_ARMOR_HELMET",
+                  "HELIX_HELMET"
+                ]
+              },
+              {
+                "name": "Figmail",
+                "id": "FIG_CHESTPLATE",
+                "rarity": "RARE",
+                "category": "CHESTPLATE",
+                "requirement": {
+                  "skill": "Foraging",
+                  "level": 15
+                },
+                "tooltip": {
+                  "title": "&9Figmail",
+                  "text": "&7Health: &a+160❤/&7Defense: &a+45❈/&7Sweep: &a+10∮/&7Foraging Fortune: &6+30☘//&7This item can be reforged!/&4❣ &cRequires &aForaging Skill 15&c.//&9&lRARE CHESTPLATE"
+                },
+                "countsAs": [
+                  "HELIX_ARMOR_CHESTPLATE",
+                  "HELIX_CHESTPLATE"
+                ]
+              },
+              {
+                "name": "Fig Trousers",
+                "id": "FIG_LEGGINGS",
+                "rarity": "RARE",
+                "category": "LEGGINGS",
+                "icon": "/items/fig-trousers.png",
+                "requirement": {
+                  "skill": "Foraging",
+                  "level": 15
+                },
+                "tooltip": {
+                  "title": "&9Fig Trousers",
+                  "text": "&7Health: &a+140❤/&7Defense: &a+35❈/&7Sweep: &a+10∮/&7Foraging Fortune: &6+30☘//&7This item can be reforged!/&4❣ &cRequires &aForaging Skill 15&c.//&9&lRARE LEGGINGS"
+                },
+                "countsAs": [
+                  "HELIX_ARMOR_LEGGINGS",
+                  "HELIX_LEGGINGS"
+                ]
+              },
+              {
+                "name": "Fig Striders",
+                "id": "FIG_BOOTS",
+                "rarity": "RARE",
+                "category": "BOOTS",
+                "icon": "/items/fig-striders.png",
+                "requirement": {
+                  "skill": "Foraging",
+                  "level": 15
+                },
+                "tooltip": {
+                  "title": "&9Fig Striders",
+                  "text": "&7Health: &a+65❤/&7Defense: &a+25❈/&7Sweep: &a+10∮/&7Foraging Fortune: &6+30☘//&7This item can be reforged!/&4❣ &cRequires &aForaging Skill 15&c.//&9&lRARE BOOTS"
+                },
+                "countsAs": [
+                  "HELIX_ARMOR_BOOTS",
+                  "HELIX_BOOTS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "from": 25,
+        "to": 57,
+        "gear": [
+          {
+            "slot": "Axe",
+            "name": "Helix Chopper",
+            "note": "Unlocked at Helix Log Collection VI (Foraging 20); crafted from a Figstone Splitter, Helixis and Flexbone. Source: Hypixel SkyBlock Wiki.",
+            "id": "HELIX_CHOPPER",
+            "icon": "/items/helix-chopper.png",
+            "tooltip": {
+              "title": "&5Helix Chopper",
+              "text": "&7Damage: &c+75❁/&7Strength: &c+25❁/&7Foraging Fortune: &6+50☘/&7Sweep: &a+50∮//&6Ability: Mega Frenzy/&7Gains &a1∮ Sweep &7every &a20,000/&7Logs cut on Galatea. &8(max 40)//&7This item can be reforged!/&4❣ &cRequires &aForaging Skill 20&c.//&5&lEPIC AXE"
+            }
+          },
+          {
+            "slot": "Armor",
+            "name": "Helix Armor",
+            "note": "Unlocked at Helix Log Collection VIII; crafted using the matching Fig Armor piece. The pieces need Foraging 25, so this is the armor from level 25 on. Source: Hypixel SkyBlock Wiki.",
+            "pieces": [
+              {
+                "name": "Helix Helmet",
+                "id": "HELIX_ARMOR_HELMET",
+                "rarity": "EPIC",
+                "category": "HELMET",
+                "icon": "/items/helix-helmet.png",
+                "requirement": {
+                  "skill": "Foraging",
+                  "level": 25
+                },
+                "tooltip": {
+                  "title": "&5Helix Helmet",
+                  "text": "&7Health: &a+100❤/&7Defense: &a+35❈/&7Sweep: &a+20∮/&7Foraging Fortune: &6+45☘//&7This item can be reforged!/&4❣ &cRequires &aForaging Skill 25&c.//&5&lEPIC HELMET"
+                },
+                "altIds": [
+                  "HELIX_HELMET"
+                ]
+              },
+              {
+                "name": "Helix Chestplate",
+                "id": "HELIX_ARMOR_CHESTPLATE",
+                "rarity": "EPIC",
+                "category": "CHESTPLATE",
+                "icon": "/items/helix-chestplate.png",
+                "requirement": {
+                  "skill": "Foraging",
+                  "level": 25
+                },
+                "tooltip": {
+                  "title": "&5Helix Chestplate",
+                  "text": "&7Health: &a+190❤/&7Defense: &a+55❈/&7Sweep: &a+20∮/&7Foraging Fortune: &6+45☘//&7This item can be reforged!/&4❣ &cRequires &aForaging Skill 25&c.//&5&lEPIC CHESTPLATE"
+                },
+                "altIds": [
+                  "HELIX_CHESTPLATE"
+                ]
+              },
+              {
+                "name": "Helix Leggings",
+                "id": "HELIX_ARMOR_LEGGINGS",
+                "rarity": "EPIC",
+                "category": "LEGGINGS",
+                "icon": "/items/helix-leggings.png",
+                "requirement": {
+                  "skill": "Foraging",
+                  "level": 25
+                },
+                "tooltip": {
+                  "title": "&5Helix Leggings",
+                  "text": "&7Health: &a+165❤/&7Defense: &a+45❈/&7Sweep: &a+20∮/&7Foraging Fortune: &6+45☘//&7This item can be reforged!/&4❣ &cRequires &aForaging Skill 25&c.//&5&lEPIC LEGGINGS"
+                },
+                "altIds": [
+                  "HELIX_LEGGINGS"
+                ]
+              },
+              {
+                "name": "Helix Boots",
+                "id": "HELIX_ARMOR_BOOTS",
+                "rarity": "EPIC",
+                "category": "BOOTS",
+                "icon": "/items/helix-boots.png",
+                "requirement": {
+                  "skill": "Foraging",
+                  "level": 25
+                },
+                "tooltip": {
+                  "title": "&5Helix Boots",
+                  "text": "&7Health: &a+85❤/&7Defense: &a+30❈/&7Sweep: &a+20∮/&7Foraging Fortune: &6+45☘//&7This item can be reforged!/&4❣ &cRequires &aForaging Skill 25&c.//&5&lEPIC BOOTS"
+                },
+                "altIds": [
+                  "HELIX_BOOTS"
+                ]
               }
             ]
           }

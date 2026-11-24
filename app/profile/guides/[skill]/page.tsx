@@ -1,17 +1,18 @@
 // Level-Guide eines Skills (Adresse z. B. /profile/guides/farming). Unbekannte Skills ergeben eine 404-Seite.
 import { notFound } from "next/navigation";
 import { skillWikiName } from "../../../../lib/shardSkills";
+import { GUIDE_SKILLS } from "../../../../lib/levelGuides";
 import { SKILL_ORDER, skillSlug } from "../../../../lib/skillMeta";
 import LevelGuideView from "../LevelGuideView";
 
 type Props = { params: Promise<{ skill: string }> };
 
 function skillKeyOf(slug: string): string | undefined {
-  return SKILL_ORDER.find((key) => skillSlug(key) === slug);
+  return SKILL_ORDER.find((key) => GUIDE_SKILLS.includes(key) && skillSlug(key) === slug);
 }
 
 export function generateStaticParams() {
-  return SKILL_ORDER.map((key) => ({ skill: skillSlug(key) }));
+  return SKILL_ORDER.filter((key) => GUIDE_SKILLS.includes(key)).map((key) => ({ skill: skillSlug(key) }));
 }
 
 export async function generateMetadata({ params }: Props) {

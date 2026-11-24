@@ -5,6 +5,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import type { CSSProperties } from "react";
+import { GUIDE_SKILLS } from "../../../lib/levelGuides";
 import { getSkillMeta, SKILL_ORDER, skillSlug } from "../../../lib/skillMeta";
 import styles from "../skills/SkillTabs.module.css";
 
@@ -12,7 +13,7 @@ export default function GuideSkillTabs() {
   const pathname = usePathname();
   const tabs = [
     { label: "Overview", href: "/profile/guides", color: "var(--accent, #f2c260)" },
-    ...SKILL_ORDER.map((key) => ({
+    ...SKILL_ORDER.filter((key) => GUIDE_SKILLS.includes(key)).map((key) => ({
       label: key.charAt(0) + key.slice(1).toLowerCase(),
       href: `/profile/guides/${skillSlug(key)}`,
       color: getSkillMeta(key).color,

@@ -1,13 +1,13 @@
 import type { CSSProperties } from "react";
 import Link from "next/link";
-import { getLevelGuide } from "../../../lib/levelGuides";
+import { getLevelGuide, GUIDE_SKILLS } from "../../../lib/levelGuides";
 import { skillWikiName } from "../../../lib/shardSkills";
 import { getSkillMeta, SKILL_ORDER, skillSlug } from "../../../lib/skillMeta";
 import styles from "./GuidesOverview.module.css";
 
 export const metadata = {
   title: "Guides",
-  description: "Level guides for every Hypixel SkyBlock skill: which equipment you need for each level range.",
+  description: "Level guides for the five main Hypixel SkyBlock skills: which equipment you need for each level range.",
 };
 
 export default function GuidesPage() {
@@ -17,7 +17,7 @@ export default function GuidesPage() {
         Choose a skill to see its level guide: for each level range, the equipment you need.
       </p>
       <div className={styles.grid}>
-        {SKILL_ORDER.map((key) => {
+        {SKILL_ORDER.filter((key) => GUIDE_SKILLS.includes(key)).map((key) => {
           const meta = getSkillMeta(key);
           const count = getLevelGuide(key).ranges.length;
           return (

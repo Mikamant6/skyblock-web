@@ -5,7 +5,7 @@
 
 import { Fragment, useEffect, useMemo, useState, type CSSProperties } from "react";
 import type { OwnedItemsResponse } from "../../../lib/ownedItems";
-import { getLevelGuide, itemIdsOf, piecesOf, type GearItem, type GearPiece } from "../../../lib/levelGuides";
+import { getLevelGuide, itemIdsOf, piecesOf, withUpgradeOwnership, type GearItem, type GearPiece } from "../../../lib/levelGuides";
 import { skillWikiName } from "../../../lib/shardSkills";
 import { getSkillMeta } from "../../../lib/skillMeta";
 import Panel from "../../Panel.module.css";
@@ -65,7 +65,9 @@ export default function LevelGuideView({ skillKey }: { skillKey: string }) {
   }
 
   const current = loaded !== null && loaded.key === wanted ? loaded : null;
-  const owned = current !== null && current.result.ok && current.result.data.inventoryApi ? current.result.data.owned : null;
+  const rawOwned = current !== null && current.result.ok && current.result.data.inventoryApi ? current.result.data.owned : null;
+  // Teile, die durch eine bessere Stufe ersetzt wurden (z. B. Fig Hew -> Figstone Splitter), gelten auch als vorhanden
+  const owned = withUpgradeOwnership(skillKey, rawOwned);
   const prices = current !== null && current.result.ok ? current.result.data.prices : null;
 
   return (

@@ -33,7 +33,8 @@ export const NAV: NavItem[] = [
         href: "/profile/guides",
         children: [
           { label: "Overview", href: "/profile/guides" },
-          ...["Farming", "Mining", "Combat", "Foraging", "Fishing", "Enchanting", "Alchemy", "Taming", "Carpentry", "Runecrafting", "Social"].map(
+          // Nur die 5 Haupt-Skills haben einen Guide (siehe GUIDE_SKILLS in lib/levelGuides.ts)
+          ...["Farming", "Mining", "Combat", "Foraging", "Fishing"].map(
             (name) => ({ label: name, href: `/profile/guides/${name.toLowerCase()}` }),
           ),
         ],
