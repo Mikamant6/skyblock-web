@@ -84,6 +84,14 @@
 }
 
 /* Besitz-Anzeige: Hinweiszeile, Zaehler pro Set und Haken/Kreuz pro Teil */
+.filterToggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 12px;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
 .status {
   margin: 0 0 12px;
   font-size: 0.85rem;

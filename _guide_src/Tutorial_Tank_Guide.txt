@@ -1,0 +1,1144 @@
+Tutorial:Tank Guide - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Tutorial:Tank Guide
+
+From Hypixel SkyBlock Wiki
+
+Jump to navigation
+Jump to search
+
+- This tutorial is a guide.
+
+- This tutorial has been assembled by members of the community as a helpful resource or Tutorial, instructing players on SkyBlock, and thus is not official.
+
+- If you see missing, incorrect or out of date information, please help by contributing to the page.
+
+The Tank class is a class within Dungeons that focuses on assisting the party by receiving incoming damage. This class depends heavily on &#xe010;&#160;Health and &#xe008;&#160;Defense, which contributes to &#xe010;&#160;Effective Health: as such, most of the gear outlined in this guide will focus on improving these stats and helping players absorb damage.
+
+Tank is one of the cheapest classes in the early game and requires some of the least effort, although there is a significant jump in price between the mid-game and late game. In scenarios where you won't need to be near your teammates all the time and want to do some extra damage, you could potentially swap to a Berserk, Archer, or Mage set for clearing rooms and killing mobs efficiently: see Tutorial:Berserk Guide, Tutorial:Archer Guide, or Tutorial:Right-Click Mage Guide for more information.
+
+It is best for Tanks to prioritise completing as many Dungeon Secrets as possible before your party enters the boss room, as that is the tank's responsibility. To do secrets more effectively, an Aspect of the Void (preferably with Etherwarp applied), as well as Superboom TNT and a Dungeonbreaker.
+
+## Contents
+
+- 1 Recommended Armor Sets
+
+- 1.1 Recommended Equipment
+
+- 2 Recommended Weapons
+
+- 3 Recommended Utility Items
+
+- 4 Recommended Pets
+
+- 5 Recommended Modifiers
+
+- 5.1 Enchantments
+
+- 5.2 Reforges
+
+- 5.2.1 Weapons
+
+- 5.2.2 Armor
+
+- 5.3 Accessory Powers
+
+- 5.4 Attributes
+
+- 6 References
+
+## Recommended Armor Sets
+[edit | edit source]
+
+Armor is arguably the most important part of being a Tank, and strong armor with high &#xe010;&#160;Effective Health is imperative for efficient Tank progression. While clearing, you'll likely be using an armor set oriented to Berserk, Archer, or Mage, so this section exclusively pertains to armor that you should use during the boss fight, where you'll need to be near other players.
+
+| Status
+| Slot
+| Name
+| Requirements
+| Notes
+
+| Early Game
+
+| [Old Dragon Helmet] [Old Dragon Chestplate] [Old Dragon Leggings] [Old Dragon Boots] 
+
+| [Old Dragon Helmet] &#160;Old Dragon Armor
+
+| &#160;Combat&#160;XVI (16)
+&#160;Catacombs&#160;X (10) (when dungeonised)
+
+| [Old Dragon Helmet] &#160;Old Dragon Armor, granting +450&#160;&#xe010;&#160;Health and +500&#160;&#xe008;&#160;Defense, is both relatively cheap and worthwhile for early-game Tank for your first few runs until you obtain the necessary &#160;Catacombs levels to dungeonise it or until you obtain [Holy Dragon Helmet] &#160;Holy Dragon Armor. Most alternatives, like [Heavy Helmet] &#160;Heavy Armor, are not worth it.
+
+| Early Game
+
+| [Holy Dragon Helmet] [Holy Dragon Chestplate] [Holy Dragon Leggings] [Holy Dragon Boots] 
+
+| [Holy Dragon Helmet] &#160;Holy Dragon Armor
+
+| &#160;Combat&#160;XVI (16)
+&#160;Catacombs&#160;X (10) (when dungeonised)
+
+| [Holy Dragon Helmet] &#160;Holy Dragon Armor, although geared towards Healers, is also incredibly viable for Tanks due to its high &#xe010;&#160;Effective Health. Additionally, its Holy Blood full set bonus, granting +200&#160;&#xe011;&#160;Health Regen, is very useful since it not only boosts your own healing but also that of the party members around you: as a Tank, you'll want to be in close proximity to your teammates, making this incredibly useful.
+While it is cheaper than [Old Dragon Helmet] &#160;Old Dragon Armor, it is also slightly tedious to grind for, with [Holy Dragon Fragment] &#160;Holy Dragon Fragments dropping exclusively from a specific variant of the [A sprite icon representing Lost Adventurer in Hypixel SkyBlock] Lost Adventurer.
+
+| Mid-Game
+
+| [Necromancer Lord Helmet] [Necromancer Lord Chestplate] [Necromancer Lord Leggings] [Necromancer Lord Boots] 
+
+| [Necromancer Lord Helmet] &#160;Necromancer Lord Armor
+
+| Floor VI completion
+
+| [Necromancer Lord Helmet] &#160;Necromancer Lord Armor grants exceptionally high &#xe010;&#160;Health and &#xe008;&#160;Defense, outclassing both of the aforementioned sets in terms of survivability. However, it is much more expensive than both [Old Dragon Helmet] &#160;Old and [Holy Dragon Helmet] &#160;Holy Dragon Armor.
+Players struggling to afford a [Necromancer Lord Chestplate] &#160;Necromancer Lord Chestplate can swap it out for anything that grants similar levels of &#xe008;&#160;Defense, like a Perfect Chestplate - Tier XI or higher.
+
+| Mid-Game
+
+| [Revived Heart] 
+
+| [Revived Heart] &#160;Revived Heart
+
+| Zombie Slayer&#160;VI (6)
+&#160;Catacombs&#160;XV (15) (when dungeonised)
+
+| The [Revived Heart] &#160;Revived Heart, while granting significantly less &#xe010;&#160;Effective Health than - for example - a [Necromancer Lord Helmet] &#160;Necromancer Lord Helmet, its Healing Boost ability doubles your &#xe028;&#160;Vitality while wearing, making it viable for high health regeneration. It upgrades into the [Reaper Mask] &#160;Reaper Mask, which is the endgame helmet that you will want to use as a Tank.
+
+| Late Game
+
+| [Reaper Mask] 
+
+| [Reaper Mask] &#160;Reaper Mask
+
+| Zombie Slayer&#160;VII (7)
+&#160;Catacombs&#160;XXIV (24) (when dungeonised)
+
+| The [Reaper Mask] &#160;Reaper Mask is the definitive Tank helmet, granting significant amounts of &#xe010;&#160;Effective Health paired with its additional Ruby Gemstone Slot and its high &#xe008;&#160;Defense, outclassing a [Mender Crown] &#160;Mender Crown both inside and outside of Dungeons. While a [Goldor's Helmet] &#160;Goldor's Helmet may provide more &#xe010;&#160;Effective Health than both of the aforementioned, it lacks the [Reaper Mask] &#160;Reaper Mask's double &#xe028;&#160;Vitality and often sees much less use. When paired with a [Gloomlock Grimoire] &#160;Gloomlock Grimoire, the [Reaper Mask] &#160;Reaper Mask allows for substantial healing capabilities.
+
+| Late Game
+
+| [Goldor's Chestplate] [Goldor's Leggings] [Goldor's Boots] 
+
+| [Goldor's Helmet] &#160;Goldor's Armor
+
+| Floor VII completion
+
+| [Goldor's Helmet] &#160;Goldor's Armor is one of the best sets for Tanks, granting significant &#xe010;&#160;Effective Health due to its high &#xe010;&#160;Health and &#xe008;&#160;Defense. When paired with a [Reaper Mask] &#160;Reaper Mask and [Gloomlock Grimoire] &#160;Gloomlock Grimoire, it can achieve substantial amounts of healing and defense, making it the most optimal setup for survivability. When paired with an [Ankylosaurus Pet] &#160;Ankylosaurus Pet, whose Armored Tank perk grants of your &#xe008;&#160;Defense as &#xe00d;&#160;Strength, you can achieve decent levels of damage for clearing efficiently.
+
+### Recommended Equipment
+[edit | edit source]
+
+Proper Equipment, which is often overlooked, is also useful and necessary while in Dungeons. Here are some that will benefit your Tank experience.
+
+| Status
+| Slot
+| Name
+| Requirements
+| Notes
+
+| Early Game
+
+| [Balloon Snake] 
+
+| [Balloon Snake] &#160;Balloon Snake
+
+| Floor I completion
+
+| The [Balloon Snake] &#160;Balloon Snake should only be used as a placeholder until one obtains a superior piece, like a [Bone Necklace] &#160;Bone Necklace or a maxed out [Rift Necklace] &#160;Rift Necklace, since waiting until you obtain better equipment would be a waste of a slot.
+
+| Universal
+Early Game
+
+| [Adaptive Belt] [ Adaptive Belt] 
+
+| [Adaptive Belt] &#160;Adaptive Belt
+
+| Floor II completion
+
+| The [Adaptive Belt] &#160;Adaptive Belt is the best-in-slot Belt for Tanks, granting a slight &#xe008;&#160;Defense increase as well as +5&#160;&#xe010;&#160;Health and +10&#160;&#xe008;&#160;Defense: when accounting for the stat scaling for dungeonised items while in a Dungeon, the [Adaptive Belt] &#160;Adaptive Belt heavily outclasses other Belts, like the [Black Belt] &#160;Black Belt, in terms of &#xe008;&#160;Defense.
+
+| Universal
+Early Game
+
+| [Bone Necklace] [ Bone Necklace] 
+
+| [Bone Necklace] &#160;Bone Necklace
+
+| Floor IV completion
+
+| The [Bone Necklace] &#160;Bone Necklace is excellent for Tanks, granting negligible &#xe02c;&#160;Crit Chance and a substantial amount of &#xe008;&#160;Defense. Additionally, its Gladiator's Will ability is buffed when playing as a Tank: the radius in which you gain &#xe008;&#160;Defense is increased to 30 blocks instead of the regular 10, and you gain a maximum of +60&#160;&#xe008;&#160;Defense; it also buffs your Diversion passive to a 15-block radius. It is cheap to upgrade and is the best-in-slot Necklace for Tanks, outclassing a maxed-out [Rift Necklace] &#160;Rift Necklace.
+
+| Universal
+Mid-Game
+
+| [Shadow Assassin Cloak] [ Shadow Assassin Cloak] 
+
+| [Shadow Assassin Cloak] &#160;Shadow Assassin Cloak
+
+| Floor V completion
+
+| Although the [Shadow Assassin Cloak] &#160;Shadow Assassin Cloak does not give any defensive stats, when a Reforge with high &#xe010;&#160;Health or &#xe008;&#160;Defense - for example, Strengthened or Waxed - is applied to it, the stat scaling will greatly increase how much &#xe010;&#160;Effective Health you have while in a Dungeon, resulting in high survivability.
+
+| Universal
+Mid-Game
+
+| [Soulweaver Gloves] 
+
+| [Soulweaver Gloves] &#160;Soulweaver Gloves
+
+| Floor VI completion
+
+| Similar to the [Shadow Assassin Cloak] &#160;Shadow Assassin Cloak, the [Soulweaver Gloves] &#160;Soulweaver Gloves does not grant any defensive stats, but a proper Reforge can grant substantial bonus &#xe008;&#160;Defense while in a Dungeon. Additionally, its Haunted Skull ability has the capability to stun enemies and reduce their damage temporarily: this makes it very useful for clearing and killing mobs that are close to you.
+The [Soulweaver Gloves] &#160;Soulweaver Gloves and [Gauntlet of Contagion] &#160;Gauntlet of Contagion have been frequently compared: it is not recommended to use a [Gauntlet of Contagion] &#160;Gauntlet of Contagion, since it doesn't scale with your Dungeon level.
+
+## Recommended Weapons
+[edit | edit source]
+
+Since a lot of Tank gear does not grant a lot of benefits to damage, it is important to have weapons with high damage to clear efficiently. While preceding the boss fight, you'll likely be using an armor set oriented to Berserk, Archer, or Mage: it is important that your weapon of choice complements your armor of choice. The recommended weapons listed will be primarily oriented towards clearing the dungeon in Berserk armor, with some alternatives for those who only have a set of tank gear.
+
+| Status
+| Slot
+| Name
+| Requirements
+| Notes
+
+| Early Game
+
+| [Super Cleaver] 
+
+| [Super Cleaver] &#160;Super Cleaver
+
+| 
+
+| The [Super Cleaver] &#160;Super Cleaver is a great weapon for the early game, as it is both incredibly cheap and lacks any requirements. While an [Aspect of the Dragons] &#160;Aspect of the Dragons will have more &#xe050;&#160;Damage and &#xe00d;&#160;Strength, a [Super Cleaver] &#160;Super Cleaver is much more efficient for clearing mobs quickly and can be upgraded into the [Hyper Cleaver] &#160;Hyper Cleaver for a decently low price.
+
+| Early Game
+
+| [Hyper Cleaver] 
+
+| [Hyper Cleaver] &#160;Hyper Cleaver
+
+| Floor III completion
+
+| The [Hyper Cleaver] &#160;Hyper Cleaver is very useful for crowd control, with its Cleave ability being capable of clearing lots of enemies in a 4 block radius around it. It is also relatively cheap, only costing 800,000 Coins in addition to its predecessor, and can often be found on the auction house for cheaper.
+
+| Early Game
+
+| [Earthen Blade] 
+
+| [Earthen Blade] &#160;Earthen Blade
+
+| &#160;Catacombs&#160;XIX (19) (Outside Dungeons)
+
+| The [Earthen Blade] &#160;Earthen Blade has innate bonus &#xe008;&#160;Defense as well as the ability to use Seismic Wave without your dungeon orb. It is a cheap yet effective way of contributing damage in bosses while using full tank gear, and can be used to break crypts for bonus score and secrets without [Superboom TNT] &#160;Superboom TNT.
+
+| Optional
+
+| [Livid Dagger] 
+
+| [Livid Dagger] &#160;Livid Dagger
+
+| Floor V completion
+
+| The [Livid Dagger] &#160;Livid Dagger is a cheap and effective melee weapon, providing solid single-target &#xe050;&#160;Damage for its point in progression. Its main benefit is its bonuses to &#xe02c;&#160;Crit Chance and &#xe001;&#160;Attack Speed, which means it can consistently crit even in tank gear. However, as tanks do not have a cone attack, it is easily outclassed in most scenarios for the clear.
+
+| Mid-Game
+
+| [Juju Shortbow] 
+
+| [Juju Shortbow] &#160;Juju Shortbow
+
+| Enderman Slayer&#160;V (5)
+&#160;Catacombs&#160;XV (15) (when dungeonised)
+
+| The [Juju Shortbow] &#160;Juju Shortbow is exceptional for clearing efficiently and will be a stepping stone for getting a [Terminator] &#160;Terminator. It is extremely cheap to obtain, with the major grind being the requirements of Enderman Slayer&#160;V (5), which can take a long time for newer players.
+
+| Mid-Game
+
+| [Flower of Truth] 
+
+| [Flower of Truth] &#160;Flower of Truth
+
+| Floor VI completion
+
+| The [Flower of Truth] &#160;Flower of Truth is a viable clear weapon for tanks who are low on coins. It is incredibly cheap, while granting decent &#xe050;&#160;Damage and incredibly high &#xe00d;&#160;Strength, making it an incredibly worthwhile investment. However, one should seek to upgrade this weapon to the [Bouquet of Lies] &#160;Bouquet of Lies as soon as possible.
+
+| Mid-Game
+
+| [Bouquet of Lies] 
+
+| [Bouquet of Lies] &#160;Bouquet of Lies
+
+| Floor VI completion
+
+| The [Bouquet of Lies] &#160;Bouquet of Lies is exceptional for clearing normal mode dungeons when paired with a [Juju Shortbow] &#160;Juju Shortbow. It retains the [Flower of Truth] &#160;Flower of Truth's exceptionally high &#xe00d;&#160;Strength and can hit more enemies than its predecessor: despite costing a lot of [Ancient Rose] &#160;Ancient Roses and [Fel Pearl] &#160;Fel Pearls, making it relatively grindy for ironman players, it is decently affordable.
+
+| Late Game
+
+| [Astraea] 
+
+| [Astraea] &#160;Astraea
+
+| Floor VII completion
+
+| While you could feasibly use any other [Necron's Blade] &#160;Necron's Blade variant, the [Astraea] &#160;Astraea works best for its bonus &#xe008;&#160;Defense and thus &#xe010;&#160;Effective Health. It grants a maximum base &#xe008;&#160;Defense of +350&#160;&#xe008;, and is great for damage and survivability. A [Hyperion] &#160;Hyperion is recommended as an alternative if you and your party have no trouble surviving both the clear and the bossfight.
+
+| Late Game
+
+| [Terminator] 
+
+| [Terminator] &#160;Terminator
+
+| Enderman Slayer&#160;VII (7)
+&#160;Catacombs&#160;XXVII (27) (when dungeonised)
+
+| The [Terminator] &#160;Terminator is commonly regarded as the best bow in the game, and is the best weapon for the clear for Master Mode, as well as great for many bosses. It is advised to aim for a high &#xe02c;&#160;Crit Chance to ensure every attack crits despite the &#xe02c;&#160;Crit Chance penalty.
+
+## Recommended Utility Items
+[edit | edit source]
+
+| Status
+| Slot
+| Name
+| Requirements
+| Notes
+
+| Universal
+
+| [Wand of Atonement] 
+
+| [Wand of Atonement] &#160;Wand of Atonement
+
+| Zombie Slayer&#160;VII (7)
+
+| The [Wand of Atonement] &#160;Wand of Atonement is useful for quick health regeneration over a short period of time, and is invaluable for healing.
+
+| Universal
+
+| [Ornate Zombie Sword] 
+
+| [Ornate Zombie Sword] &#160;Ornate Zombie Sword
+
+| &#160;Catacombs&#160;XVIII (18) (when dungeonised)
+
+| The [Ornate Zombie Sword] &#160;Ornate and [Florid Zombie Sword] &#160;Florid Zombie Sword are also incredibly useful for healing, with its Instant Heal ability outclassing the [Wand of Atonement] &#160;Wand of Atonement and its predecessors for burst healing.
+
+| [Florid Zombie Sword] 
+
+| [Florid Zombie Sword] &#160;Florid Zombie Sword
+
+| Recommended
+
+| [Bonzo's Mask] 
+
+| [Bonzo's Mask] &#160;Bonzo's Mask
+
+| Floor I completion
+
+| The [Bonzo's Mask] &#160;Bonzo's Mask and [Spirit Mask] &#160;Spirit Mask can be used in tandem with each other: using the [Spirit Mask] &#160;Spirit Mask's Second Wind ability while the [Bonzo's Mask] &#160;Bonzo's Mask's Clownin' Around ability is on cooldown allows you to survive in the most dire of situations. Additionally, it is incredibly cheap to upgrade the [Spirit Mask] &#160;Spirit Mask with [Thorn Fragment] &#160;Thorn Fragments, which heals you for 100 + 3% of your maximum &#xe010;&#160;Health.
+
+| Recommended
+Late Game
+
+| [Spirit Mask] [ Spirit Mask] 
+
+| [Spirit Mask] &#160;Spirit Mask
+
+| &#160;Catacombs&#160;XV (15)
+
+| Late Game
+
+| [Gloomlock Grimoire] 
+
+| [Gloomlock Grimoire] &#160;Gloomlock Grimoire
+
+| Enderman Slayer&#160;V (5)
+
+| The [Gloomlock Grimoire] &#160;Gloomlock Grimoire is a unique healing item, with its Life Tap ability converting ⸎&#160;Soulflow into &#xe017;&#160;Overflow Mana at the cost of &#xe010;&#160;Health, and its Extreme Measures ability healing the player at the cost of &#xe050;&#160;Damage. It allows for serious healing capabilities when paired with a [Reaper Mask] &#160;Reaper Mask.
+
+| Late Game (Situational)
+
+| [Soul Whip] 
+
+| [Soul Whip] &#160;Soul Whip
+
+| &#160;Fishing&#160;XXVI (26)
+
+| The [Soul Whip] &#160;Soul Whip can be useful for drawing aggro from [A sprite icon representing Maxor in Hypixel SkyBlock] Maxor and [A sprite icon representing Storm in Hypixel SkyBlock] Storm in the floor 7 bossfight.
+
+| Universal
+
+| [Wither Cloak Sword] 
+
+| [Wither Cloak Sword] &#160;Wither Cloak Sword
+
+| Floor VII completion
+
+| The [Wither Cloak Sword] &#160;Wither Cloak Sword's Creeper Veil ability is incredibly useful for blocking damage and granting a lot of &#xe008;&#160;Defense. It is best used when trying to block attacks that have the capability to instantly kill you, like [A sprite icon representing Storm in Hypixel SkyBlock] Storm's Giga Lightning.
+
+| Mid-Game
+
+| [Overflux Power Orb] 
+
+| Overflux Power Orb
+
+| Wolf Slayer VII (7)
+
+| The Overflux Power Orb provides very useful buffs that aid greatly in difficult bossfights, such as doubled mana regeneration, 2.5% of max health healing per second, 5 Vitality, 5 Mending, and 25 Strength. For early-game players, you can use the Mana Flux instead.
+
+| Late-Game
+
+| [Plasmaflux Power Orb] 
+
+| Plasmaflux Power Orb
+
+| Wolf Slayer VIII (8)
+
+| The LEGENDARYPlasmaflux Power Orb is even more powerful than the Overflux Power Orb, with +125% Mana Regeneration, 3% max health healing per second, +7.5 Vitality and Mending, and +35 Strength, which makes it used in high master mode floors, especially during Goldor
+
+## Recommended Pets
+[edit | edit source]
+
+A useful Pet is incredibly important for a Tank to function even more efficiently. These are some recommended Pets, some of which are very situational and others more multi-purpose.
+
+| Status
+| Slot
+| Name
+| Requirements
+| Notes
+
+| Early Game
+
+| [Bee Pet] 
+
+| [Bee Pet] &#160;Bee Pet
+
+| 
+
+| The [Bee Pet] &#160;Bee Pet pet can make a decent budget Tank pet due to its third ability, Weaponized Honey. This ability grants you &#xe010;&#160;Absorption equal to 25% of the damage you take. Hive can also be effective on lower dungeon floors, granting a small amount of additional &#xe00d;&#160;Strength and &#xe008;&#160;Defense.
+
+| Early Game
+
+| [Blue Whale Pet] [Blue Whale Pet] 
+
+| [Blue Whale Pet] &#160;Blue Whale Pet
+
+| 
+
+| The [Blue Whale Pet] &#160;Blue Whale Pet is a viable pet for early-game Tanks, since it grants a high amount of base &#xe010;&#160;Health. The EPIC rarity of the pet grants increased &#xe008;&#160;Defense per max &#xe010;&#160;Health, and the LEGENDARY variety grants +25% max &#xe010;&#160;Health: however, the latter is decently expensive when starting out, costing about $10m Coins from Oringo
+
+| Early Game
+
+| [Turtle Pet] [Turtle Pet] 
+
+| [Turtle Pet] &#160;Turtle Pet
+
+| 
+
+| The [Turtle Pet] &#160;Turtle Pet is viable for early-game Tanks, since it grants a substantial amount of &#xe008;&#160;Defense: between its base +100&#160;&#xe008;&#160;Defense, its Turtle Tactics ability granting +30%&#160;&#xe008;&#160;Defense, and its Genius Amniote ability granting +30&#160;&#xe008;&#160;Defense for every player near you, capping at 4 players, which is extremely useful for most bosses that encourages the party to stick together.
+
+| Recommended
+Universal
+
+| [Ankylosaurus Pet] 
+
+| [Ankylosaurus Pet] &#160;Ankylosaurus Pet
+
+| HoTM 7
+
+| The [Ankylosaurus Pet] &#160;Ankylosaurus Pet is the best pet for Tanks, granting 50% of your &#xe008;&#160;Defense as &#xe00d;&#160;Strength, maxing out at +500&#160;&#xe00d;&#160;Strength. This is a very sizable increase, allowing players to maintain both high &#xe010;&#160;Effective Health and &#xe00d;&#160;Strength: it is also useful outside of the Catacombs, allowing players to achieve incredibly high damage and functioning as a slightly weaker and much cheaper [Golden Dragon Pet] &#160;Golden Dragon Pet.
+
+| Deprecated
+
+| [Baby Yeti Pet] [Baby Yeti Pet] [Baby Yeti Pet] 
+
+| [Baby Yeti Pet] &#160;Baby Yeti Pet
+
+| 
+
+| For a long time, the [Baby Yeti Pet] &#160;Baby Yeti Pet was best-in-slot for Tanks due to its now-removed Ice Shields perk, which granted 100% of the player's &#xe00d;&#160;Strength as &#xe008;&#160;Defense. This allowed for players to retain high &#xe00d;&#160;Strength while gaining lots of &#xe008;&#160;Defense, resulting in incredibly high survivability.
+
+| 
+
+## Recommended Modifiers
+[edit | edit source]
+
+Proper modifiers on your Armor and Weapons are imperative in order for a Tank to function properly.
+
+### Enchantments
+[edit | edit source]
+
+Given that high &#xe010;&#160;Health, &#xe008;&#160;Defense, and &#xe010;&#160;Effective Health is vital for survivability, the Enchantments that a Tank puts on their gear is extremely important.
+
+| Enchantment
+| Notes
+
+| Armor
+
+| Protection
+
+| Protection and Growth are universal Enchantments that you will always be using throughout your entire playthrough, due to the increased &#xe008;&#160;Defense and &#xe010;&#160;Health that it grants.
+
+| Growth
+
+| Rejuvenate
+
+| Aside from the obvious picks that are requied for every armor piece, being Protection and Growth, Rejuvenate grants lots of &#xe011;&#160;Health Regen, which further gets buffed by dungeon scaling. Not only is it great for survivability, it is also buffed by &#xe028;&#160;Vitality.
+
+| Mana Vampire
+
+| Mana Vampire and Hardened Mana both grant increased healing and &#xe008;&#160;Defense depending on &#xe003;&#160;Mana used near you: since you'll often want to be near your teammates while in the boss room, these mutually exclusive enchantments may prove to be very useful.
+
+| Hardened Mana
+
+| True Protection
+
+| True Protection grants &#xe027;&#160;True Defense, which will reduce the amount of ✷&#160;True Damage you take: several attacks in Dungeons will deal ✷&#160;True Damage, like [A sprite icon representing Thorn in Hypixel SkyBlock] Thorn's minions and [A sprite icon representing Livid in Hypixel SkyBlock] Livid's damage potions.
+
+A good Ultimate Enchantment is also vital for Tank progression.
+
+| Enchantment
+| Notes
+
+| Armor
+
+| Last Stand
+
+| Last Stand is a useful Ultimate Enchantment during the early game, granting increased &#xe008;&#160;Defense when reaching low &#xe010;&#160;Health. Both Last Stand I and Last Stand II can be obtained from Dungeon Reward Chests, and the enchantment is relatively cheap on the Bazaar.
+
+| Legion
+
+| Legion is the best Ultimate Enchantment for general usage, granting increased Combat Stats - including &#xe010;&#160;Health and &#xe008;&#160;Defense - when near your teammates: as a Tank, you will likely be near your party members frequently, allowing you to use the enchantment to the fullest of its capability. However, it is decently expensive on the Bazaar.
+
+| Refrigerate
+
+| Refrigerate is the best Ultimate Enchant for survivability, due to the increased &#xe003;&#160;Mana usage in dungeons. However, it is very expensive and should not be considered unless you have enough spare coins to expend.
+
+### Reforges
+[edit | edit source]
+
+#### Weapons
+[edit | edit source]
+
+| Status
+| Slot
+| Name
+| Notes
+
+| Early Game
+
+| 
+
+| Spicy
+
+| Spicy is useful for &#xe007;&#160;Crit Damage and will be viable for clearing.
+
+| Optional
+
+| [Suspicious Vial] 
+
+| [Suspicious Vial] &#160;Suspicious Vial
+
+Suspicious
+
+| Suspicious is an incredibly useful reforge for both &#xe02c;&#160;Crit Chance and &#xe007;&#160;Crit Damage, as well as increasing your weapon's &#xe050;&#160;Damage. Due to its ease of access for Ironman players, it is a great option for them.
+
+| Universal
+
+| [Dragon Claw] 
+
+| [Dragon Claw] &#160;Dragon Claw
+
+Fabled
+
+| Fabled grants decent &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage, as well as granting a chance for critical hits to deal +15% more damage and being rather cheap. It's one of the best damage-focused reforges, but it is not as useful for a tank.
+
+| Universal
+
+| [Wither Blood] 
+
+| [Wither Blood] &#160;Wither Blood
+
+Withered
+
+| Withered allows you to achieve the most &#xe00d;&#160;Strength in dungeons, which pairs extremely well with the [Baby Yeti Pet] &#160;Baby Yeti Pet. Even without the pet, the damage of this reforge is on par with Fabled. However, Withered is only truly viable with a Catacombs level of 40 or above.
+
+#### Armor
+[edit | edit source]
+
+| Status
+| Slot
+| Name
+| Notes
+
+| Early Game
+
+| [Rare Diamond] 
+
+| [Rare Diamond] &#160;Rare Diamond
+
+Reinforced
+
+| Reinforced grants the same &#xe008;&#160;Defense as Heavy, without sacrificing any other stats. It is the best Tank reforge for the early game, as well as extremely cheap for even ironman players due to its high drop rate.
+
+| Early Game
+
+| [Diamond Atom] 
+
+| [Diamond Atom] &#160;Diamond Atom
+
+Reinforced
+
+| Perfect is a direct upgrade over Reinforced, granting even more &#xe008;&#160;Defense for slightly higher cost.
+
+| Universal
+
+| [Giant Tooth] 
+
+| [Giant Tooth] &#160;Giant Tooth
+
+Giant
+
+| Giant grants the most &#xe010;&#160;Health out of any of the mentioned reforges, making it the best reforge for Tanks. When applied to an armor set with high &#xe010;&#160;Effective Health, like [Goldor's Helmet] &#160;Goldor's Armor or a [Reaper Mask] &#160;Reaper Mask, substantial survivability can be achieved.
+
+| Universal
+
+| [Precursor Gear] 
+
+| [Precursor Gear] &#160;Precursor Gear
+
+Ancient
+
+| Ancient is the best forge for the clear set, as well as being viable for [Baby Yeti Pet] &#160;Baby Yeti Pet users.
+
+### Accessory Powers
+[edit | edit source]
+
+Magical Power is arguably the most important stat in the game, and you should aim to have 1200 Magical Power by the time you enter Master Mode - Floor VII.
+
+While some people may think that having an Accessory Power that grants high &#xe010;&#160;Effective Health may improve your survivability, your gear should be enough to help you survive on your own. What you now need is high &#xe050;&#160;Damage in order to clear efficiently, or at least be able to kill a miniboss quickly. As a result, you should aim to use Accessory Powers with high &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage: depending on the gear you are using to clear, you could use Accessory Powers oriented towards a Berserk, Archer, or Mage.
+
+| Status
+| Slot
+| Name
+| Notes
+
+| Early Game
+
+| [Beating Heart] 
+
+| [Beating Heart] &#160;Beating Heart
+
+Bloody
+
+| Bloody grants a decent amount of &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage, as well as +10&#160;&#xe001;&#160;Attack Speed. It should be enough to get yourself started for clearing as a Tank.
+
+| Early Game
+
+| [Luxurious Spool] 
+
+| [Luxurious Spool] &#160;Luxurious Spool
+
+Silky
+
+| Silky grants incredibly high &#xe007;&#160;Crit Damage, as well as a minuscule amount of &#xe001;&#160;Attack Speed. It is exceptional if you have at least 100%&#160;&#xe02c;&#160;Crit Chance, which everyone should aim to have, although it is recommended to keep your &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage balanced.
+
+| Early Game
+
+| [Furball] 
+
+| [Furball] &#160;Furball
+
+Itchy
+
+| Itchy balances out &#xe00d;&#160;Strength, &#xe007;&#160;Crit Damage, and &#xe001;&#160;Attack Speed: while it gives less &#xe007;&#160;Crit Damage than Silky, it balances out all stats relatively evenly, resulting in higher damage.
+
+| Early Game
+
+| [Ender Monocle] 
+
+| [Ender Monocle] &#160;Ender Monocle
+
+Sighted
+
+| Sighted grants a lot of &#xe003;&#160;Intelligence and minimal &#xe002;&#160;Ability Damage, which will be incredibly useful if you are using a Mage setup to clear rooms efficiently. It is also the best budget power for &#xe003;&#160;Intelligence, with the only Accessory Power outclassing it being Bizarre, costing hundreds of millions of coins.
+
+| Mid-Game
+
+| [Magma Urchin] 
+
+| [Magma Urchin] &#160;Magma Urchin
+
+Hurtful
+
+| Hurtful grants high &#xe00d;&#160;Strength, substantial &#xe007;&#160;Crit Damage, and decent &#xe001;&#160;Attack Speed. It is incredibly useful for clearing, but is decently rare and expensive.
+
+| Late Game
+
+| 
+
+| Fortuitous
+
+| Fortuitous grants the most &#xe02c;&#160;Crit Chance out of any Accessory Power, and should be what you aim to use if you are using a [Terminator] &#160;Terminator as a Tank: it is recommended to use an Archer setup in later floors of Master Mode as a Tank, since a [Terminator] &#160;Terminator heavily outdamages almost all Berserk damage.
+
+### Attributes
+[edit | edit source]
+
+A number of Attributes should be maxed out as soon as possible, as they greatly benefit playing as a Tank.
+
+| Slot
+| Name
+| Notes
+
+| [Flash Shard] 
+
+| [Flash Shard] &#160;Flash Shard
+
+Light Elemental
+
+| Grants +1-10&#160;&#xe00d;&#160;Strength, maxing out at +50&#160;&#xe00d;&#160;Strength with all Elemental Shards maxed out. Buffed by the Echo of Elemental attribute, increasing the effect of these attributes by +20%.
+
+| [Quake Shard] 
+
+| [Quake Shard] &#160;Quake Shard
+
+Stone Elemental
+
+| [Bolt Shard] 
+
+| [Bolt Shard] &#160;Bolt Shard
+
+Lightning Elemental
+
+| [Aero Shard] 
+
+| [Aero Shard] &#160;Aero Shard
+
+Wind Elemental
+
+| [Tempest Shard] 
+
+| [Tempest Shard] &#160;Tempest Shard
+
+Storm Elemental
+
+| [Grove Shard] 
+
+| [Grove Shard] &#160;Grove Shard
+
+Nature Elemental
+
+| Grants +1-10&#160;&#xe010;&#160;Health, maxing out at +50&#160;&#xe010;&#160;Health with all Elemental Shards maxed out. Buffed by the Echo of Elemental attribute, increasing the effect of these attributes by +20%.
+
+| [Bramble Shard] 
+
+| [Bramble Shard] &#160;Bramble Shard
+
+Wood Elemental
+
+| [Sylvan Shard] 
+
+| [Sylvan Shard] &#160;Sylvan Shard
+
+Forest Elemental
+
+| [Terra Shard] 
+
+| [Terra Shard] &#160;Terra Shard
+
+Earth Elemental
+
+| [Tenebris Shard] 
+
+| [Tenebris Shard] &#160;Tenebris Shard
+
+Shadow Elemental
+
+| [Zombie Soldier Shard] 
+
+| [Zombie Soldier Shard] &#160;Zombie Soldier Shard
+
+Undead Ruler
+
+| Undead Ruler, Skeletal Ruler, and Humanoid Ruler are incredibly important for Tanks who struggle to clear, as it grants a large damage boost against &#xe084;&#160;Undead, &#xe081;&#160;Skeletal, and &#xe07b;&#160;Humanoid mobs, which appear most in the Catacombs. They are buffed by Echo of Ruler, which boosts all &#xe050;&#160;Damage gained from the Ruler attributes by +20%.
+
+| [Chill Shard] 
+
+| [Chill Shard] &#160;Chill Shard
+
+Skeletal Ruler
+
+| [Wetwing Shard] 
+
+| [Wetwing Shard] &#160;Wetwing Shard
+
+Humanoid Ruler
+
+| [Prince Shard] 
+
+| [Prince Shard] &#160;Prince Shard
+
+Reborn
+
+| Reborn boils down to free Dungeon Score when killing a [A sprite icon representing Prince in Hypixel SkyBlock] Prince. It is a must-have, especially for Tanks, as they prioritise doing Secrets and blowing up Crypts after their party clears the room. It is easy to obtain the shard by fusing [Flare Shard] &#160;Flare Shards with any burner shards, such as [Cod Shard] &#160;Cod Shard.
+
+| [Mimic Shard] 
+
+| [Mimic Shard] &#160;Mimic Shard
+
+Faker
+
+| Faker gives more stat bonuses from blessings, which is very helpful as it is essentially free stats for most of the clear. It is easy to obtain the shard by fusing [Prince Shard] &#160;Prince Shards with any burner shards, such as [Cod Shard] &#160;Cod Shard.
+
+| [Inferno Demonlord Shard] 
+
+| [Inferno Demonlord Shard] &#160;Inferno Demonlord Shard
+
+Attack Speed
+
+| Attack Speed grants an additional +10&#160;&#xe001;&#160;Attack Speed, which is incredibly useful as a Tank as it increases your rate of attack: additionally, it reduces the cooldown of Shortbows, which is useful when paired with a [Juju Shortbow] &#160;Juju Shortbow or [Terminator] &#160;Terminator.
+
+| [Caiman Shard] 
+
+| [Caiman Shard] &#160;Caiman Shard
+
+Echo of Ruler
+
+| Echo of Ruler is incredibly useful as it boosts the damage of Undead Ruler, Skeletal Ruler, and Humanoid Ruler from 30% to 36%, making it exceptional for clearing.
+
+| [Kraken Shard] 
+
+| [Kraken Shard] &#160;Kraken Shard
+
+Vitality
+
+| Vitality, like the name suggests, grants increased &#xe028;&#160;Vitality, which is great for increasing your incoming healing. It takes a long time to grind for, requiring several Kuudra runs, but you can buy them on the Bazaar if you're rich enough.
+
+| [Scarf Shard] 
+
+| [Scarf Shard] &#160;Scarf Shard
+
+Catacombs Graduate
+
+| Catacombs Graduate boosts ALL Class XP gain, making it a lot easier to level up your Healer class. It also is quite easy to obtain, as M2 Emerald and Obsidian chests are guaranteed to contain one, provided you reached the required class milestone to open it.
+
+## References
+[edit | edit source]
+
+Tutorial:Berserk Guide
+
+Tutorial:Dungeon Puzzles
+
+&#91;&#34;Tutorial:Navigation&#34;,&#34;Tutorial:Day Count&#34;,&#34;Tutorial:Autopet Guide&#34;&#93;&#91;&#34;Tutorial:Ultimate Guide&#34;,&#34;Tutorial:Tips and Tricks&#34;,&#34;Tutorial:Ironman Guide&#34;,&#34;Tutorial:Bingo Guide&#34;,&#34;Tutorial:Periodic Tasks&#34;&#93;&#91;&#34;Tutorial:Maxing Items&#34;,&#34;Tutorial:Ranged_Weapon_Guide&#34;,&#34;Tutorial:Melee_Weapon_Guide&#34;,&#34;Tutorial:Minion Farming&#34;,&#34;Tutorial:Reforging Guide&#34;,&#34;Tutorial:Armor Guide&#34;,&#34;Tutorial:Accessory Guide&#34;&#93;&#91;&#34;Tutorial:Mining Guide&#34;,&#34;Tutorial:Hunting Guide&#34;,&#34;Tutorial:Foraging Guide&#34;,&#34;Tutorial:Fishing Guide&#34;,&#34;Tutorial:Farming Guide&#34;,&#34;Tutorial:Alchemy Guide&#34;&#93;&#91;&#34;Tutorial:Gemstone Gauntlet's Ability&#34;,&#34;Tutorial:Killing Ghosts on a Budget&#34;,&#34;Tutorial:Dragon Fights Guide&#34;,&#34;Tutorial:How to Obtain a Summoning Eye&#34;,&#34;Tutorial:Kuudra Guide&#34;,&#34;Tutorial:Slayer_Guide&#34;&#93;&#91;&#34;Tutorial:Tank Guide&#34;,&#34;Tutorial:Left-Click_Mage_Guide&#34;,&#34;Tutorial:Right-Click Mage Guide&#34;,&#34;Tutorial:Mage Guide&#34;,&#34;Tutorial:Healer Guide&#34;,&#34;Tutorial:Berserk Guide&#34;,&#34;Tutorial:Archer Guide&#34;,&#34;Tutorial:Dungeon Puzzles&#34;,&#34;Tutorial:Master Mode Guide&#34;,&#34;Tutorial:Catacombs Guide&#34;,&#34;Tutorial:Ultimate Dungeon Guide&#34;&#93;&#91;&#34;Tutorial:Mushroom Farm&#34;,&#34;Tutorial:Sugar Cane Farm&#34;,&#34;Tutorial:Cocoa Beans Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;&#93;&#91;&#34;Tutorial:Timite Mining&#34;,&#34;Tutorial:Tick Thresholds&#34;,&#34;Tutorial:Heart of the Mountain Trees&#34;,&#34;Tutorial:Sapphire Crystal&#34;,&#34;Tutorial:6-ticking Ruby in the Magma Fields&#34;&#93;&#91;&#34;Tutorial:Lowballing&#34;,&#34;Tutorial:NPC Flipping&#34;,&#34;Tutorial:Bazaar Flipping&#34;,&#34;Tutorial:AH Flipping&#34;&#93; | v · d · eTutorials
+| 
+| How-To's | 
+
+- Autopet Guide
+
+- Day Count
+
+- Navigation
+
+| 
+| 
+| General Guides | 
+
+- Periodic Tasks
+
+- Bingo Guide
+
+- Ironman Guide
+
+- Tips and Tricks
+
+- Ultimate Guide
+
+| 
+| Progression Guides | 
+
+- Accessory Guide
+
+- Armor Guide
+
+- Reforging Guide
+
+- Minion Farming
+
+- Melee Weapon Guide
+
+- Ranged Weapon Guide
+
+- Maxing Items
+
+| 
+| Skill Guides | 
+
+- Alchemy Guide
+
+- Farming Guide
+
+- Fishing Guide
+
+- Foraging Guide
+
+- Hunting Guide
+
+- Mining Guide
+
+| 
+| Combat | 
+
+- Slayer Guide
+
+- Kuudra Guide
+
+- How to Obtain a Summoning Eye
+
+- Dragon Fights Guide
+
+- Killing Ghosts on a Budget
+
+- Gemstone Gauntlet Ability
+
+| 
+| Dungeon Guides | 
+
+- Ultimate Dungeon Guide
+
+- Catacombs Guide
+
+- Master Mode Guide
+
+- Dungeon Puzzles
+
+- Archer Guide
+
+- Berserk Guide
+
+- Healer Guide
+
+- Mage Guide (RCM Guide & LCM Guide)
+
+- Tank Guide
+
+| 
+| Farming | 
+
+- Wheat
+
+- Potato
+
+- Carrot
+
+- Nether Wart
+
+- Pumpkin
+
+- Melon
+
+- Cocoa Beans
+
+- Sugar Cane
+
+- Mushroom
+
+| 
+| Mining | 
+
+- 6-ticking Ruby in the Magma Fields
+
+- Nucleus Runs (Sapphire Crystal)
+
+- Heart of the Mountain Trees
+
+- Tick Thresholds
+
+- Timite Mining
+
+| 
+| Economy Guides | 
+
+- AH
+
+- Bazaar
+
+- NPC
+
+- Lowballing
+
+100 ms 6.6%
+format 80 ms 5.3%
+validateData 80 ms 5.3%
+(for generator) 80 ms 5.3%
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::getExpandedArgument 60 ms 3.9%
+replaceStrings 60 ms 3.9%
+_templateReplacements 60 ms 3.9%
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::parseFormattedNumber 60 ms 3.9%
+40 ms 2.6%
+[others] 440 ms 28.9%
+-->
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Tutorial:Tank_Guide?oldid=868693"
+
+Categories: 
+- Community Guides
+- Tutorials
+- Classes
+- Dungeons
+
+Hidden categories: 
+- Pages using Health
+- Pages using Defense
+- Pages using Effective Health
+- Pages using Health Regen
+- Pages using Vitality
+- Pages using Strength
+- Pages using Crit Chance
+- Pages using Damage
+- Pages using Attack Speed
+- Pages using Soulflow
+- Pages using Overflow Mana
+- Pages using Absorption
+- Pages using Mana
+- Pages using True Defense
+- Pages using True Damage
+- Pages using Crit Damage
+- Pages using Intelligence
+- Pages using Ability Damage
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Tutorial
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+2h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+
+- This page was last edited on 6 November 2026, at 16:56.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

@@ -1,0 +1,567 @@
+Enchantments/Tool - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Enchantments/Tool
+
+From Hypixel SkyBlock Wiki
+
+< Enchantments
+
+Jump to navigation
+Jump to search
+
+| Absorb
+
+| Affects:Axe
+
+Grants +X&#160;☯&#160;Foraging Wisdom and +Y &#xe054;&#160;Foraging Fortune.Upgrade by breaking logs using Axes with the enchantment applied to it. Cannot be combined in an anvil.
+
+| I | II | III | IV | V | VI | VII | VIII | IX | X
+| 1
+2 | 2
+4 | 3
+6 | 4
+8 | 5
+10 | 6
+12 | 7
+14 | 8
+16 | 9
+18 | 10
+20
+| Community Center
+(4,000 Bits) | 1k
+Logs | 5k
+Logs | 25k
+Logs | 100k
+Logs | 300k
+Logs | 1.5m
+Logs | 5m
+Logs | 25m
+Logs | 50m
+Logs
+
+| Bug Blender
+
+| Affects:Vacuum
+
+Grants +X&#160;&#xe051;&#160;Farming Fortune when vacuuming &#xe07f;&#160;Pests.
+
+| I | II | III | IV | V
+| 20 | 40 | 60 | 80 | 100
+| ▦ Recipe
+
+[Enchanted Paper] [Enchanted Paper] 
+[Enchanted Paper] [Designer Coffee Beans] 8
+
+| Combining Books
+
+| Cultivating
+
+| Affects:Farming Tools
+
+Gain +X&#160;☯&#160;Farming Wisdom and +Y &#xe051;&#160;Farming Fortune.Upgrade by breaking crops while using Farming Tools with the enchantment applied to it. Cannot be combined in an anvil.
+
+| I | II | III | IV | V | VI | VII | VIII | IX | X
+| 1
+2 | 2
+4 | 3
+6 | 4
+8 | 5
+10 | 6
+12 | 7
+14 | 8
+16 | 9
+18 | 10
+20
+| Community Center
+(4,000 Bits) | 1k
+Crops | 5k
+Crops | 25k
+Crops | 100k
+Crops | 300k
+Crops | 1.5m
+Crops | 5m
+Crops | 20m
+Crops | 100m
+Crops
+
+| Compact
+
+| Affects:PickaxeDrillGauntlet
+
+Gain +X&#160;☯&#160;Mining Wisdom and a Y% chance to drop an enchanted item.Upgrade by mining blocks using Pickaxes or Drills with the enchantment applied to it. Cannot be combined in an anvil.
+
+| I | II | III | IV | V | VI | VII | VIII | IX | X
+| 1
+0.25 | 2
+0.27 | 3
+0.29 | 4
+0.31 | 5
+0.33 | 6
+0.36 | 7
+0.4 | 8
+0.44 | 9
+0.5 | 10
+0.57
+| Community Center
+(4,000 Bits) | 100
+Blocks | 500
+Blocks | 1.5k
+Blocks | 5k
+Blocks | 15k
+Blocks | 50k
+Blocks | 150k
+Blocks | 500k
+Blocks | 1m
+Blocks
+
+| Crop Fever
+&#160;Ench Lvl: 32
+
+| Affects:Farming Tools
+
+When breaking crops, there is a X% chance to trigger Crop Fever for 60s which grants:
+
+— Additional crop rolls
+— +15&#160;&#xe02b;&#160;Overbloom
+— +100&#160;&#xe051;&#160;Farming Fortune
+
+| I | II | III | IV | V
+| 0.001 | 0.002 | 0.003 | 0.004 | 0.005
+| Moonflower&#160;VII (7)
+▦ Recipe
+
+[Compacted Moonflower] 2 [Compacted Moonflower] 2 [Compacted Moonflower] 2
+[Compacted Moonflower] 2 [Jukebox] [Compacted Moonflower] 2
+[Compacted Moonflower] 2 [Compacted Moonflower] 2 [Compacted Moonflower] 2
+
+| Combining Books
+
+| Dedication
+&#160;Ench Lvl: 12
+
+| Affects:Farming Tools
+
+Grants X&#160;&#xe051;&#160;Farming Fortune for crops, multiplied by your Garden milestone for that crop.
+
+| I | II | III | IV
+| 0.5 | 0.75 | 1 | 2
+| SkyMart | Combining Books | Potential visitor reward for [A sprite icon representing Librarian in Hypixel SkyBlock] Librarian
+
+| Delicate
+
+| Affects:Farming Tools
+
+Avoids breaking stems and baby crops.
+
+| V
+
+| Anita - 2 Silver Medals & 32x Jacob's Ticket
+
+| Efficiency
+
+| Affects:AxePickaxeShovelDrillShearsGauntlet
+
+Grants +X&#160;&#xe015;&#160;Mining Speed.
+
+| I | II | III | IV | V | VI | VII | VIII | IX | X
+| 30 | 50 | 70 | 90 | 110 | 130 | 150 | 170 | 190 | 210
+| Enchantment Table | Upgraded with Silex
+Stonk pre-enchanted with Ⅵ
+
+| Experience
+
+| Affects:PickaxeDrill
+
+Grants a +X% chance for mobs and ores to drop double experience.
+
+| I | II | III | IV | V
+| 12.5 | 25 | 37.5 | 50 | 62.5
+| Enchantment Table | Viking | Frozen Alex
+
+| Feast
+&#160;Ench Lvl: 5
+
+| Affects:Farming Tools
+
+Grants +X&#160;&#xe02b;&#160;Overbloom.
+
+| I | II | III | IV | V
+| 2 | 4 | 6 | 8 | 10
+| Feast Baker Scott | Combining Books
+
+| First Impression
+&#160;Ench Lvl: 14
+
+| Affects:Axe
+
+Grants +X&#160;&#xe023;&#160;Sweep on melee hits, and your first melee hit against a tree gives you +Y&#160;&#xe023;&#160;Sweep.
+
+| I | II | III | IV | V
+| 1
+2 | 2
+4 | 3
+6 | 4
+8 | 5
+10
+| Tree Gift | Combining Books
+
+| Flowstate
+&#160;Ench Lvl: 15
+
+| Affects:PickaxeDrillGauntlet
+
+Consecutive blocks broken grants +X&#160;&#xe015;&#160;Mining Speed. Stops after 10s of not mining and caps at 200 blocks.
+
+| I | II | III
+| 1 | 2 | 3
+| Active Mining Events | Combining Books
+
+| Fortune
+
+| Affects:PickaxeDrillGauntlet
+
+Grants +X&#160;&#xe053;&#160;Mining Fortune.Not compatible with Silk Touch.
+
+| I | II | III | IV
+| 10 | 20 | 30 | 45
+| Enchantment Table | Crystal Nucleus
+
+| Harvesting
+&#160;Ench Lvl: 2
+
+| Affects:Farming Tools
+
+Grants +X&#160;&#xe051;&#160;Farming Fortune.
+
+| I | II | III | IV | V | VI
+| 12.5 | 25 | 37.5 | 50 | 62.5 | 75
+| Enchantment Table | Rare drop from Shiny Pigs
+
+| Karma
+
+| Affects:Axe
+
+Grants a X% chance for Tree Gifts to contain double loot.
+
+| I | II | III | IV | V | VI
+| 1 | 2 | 3 | 4 | 5 | 6
+| Helix Tree Gift | Combining Books | Forest's Favor
+
+| Lapidary
+&#160;Ench Lvl: 22
+
+| Affects:PickaxeDrillGauntlet
+
+Grants +X&#160;&#xe053;&#160;Gemstone Fortune and +Y&#160;&#xe015;&#160;Mining Speed while mining Gemstones.
+
+| I | II | III | IV | V
+| 10
+20 | 20
+40 | 30
+60 | 40
+80 | 50
+100
+| Crystal Nucleus
+
+| Missile
+&#160;Ench Lvl: 14
+
+| Affects:Axe
+
+The Log penalty on Throwing Axe is reduced by X%.
+
+| I | II | III | IV | V
+| 10 | 20 | 30 | 40 | 50
+| Tree Gift | Combining Books
+
+| Paleontologist
+&#160;Ench Lvl: 27
+
+| Affects:PickaxeDrillGauntlet
+
+Increases chances of finding a Suspicious Scrap when mining in Glacite Mineshafts by X%.
+
+| I | II | III | IV | V
+| 2.5 | 5 | 7.5 | 10 | 12.5
+| Fossil Excavator | Combining Books
+
+| Petalfall
+&#160;Ench Lvl: 12
+
+| Affects:Axe
+
+Grants +X&#160;&#xe02e;&#160;Timber.
+
+| I | II | III | IV | V
+| 0.2 | 0.4 | 0.6 | 0.8 | 1
+| Miria | Combining Books
+
+| Prismatic
+&#160;Ench Lvl: 22
+
+| Affects:PickaxeDrillGauntlet
+
+Grants +X&#160;&#xe01c;&#160;Pristine, which increases the chance to improve the quality of dropped Gemstones.
+
+| I | II | III | IV | V
+| 0.5 | 1 | 1.5 | 2 | 2.5
+| Gemstone&#160;VIII (8)
+▦ Recipe
+
+[Paper] 8 [Paper] 8
+[Paper] 8 [Fine Topaz Gemstone] 40
+
+| Combining Books
+
+| Rainbow
+&#160;Ench Lvl: 6
+
+| Affects:Shears
+
+Produce special effects (X) when shearing a sheep.
+
+| I | II | III
+| &7Causes sheep to drop a random wool/&7color when sheared. | &7Grants an &a50%% &7chance to change the/&7color of a sheep when shearing it. | &7Grants an &a80%% &7chance to change the/&7color of a sheep when shearing it,/&7which will also flip it, of course.
+| Enchantment Table | Mollim's quest | &#160;Enchanted Book Bundle
+
+| Replenish
+&#160;Ench Lvl: 7
+
+| Affects:Farming Tools
+
+Upon breaking crops, nether wart, cocoa, wild rose, or sunflower, automatically replant from materials in your inventory.
+
+| I
+
+| Cocoa Beans&#160;VIII (8)
+▦ Recipe
+
+[Paper] 8 [Paper] 8
+[Paper] 8 [Enchanted Cookie] 16
+
+| Silk Touch
+
+| Affects:AxePickaxeDrillShovel
+
+Allows you to collect normally unobtainable block drops.Not compatible with Smelting Touch and Fortune.
+
+| I
+
+| Enchantment Table
+
+| Smelting Touch
+
+| Affects:AxePickaxeDrillShovel
+
+Automatically smelts broken blocks into their smelted form.Not compatible with Silk Touch.
+
+| I
+
+| Enchantment Table
+
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| Turbo-Crop
+
+| Affects:Farming Tools
+
+Grants +X &#xe051;&#160;Crop Fortune when breaking the specified crop.Comes in Turbo-Wheat, Turbo-Carrot, Turbo-Potato, Turbo-Pumpkin, Turbo-Melon, Turbo-Mushrooms, Turbo-Cocoa, Turbo-Cacti, Turbo-Cane, Turbo-Warts, Turbo-Sunflower, Turbo-Moonflower, and Turbo-Rose variants.
+Level Ⅳ requires BRONZE in a contest for that crop.
+Level Ⅴ requires SILVER in a contest for that crop.
+
+| I | II | III | IV | V | VI | VII
+| 5 | 10 | 15 | 20 | 25 | 30 | 35
+| Jacob's Farming Contests [A sprite icon representing Librarian in Hypixel SkyBlock] Librarian visitor | Combining Books | &#160;Turbo Gourd | &#160;Enchanted Turbo Gourd
+
+| Woodsplitter
+&#160;Ench Lvl: 5
+
+| Affects:Axe
+
+Increases damage dealt to &#xe086;&#160;Woodland mobs by X%.
+
+| I | II | III | IV | V | VI
+| 5 | 10 | 15 | 20 | 30 | 40
+| Enchantment Table | .1% chance to drop from &#160;Chillshot or &#160;Chillblade
+
+160 ms 11.0%
+format 40 ms 2.7%
+concat 40 ms 2.7%
+merge 40 ms 2.7%
+type 40 ms 2.7%
+push 40 ms 2.7%
+(for generator) 40 ms 2.7%
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::getExpandedArgument 40 ms 2.7%
+gsub 40 ms 2.7%
+[others] 340 ms 23.3%
+-->
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Enchantments/Tool?oldid=862472"
+
+Category: 
+- Enchantments
+
+Hidden categories: 
+- Pages using Foraging Wisdom
+- Pages using Foraging Fortune
+- Pages using Farming Fortune
+- Pages using Farming Wisdom
+- Pages using Mining Wisdom
+- Pages using Overbloom
+- Pages using Mining Speed
+- Pages using Sweep
+- Pages using Mining Fortune
+- Pages using Gemstone Fortune
+- Pages using Timber
+- Pages using Pristine
+- Pages using Crop Fortune
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Page
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+3h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+- View buckets
+
+- This page was last edited on 22 October 2026, at 18:21.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

@@ -1,0 +1,1170 @@
+Tutorial:Healer Guide - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Tutorial:Healer Guide
+
+From Hypixel SkyBlock Wiki
+
+Jump to navigation
+Jump to search
+
+- This tutorial is a guide.
+
+- This tutorial has been assembled by members of the community as a helpful resource or Tutorial, instructing players on SkyBlock, and thus is not official.
+
+- If you see missing, incorrect or out of date information, please help by contributing to the page.
+
+The Healer class is a class within Dungeons that prioritises healing your teammates and keeping them alive. Building a setup for it depends on whether you want high &#xe050;&#160;Damage and &#xe010;&#160;Effective Health: high &#xe050;&#160;Damage results in better clearing potential, whereas high &#xe010;&#160;Effective Health results in better survivability. As a result, this guide will cover both aspects of a Healer build.
+
+You'll want to increase your &#xe014;&#160;Mending as much as possible, as &#xe014;&#160;Mending increases all outgoing healing, meaning with high &#xe014;&#160;Mending, you can increase your healing output.
+
+It is best for Healers to focus on completing as many Dungeon Secrets as possible before your party enters the boss room.
+
+## Contents
+
+- 1 Recommended Armor Sets
+
+- 1.1 Recommended Equipment
+
+- 2 Recommended Weapons
+
+- 3 Recommended Utility Items
+
+- 4 Recommended Pets
+
+- 5 Recommended Modifiers
+
+- 5.1 Enchantments
+
+- 5.2 Reforges
+
+- 5.2.1 Weapons
+
+- 5.2.2 Armor
+
+- 5.3 Accessory Powers
+
+- 5.4 Attributes
+
+- 6 References
+
+## Recommended Armor Sets
+[edit | edit source]
+
+As a Healer, you'll either want to go down the route of high &#xe00d;&#160;Strength and &#xe050;&#160;Damage for substantial damage and clearing potential, or the route of high &#xe010;&#160;Health and &#xe008;&#160;Defense for substantial survivability and the ability to heal (because you can't heal while you're dead).
+
+| Damage Route
+
+| Status
+| Slot
+| Name
+| Requirements
+| Notes
+
+| Early Game
+
+| [Strong Dragon Helmet] 
+
+| &#160;Strong Dragon Armor
+
+| &#160;Combat&#160;XVI (16)
+&#160;Catacombs&#160;XII (12) (when dungeonised)
+
+| &#160;Strong Dragon Armor grants a decent amount of both &#xe00d;&#160;Strength and &#xe010;&#160;Effective Health, and can be used for both high &#xe050;&#160;Damage and &#xe010;&#160;Effective Health. As a result, it is the best early-game Healer set and can be used for both routes.
+
+| Mid-Game
+
+| [Shadow Assassin Helmet] 
+
+| &#160;Shadow Assassin Armor
+
+| Floor V completion
+
+| &#160;Shadow Assassin Armor grants decent &#xe050;&#160;Damage and &#xe022;&#160;Speed, both of which work hand in hand to maximise both damage and movement potential. Great overall and can be used for both routes, however you could swap out the helmet for a &#160;Mender Fedora, &#160;Mender Crown, or &#160;Reaper Mask.
+
+| Late Game
+
+| [Necron's Helmet] 
+
+| &#160;Necron's Armor
+
+| Floor VII completion
+
+| &#160;Necron's Armor grants a lot of &#xe050;&#160;Damage and &#xe010;&#160;Effective Health. Due to the way your stats scale while inside Dungeons, you'll be able to kill most mobs in one hit, allowing you to swap the helmet out for a &#160;Mender Crown or &#160;Reaper Mask. You should also swap out your boots for &#160;Maxor's Boots for increased &#xe022;&#160;Speed.
+
+| Effective Health Route
+
+| Early Game
+
+| [Superior Dragon Helmet] 
+
+| &#160;Superior Dragon Armor
+
+| &#160;Combat&#160;XX (20)
+&#160;Catacombs&#160;XIV (14) (when dungeonised)
+
+| &#160;Superior Dragon Armor grants a small amount of &#xe00d;&#160;Strength, &#xe007;&#160;Crit Damage, and &#xe02c;&#160;Crit Chance, but it also has incredibly high &#xe008;&#160;Defense and &#xe010;&#160;Health, making it incredibly useful for survivability. However, it is incredibly expensive and can be skipped if you're not rich enough.
+
+| Early Game
+
+| [Mender Helmet] 
+
+| &#160;Mender Helmet
+
+| 
+
+| The &#160;Mender Helmet, &#160;Mender Fedora, and &#160;Mender Crown are great budget options for &#xe014;&#160;Mending, allowing you to greatly boost your outgoing healing. Depending on how little &#xe014;&#160;Mending you have, it could potentially be better to use a &#160;Mender Crown for +100&#160;&#xe014;&#160;Mending instead of a &#160;Reaper Mask for 2x&#160;&#xe014;&#160;Mending: however, you should aim to get your &#xe014;&#160;Mending up in order to utilise the full benefits of the &#160;Reaper Mask.
+
+| Early Game
+
+| [Mender Fedora] 
+
+| &#160;Mender Fedora
+
+| Floor III completion
+
+| Mid-Game
+
+| [Mender Crown] 
+
+| &#160;Mender Crown
+
+| Floor VI completion
+
+| Mid-Game
+
+| [Necromancer Lord Helmet] 
+
+| &#160;Necromancer Lord Armor
+
+| Floor VI completion
+
+| &#160;Necromancer Lord Armor grants exceptionally high &#xe010;&#160;Health and &#xe008;&#160;Defense, outclassing both of the aforementioned sets in terms of survivability.
+Players struggling to afford a &#160;Necromancer Lord Chestplate can swap it out for anything that grants similar levels of &#xe008;&#160;Defense, like a Perfect Chestplate - Tier XI or higher.
+
+| Universal
+
+| [Reaper Mask] 
+
+| &#160;Reaper Mask
+
+| Zombie Slayer&#160;VII (7)
+&#160;Catacombs&#160;XXIV (24) (when dungeonised)
+
+| The &#160;Reaper Mask doubles your &#xe014;&#160;Mending, allowing you to achieve substantial levels of outgoing healing when paired with high &#xe014;&#160;Mending. It is the best option for Healers, regardless of whether you are using the Damage or Effective Health route.
+
+### Recommended Equipment
+[edit | edit source]
+
+Proper Equipment, which is often overlooked, is also useful and necessary while in Dungeons. Here are some that will benefit your Healer experience.
+
+| Status
+| Slot
+| Name
+| Requirements
+| Notes
+
+| Early Game
+
+| [Balloon Snake] 
+
+| &#160;Balloon Snake
+
+| Floor I completion
+
+| The &#160;Balloon Snake should only be used as a placeholder until one obtains a superior piece, like a &#160;Bone Necklace or a maxed out &#160;Rift Necklace, since waiting until you obtain better equipment would be a waste of a slot.
+
+| Universal
+Early Game
+
+| [ Adaptive Belt] 
+
+| &#160;Adaptive Belt
+
+| Floor II completion
+
+| The &#160;Adaptive Belt is the best-in-slot Belt for Healer, granting a slight &#xe010;&#160;Health increase as well as +5&#160;&#xe014;&#160;Mending: when accounting for the stat scaling for dungeonised items while in a Dungeon, the &#160;Adaptive Belt heavily outclasses other Belts for &#xe010;&#160;Health.
+
+| Universal
+Early Game
+
+| [ Bone Necklace] 
+
+| &#160;Bone Necklace
+
+| Floor IV completion
+
+| The &#160;Bone Necklace is excellent for Healers, granting negligible &#xe02c;&#160;Crit Chance and a substantial amount of &#xe008;&#160;Defense. It is cheap to upgrade and is the best-in-slot Necklace for Healers, outclassing a maxed-out &#160;Rift Necklace.
+
+| Universal
+Mid-Game
+
+| [ Shadow Assassin Cloak] 
+
+| &#160;Shadow Assassin Cloak
+
+| Floor V completion
+
+| Although the &#160;Shadow Assassin Cloak does not give any defensive stats, when a Reforge with high &#xe010;&#160;Health or &#xe008;&#160;Defense - for example, Strengthened or Waxed - is applied to it, the stat scaling will greatly increase how much &#xe010;&#160;Effective Health you have while in a Dungeon, resulting in high survivability.
+
+| Universal
+Mid-Game
+
+| [Soulweaver Gloves] 
+
+| &#160;Soulweaver Gloves
+
+| Floor VI completion
+
+| Similar to the &#160;Shadow Assassin Cloak, the &#160;Soulweaver Gloves does not grant any defensive stats, but a proper Reforge can grant substantial bonus &#xe008;&#160;Defense while in a Dungeon. Additionally, its Haunted Skull ability has the capability to stun enemies and reduce their damage temporarily: this makes it very useful for clearing and killing mobs that are close to you.
+The &#160;Soulweaver Gloves and &#160;Gauntlet of Contagion have been frequently compared: it is not recommended to use a &#160;Gauntlet of Contagion, since it doesn't scale with your Dungeon level.
+
+## Recommended Weapons
+[edit | edit source]
+
+Since there are very few weapons directly oriented towards the Healer class, you should use weapons that are geared towards a Berserk, Archer, or Right-Click Mage.
+
+| Status
+| Slot
+| Name
+| Requirements
+| Notes
+
+| Berserk / Archer Route
+
+| Early Game
+
+| [Super Cleaver] 
+
+| &#160;Super Cleaver
+
+| 
+
+| The &#160;Super Cleaver is a great weapon for the early game, as it is both incredibly cheap and lacks any requirements. While an &#160;Aspect of the Dragons will have more &#xe050;&#160;Damage and &#xe00d;&#160;Strength, a &#160;Super Cleaver is much more efficient for clearing mobs quickly and can be upgraded into the &#160;Hyper Cleaver for a decently low price.
+
+| Early Game
+
+| [Hyper Cleaver] 
+
+| &#160;Hyper Cleaver
+
+| Floor III completion
+
+| The &#160;Hyper Cleaver is very useful for crowd control, with its Cleave ability being capable of clearing lots of enemies in a 4 block radius around it. It is also relatively cheap, only costing 800,000 Coins in addition to its predecessor.
+
+| Early Game
+
+| [Shadow Fury] 
+
+| &#160;Shadow Fury
+
+| Floor V completion
+
+| Sporting pretty good damage and a useful ability, the &#160;Shadow Fury is useful although outclassed by other swords. With proper reforges and enchantments it can outdamage a lot of the previously mentioned weapons, and is just all in all a decent sword to use getting into higher floors.
+
+| Mid-Game
+
+| [Giant Cleaver] 
+
+| &#160;Giant Cleaver
+
+| Floor VI completion
+
+| The &#160;Giant Cleaver is a very good weapon, outclassing the &#160;Shadow Fury and &#160;Aspect of the Dragons. Similar to its predecessor, it is very good for crowd control. It outdamages a lot of previously mentioned weapons, but you'll want to get something more powerful as soon, like the &#160;Juju Shortbow or FoT/BoL, as possible.
+
+| Mid-Game
+
+| [Flower of Truth] 
+
+| &#160;Flower of Truth
+
+| Floor VI completion
+
+| The &#160;Flower of Truth is very cheap to craft, only requiring [Ancient Rose] &#160;9x&#160;Ancient Rose. It has decent damage and very high &#xe00d;&#160;Strength, and is good for clearing mobs. It upgrades into the &#160;Bouquet of Lies, which is more expensive, however, this upgrade is very much worthwhile.
+
+| Mid-Game
+
+| [Bouquet of Lies] 
+
+| &#160;Bouquet of Lies
+
+| Floor VI completion
+
+| The &#160;Bouquet of Lies is exceptional for clearing out mobs, dealing more &#xe050;&#160;Damage the less &#xe010;&#160;Health you have. It has less &#xe050;&#160;Damage than most other weapons here, but retains the high &#xe00d;&#160;Strength that its predecessor has.
+Additionally, holding down right click while spamming left click allows you to constantly activate the ability whilst hitting the target, providing a large boost to damage per second.
+Because of its cheap price and strong ability, this weapon is a staple for Berserkers in The Catacombs - Floor VII or below. The &#160;Bouquet of Lies is a solid weapon for Dungeons before transitioning to more Late Game weapons like the &#160;Terminator.
+
+| Mid Game
+
+| [Giant's Sword] 
+
+| &#160;Giant's Sword
+
+| Floor VI completion
+
+| The &#160;Giant's Sword is one of the best weapons for single-hit damage in the game: it also has +1&#160;&#xe024;&#160;Swing Range, allowing you to hit enemies from further. Its Giant's Slam ability can kill several enemies within an 8-block radius, and is useful for weapon swapping with the &#160;Halberd of the Shredded. However, unlike the &#160;Giant Cleaver and &#160;Bouquet of Lies, it is less effective for clearing; it serves as a purely melee weapon. Do note that it is not worth buying off of the Auction House, and should only be used if dropped yourself.
+
+| Mid-Game
+
+| [Juju Shortbow] 
+
+| &#160;Juju Shortbow
+
+| Enderman Slayer&#160;V (5)
+&#160;Catacombs&#160;XV (15) (when dungeonised)
+
+| The &#160;Juju Shortbow is commonly regarded as one of the best bows in the game, second to only the &#160;Terminator. However, this is a very good second, as the Juju Shortbow is relatively cheap to craft, at around a Bazaar material cost of about 10,100,000 Coins. When tuned to 100% &#xe001;&#160;Attack Speed, enchanted to Soul Eater, starred, hot/fuming potatoed, and reforged to Precise, it is a powerhouse for clearing when one isn't Eman Slayer 7.
+
+| Late Game
+
+| [Terminator] 
+
+| &#160;Terminator
+
+| Enderman Slayer&#160;VII (7)
+&#160;Catacombs&#160;XXVII (27) (when dungeonised)
+
+| The &#160;Terminator is commonly regarded as the best bow in the game. While it divides your &#xe02c;&#160;Crit Chance by 4, it is exceptional for clearing mobs and has incredibly high &#xe050;&#160;Damage and &#xe007;&#160;Crit Damage. It is advised to aim for 400%&#160;&#xe02c;&#160;Crit Chance to guarantee that every strike critically hits.
+
+| Mage Route
+
+| Early Game
+
+| [Dreadlord Sword] 
+
+| &#160;Dreadlord Sword
+
+| &#160;Catacombs&#160;III (3)
+
+| The &#160;Dreadlord Sword's Dreadlord ability, which shoots out Wither Skulls, will be very useful in very early floors up to Floor II. It is incredibly cheap and drops relatively frequently from [A sprite icon representing Crypt Dreadlord in Hypixel SkyBlock] Crypt Dreadlords.
+
+| Early Game
+
+| [Bonzo's Staff] [ Bonzo's Staff] 
+
+| &#160;Bonzo's Staff
+
+| Floor I completion
+
+| The &#160;Bonzo's Staff's Showtime ability, which shoots out balloons that explode on impact, is incredibly useful for clearing out mobs quickly. The balloons will deal minimal knockback to the player, which can be useful as you can use it for mobility in Floor VII as teleportation abilities are disabled there.
+
+| Early Game
+
+| [Frozen Scythe] 
+
+| &#160;Frozen Scythe
+
+| Ice&#160;X (10)
+&#160;Catacombs&#160;X (10) (when dungeonised)
+
+| The &#160;Frozen Scythe's Ice Bolt ability, which shoots an ice bolt that deals substantial damage and slows enemies, is useful for its capability to pierce through mobs: however, the &#160;Bonzo's Staff is superior for AoE damage. It can be unlocked relatively early into the game.
+
+| Early Game
+
+| [Glacial Scythe] [ Glacial Scythe] 
+
+| &#160;Glacial Scythe
+
+| Ice&#160;XI (11)
+&#160;Catacombs&#160;X (10) (when dungeonised)
+
+| The &#160;Glacial Scythe is an upgraded form of the &#160;Frozen Scythe, functioning the same but with higher &#xe050;&#160;Damage and &#xe003;&#160;Intelligence. Its Ice Bolt ability also creates an explosion upon hitting the ground dealing the same damage as it would when hitting a mob, making it useful for clearing and AoE damage: however, it is relatively expensive and could potentially be skipped.
+
+| Mid-Game
+
+| [Spirit Sceptre] [ Spirit Sceptre] 
+
+| &#160;Spirit Sceptre
+
+| Floor IV completion
+
+| The &#160;Spirit Sceptre grants high &#xe003;&#160;Intelligence, and its Guided Bat ability shoots a bat that follows your aim and explodes, dealing substantial AoE damage, making it extremely efficient for clearing. It is most recommended to complete Floor IV as soon as possible to obtain the &#160;Spirit Sceptre.
+
+| Mid-Game
+
+| [Yeti Sword] 
+
+| &#160;Yeti Sword
+
+| &#160;Catacombs&#160;XXII (22) (when dungeonised)
+
+| The &#160;Yeti Sword grants substantially less &#xe003;&#160;Intelligence than most other entries listed. Its Terrain Toss ability throws terrain into the direction you are facing: while it is powerful against minibosses, it is less efficient for clearing and very expensive compared to a &#160;Spirit Sceptre.
+
+| Late-Game
+
+| [ Midas Staff] 
+
+| &#160;Midas Staff
+
+| &#160;Catacombs&#160;XXV (25) (when dungeonised)
+
+| The &#160;Midas Staff is a powerful weapon: its Molten Wave ability casts a wave of gold blocks in the direction you are facing, making it very powerful for clearing and against minibosses. It is incredibly expensive and time-gated, being an exclusive item only obtainable during [A sprite icon representing Scorpius in Hypixel SkyBlock] Scorpius's Darker Auctions event and requiring 250,000,000 Coins coins to utilise to its fullest potential.
+
+| Late-Game
+
+| [Hyperion] 
+
+| &#160;Hyperion
+
+| Floor VII completion
+
+| The &#160;Hyperion is the definitive RCM weapon, granting substantial &#xe003;&#160;Intelligence and increased &#xe003;&#160;Intelligence per Catacombs level: when all Necron's Blade Scrolls are applied, its Wither Impact ability combines the functionalities of &#160;Implosion, &#160;Wither Shield, and &#160;Shadow Warp. However, it is also the most expensive weapon on the list, with the &#160;Necron's Handle being valued at over 500,000,000 Coins and each Necron's Blade Scroll being valued at over 180,000,000 Coins each.
+
+## Recommended Utility Items
+[edit | edit source]
+
+| Status
+| Slot
+| Name
+| Requirements
+| Notes
+
+| Universal
+
+| [Florid Zombie Sword] 
+
+| &#160;Florid Zombie Sword
+
+| &#160;Catacombs&#160;XVIII (18) (when dungeonised)
+
+| The &#160;Florid Zombie Sword is a useful item for Healers, since its ability not only grants decent burst healing to you and all players within an 8 block radius, but you also gain 2 extra charges when playing as a Healer. It is great for burst healing over time.
+
+| Universal
+
+| [Ice Spray Wand] [ Ice Spray Wand] 
+
+| &#160;Ice Spray Wand
+
+| &#160;Catacombs&#160;XX (20)
+
+| The &#160;Ice Spray Wand is incredibly useful for clearing, as it stuns mobs in a frontal cone and causes them to take 10% increased damage: this allows you to finish them off without worrying about taking substantial damage. You can use &#160;Winter Fragments to upgrade it, but it is relatively expensive on the Bazaar and you are better off grinding for them durin gthe Season of Jerry.
+
+| Universal
+
+| [Bonzo's Mask] [ Bonzo's Mask] 
+
+| &#160;Bonzo's Mask
+
+| The Catacombs - Floor I completion
+
+| The &#160;Bonzo's Mask is incredibly useful for preventing you from dying, with its Clownin' Around ability granting damage immunity and health replenishment on death.
+
+| Late Game
+
+| [ Spirit Mask] 
+
+| &#160;Spirit Mask
+
+| &#160;Catacombs&#160;XV (15)
+
+| The &#160;Spirit Mask is incredibly useful especially when used in tandem with the &#160;Bonzo's Mask, since you can use its Second Wind ability while the Clownin' Around ability is on cooldown. It is very cheap to craft the &#160;Spirit Mask into its upgraded form, which heals you for 100 + 3% of your maximum &#xe010;&#160;Health.
+
+| Late Game
+
+| [Wither Cloak Sword] 
+
+| &#160;Wither Cloak Sword
+
+| The Catacombs - Floor VII completion
+
+| The &#160;Wither Cloak Sword's Creeper Veil ability is incredibly useful for blocking damage and granting a lot of &#xe008;&#160;Defense. It is best used when trying to block attacks that have the capability to instantly kill you, like [A sprite icon representing Storm in Hypixel SkyBlock] Storm's Giga Lightning.
+
+| Mid-Game
+
+| [Overflux Power Orb] 
+
+| &#160;Overflux Power Orb
+
+| Wolf Slayer&#160;VII (7)
+
+| The &#160;Overflux and &#160;Plasmaflux Power Orb are useful items that grant substantial &#xe011;&#160;Health Regen, &#xe028;&#160;Vitality, &#xe00d;&#160;Strength, and mana regen to your teammates, making it viable for scenarios where your teammates will need to be close together (i.e. fighting [A sprite icon representing Goldor in Hypixel SkyBlock] Goldor at the Core Entrance, fighting [A sprite icon representing Necron in Hypixel SkyBlock] Necron at the centre platform, etc.) Note that the &#160;Plasma Nucleus, used in crafting the Plasmaflux Power Orb, is incredibly expensive.
+
+| Late Game
+
+| [Plasmaflux Power Orb] 
+
+| &#160;Plasmaflux Power Orb
+
+| Wolf Slayer&#160;VIII (8)
+
+## Recommended Pets
+[edit | edit source]
+
+A good Pet is important for both clearing, survivability, and efficient Healer progression.
+
+| Status
+| Slot
+| Name
+| Requirements
+| Notes
+
+| Universal
+
+| [Black Cat Pet] 
+
+| &#160;Black Cat Pet
+
+| 
+
+| The &#160;Black Cat Pet is exceptional for &#xe022;&#160;Speed, granting both +125&#160;&#xe022;&#160;Speed and increasing your &#xe022;&#160;Speed cap. Since it lacks any damage stats, it is recommended to put an &#160;Antique Remedies or &#160;Hephaestus Remedies on it. Note that it is NOT worth upgrading to MYTHIC, since its Looting perk is not very useful and its base &#xe022;&#160;Speed is not affected.
+
+| Late Game
+
+| [Jellyfish Pet] 
+
+| &#160;Jellyfish Pet
+
+| 
+
+| The &#160;Jellyfish Pet, while incredibly expensive, is exceptional for healing. Its Radiant Scyphozoa perk reduces the mana costs of Power Orbs by 50% and its Stored Energy perk reduces the cooldown of Wish by 1s, up to 30s, for every 2000&#160;&#xe010;&#160;Health healed.
+
+| Late Game
+
+| [Golden Dragon Pet] 
+
+| &#160;Golden Dragon Pet
+
+| 
+
+| The &#160;Golden Dragon Pet is the best-in-slot pet for Healers for raw damage. At this stage of the game, your gear will be sufficient enough to provide substantial healing, and you need to focus on achieving high &#xe050;&#160;Damage and DPS for clearing and the boss fight, which this pet provides through its base &#xe00d;&#160;Strength, base &#xe001;&#160;Attack Speed, and its Shining Scales and Legendary Treasure perks.
+
+## Recommended Modifiers
+[edit | edit source]
+
+### Enchantments
+[edit | edit source]
+
+| Enchantment
+| Notes
+
+| Armor
+
+| Protection
+
+| Protection and Growth are the universal enchantments that should be put on everything regardless of your situation.
+
+| Growth
+
+| Rejuvenate
+
+| Rejuvenate grants a decent amount of &#xe011;&#160;Health Regen, making it great for survivability. It is relatively cheap and easy to go for, and you should aim to have Rejuvenate V on all your armour pieces as soon as possible.
+
+| Strong Mana
+
+| Strong Mana grants increased &#xe00d;&#160;Strength based on how much &#xe003;&#160;Mana is used near you, allowing for increased &#xe050;&#160;Damage against bosses.
+
+| Sugar Rush
+
+| Sugar Rush, an enchantment applicable exclusively to boots, is great for getting increased &#xe022;&#160;Speed. It can be used if you do not have a &#160;Black Cat Pet, but is also incredibly useful when paired with it as well.
+
+| Legion
+
+| Legion is the best Ultimate Enchantment for Healers, since you'll likely be around your teammates at all times during the boss fight.
+
+| Weapons
+
+| Soul Eater
+
+| Soul Eater and Swarm are both useful Ultimate Enchantments to put on your weapons, due to their excellence in clearing. Soul Eater deals increased damage based on the last mob you hit, whereas Swarm deals more damage the more enemies are around you.
+
+| Swarm
+
+| Duplex
+
+| Duplex is the best Ultimate Enchantment on Bows for raw damage and DPS, and should always be paired with a &#160;Juju Shortbow or &#160;Terminator.
+
+### Reforges
+[edit | edit source]
+
+Proper Reforges will be important for surviving as a Healer.
+
+#### Weapons
+[edit | edit source]
+
+| Status
+| Slot
+| Name
+| Notes
+
+| Early Game
+
+| 
+
+| Spicy
+
+| Spicy is useful for &#xe007;&#160;Crit Damage and will be viable for clearing.
+
+| Optional
+
+| [Suspicious Vial] 
+
+| &#160;Suspicious Vial
+
+Suspicious
+
+| Suspicious is an incredibly useful reforge for both &#xe02c;&#160;Crit Chance and &#xe007;&#160;Crit Damage, as well as increasing your weapon's &#xe050;&#160;Damage, making it viable for clearing. It is recommended to apply it to a &#160;Astraea or &#160;Scylla.
+
+| Universal
+
+| [Dragon Claw] 
+
+| &#160;Dragon Claw
+
+Fabled
+
+| Fabled grants great &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage, as well as granting a chance for critical hits to deal +15% more damage. It's great for starting out in the Catacombs, as well as running through later floors: it is comparable to the Withered reforge.
+
+| Universal
+
+| [Wither Blood] 
+
+| &#160;Wither Blood
+
+Withered
+
+| Withered allows you to achieve the most &#xe00d;&#160;Strength in dungeons and is considered the best reforge for weapons. It is recommended to keep your &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage balanced for optimum DPS, so pairing this with a weapon with high base &#xe007;&#160;Crit Damage, or a reforge with high &#xe007;&#160;Crit Damage is recommended.
+
+#### Armor
+[edit | edit source]
+
+| Status
+| Slot
+| Name
+| Notes
+
+| Early Game
+
+| 
+
+| Fierce
+
+| Fierce grants high &#xe007;&#160;Crit Damage and &#xe00d;&#160;Strength, alongside a slight increase to &#xe02c;&#160;Crit Chance, making it incredibly useful for high damage.
+
+| Mid-Game
+
+| [Giant Tooth] 
+
+| &#160;Giant Tooth
+
+Giant
+
+| Giant grants the most &#xe010;&#160;Health out of any of the mentioned reforges and is most useful on a &#160;Reaper Mask. However, it is much more recommended to wear a helmet that prioritises high damage, like a &#160;Primordial Helmet, &#160;Necron's Helmet, or &#160;Diamond Necron Head.
+
+| Late Game
+
+| [Precursor Gear] 
+
+| &#160;Precursor Gear
+
+Ancient
+
+| Ancient grants incredibly high, well-rounded stats: most notably, it grants +1&#160;&#xe007;&#160;Crit Damage per &#160;Catacombs level, which scales inside Dungeons. It is the best reforge for high damage: at this point, you'll be able to heal your teammates so efficiently to the point where you can fully prioritise dealing substantial damage over increasing your outgoing healing.
+
+### Accessory Powers
+[edit | edit source]
+
+Magical Power is arguably the most important stat in the game, and you should aim to have 1200 Magical Power by the time you enter Master Mode - Floor VII.
+
+| Status
+| Slot
+| Name
+| Notes
+
+| Early Game
+
+| [Luxurious Spool] 
+
+| &#160;Luxurious Spool
+
+Silky
+
+| Silky grants incredibly high &#xe007;&#160;Crit Damage, as well as a minuscule amount of &#xe001;&#160;Attack Speed. It is exceptional if you have at least 100%&#160;&#xe02c;&#160;Crit Chance, which everyone should aim to have, although it is recommended to keep your &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage balanced.
+
+| Early Game
+
+| [Dark Orb] 
+
+| &#160;Dark Orb
+
+Shaded
+
+| Shaded grants high &#xe007;&#160;Crit Damage and low &#xe00d;&#160;Strength, as well as a minuscule amount of &#xe001;&#160;Attack Speed and &#xe00b;&#160;Ferocity. Useful if you're unable to balance stats with Silky.
+
+| Early Game
+
+| [Furball] 
+
+| &#160;Furball
+
+Itchy
+
+| Itchy balances out &#xe00d;&#160;Strength, &#xe007;&#160;Crit Damage, and &#xe001;&#160;Attack Speed: while it gives less &#xe007;&#160;Crit Damage than Silky, it balances out all stats relatively evenly, resulting in higher damage.
+
+| Early Game
+
+| [Ender Monocle] 
+
+| &#160;Ender Monocle
+
+Sighted
+
+| Sighted grants a lot of &#xe003;&#160;Intelligence and minimal &#xe002;&#160;Ability Damage, which will be incredibly useful if you are using a Mage setup to clear rooms efficiently. It is also the best budget power for &#xe003;&#160;Intelligence, with the only Accessory Power outclassing it being Bizarre, costing hundreds of millions of coins.
+
+| Mid-Game
+
+| [Magma Urchin] 
+
+| &#160;Magma Urchin
+
+Hurtful
+
+| Hurtful grants high &#xe00d;&#160;Strength, substantial &#xe007;&#160;Crit Damage, and decent &#xe001;&#160;Attack Speed. It is incredibly useful for clearing, but is decently rare and expensive.
+
+| Universal
+
+| 
+
+| Fortuitous
+
+| Fortuitous grants the most &#xe02c;&#160;Crit Chance out of any Accessory Power, and should be what you aim to use if you are using a &#160;Terminator as a Healer: it is recommended to use an Archer setup in later floors of Master Mode as a Tank, since a &#160;Terminator heavily outdamages almost all Berserk damage.
+
+### Attributes
+[edit | edit source]
+
+| Slot
+| Name
+| Notes
+
+| [Flash Shard] 
+
+| &#160;Flash Shard
+
+Light Elemental
+
+| Grants +1-10&#160;&#xe00d;&#160;Strength, maxing out at +50&#160;&#xe00d;&#160;Strength with all Elemental Shards maxed out. Buffed by the Echo of Elemental attribute, increasing the effect of these attributes by +20%.
+
+| [Quake Shard] 
+
+| &#160;Quake Shard
+
+Stone Elemental
+
+| [Bolt Shard] 
+
+| &#160;Bolt Shard
+
+Lightning Elemental
+
+| [Aero Shard] 
+
+| &#160;Aero Shard
+
+Wind Elemental
+
+| [Tempest Shard] 
+
+| &#160;Tempest Shard
+
+Storm Elemental
+
+| [Grove Shard] 
+
+| &#160;Grove Shard
+
+Nature Elemental
+
+| Grants +1-10&#160;&#xe010;&#160;Health, maxing out at +50&#160;&#xe010;&#160;Health with all Elemental Shards maxed out. Buffed by the Echo of Elemental attribute, increasing the effect of these attributes by +20%.
+
+| [Bramble Shard] 
+
+| &#160;Bramble Shard
+
+Wood Elemental
+
+| [Sylvan Shard] 
+
+| &#160;Sylvan Shard
+
+Forest Elemental
+
+| [Terra Shard] 
+
+| &#160;Terra Shard
+
+Earth Elemental
+
+| [Tenebris Shard] 
+
+| &#160;Tenebris Shard
+
+Shadow Elemental
+
+| [Zombie Soldier Shard] 
+
+| &#160;Zombie Soldier Shard
+
+Undead Ruler
+
+| Undead Ruler, Skeletal Ruler, and Humanoid Ruler are incredibly important for Healers who struggle to clear, as it grants a large damage boost against &#xe084;&#160;Undead, &#xe081;&#160;Skeletal, and &#xe07b;&#160;Humanoid mobs, which appear most in the Catacombs. They are buffed by Echo of Ruler, which boosts all &#xe050;&#160;Damage gained from the Ruler attributes by +20%.
+
+| [Chill Shard] 
+
+| &#160;Chill Shard
+
+Skeletal Ruler
+
+| [Drowned Shard] 
+
+| &#160;Drowned Shard
+
+Humanoid Ruler
+
+| [Prince Shard] 
+
+| &#160;Prince Shard
+
+Reborn
+
+| Reborn boils down to free Dungeon Score when killing a [A sprite icon representing Prince in Hypixel SkyBlock] Prince. It is a must-have, especially for Healers who prioritise doing Secrets and blowing up Crypts.
+
+| [Caiman Shard] 
+
+| &#160;Caiman Shard
+
+Echo of Ruler
+
+| Echo of Ruler is incredibly useful as it boosts the damage of Undead Ruler, Skeletal Ruler, and Humanoid Ruler, making it exceptional for clearing.
+
+| [Shellwise Shard] 
+
+| &#160;Shellwise Shard
+
+Shell
+
+| Shell should be maxed out as soon as possible, since it grants immunity to ALL ⬱&#160;Knockback and allows you to use a Pet Item other than a &#160;Dwarf Turtle Shelmet: for example, &#160;Antique Remedies for &#xe00d;&#160;Strength, &#160;Crochet Tiger Plushie for &#xe001;&#160;Attack Speed, etc.
+
+| [Scarf Shard] 
+
+| &#160;Scarf Shard
+
+Catacombs Graduate
+
+| Catacombs Graduate boosts ALL Class XP gain, making it a lot easier to level up your Healer class.
+
+## References
+[edit | edit source]
+
+Tutorial:Left-Click Mage Guide
+
+Tutorial:Berserk Guide
+
+&#91;&#34;Tutorial:Navigation&#34;,&#34;Tutorial:Day Count&#34;,&#34;Tutorial:Autopet Guide&#34;&#93;&#91;&#34;Tutorial:Ultimate Guide&#34;,&#34;Tutorial:Tips and Tricks&#34;,&#34;Tutorial:Ironman Guide&#34;,&#34;Tutorial:Bingo Guide&#34;,&#34;Tutorial:Periodic Tasks&#34;&#93;&#91;&#34;Tutorial:Maxing Items&#34;,&#34;Tutorial:Ranged_Weapon_Guide&#34;,&#34;Tutorial:Melee_Weapon_Guide&#34;,&#34;Tutorial:Minion Farming&#34;,&#34;Tutorial:Reforging Guide&#34;,&#34;Tutorial:Armor Guide&#34;,&#34;Tutorial:Accessory Guide&#34;&#93;&#91;&#34;Tutorial:Mining Guide&#34;,&#34;Tutorial:Hunting Guide&#34;,&#34;Tutorial:Foraging Guide&#34;,&#34;Tutorial:Fishing Guide&#34;,&#34;Tutorial:Farming Guide&#34;,&#34;Tutorial:Alchemy Guide&#34;&#93;&#91;&#34;Tutorial:Gemstone Gauntlet's Ability&#34;,&#34;Tutorial:Killing Ghosts on a Budget&#34;,&#34;Tutorial:Dragon Fights Guide&#34;,&#34;Tutorial:How to Obtain a Summoning Eye&#34;,&#34;Tutorial:Kuudra Guide&#34;,&#34;Tutorial:Slayer_Guide&#34;&#93;&#91;&#34;Tutorial:Tank Guide&#34;,&#34;Tutorial:Left-Click_Mage_Guide&#34;,&#34;Tutorial:Right-Click Mage Guide&#34;,&#34;Tutorial:Mage Guide&#34;,&#34;Tutorial:Healer Guide&#34;,&#34;Tutorial:Berserk Guide&#34;,&#34;Tutorial:Archer Guide&#34;,&#34;Tutorial:Dungeon Puzzles&#34;,&#34;Tutorial:Master Mode Guide&#34;,&#34;Tutorial:Catacombs Guide&#34;,&#34;Tutorial:Ultimate Dungeon Guide&#34;&#93;&#91;&#34;Tutorial:Mushroom Farm&#34;,&#34;Tutorial:Sugar Cane Farm&#34;,&#34;Tutorial:Cocoa Beans Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;&#93;&#91;&#34;Tutorial:Timite Mining&#34;,&#34;Tutorial:Tick Thresholds&#34;,&#34;Tutorial:Heart of the Mountain Trees&#34;,&#34;Tutorial:Sapphire Crystal&#34;,&#34;Tutorial:6-ticking Ruby in the Magma Fields&#34;&#93;&#91;&#34;Tutorial:Lowballing&#34;,&#34;Tutorial:NPC Flipping&#34;,&#34;Tutorial:Bazaar Flipping&#34;,&#34;Tutorial:AH Flipping&#34;&#93; | v · d · eTutorials
+| 
+| How-To's | 
+
+- Autopet Guide
+
+- Day Count
+
+- Navigation
+
+| 
+| 
+| General Guides | 
+
+- Periodic Tasks
+
+- Bingo Guide
+
+- Ironman Guide
+
+- Tips and Tricks
+
+- Ultimate Guide
+
+| 
+| Progression Guides | 
+
+- Accessory Guide
+
+- Armor Guide
+
+- Reforging Guide
+
+- Minion Farming
+
+- Melee Weapon Guide
+
+- Ranged Weapon Guide
+
+- Maxing Items
+
+| 
+| Skill Guides | 
+
+- Alchemy Guide
+
+- Farming Guide
+
+- Fishing Guide
+
+- Foraging Guide
+
+- Hunting Guide
+
+- Mining Guide
+
+| 
+| Combat | 
+
+- Slayer Guide
+
+- Kuudra Guide
+
+- How to Obtain a Summoning Eye
+
+- Dragon Fights Guide
+
+- Killing Ghosts on a Budget
+
+- Gemstone Gauntlet Ability
+
+| 
+| Dungeon Guides | 
+
+- Ultimate Dungeon Guide
+
+- Catacombs Guide
+
+- Master Mode Guide
+
+- Dungeon Puzzles
+
+- Archer Guide
+
+- Berserk Guide
+
+- Healer Guide
+
+- Mage Guide (RCM Guide & LCM Guide)
+
+- Tank Guide
+
+| 
+| Farming | 
+
+- Wheat
+
+- Potato
+
+- Carrot
+
+- Nether Wart
+
+- Pumpkin
+
+- Melon
+
+- Cocoa Beans
+
+- Sugar Cane
+
+- Mushroom
+
+| 
+| Mining | 
+
+- 6-ticking Ruby in the Magma Fields
+
+- Nucleus Runs (Sapphire Crystal)
+
+- Heart of the Mountain Trees
+
+- Tick Thresholds
+
+- Timite Mining
+
+| 
+| Economy Guides | 
+
+- AH
+
+- Bazaar
+
+- NPC
+
+- Lowballing
+
+80 ms 5.4%
+merge 60 ms 4.1%
+dataWrapper 60 ms 4.1%
+type 60 ms 4.1%
+gsub 60 ms 4.1%
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::getExpandedArgument 40 ms 2.7%
+40 ms 2.7%
+[others] 320 ms 21.6%
+-->
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Tutorial:Healer_Guide?oldid=868659"
+
+Categories: 
+- Community Guides
+- Pages containing missing tooltips
+- Tutorials
+
+Hidden categories: 
+- Pages using Damage
+- Pages using Effective Health
+- Pages using Mending
+- Pages using Strength
+- Pages using Health
+- Pages using Defense
+- Pages using Speed
+- Pages using Crit Damage
+- Pages using Crit Chance
+- Pages using Swing Range
+- Pages using Attack Speed
+- Pages using Intelligence
+- Pages using Health Regen
+- Pages using Vitality
+- Pages using Mana
+- Pages using Ferocity
+- Pages using Ability Damage
+- Pages using Knockback
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Tutorial
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+2h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+
+- This page was last edited on 6 November 2026, at 16:13.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

@@ -1,0 +1,16 @@
+Tutorial:Maxing_Items: OK 16821 Zeichen
+Tutorial:Reforging_Guide: OK 8897 Zeichen
+Pet_Items: OK 33673 Zeichen
+Tutorial:Pet_Guide: HTTP 404
+Tutorial:Enchanting_Guide: HTTP 404
+Enchantments/Tool: OK 9896 Zeichen
+Enchantments/Sword: OK 10946 Zeichen
+Enchantments/Armor: OK 11088 Zeichen
+Enchantments/Fishing_Rod: OK 6288 Zeichen
+Enchantments/Axe: HTTP 404
+Reforging/Sword: OK 15894 Zeichen
+Reforging/Armor: OK 28639 Zeichen
+Reforging/Equipment: OK 21088 Zeichen
+Reforging/Tool: OK 24760 Zeichen
+Reforging/Axe: OK 5507 Zeichen
+Reforging/Fishing_Rod: OK 6760 Zeichen

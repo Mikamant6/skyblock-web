@@ -1,0 +1,620 @@
+Reforging/Equipment - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Reforging/Equipment
+
+From Hypixel SkyBlock Wiki
+
+< Reforging
+
+Jump to navigation
+Jump to search
+
+### Basic
+[edit | edit source]
+
+These reforges can be applied to Equipment through the [A sprite icon representing Blacksmith in Hypixel SkyBlock] Blacksmith.
+
+| Reforge Prefix
+
+| COMMON
+
+| UNCOMMON
+
+| RARE
+
+| EPIC
+
+| LEGENDARY
+
+| MYTHIC
+
+| DIVINE
+
+| Stained | 1&#160;&#xe02c;&#160;Crit Chance
+2&#160;&#xe010;&#160;Health
+2&#160;&#xe008;&#160;Defense | 1&#160;&#xe02c;&#160;Crit Chance
+3&#160;&#xe010;&#160;Health
+3&#160;&#xe008;&#160;Defense | 2&#160;&#xe02c;&#160;Crit Chance
+4&#160;&#xe010;&#160;Health
+4&#160;&#xe008;&#160;Defense | 2&#160;&#xe02c;&#160;Crit Chance
+5&#160;&#xe010;&#160;Health
+5&#160;&#xe008;&#160;Defense | 3&#160;&#xe02c;&#160;Crit Chance
+5&#160;&#xe010;&#160;Health
+6&#160;&#xe008;&#160;Defense | 4&#160;&#xe02c;&#160;Crit Chance
+7&#160;&#xe010;&#160;Health
+7&#160;&#xe008;&#160;Defense | 5&#160;&#xe02c;&#160;Crit Chance
+9&#160;&#xe010;&#160;Health
+9&#160;&#xe008;&#160;Defense
+
+| Menacing | 1&#160;&#xe02c;&#160;Crit Chance
+2&#160;&#xe007;&#160;Crit Damage | 1&#160;&#xe02c;&#160;Crit Chance
+3&#160;&#xe007;&#160;Crit Damage | 1&#160;&#xe02c;&#160;Crit Chance
+3&#160;&#xe007;&#160;Crit Damage | 1&#160;&#xe02c;&#160;Crit Chance
+4&#160;&#xe007;&#160;Crit Damage | 2&#160;&#xe02c;&#160;Crit Chance
+4&#160;&#xe007;&#160;Crit Damage | 2&#160;&#xe02c;&#160;Crit Chance
+5&#160;&#xe007;&#160;Crit Damage | 2&#160;&#xe02c;&#160;Crit Chance
+6&#160;&#xe007;&#160;Crit Damage
+
+| Hefty | -1&#160;&#xe022;&#160;Speed
+-2&#160;&#xe007;&#160;Crit Damage
+7&#160;&#xe008;&#160;Defense | -1&#160;&#xe022;&#160;Speed
+-2&#160;&#xe007;&#160;Crit Damage
+9&#160;&#xe008;&#160;Defense | -1&#160;&#xe022;&#160;Speed
+-3&#160;&#xe007;&#160;Crit Damage
+12&#160;&#xe008;&#160;Defense | -1&#160;&#xe022;&#160;Speed
+-3&#160;&#xe007;&#160;Crit Damage
+15&#160;&#xe008;&#160;Defense | -1&#160;&#xe022;&#160;Speed
+-4&#160;&#xe007;&#160;Crit Damage
+20&#160;&#xe008;&#160;Defense | -1&#160;&#xe022;&#160;Speed
+-5&#160;&#xe007;&#160;Crit Damage
+25&#160;&#xe008;&#160;Defense | -1&#160;&#xe022;&#160;Speed
+-6&#160;&#xe007;&#160;Crit Damage
+30&#160;&#xe008;&#160;Defense
+
+| Soft | 1&#160;&#xe02c;&#160;Crit Chance
+1&#160;&#xe008;&#160;Defense
+1&#160;&#xe001;&#160;Attack Speed
+1&#160;&#xe022;&#160;Speed
+2&#160;&#xe010;&#160;Health
+1&#160;&#xe007;&#160;Crit Damage | 1&#160;&#xe02c;&#160;Crit Chance
+1&#160;&#xe008;&#160;Defense
+1&#160;&#xe001;&#160;Attack Speed
+1&#160;&#xe022;&#160;Speed
+3&#160;&#xe010;&#160;Health
+1&#160;&#xe007;&#160;Crit Damage | 1&#160;&#xe02c;&#160;Crit Chance
+1&#160;&#xe008;&#160;Defense
+1&#160;&#xe001;&#160;Attack Speed
+1&#160;&#xe022;&#160;Speed
+4&#160;&#xe010;&#160;Health
+1&#160;&#xe007;&#160;Crit Damage | 1&#160;&#xe02c;&#160;Crit Chance
+1&#160;&#xe008;&#160;Defense
+1&#160;&#xe001;&#160;Attack Speed
+1&#160;&#xe022;&#160;Speed
+5&#160;&#xe010;&#160;Health
+2&#160;&#xe007;&#160;Crit Damage | 1&#160;&#xe02c;&#160;Crit Chance
+2&#160;&#xe008;&#160;Defense
+1&#160;&#xe001;&#160;Attack Speed
+2&#160;&#xe022;&#160;Speed
+6&#160;&#xe010;&#160;Health
+2&#160;&#xe007;&#160;Crit Damage | 1&#160;&#xe02c;&#160;Crit Chance
+2&#160;&#xe008;&#160;Defense
+2&#160;&#xe001;&#160;Attack Speed
+2&#160;&#xe022;&#160;Speed
+7&#160;&#xe010;&#160;Health
+2&#160;&#xe007;&#160;Crit Damage | 1&#160;&#xe02c;&#160;Crit Chance
+2&#160;&#xe008;&#160;Defense
+2&#160;&#xe001;&#160;Attack Speed
+2&#160;&#xe022;&#160;Speed
+8&#160;&#xe010;&#160;Health
+2&#160;&#xe007;&#160;Crit Damage
+
+| Honored | 1&#160;&#xe02c;&#160;Crit Chance
+1&#160;&#xe008;&#160;Defense
+1&#160;&#xe022;&#160;Speed
+1&#160;&#xe010;&#160;Health
+3&#160;&#xe003;&#160;Intelligence | 1&#160;&#xe00d;&#160;Strength
+1&#160;&#xe02c;&#160;Crit Chance
+2&#160;&#xe008;&#160;Defense
+1&#160;&#xe022;&#160;Speed
+1&#160;&#xe010;&#160;Health
+3&#160;&#xe003;&#160;Intelligence | 2&#160;&#xe00d;&#160;Strength
+1&#160;&#xe02c;&#160;Crit Chance
+2&#160;&#xe008;&#160;Defense
+1&#160;&#xe022;&#160;Speed
+2&#160;&#xe010;&#160;Health
+4&#160;&#xe003;&#160;Intelligence | 2&#160;&#xe00d;&#160;Strength
+2&#160;&#xe02c;&#160;Crit Chance
+3&#160;&#xe008;&#160;Defense
+1&#160;&#xe022;&#160;Speed
+2&#160;&#xe010;&#160;Health
+5&#160;&#xe003;&#160;Intelligence | 3&#160;&#xe00d;&#160;Strength
+2&#160;&#xe02c;&#160;Crit Chance
+3&#160;&#xe008;&#160;Defense
+1&#160;&#xe022;&#160;Speed
+3&#160;&#xe010;&#160;Health
+6&#160;&#xe003;&#160;Intelligence | 3&#160;&#xe00d;&#160;Strength
+2&#160;&#xe02c;&#160;Crit Chance
+4&#160;&#xe008;&#160;Defense
+1&#160;&#xe022;&#160;Speed
+4&#160;&#xe010;&#160;Health
+7&#160;&#xe003;&#160;Intelligence | 3&#160;&#xe00d;&#160;Strength
+2&#160;&#xe02c;&#160;Crit Chance
+4&#160;&#xe008;&#160;Defense
+1&#160;&#xe022;&#160;Speed
+4&#160;&#xe010;&#160;Health
+8&#160;&#xe003;&#160;Intelligence
+
+| Blended | 1&#160;&#xe022;&#160;Speed
+1&#160;&#xe02c;&#160;Crit Chance
+1&#160;&#xe008;&#160;Defense
+1&#160;&#xe001;&#160;Attack Speed
+1&#160;&#xe003;&#160;Intelligence
+1&#160;&#xe010;&#160;Health
+1&#160;&#xe007;&#160;Crit Damage | 1&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+1&#160;&#xe02c;&#160;Crit Chance
+1&#160;&#xe008;&#160;Defense
+1&#160;&#xe001;&#160;Attack Speed
+1&#160;&#xe003;&#160;Intelligence
+1&#160;&#xe010;&#160;Health
+2&#160;&#xe007;&#160;Crit Damage | 1&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+2&#160;&#xe02c;&#160;Crit Chance
+1&#160;&#xe008;&#160;Defense
+1&#160;&#xe001;&#160;Attack Speed
+1&#160;&#xe003;&#160;Intelligence
+2&#160;&#xe010;&#160;Health
+2&#160;&#xe007;&#160;Crit Damage | 2&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+2&#160;&#xe02c;&#160;Crit Chance
+2&#160;&#xe008;&#160;Defense
+1&#160;&#xe001;&#160;Attack Speed
+2&#160;&#xe003;&#160;Intelligence
+2&#160;&#xe010;&#160;Health
+2&#160;&#xe007;&#160;Crit Damage | 2&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+3&#160;&#xe02c;&#160;Crit Chance
+3&#160;&#xe008;&#160;Defense
+1&#160;&#xe001;&#160;Attack Speed
+2&#160;&#xe003;&#160;Intelligence
+2&#160;&#xe010;&#160;Health
+2&#160;&#xe007;&#160;Crit Damage | 2&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+3&#160;&#xe02c;&#160;Crit Chance
+3&#160;&#xe008;&#160;Defense
+1&#160;&#xe001;&#160;Attack Speed
+3&#160;&#xe003;&#160;Intelligence
+3&#160;&#xe010;&#160;Health
+2&#160;&#xe007;&#160;Crit Damage | 2&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+3&#160;&#xe02c;&#160;Crit Chance
+3&#160;&#xe008;&#160;Defense
+1&#160;&#xe001;&#160;Attack Speed
+3&#160;&#xe003;&#160;Intelligence
+3&#160;&#xe010;&#160;Health
+3&#160;&#xe007;&#160;Crit Damage
+
+| Astute | 3&#160;&#xe003;&#160;Intelligence
+1&#160;&#xe010;&#160;Health
+1&#160;&#xe008;&#160;Defense | 4&#160;&#xe003;&#160;Intelligence
+1&#160;&#xe010;&#160;Health
+2&#160;&#xe008;&#160;Defense | 5&#160;&#xe003;&#160;Intelligence
+2&#160;&#xe010;&#160;Health
+2&#160;&#xe008;&#160;Defense | 6&#160;&#xe003;&#160;Intelligence
+3&#160;&#xe010;&#160;Health
+3&#160;&#xe008;&#160;Defense | 8&#160;&#xe003;&#160;Intelligence
+4&#160;&#xe010;&#160;Health
+4&#160;&#xe008;&#160;Defense | 10&#160;&#xe003;&#160;Intelligence
+5&#160;&#xe010;&#160;Health
+5&#160;&#xe008;&#160;Defense | 12&#160;&#xe003;&#160;Intelligence
+6&#160;&#xe010;&#160;Health
+6&#160;&#xe008;&#160;Defense
+
+| Colossal | 3&#160;&#xe010;&#160;Health
+3&#160;&#xe008;&#160;Defense | 4&#160;&#xe010;&#160;Health
+4&#160;&#xe008;&#160;Defense | 6&#160;&#xe010;&#160;Health
+6&#160;&#xe008;&#160;Defense | 8&#160;&#xe010;&#160;Health
+8&#160;&#xe008;&#160;Defense | 10&#160;&#xe010;&#160;Health
+10&#160;&#xe008;&#160;Defense | 12&#160;&#xe010;&#160;Health
+12&#160;&#xe008;&#160;Defense | 14&#160;&#xe010;&#160;Health
+14&#160;&#xe008;&#160;Defense
+
+| Brilliant | 1&#160;&#xe022;&#160;Speed
+1&#160;&#xe010;&#160;Health
+5&#160;&#xe003;&#160;Intelligence | 1&#160;&#xe022;&#160;Speed
+1&#160;&#xe010;&#160;Health
+6&#160;&#xe003;&#160;Intelligence | 2&#160;&#xe022;&#160;Speed
+2&#160;&#xe010;&#160;Health
+7&#160;&#xe003;&#160;Intelligence | 2&#160;&#xe022;&#160;Speed
+3&#160;&#xe010;&#160;Health
+9&#160;&#xe003;&#160;Intelligence | 2&#160;&#xe022;&#160;Speed
+4&#160;&#xe010;&#160;Health
+12&#160;&#xe003;&#160;Intelligence | 2&#160;&#xe022;&#160;Speed
+5&#160;&#xe010;&#160;Health
+15&#160;&#xe003;&#160;Intelligence | 2&#160;&#xe022;&#160;Speed
+6&#160;&#xe010;&#160;Health
+18&#160;&#xe003;&#160;Intelligence
+
+### Unique
+[edit | edit source]
+
+These reforges can only be applied to Equipment through Reforge Stones.
+
+| Reforge Prefix
+
+| Reforge Stone
+
+| Special Target
+
+| Passive Ability
+
+| COMMON
+
+| UNCOMMON
+
+| RARE
+
+| EPIC
+
+| LEGENDARY
+
+| MYTHIC
+
+| DIVINE
+
+| Waxed | [Blaze Wax] &#160;Blaze Wax | | | 5&#160;&#xe010;&#160;Health
+2&#160;&#xe02c;&#160;Crit Chance | 6&#160;&#xe010;&#160;Health
+3&#160;&#xe02c;&#160;Crit Chance | 8&#160;&#xe010;&#160;Health
+4&#160;&#xe02c;&#160;Crit Chance | 10&#160;&#xe010;&#160;Health
+5&#160;&#xe02c;&#160;Crit Chance | 12&#160;&#xe010;&#160;Health
+6&#160;&#xe02c;&#160;Crit Chance | 15&#160;&#xe010;&#160;Health
+7&#160;&#xe02c;&#160;Crit Chance | 20&#160;&#xe010;&#160;Health
+8&#160;&#xe02c;&#160;Crit Chance
+
+| Fortified | [Meteor Chunk] &#160;Meteor Chunk | | | 12&#160;&#xe008;&#160;Defense | 14&#160;&#xe008;&#160;Defense | 17&#160;&#xe008;&#160;Defense | 20&#160;&#xe008;&#160;Defense | 25&#160;&#xe008;&#160;Defense | 30&#160;&#xe008;&#160;Defense | 35&#160;&#xe008;&#160;Defense
+
+| Strengthened | [Searing Stone] &#160;Searing Stone | | | 2&#160;&#xe00d;&#160;Strength
+3&#160;&#xe008;&#160;Defense | 3&#160;&#xe00d;&#160;Strength
+4&#160;&#xe008;&#160;Defense | 4&#160;&#xe00d;&#160;Strength
+5&#160;&#xe008;&#160;Defense | 5&#160;&#xe00d;&#160;Strength
+6&#160;&#xe008;&#160;Defense | 6&#160;&#xe00d;&#160;Strength
+8&#160;&#xe008;&#160;Defense | 7&#160;&#xe00d;&#160;Strength
+10&#160;&#xe008;&#160;Defense | 8&#160;&#xe00d;&#160;Strength
+12&#160;&#xe008;&#160;Defense
+
+| Glistening | [Shiny Prism] &#160;Shiny Prism | | | 5&#160;&#xe003;&#160;Intelligence
+2&#160;&#xe027;&#160;True Defense | 6&#160;&#xe003;&#160;Intelligence
+2.5&#160;&#xe027;&#160;True Defense | 8&#160;&#xe003;&#160;Intelligence
+3&#160;&#xe027;&#160;True Defense | 10&#160;&#xe003;&#160;Intelligence
+3.5&#160;&#xe027;&#160;True Defense | 12&#160;&#xe003;&#160;Intelligence
+4&#160;&#xe027;&#160;True Defense | 15&#160;&#xe003;&#160;Intelligence
+4.5&#160;&#xe027;&#160;True Defense | 18&#160;&#xe003;&#160;Intelligence
+5&#160;&#xe027;&#160;True Defense
+
+| Blooming | [Flowering Bouquet] &#160;Flowering Bouquet | | | 4&#160;&#xe022;&#160;Speed
+1&#160;&#xe051;&#160;Farming Fortune | 4&#160;&#xe022;&#160;Speed
+2&#160;&#xe051;&#160;Farming Fortune | 5&#160;&#xe022;&#160;Speed
+3&#160;&#xe051;&#160;Farming Fortune | 5&#160;&#xe022;&#160;Speed
+4&#160;&#xe051;&#160;Farming Fortune | 6&#160;&#xe022;&#160;Speed
+5&#160;&#xe051;&#160;Farming Fortune | 6&#160;&#xe022;&#160;Speed
+6&#160;&#xe051;&#160;Farming Fortune | 7&#160;&#xe022;&#160;Speed
+7&#160;&#xe051;&#160;Farming Fortune
+
+| Rooted | [Burrowing Spores] &#160;Burrowing Spores | | | 2&#160;&#xe010;&#160;Health
+6&#160;&#xe051;&#160;Farming Fortune | 5&#160;&#xe010;&#160;Health
+9&#160;&#xe051;&#160;Farming Fortune | 8&#160;&#xe010;&#160;Health
+12&#160;&#xe051;&#160;Farming Fortune | 11&#160;&#xe010;&#160;Health
+15&#160;&#xe051;&#160;Farming Fortune | 14&#160;&#xe010;&#160;Health
+18&#160;&#xe051;&#160;Farming Fortune | 17&#160;&#xe010;&#160;Health
+21&#160;&#xe051;&#160;Farming Fortune | 20&#160;&#xe010;&#160;Health
+25&#160;&#xe051;&#160;Farming Fortune
+
+| Snowy | [Terry's Snowglobe] &#160;Terry's Snowglobe | | | 0.2&#160;&#xe021;&#160;Sea Creature Chance
+0.5&#160;&#xe00c;&#160;Fishing Speed | 0.2&#160;&#xe021;&#160;Sea Creature Chance
+1&#160;&#xe00c;&#160;Fishing Speed | 0.4&#160;&#xe021;&#160;Sea Creature Chance
+1.5&#160;&#xe00c;&#160;Fishing Speed | 0.6&#160;&#xe021;&#160;Sea Creature Chance
+2&#160;&#xe00c;&#160;Fishing Speed | 0.8&#160;&#xe021;&#160;Sea Creature Chance
+2.5&#160;&#xe00c;&#160;Fishing Speed | 1&#160;&#xe021;&#160;Sea Creature Chance
+3&#160;&#xe00c;&#160;Fishing Speed | 1.2&#160;&#xe021;&#160;Sea Creature Chance
+3.5&#160;&#xe00c;&#160;Fishing Speed
+
+| Royal | [Dwarven Treasure] &#160;Dwarven Treasure | | Royal Bonus
+Earn +15% ᠅ Mithril Powder from Mining Events in the Dwarven Mines.
+| 1&#160;&#xe053;&#160;Mining Fortune
+4&#160;&#xe015;&#160;Mining Speed | 1&#160;&#xe053;&#160;Mining Fortune
+6&#160;&#xe015;&#160;Mining Speed | 2&#160;&#xe053;&#160;Mining Fortune
+8&#160;&#xe015;&#160;Mining Speed | 2&#160;&#xe053;&#160;Mining Fortune
+10&#160;&#xe015;&#160;Mining Speed | 3&#160;&#xe053;&#160;Mining Fortune
+14&#160;&#xe015;&#160;Mining Speed | 3&#160;&#xe053;&#160;Mining Fortune
+18&#160;&#xe015;&#160;Mining Speed | 4&#160;&#xe053;&#160;Mining Fortune
+25&#160;&#xe015;&#160;Mining Speed
+
+| Blood-Soaked | [Presumed Gallon of Red Paint] &#160;Presumed Gallon of Red Paint | Any Cloak | Blood-Soaked Bonus
+Adds +1 Level to your Life Steal, Drain, and Vampirism enchantments.
+| 1&#160;&#xe028;&#160;Vitality
+6&#160;&#xe010;&#160;Health
+1&#160;&#xe008;&#160;Defense | 1&#160;&#xe028;&#160;Vitality
+8&#160;&#xe010;&#160;Health
+2&#160;&#xe008;&#160;Defense | 2&#160;&#xe028;&#160;Vitality
+8&#160;&#xe010;&#160;Health
+3&#160;&#xe008;&#160;Defense | 2&#160;&#xe028;&#160;Vitality
+9&#160;&#xe010;&#160;Health
+4&#160;&#xe008;&#160;Defense | 3&#160;&#xe028;&#160;Vitality
+10&#160;&#xe010;&#160;Health
+5&#160;&#xe008;&#160;Defense | 3&#160;&#xe028;&#160;Vitality
+12&#160;&#xe010;&#160;Health
+6&#160;&#xe008;&#160;Defense | 4&#160;&#xe028;&#160;Vitality
+14&#160;&#xe010;&#160;Health
+7&#160;&#xe008;&#160;Defense
+
+| Bloodshot | [Shriveled Cornea] &#160;Shriveled Cornea | Any Belt | Bloodshot Bonus
+When killing an enemy, you have a 2.5% chance to cocoon them! Cocooned enemies will quickly hatch, and can be killed again. (Cannot trigger in Dungeons, Kuudra, or on Bosses).
+| 1&#160;&#xe00d;&#160;Strength
+1&#160;&#xe02c;&#160;Crit Chance
+1&#160;&#xe007;&#160;Crit Damage | 2&#160;&#xe00d;&#160;Strength
+2&#160;&#xe02c;&#160;Crit Chance
+2&#160;&#xe007;&#160;Crit Damage | 3&#160;&#xe00d;&#160;Strength
+3&#160;&#xe02c;&#160;Crit Chance
+3&#160;&#xe007;&#160;Crit Damage | 4&#160;&#xe00d;&#160;Strength
+4&#160;&#xe02c;&#160;Crit Chance
+4&#160;&#xe007;&#160;Crit Damage | 5&#160;&#xe00d;&#160;Strength
+5&#160;&#xe02c;&#160;Crit Chance
+5&#160;&#xe007;&#160;Crit Damage | 6&#160;&#xe00d;&#160;Strength
+6&#160;&#xe02c;&#160;Crit Chance
+6&#160;&#xe007;&#160;Crit Damage | 7&#160;&#xe00d;&#160;Strength
+7&#160;&#xe02c;&#160;Crit Chance
+7&#160;&#xe007;&#160;Crit Damage
+
+| Blazing | [Blazen Sphere] &#160;Blazen Sphere | | Blazing Bonus
+For every 1♨ Heat, you are 0.05% more likely to find Worms.
+| 1&#160;&#xe012;&#160;Heat Resistance
+3&#160;&#xe053;&#160;Mining Fortune | 1&#160;&#xe012;&#160;Heat Resistance
+4&#160;&#xe053;&#160;Mining Fortune | 2&#160;&#xe012;&#160;Heat Resistance
+5&#160;&#xe053;&#160;Mining Fortune | 2&#160;&#xe012;&#160;Heat Resistance
+6&#160;&#xe053;&#160;Mining Fortune | 3&#160;&#xe012;&#160;Heat Resistance
+7&#160;&#xe053;&#160;Mining Fortune | 3&#160;&#xe012;&#160;Heat Resistance
+8&#160;&#xe053;&#160;Mining Fortune | 4&#160;&#xe012;&#160;Heat Resistance
+9&#160;&#xe053;&#160;Mining Fortune
+
+| Marshy | [Marshroom] &#160;Marshroom | | Marshy Bonus
+Earn +1% Forest Whispers from foraging.
+| 0.1&#160;&#xe021;&#160;Sea Creature Chance
+0.5&#160;&#xe054;&#160;Foraging Fortune
+0.2&#160;&#xe00c;&#160;Fishing Speed | 0.2&#160;&#xe021;&#160;Sea Creature Chance
+1&#160;&#xe054;&#160;Foraging Fortune
+0.4&#160;&#xe00c;&#160;Fishing Speed | 0.3&#160;&#xe021;&#160;Sea Creature Chance
+1.5&#160;&#xe054;&#160;Foraging Fortune
+0.6&#160;&#xe00c;&#160;Fishing Speed | 0.5&#160;&#xe021;&#160;Sea Creature Chance
+2.5&#160;&#xe054;&#160;Foraging Fortune
+1&#160;&#xe00c;&#160;Fishing Speed | 0.7&#160;&#xe021;&#160;Sea Creature Chance
+3.5&#160;&#xe054;&#160;Foraging Fortune
+1.4&#160;&#xe00c;&#160;Fishing Speed | 0.9&#160;&#xe021;&#160;Sea Creature Chance
+4.5&#160;&#xe054;&#160;Foraging Fortune
+1.8&#160;&#xe00c;&#160;Fishing Speed | 1.1&#160;&#xe021;&#160;Sea Creature Chance
+5.5&#160;&#xe054;&#160;Foraging Fortune
+2.2&#160;&#xe00c;&#160;Fishing Speed
+
+| Lunar | [Moonstone] &#160;Moonstone | | | 1&#160;&#xe022;&#160;Speed
+1&#160;☯&#160;Farming Wisdom | 1&#160;&#xe022;&#160;Speed
+1&#160;☯&#160;Farming Wisdom | 2&#160;&#xe022;&#160;Speed
+2&#160;☯&#160;Farming Wisdom | 2&#160;&#xe022;&#160;Speed
+2&#160;☯&#160;Farming Wisdom | 3&#160;&#xe022;&#160;Speed
+3&#160;☯&#160;Farming Wisdom | 4&#160;&#xe022;&#160;Speed
+4&#160;☯&#160;Farming Wisdom | 5&#160;&#xe022;&#160;Speed
+5&#160;☯&#160;Farming Wisdom
+
+| Squeaky | [Squeaky Toy] &#160;Squeaky Toy | | Squeaky Bonus
+ Pests spawn 2.5% faster.
+| 2&#160;&#xe051;&#160;Farming Fortune
+0.5&#160;&#xe019;&#160;Bonus Pest Chance | 4&#160;&#xe051;&#160;Farming Fortune
+0.5&#160;&#xe019;&#160;Bonus Pest Chance | 6&#160;&#xe051;&#160;Farming Fortune
+1&#160;&#xe019;&#160;Bonus Pest Chance | 8&#160;&#xe051;&#160;Farming Fortune
+1.5&#160;&#xe019;&#160;Bonus Pest Chance | 10&#160;&#xe051;&#160;Farming Fortune
+2&#160;&#xe019;&#160;Bonus Pest Chance | 12&#160;&#xe051;&#160;Farming Fortune
+2.5&#160;&#xe019;&#160;Bonus Pest Chance | 15&#160;&#xe051;&#160;Farming Fortune
+3&#160;&#xe019;&#160;Bonus Pest Chance
+
+| Thorny | [Blooming Thorns] &#160;Blooming Thorns | | Thorny Bonus
+Grants an additional +0.1  Overbloom per tier of Thorns on all of your armor pieces.
+| 2&#160;&#xe051;&#160;Farming Fortune
+0.25&#160;&#xe02b;&#160;Overbloom | 4&#160;&#xe051;&#160;Farming Fortune
+0.5&#160;&#xe02b;&#160;Overbloom | 6&#160;&#xe051;&#160;Farming Fortune
+0.75&#160;&#xe02b;&#160;Overbloom | 8&#160;&#xe051;&#160;Farming Fortune
+1&#160;&#xe02b;&#160;Overbloom | 10&#160;&#xe051;&#160;Farming Fortune
+1.25&#160;&#xe02b;&#160;Overbloom | 12&#160;&#xe051;&#160;Farming Fortune
+1.5&#160;&#xe02b;&#160;Overbloom | 14&#160;&#xe051;&#160;Farming Fortune
+1.85&#160;&#xe02b;&#160;Overbloom
+
+| Majestic | [Morning Dew] &#160;Morning Dew | [Safari Belt] &#160;Safari Belt | Majestic Bonus
+Grants +50 Speed while in the  Critter Safari.
+| 0.5&#160;☯&#160;Hunting Wisdom
+0.5&#160;&#xe023;&#160;Sweep
+2&#160;&#xe054;&#160;Foraging Fortune
+0.5&#160;&#xe05b;&#160;Hunting Fortune | 1&#160;☯&#160;Hunting Wisdom
+1&#160;&#xe023;&#160;Sweep
+4&#160;&#xe054;&#160;Foraging Fortune
+1&#160;&#xe05b;&#160;Hunting Fortune | 1.5&#160;☯&#160;Hunting Wisdom
+1.5&#160;&#xe023;&#160;Sweep
+6&#160;&#xe054;&#160;Foraging Fortune
+1.5&#160;&#xe05b;&#160;Hunting Fortune | 2&#160;☯&#160;Hunting Wisdom
+2&#160;&#xe023;&#160;Sweep
+8&#160;&#xe054;&#160;Foraging Fortune
+2&#160;&#xe05b;&#160;Hunting Fortune | 3&#160;☯&#160;Hunting Wisdom
+3&#160;&#xe023;&#160;Sweep
+12&#160;&#xe054;&#160;Foraging Fortune
+3&#160;&#xe05b;&#160;Hunting Fortune | 4&#160;☯&#160;Hunting Wisdom
+4&#160;&#xe023;&#160;Sweep
+16&#160;&#xe054;&#160;Foraging Fortune
+4&#160;&#xe05b;&#160;Hunting Fortune | 5&#160;☯&#160;Hunting Wisdom
+5&#160;&#xe023;&#160;Sweep
+20&#160;&#xe054;&#160;Foraging Fortune
+5&#160;&#xe05b;&#160;Hunting Fortune
+
+| Greater Spook | [Boo Stone] &#160;Boo Stone | [Great Spook Helmet] &#160;Great Spook Armor | | 1&#160;&#xe00a;&#160;Fear | 2&#160;&#xe00a;&#160;Fear | 3&#160;&#xe00a;&#160;Fear | 4&#160;&#xe00a;&#160;Fear | 5&#160;&#xe00a;&#160;Fear | 6&#160;&#xe00a;&#160;Fear | 7&#160;&#xe00a;&#160;Fear
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Reforging/Equipment?oldid=856099"
+
+Hidden categories: 
+- Pages using Crit Chance
+- Pages using Health
+- Pages using Defense
+- Pages using Crit Damage
+- Pages using Speed
+- Pages using Attack Speed
+- Pages using Intelligence
+- Pages using Strength
+- Pages using True Defense
+- Pages using Farming Fortune
+- Pages using Sea Creature Chance
+- Pages using Fishing Speed
+- Pages using Mining Fortune
+- Pages using Mining Speed
+- Pages using Vitality
+- Pages using Heat Resistance
+- Pages using Foraging Fortune
+- Pages using Farming Wisdom
+- Pages using Bonus Pest Chance
+- Pages using Overbloom
+- Pages using Hunting Wisdom
+- Pages using Sweep
+- Pages using Hunting Fortune
+- Pages using Fear
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Page
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+3h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+- View buckets
+
+- This page was last edited on 10 October 2026, at 14:56.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

@@ -1,0 +1,1641 @@
+Pet Items - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Pet Items
+
+From Hypixel SkyBlock Wiki
+
+Jump to navigation
+Jump to search
+See also: Pet Upgrades, Pet Skin, and Pet Food
+
+Pet Items are items that can be given to Pets to improve them. Each pet can only hold one item at a time. To use them, equip a pet and right-click the pet while holding a pet item.
+
+Pet items are consumed on use. Upon equipping a new item, the old item can be swapped out for the new item for a fee. An existing item can be removed with the &#160;Super Scrubber, bought from [A sprite icon representing Plumber Joe in Hypixel SkyBlock] Plumber Joe.
+
+## Contents
+
+- 1 List of Pet Items
+
+- 2 Retrieving Pet Items
+
+- 3 Trivia
+
+- 4 History
+
+- 5 Navigation
+
+## List of Pet Items
+[edit | edit source]
+
+These Pet Items grant more EXP to the pet when gaining Skill EXP.
+
+| Icon
+
+| Name
+
+| Rarity
+
+| Skill
+
+| EXP Boost
+
+| Source
+
+| [All Skills Exp Boost] 
+
+| All Skills Exp Boost
+
+| COMMON
+
+| All
+
+| +10%
+
+| [A sprite icon representing Zog in Hypixel SkyBlock] Zog: 50,000 Coins
+
+| [All Skills Exp Super-Boost] 
+
+| All Skills Exp Super-Boost
+
+| UNCOMMON
+
+| +20%
+
+| Crafting Recipe: [Enchanted Gold Block] 6
+[Enchanted Gold Block] 6 [All Skills Exp Boost] [Enchanted Gold Block] 6
+[Zog Anvil] 
+
+[All Skills Exp Super-Boost] 
+
+Ingredients: 
+- [Enchanted Gold Block] &#160;18x&#160;Enchanted Gold Block
+- [All Skills Exp Boost] &#160;1x&#160;All Skills Exp Boost
+- [Zog Anvil] &#160;1x&#160;Zog Anvil
+
+| [Farming Exp Boost] 
+
+| Farming Exp Boost
+
+| COMMON
+
+| &#160;Farming
+
+| +20%
+
+| [A sprite icon representing Zog in Hypixel SkyBlock] Zog: 60,000 Coins
+
+| [Farming Exp Boost] 
+
+| UNCOMMON
+
+| +30%
+
+| [A sprite icon representing Hungry Hiker in Hypixel SkyBlock] Hungry Hiker quest reward
+[A sprite icon representing Hungry Hiker in Hypixel SkyBlock] Hungry Hiker Garden Visitor reward
+
+| [Farming Exp Boost] 
+
+| RARE
+
+| +40%
+
+| [A sprite icon representing Zog in Hypixel SkyBlock] Zog: 500,000 Coins
+
+| [Farming Exp Boost] 
+
+| EPIC
+
+| +50%
+
+| [A sprite icon representing Duncan in Hypixel SkyBlock] Duncan: 1,500,000 Coins
+
+| [Mining Exp Boost] 
+
+| Mining Exp Boost
+
+| COMMON
+
+| &#160;Mining
+
+| +20%
+
+| [A sprite icon representing Zog in Hypixel SkyBlock] Zog: 60,000 Coins
+
+| [Mining Exp Boost] 
+
+| UNCOMMON
+
+| +30%
+
+| [A sprite icon representing Zog in Hypixel SkyBlock] Zog: 250,000 Coins
+
+| [Mining Exp Boost] 
+
+| RARE
+
+| +40%
+
+| 20% chance from participating in active Mining Events in the &#xe067; Dwarven Mines
+
+| [Combat Exp Boost] 
+
+| Combat Exp Boost
+
+| COMMON
+
+| &#160;Combat
+
+| +20%
+
+| [A sprite icon representing Zog in Hypixel SkyBlock] Zog: 60,000 Coins
+
+| [Combat Exp Boost] 
+
+| UNCOMMON
+
+| +30%
+
+| 
+
+- Rare drop from [A sprite icon representing Magma Cube in Hypixel SkyBlock] Magma Cubes
+
+- [A sprite icon representing Zog in Hypixel SkyBlock] Zog: 250,000 Coins
+
+| [Combat Exp Boost] 
+
+| RARE
+
+| +40%
+
+| 
+
+- [A sprite icon representing Seer in Hypixel SkyBlock] Seer (0.015%)
+
+- [A sprite icon representing Obsidian Defender in Hypixel SkyBlock] Obsidian Defender (0.01%)
+
+| [Combat Exp Boost] 
+
+| EPIC
+
+| +50%
+
+| 
+
+- [A sprite icon representing Seer in Hypixel SkyBlock] Seer (0.002%)
+
+- [A sprite icon representing Obsidian Defender in Hypixel SkyBlock] Obsidian Defender (0.0033%)
+
+| [Foraging Exp Boost] 
+
+| Foraging Exp Boost
+
+| COMMON
+
+| &#160;Foraging
+
+| +20%
+
+| [A sprite icon representing Zog in Hypixel SkyBlock] Zog: 60,000 Coins
+
+| [Foraging Exp Boost] 
+
+| UNCOMMON
+
+| +30%
+
+| 
+
+- [A sprite icon representing Ent in Hypixel SkyBlock] Ent (1%)
+
+| [Foraging Exp Boost] 
+
+| RARE
+
+| +40%
+
+| [A sprite icon representing Drybark in Hypixel SkyBlock] Drybark (0.1%)
+
+| [Foraging Exp Boost] 
+
+| EPIC
+
+| +50%
+
+| 
+
+- [A sprite icon representing Soul of the Alpha in Hypixel SkyBlock] Soul of the Alpha (0.01%)
+
+0.025% (1&#160;in&#160;4,000) chance from Helix Tree Gifts
+
+| [Fishing Exp Boost] 
+
+| Fishing Exp Boost
+
+| COMMON
+
+| &#160;Fishing
+
+| +20%
+
+| [A sprite icon representing Zog in Hypixel SkyBlock] Zog: 60,000 Coins
+
+| [Fishing Exp Boost] 
+
+| UNCOMMON
+
+| +30%
+
+| 
+
+- [A sprite icon representing Inkling in Hypixel SkyBlock] Inkling (0.05%)
+
+| [Fishing Exp Boost] 
+
+| RARE
+
+| +40%
+
+| 
+
+- [A sprite icon representing Snapping Turtle in Hypixel SkyBlock] Snapping Turtle (0.05%)
+
+| [Fishing Exp Boost] 
+
+| EPIC
+
+| +50%
+
+| 
+
+- [A sprite icon representing Manta Ray in Hypixel SkyBlock] Manta Ray (0.05%)
+
+These Pet Items increase the Stats of the Pet.
+
+| Icon
+
+| Name
+
+| Rarity
+
+| Pet Stats
+
+| Source
+
+| [Big Teeth] 
+
+| Big Teeth
+
+| COMMON
+
+| +5&#160;&#xe02c;&#160;Crit Chance
+
+| [A sprite icon representing Zog in Hypixel SkyBlock] Zog: 750,000 Coins
+
+| [Bigger Teeth] 
+
+| Bigger Teeth
+
+| UNCOMMON
+
+| +10&#160;&#xe02c;&#160;Crit Chance
+
+| Crafting Recipe: [Enchanted Gold Block] 6
+[Enchanted Gold Block] 6 [Big Teeth] [Enchanted Gold Block] 6
+[Zog Anvil] 
+
+[Bigger Teeth] 
+
+Ingredients: 
+- [Enchanted Gold Block] &#160;18x&#160;Enchanted Gold Block
+- [Big Teeth] &#160;1x&#160;Big Teeth
+- [Zog Anvil] &#160;1x&#160;Zog Anvil
+
+| [Iron Claws] 
+
+| Iron Claws
+
+| COMMON
+
+| 
+
+- +40%&#160;&#xe007;&#160;Crit Damage
+
+- +40%&#160;&#xe02c;&#160;Crit Chance
+
+| [A sprite icon representing Zog in Hypixel SkyBlock] Zog: 750,000 Coins
+
+| [Gold Claws] 
+
+| Gold Claws
+
+| UNCOMMON
+
+| 
+
+- +50%&#160;&#xe007;&#160;Crit Damage
+
+- +50%&#160;&#xe02c;&#160;Crit Chance
+
+| Crafting Recipe: [Enchanted Gold Block] 6
+[Enchanted Gold Block] 6 [Iron Claws] [Enchanted Gold Block] 6
+[Zog Anvil] 
+
+[Gold Claws] 
+
+Ingredients: 
+- [Enchanted Gold Block] &#160;18x&#160;Enchanted Gold Block
+- [Iron Claws] &#160;1x&#160;Iron Claws
+- [Zog Anvil] &#160;1x&#160;Zog Anvil
+
+| [Sharpened Claws] 
+
+| Sharpened Claws
+
+| UNCOMMON
+
+| +15&#160;&#xe007;&#160;Crit Damage
+
+| [A sprite icon representing Zog in Hypixel SkyBlock] Zog: 1,000,000 Coins
+
+| [Serrated Claws] 
+
+| Serrated Claws
+
+| RARE
+
+| +25&#160;&#xe007;&#160;Crit Damage
+
+| Crafting Recipe: [Enchanted Gold Block] 6
+[Enchanted Gold Block] 6 [Sharpened Claws] [Enchanted Gold Block] 6
+[Zog Anvil] 
+
+[Serrated Claws] 
+
+Ingredients: 
+- [Enchanted Gold Block] &#160;18x&#160;Enchanted Gold Block
+- [Sharpened Claws] &#160;1x&#160;Sharpened Claws
+- [Zog Anvil] &#160;1x&#160;Zog Anvil
+
+| [Hardened Scales] 
+
+| Hardened Scales
+
+| UNCOMMON
+
+| +25&#160;&#xe008;&#160;Defense
+
+| [A sprite icon representing Zog in Hypixel SkyBlock] Zog: 1,000,000 Coins
+
+| [Reinforced Scales] 
+
+| Reinforced Scales
+
+| RARE
+
+| +40&#160;&#xe008;&#160;Defense
+
+| Crafting Recipe: [Enchanted Gold Block] 6
+[Enchanted Gold Block] 6 [Hardened Scales] [Enchanted Gold Block] 6
+[Zog Anvil] 
+
+[Reinforced Scales] 
+
+Ingredients: 
+- [Enchanted Gold Block] &#160;18x&#160;Enchanted Gold Block
+- [Hardened Scales] &#160;1x&#160;Hardened Scales
+- [Zog Anvil] &#160;1x&#160;Zog Anvil
+
+| [Spooky Cupcake] 
+
+| Spooky Cupcake
+
+| UNCOMMON
+
+| 
+
+- +30&#160;&#xe00d;&#160;Strength
+
+- +20&#160;&#xe022;&#160;Speed
+
+| Trick or Treat Chest during Spooky Festival
+
+| [Saddle] 
+
+| Saddle
+
+| UNCOMMON
+
+| +30&#160;&#xe022;&#160;Speed
+
+| Leather&#160;VIII (8)
+Crafting Recipe: [Enchanted Leather] 8
+[Enchanted Leather] 8 [Enchanted Iron Ingot] 8 [Enchanted Leather] 8
+
+[Saddle] 
+
+Ingredients: 
+- [Enchanted Leather] &#160;24x&#160;Enchanted Leather
+- [Enchanted Iron Ingot] &#160;8x&#160;Enchanted Iron Ingot
+
+| [Magic For Pets In A Hurry] 
+
+| Magic For Pets In A Hurry
+
+| UNCOMMON
+
+| 
+
+- +20&#160;&#xe022;&#160;Speed
+
+- +50&#160;&#xe003;&#160;Intelligence
+
+| Sugar Cane&#160;VII (7)
+Crafting Recipe: 
+[Enchanted Paper] [Enchanted Paper] 
+[Enchanted Paper] [Enchanted Rabbit Hide] 
+
+[Magic For Pets In A Hurry] 
+
+Ingredients: 
+- [Enchanted Rabbit Hide] &#160;1x&#160;Enchanted Rabbit Hide
+- [Enchanted Paper] &#160;3x&#160;Enchanted Paper
+
+| [Lucky Clover] 
+
+| Lucky Clover
+
+| EPIC
+
+| 
+
+- +7&#160;&#xe02b;&#160;Overbloom
+
+| Crafting Recipe: [Enchanted Emerald] 32 [Enchanted Emerald] 32 [Enchanted Emerald] 32
+[Enchanted Emerald] 32 [Lucky Clover Core] [Enchanted Emerald] 32
+[Enchanted Emerald] 32 [Enchanted Emerald] 32 [Enchanted Emerald] 32
+
+[Lucky Clover] 
+
+Ingredients: 
+- [Enchanted Emerald] &#160;256x&#160;Enchanted Emerald
+- [Lucky Clover Core] &#160;1x&#160;Lucky Clover Core
+
+| [Poignant Lucky Clover] 
+
+| Poignant Lucky Clover
+
+| LEGENDARY
+
+| 
+
+- +13&#160;&#xe02b;&#160;Overbloom
+
+| [A sprite icon representing Carrot King Avatar in Hypixel SkyBlock] Carrot King Avatar
+
+| [Yellow Bandana] 
+
+| Yellow Bandana
+
+| RARE
+
+| +30&#160;&#xe051;&#160;Farming Fortune
+
+| SkyMart: 300 Copper
+
+| [Green Bandana] 
+
+| Green Bandana
+
+| EPIC
+
+| +4&#160;&#xe051;&#160;Farming Fortune per Garden Level.
+
+| Garden Visitors
+
+| [Brown Bandana] 
+
+| Brown Bandana
+
+| EPIC
+
+| +0.2&#160;&#xe019;&#160;Bonus Pest Chance per Pest Bestiary tier unlocked.
+
+| [A sprite icon representing Talbot in Hypixel SkyBlock] Talbot: 200 Pelts
+
+| [Bejeweled Collar] 
+
+| Bejeweled Collar
+
+| RARE
+
+| 
+
+- +25&#160;&#xe015;&#160;Mining Speed
+
+- +10&#160;&#xe053;&#160;Mining Fortune
+
+| Heart of the Mountain&#160;II (2)
+The Forge: 
+- [Bejeweled Handle] &#160;1x&#160;Bejeweled Handle
+- [Refined Mithril] &#160;4x&#160;Refined Mithril
+
+| [Titanium Minecart] 
+
+| Titanium Minecart
+
+| RARE
+
+| +33.3&#160;&#xe053;&#160;Mining Fortune while mining &#160;Titanium Ore.
+
+| 20% chance from participating in active Mining Events in the &#xe067; Dwarven Mines
+
+| [Quick Claw] 
+
+| Quick Claw
+
+| LEGENDARY
+
+| +1&#160;&#xe015;&#160;Mining Speed and +1&#160;&#xe053;&#160;Mining Fortune for every 2 pet levels.
+
+| Crystal Nucleus treasure stash
+
+| [Edible Seaweed] 
+
+| Edible Seaweed
+
+| RARE
+
+| +10&#160;&#xe00c;&#160;Fishing Speed.
+
+| [A sprite icon representing Snapping Turtle in Hypixel SkyBlock] Snapping Turtle (0.5%)
+
+| [Snake Eyes] 
+
+| Snake Eyes
+
+| LEGENDARY
+
+| +1.1&#160;&#xe025;&#160;Treasure Chance
+
+| [A sprite icon representing Titanoboa in Hypixel SkyBlock] Titanoboa (0.11%)
+
+| [Burnt Texts] 
+
+| Burnt Texts
+
+| LEGENDARY
+
+| 
+
+- +5&#160;&#xe009;&#160;Double Hook Chance
+
+- -50&#160;&#xe00c;&#160;Fishing Speed
+
+| [A sprite icon representing Ragnarok in Hypixel SkyBlock] Ragnarok (1%)
+
+| [Rubber Snorkel] 
+
+| Rubber Snorkel
+
+| RARE
+
+| +5&#160;&#xe01d;&#160;Respiration, doubled while on Foraging Islands
+
+| Miria's Milestone&#160;III (3)
+[A sprite icon representing Miria in Hypixel SkyBlock] Miria: &#160;125&#160;Miria's Coupon
+
+| [Winding Ivy] 
+
+| Winding Ivy
+
+| RARE
+
+| +10&#160;&#xe023;&#160;Sweep
+
+| Miria's Milestone&#160;IV (4)
+[A sprite icon representing Miria in Hypixel SkyBlock] Miria: &#160;250&#160;Miria's Coupon
+
+| [Dwarf Turtle Shelmet] 
+
+| Dwarf Turtle Shelmet
+
+| EPIC
+
+| +10&#160;&#xe027;&#160;True Defense and knockback immunity
+
+| 
+
+- [A sprite icon representing Gaia Construct in Hypixel SkyBlock] Stalwart Gaia Construct (0.35%)
+
+- [A sprite icon representing Gaia Construct in Hypixel SkyBlock] Venerable Gaia Construct (0.4%)
+
+- [A sprite icon representing Gaia Construct in Hypixel SkyBlock] Exalted Gaia Construct (0.5%)
+
+- [A sprite icon representing Gaia Construct in Hypixel SkyBlock] Empyrean Gaia Construct (0.6%)
+
+| [Hephaestus Shelmet] 
+
+| Hephaestus Shelmet
+
+| LEGENDARY
+
+| +20&#160;&#xe027;&#160;True Defense and knockback immunity
+
+| Crafting Recipe: [Dwarf Turtle Shelmet] 
+[Dwarf Turtle Shelmet] [Hephaestus Anvil] [Dwarf Turtle Shelmet] 
+
+[Hephaestus Shelmet] 
+
+Ingredients: 
+- [Dwarf Turtle Shelmet] &#160;3x&#160;Dwarf Turtle Shelmet
+- [Hephaestus Anvil] &#160;1x&#160;Hephaestus Anvil
+
+| [Crochet Tiger Plushie] 
+
+| Crochet Tiger Plushie
+
+| EPIC
+
+| +35&#160;&#xe001;&#160;Attack Speed.
+
+| 
+
+- [A sprite icon representing Siamese Lynx in Hypixel SkyBlock] Siamese Lynx (0.05%)
+
+- [A sprite icon representing Siamese Lynx in Hypixel SkyBlock] Blessed Siamese Lynx (0.1%)
+
+- [A sprite icon representing Siamese Lynx in Hypixel SkyBlock] Stalwart Siamese Lynx (0.15%)
+
+- [A sprite icon representing Siamese Lynx in Hypixel SkyBlock] Venerable Siamese Lynx (0.2%)
+
+- [A sprite icon representing Siamese Lynx in Hypixel SkyBlock] Exalted Siamese Lynx (0.3%)
+
+- [A sprite icon representing Siamese Lynx in Hypixel SkyBlock] Empyrean Siamese Lynx (0.4%)
+
+| [Hephaestus Plushie] 
+
+| Hephaestus Plushie
+
+| LEGENDARY
+
+| +50&#160;&#xe001;&#160;Attack Speed
+
+| Crafting Recipe: [Crochet Tiger Plushie] 
+[Crochet Tiger Plushie] [Hephaestus Anvil] [Crochet Tiger Plushie] 
+
+[Hephaestus Plushie] 
+
+Ingredients: 
+- [Crochet Tiger Plushie] &#160;3x&#160;Crochet Tiger Plushie
+- [Hephaestus Anvil] &#160;1x&#160;Hephaestus Anvil
+
+| [Washed-up Souvenir] 
+
+| Washed-Up Souvenir
+
+| EPIC
+
+| +5&#160;&#xe021;&#160;Sea Creature Chance
+
+| 
+
+- [A sprite icon representing Stranded Nymph in Hypixel SkyBlock] Blessed Stranded Nymph (0.2%)
+
+- [A sprite icon representing Stranded Nymph in Hypixel SkyBlock] Stalwart Stranded Nymph (0.25%)
+
+- [A sprite icon representing Stranded Nymph in Hypixel SkyBlock] Venerable Stranded Nymph (0.3%)
+
+- [A sprite icon representing Stranded Nymph in Hypixel SkyBlock] Exalted Stranded Nymph (0.4%)
+
+- [A sprite icon representing Stranded Nymph in Hypixel SkyBlock] Empyrean Stranded Nymph (0.5%)
+
+| [Hephaestus Souvenir] 
+
+| Hephaestus Souvenir
+
+| LEGENDARY
+
+| +10&#160;&#xe021;&#160;Sea Creature Chance
+
+| Crafting Recipe: [Washed-up Souvenir] 
+[Washed-up Souvenir] [Hephaestus Anvil] [Washed-up Souvenir] 
+
+[Hephaestus Souvenir] 
+
+Ingredients: 
+- [Washed-up Souvenir] &#160;3x&#160;Washed-up Souvenir
+- [Hephaestus Anvil] &#160;1x&#160;Hephaestus Anvil
+
+| [Cretan Urn] 
+
+| Cretan Urn
+
+| EPIC
+
+| +5&#160;&#xe013;&#160;Pet Luck
+
+| 
+
+- [A sprite icon representing Cretan Bull in Hypixel SkyBlock] Blessed Cretan Bull (0.2%)
+
+- [A sprite icon representing Cretan Bull in Hypixel SkyBlock] Stalwart Cretan Bull (0.25%)
+
+- [A sprite icon representing Cretan Bull in Hypixel SkyBlock] Venerable Cretan Bull (0.3%)
+
+- [A sprite icon representing Cretan Bull in Hypixel SkyBlock] Exalted Cretan Bull (0.4%)
+
+- [A sprite icon representing Cretan Bull in Hypixel SkyBlock] Empyrean Cretan Bull (0.5%)
+
+| [Hephaestus Urn] 
+
+| Hephaestus Urn
+
+| LEGENDARY
+
+| +10&#160;&#xe013;&#160;Pet Luck
+
+| Crafting Recipe: [Cretan Urn] 
+[Cretan Urn] [Hephaestus Anvil] [Cretan Urn] 
+
+[Hephaestus Urn] 
+
+Ingredients: 
+- [Cretan Urn] &#160;3x&#160;Cretan Urn
+- [Hephaestus Anvil] &#160;1x&#160;Hephaestus Anvil
+
+| [Antique Remedies] 
+
+| Antique Remedies
+
+| EPIC
+
+| +80%&#160;&#xe00d;&#160;Strength
+
+| 
+
+- [A sprite icon representing Harpy in Hypixel SkyBlock] Stalwart Harpy (0.35%)
+
+- [A sprite icon representing Harpy in Hypixel SkyBlock] Venerable Harpy (0.4%)
+
+- [A sprite icon representing Harpy in Hypixel SkyBlock] Exalted Harpy (0.5%)
+
+- [A sprite icon representing Harpy in Hypixel SkyBlock] Empyrean Harpy (0.6%)
+
+| [Hephaestus Remedies] 
+
+| Hephaestus Remedies
+
+| LEGENDARY
+
+| +100%&#160;&#xe00d;&#160;Strength
+
+| Crafting Recipe: [Antique Remedies] 
+[Antique Remedies] [Hephaestus Anvil] [Antique Remedies] 
+
+[Hephaestus Remedies] 
+
+Ingredients: 
+- [Antique Remedies] &#160;3x&#160;Antique Remedies
+- [Hephaestus Anvil] &#160;1x&#160;Hephaestus Anvil
+
+| [Minos Relic] 
+
+| Minos Relic
+
+| EPIC
+
+| Increases all Pet stats by 33.3% (not Perks).
+
+| 
+
+- [A sprite icon representing Minos Champion in Hypixel SkyBlock] Venerable Minos Champion (0.02%)
+
+- [A sprite icon representing Minos Champion in Hypixel SkyBlock] Exalted Minos Champion (0.03%)
+
+- [A sprite icon representing Minos Champion in Hypixel SkyBlock] Empyrean Minos Champion (0.04%)
+
+| [Hephaestus Relic] 
+
+| Hephaestus Relic
+
+| LEGENDARY
+
+| Increases all Pet stats by 50% (not Perks).
+
+| Crafting Recipe: [Minos Relic] 
+[Minos Relic] [Hephaestus Anvil] [Minos Relic] 
+
+[Hephaestus Relic] 
+
+Ingredients: 
+- [Minos Relic] &#160;3x&#160;Minos Relic
+- [Hephaestus Anvil] &#160;1x&#160;Hephaestus Anvil
+
+| [Textbook] 
+
+| Textbook
+
+| LEGENDARY
+
+| +100%&#160;&#xe003;&#160;Intelligence
+
+| Lapis&#160;X (10)
+Crafting Recipe: [Enchanted Lapis Lazuli Block] [Enchanted Lapis Lazuli Block] [Enchanted Lapis Lazuli Block] 
+[Enchanted Lapis Lazuli Block] [Enchanted Paper] 64 [Enchanted Lapis Lazuli Block] 
+[Enchanted Lapis Lazuli Block] [Enchanted Lapis Lazuli Block] [Enchanted Lapis Lazuli Block] 
+
+[Textbook] 
+
+Ingredients: 
+- [Enchanted Lapis Lazuli Block] &#160;8x&#160;Enchanted Lapis Lazuli Block
+- [Enchanted Paper] &#160;64x&#160;Enchanted Paper
+
+| [Reaper Gem] 
+
+| Reaper Gem
+
+| LEGENDARY
+
+| Gain 8&#160;&#xe00b;&#160;Ferocity for 5s on kill.
+
+| Zombie Slayer LVL 9 reward
+
+[A sprite icon representing Rusty in Hypixel SkyBlock] Rusty: 20,000,000 Coins
+
+These Pet Items can only be applied to certain pets.
+
+| Icon
+
+| Name
+
+| Rarity
+
+| Pets
+
+| Perk
+
+| Source
+
+| [Dead Cat Food] 
+
+| Dead Cat Food
+
+| RARE
+
+| &#160;Montezuma Pet
+
+| 
+
+- +30&#160;&#xe020;&#160;Rift Time
+
+- +5&#160;&#xe004;&#160;Mana Regen
+
+| Shen's Auction in &#xe020; Barrier Street
+
+| [Flying Pig] 
+
+| Flying Pig
+
+| RARE
+
+| &#160;Pig Pet
+
+| 
+
+- +40&#160;&#xe051;&#160;Potato Fortune
+
+- +20&#160;&#xe022;&#160;Speed
+
+| [A sprite icon representing Shiny Pig in Hypixel SkyBlock] Shiny Pig (0.14%)
+
+| [Grandma's Knitting Needle] 
+
+| Grandma's Knitting Needle
+
+| RARE
+
+| &#160;Grandma Wolf Pet
+
+| +1&#160;☯&#160;Combat Wisdom per tier of active combo.
+
+| Oruo the Almighty: &#160;50&#160;Sun Gecko Essence
+
+| [Four-Eyed Fish] 
+
+| Four-Eyed Fish
+
+| EPIC
+
+| &#160;Griffin Pet
+
+| 
+
+- +5&#160;&#xe01a;&#160;Magic Find
+
+- +2,000 Coins when digging Griffin Burrows
+
+| Crafting Recipe: [Enchanted Spider Eye] 64 [Enchanted Spider Eye] 64 [Enchanted Spider Eye] 64
+[Lucky Clover] [Pre-Digestion Fish] [Reinforced Scales] 
+[Enchanted Spider Eye] 64 [Enchanted Spider Eye] 64 [Enchanted Spider Eye] 64
+
+[Four-Eyed Fish] 
+
+Ingredients: 
+- [Enchanted Spider Eye] &#160;384x&#160;Enchanted Spider Eye
+- [Lucky Clover] &#160;1x&#160;Lucky Clover
+- [Reinforced Scales] &#160;1x&#160;Reinforced Scales
+- [Pre-Digestion Fish] &#160;1x&#160;Pre-Digestion Fish
+
+These Pet Items have unique abilities.
+
+| Icon
+
+| Name
+
+| Rarity
+
+| Ability
+
+| Source
+
+| [Bubblegum] 
+
+| Bubblegum
+
+| RARE
+
+| Your pet fuses its power with placed Deployables to increase their duration by 2x
+
+| [A sprite icon representing Zog in Hypixel SkyBlock] Zog: 5,000,000 Coins
+
+| [Exp Share] 
+
+| Exp Share
+
+| EPIC
+
+| While equipped in an Exp Share slot this Pet gains +15% Exp Share rate.
+
+| Crafting Recipe: [Enchanted Gold Ingot] 12
+[Enchanted Gold Ingot] 12 [Exp Share Core] [Enchanted Gold Ingot] 12
+[Enchanted Gold Ingot] 12 [Enchanted Gold Ingot] 12 [Enchanted Gold Ingot] 12
+
+[Exp Share] 
+
+Ingredients: 
+- [Enchanted Gold Ingot] &#160;72x&#160;Enchanted Gold Ingot
+- [Exp Share Core] &#160;1x&#160;Exp Share Core
+
+| [Tier Boost] 
+
+| Tier Boost
+
+| LEGENDARY
+
+| Boost the Rarity of your Pets by 1 tier, up to LEGENDARY. Does not work on the &#160;Griffin Pet or the &#160;Wisp Pet.
+
+| Crafting Recipe: [Enchanted Iron Block] 2 [Enchanted Iron Block] 2
+[Enchanted Iron Block] 2 [Tier Boost Core] [Enchanted Iron Block] 2
+[Enchanted Iron Block] 2
+
+[Tier Boost] 
+
+Ingredients: 
+- [Enchanted Iron Block] &#160;10x&#160;Enchanted Iron Block
+- [Tier Boost Core] &#160;1x&#160;Tier Boost Core
+
+| [Barrel of Riches] 
+
+| Barrel of Riches
+
+| EPIC
+
+| Increases the chance of Trophies to be GOLD by 10%.
+
+| Crafting Recipe: [Mangcore] [Enchanted Gold Block] [Mangcore] 
+[Mangcore] [Lotus Water Orb] [Mangcore] 
+[Mangcore] [Mangcore] [Mangcore] 
+
+[Barrel of Riches] 
+
+Ingredients: 
+- [Mangcore] &#160;7x&#160;Mangcore
+- [Enchanted Gold Block] &#160;1x&#160;Enchanted Gold Block
+- [Lotus Water Orb] &#160;1x&#160;Lotus Water Orb
+
+| [Lotus Crown] 
+
+| Lotus Crown
+
+| LEGENDARY
+
+| Increases the chance of Trophies to be DIAMOND by 10%.
+
+| Crafting Recipe: [Condensed Lily Pad] [Prince's Crown Jewel] [Condensed Lily Pad] 
+[Enchanted Gold Block] [Lotus Water Orb] [Enchanted Gold Block] 
+[Enchanted Gold Block] [Enchanted Gold Block] [Enchanted Gold Block] 
+
+[Lotus Crown] 
+
+Ingredients: 
+- [Enchanted Gold Block] &#160;5x&#160;Enchanted Gold Block
+- [Condensed Lily Pad] &#160;2x&#160;Condensed Lily Pad
+- [Prince's Crown Jewel] &#160;1x&#160;Prince's Crown Jewel
+- [Lotus Water Orb] &#160;1x&#160;Lotus Water Orb
+
+| [Uncommon Party Hat] 
+
+| Uncommon Party Hat
+
+| UNCOMMON
+
+| Adds particles matching your + color to your pet and yourself, defaulting to red.
+
+| Incredible Raffle Box
+
+| [Unalloyed Speed] 
+
+| Unalloyed Speed
+
+| EPIC
+
+| increases the player's &#xe022;&#160;Speed cap by 50.
+
+| Crafting Recipe: [Enchanted Sugar] 64 [Enchanted Sugar] 64 [Enchanted Sugar] 64
+[Enchanted Sugar] 64 [Cane Knot] 32 [Enchanted Sugar] 64
+[Enchanted Sugar] 64 [Enchanted Sugar] 64 [Enchanted Sugar] 64
+
+[Unalloyed Speed] 
+
+Ingredients: 
+- [Cane Knot] &#160;32x&#160;Cane Knot
+- [Enchanted Sugar] &#160;512x&#160;Enchanted Sugar
+
+## Retrieving Pet Items
+[edit | edit source]
+
+Pet Items can be retrieved from Pets by applying a new Pet Item onto a Pet. Doing so refunds the previous Pet Item and costs Coins to apply and is as follows:
+
+| Rarity
+
+| Cost
+
+| COMMON
+
+| 25,000 Coins
+
+| UNCOMMON
+
+| 50,000 Coins
+
+| RARE
+
+| 100,000 Coins
+
+| EPIC
+
+| 250,000 Coins
+
+| LEGENDARY
+
+| 500,000 Coins
+
+| MYTHIC
+
+| 1,000,000 Coins
+
+| DIVINE
+
+| 2,500,000 Coins
+
+A &#160;Super Scrubber can be used to remove a Pet Item without applying a new one: the cost still applies and the Super Scrubber is consumed in the process.
+
+## Trivia
+[edit | edit source]
+
+- All Pet XP boosts work multiplicatively together, such as &#160;Taming, [A sprite icon representing Diana in Hypixel SkyBlock] Diana, and the &#160;Beastmaster Crest.
+
+- If player has multiple of the same Pet Item in their hotbar and they right-click their pet, it will always consume the item in the slot closest to the first, regardless of which slot they used on their pet.
+
+- Crafting a &#160;Saddle grants the Saddle Up! Achievement.
+
+- Equipping a &#160;Textbook to a pet grants the Knowledge is Power! Achievement.
+
+## History
+[edit | edit source]
+
+| Alpha Hypixel Network
+| Mar&#160;23,&#160;2023 | Added &#160;Yellow Bandana.
+
+| Mar&#160;24,&#160;2023 | Added &#160;Green Bandana.
+
+| Aug&#160;20,&#160;2024 | Moved &#160;Mining Exp Boost (RARE) from [A sprite icon representing Zog in Hypixel SkyBlock] Zog to a drop from Mining Events.
+| Added &#160;Mining Exp Boost (UNCOMMON) to [A sprite icon representing Zog in Hypixel SkyBlock] Zog.
+
+| Mar&#160;12,&#160;2025 | Added &#160;Burnt Texts.
+| Changed &#xe00c;&#160;Fishing Speed reduction from -25% to a flat -50.
+| Added &#160;Edible Seaweed.
+
+| Mar&#160;14,&#160;2025 | Increased drop chance of &#160;Burnt Texts from 0.2% -> 1%.
+
+| Oct&#160;16,&#160;2025 | Added &#160;Cretan Urn
+| Added &#160;Hephaestus Plushie
+| Added &#160;Hephaestus Relic
+| Added &#160;Hephaestus Remedies
+| Added &#160;Hephaestus Shelmet
+| Added &#160;Hephaestus Urn
+
+| Jan&#160;20,&#160;2026 | 0.24.1 RC | Added the ability to retrieve Pet Items.
+| Increased &#160;All Skills Exp Super-Boost from COMMON to UNCOMMON
+| Increased &#160;Brown Bandana from RARE to EPIC
+| Increased &#160;Dwarf Turtle Shelmet from RARE to EPIC
+| Increased &#160;Quick Claw from EPIC to LEGENDARY
+| Decreased &#160;Washed-up Souvenir from LEGENDARY to EPIC
+| &#160;Hephaestus Relic only effects combat stats.
+| Reverted &#160;Hephaestus Relic change.
+
+| Mar&#160;31,&#160;2026 | Added &#160;Poignant Lucky Clover.
+| Added &#160;Unalloyed Speed.
+
+| May&#160;6,&#160;2026 | Added &#160;Snake Eyes.
+| Added &#160;Barrel of Riches.
+| Added &#160;Lotus Crown.
+
+| Jul&#160;10,&#160;2026 | Added &#160;Winding Ivy.
+| Added &#160;Rubber Snorkel.
+
+| Jul&#160;15,&#160;2026 | Added &#160;Magic For Pets In A Hurry.
+| SkyBlock Prototype
+| May&#160;5,&#160;2020 | 0.7.8 | Added Pet Items with the Pet Update.
+
+| Jul&#160;7,&#160;2020 | 0.8 | Added &#160;Farming Exp Boost (EPIC).
+
+| Sep&#160;8,&#160;2020 | 0.9 | Added &#160;Antique Remedies, &#160;Washed-Up Souvenir, &#160;Crochet Tiger Plushie, &#160;Dwarf Turtle Shelmet, &#160;Minos Relic, &#160;Bigger Teeth, &#160;Serrated Claws, &#160;Reinforced Scales, &#160;Gold Claws, and &#160;All Skills Exp Super-Boost.
+
+| Nov&#160;2,&#160;2020 | 0.9.10 | Added &#160;Vampire Fang and &#160;Spooky Cupcake.
+
+| Nov&#160;11,&#160;2020 | Added &#160;Jerry 3D Glasses.
+
+| Mar&#160;12,&#160;2021 | Added &#160;Reaper Gem.
+
+| May&#160;7,&#160;2021 | Added &#160;Flying Pig.
+
+| Unknown Date | Added the &#160;Farming Exp Boost (UNCOMMON) as a reward.
+It is unknown if this was in the game since the 0.11.4 update (on April 21st, 2021), or if it was added later.
+
+| Sep&#160;13,&#160;2021 | Added &#160;Quick Claw.
+
+| Mar&#160;28,&#160;2023 | 0.18.2 | Added &#160;Yellow Bandana.
+| Added &#160;Green Bandana.
+
+| Apr&#160;18,&#160;2023 | 0.18.3 | Removed &#160;Jerry 3D Glasses and &#160;Vampire Fang as Pet Items.
+
+| May&#160;31,&#160;2023 | 0.18.5 | Added a confirmation when replacing Pet Items.
+
+| Jun&#160;14,&#160;2023 | Slightly improved Pet Items description.
+
+| Aug&#160;22,&#160;2023 | 0.19.3 | Added &#160;Bejeweled Collar.
+
+| Sep&#160;17,&#160;2024 | 0.20.6 | Moved &#160;Mining Exp Boost (RARE) from [A sprite icon representing Zog in Hypixel SkyBlock] Zog to a drop from Mining Events.
+| Added &#160;Mining Exp Boost (UNCOMMON) to [A sprite icon representing Zog in Hypixel SkyBlock] Zog.
+
+| Dec&#160;10,&#160;2024 | 0.21 | Added &#160;Grandma's Knitting Needle.
+
+| Mar&#160;18,&#160;2025 | 0.22 | Added &#160;Burnt Texts.
+| Added &#160;Edible Seaweed.
+
+| Nov&#160;4,&#160;2025 | 0.23.6 | Added &#160;Cretan Urn.
+| Added &#160;Hephaestus Plushie.
+| Added &#160;Hephaestus Relic.
+| Added &#160;Hephaestus Remedies.
+| Added &#160;Hephaestus Shelmet.
+| Added &#160;Hephaestus Urn.
+
+| Jan&#160;27,&#160;2026 | 0.24.1 | Reworked Pet Item replacement.
+
+| Jan&#160;27,&#160;2026 | 0.24.1 | Added the ability to retrieve Pet Items.
+| Increased &#160;All Skills Exp Super-Boost from COMMON to UNCOMMON.
+| Increased &#160;Brown Bandana from RARE to EPIC.
+| Increased &#160;Dwarf Turtle Shelmet from RARE to EPIC.
+| Increased &#160;Quick Claw from EPIC to LEGENDARY.
+| Decreased &#160;Washed-up Souvenir from LEGENDARY to EPIC.
+
+| Apr&#160;28,&#160;2026 | 0.24.4 | Added &#160;Poignant Lucky Clover
+| .Added &#160;Unalloyed Speed.
+
+| May&#160;6,&#160;2026 | 0.24.5 | Changed &#160;Saddle perk to +30&#160;&#xe022;&#160;Speed.
+| &#160;Saddle can now be equipped by all pets.
+
+| May&#160;26,&#160;2026 | 0.25 | Added &#160;Snake Eyes.
+| Added &#160;Barrel of Riches.
+| Added &#160;Lotus Crown.
+
+| Jul&#160;22,&#160;2026 | 0.26.1 | Added &#160;Magic For Pets In A Hurry.
+
+## Navigation
+[edit | edit source]
+
+&#91;&#34;Tier Boost Core&#34;,&#34;Tier Boost&#34;,&#34;Textbook&#34;,&#34;Saddle&#34;,&#34;Magic For Pets In A Hurry&#34;,&#34;Poignant Lucky Clover&#34;,&#34;Lucky Clover Core&#34;,&#34;Lucky Clover&#34;,&#34;Lotus Crown&#34;,&#34;Exp Share Core&#34;,&#34;Exp Share&#34;,&#34;Barrel of Riches&#34;&#93;&#91;&#34;Fishing Exp Boost&#34;,&#34;Foraging Exp Boost&#34;,&#34;Farming Exp Boost&#34;,&#34;Mining Exp Boost&#34;,&#34;Combat Exp Boost&#34;,&#34;All Skills Exp Super-Boost&#34;,&#34;All Skills Exp Boost&#34;&#93;&#91;&#34;Bubblegum&#34;,&#34;Serrated Claws&#34;,&#34;Sharpened Claws&#34;,&#34;Reinforced Scales&#34;,&#34;Hardened Scales&#34;,&#34;Gold Claws&#34;,&#34;Iron Claws&#34;,&#34;Bigger Teeth&#34;,&#34;Big Teeth&#34;&#93;&#91;&#34;Hephaestus Souvenir&#34;,&#34;Washed-Up Souvenir&#34;,&#34;Hephaestus Relic&#34;,&#34;Minos Relic&#34;,&#34;Hephaestus Shelmet&#34;,&#34;Dwarf Turtle Shelmet&#34;,&#34;Hephaestus Plushie&#34;,&#34;Crochet Tiger Plushie&#34;,&#34;Hephaestus Urn&#34;,&#34;Cretan Urn&#34;,&#34;Hephaestus Remedies&#34;,&#34;Antique Remedies&#34;&#93;&#91;&#34;Drone Mod: Mining Off Camera&#34;,&#34;Drone Mod: Grungle&#34;,&#34;Drone Mod: Contraband&#34;,&#34;Drone Mods&#34;,&#34;Grandma's Knitting Needle&#34;,&#34;Four-Eyed Fish&#34;,&#34;Flying Pig&#34;,&#34;Dead Cat Food&#34;&#93;&#91;&#34;Yellow Bandana&#34;,&#34;Winding Ivy&#34;,&#34;Uncommon Party Hat&#34;,&#34;Titanium Minecart&#34;,&#34;Spooky Cupcake&#34;,&#34;Snake Eyes&#34;,&#34;Rubber Snorkel&#34;,&#34;Reaper Gem&#34;,&#34;Quick Claw&#34;,&#34;Green Bandana&#34;,&#34;Edible Seaweed&#34;,&#34;Burnt Texts&#34;,&#34;Brown Bandana&#34;,&#34;Bejeweled Collar&#34;&#93;&#91;&#34;Small Dolphin Charm&#34;,&#34;Small Sloth Claw&#34;,&#34;Frogspawn Bucket&#34;,&#34;Small Frog Treat&#34;,&#34;Royal Jelly&#34;,&#34;Small Honey Dipper&#34;,&#34;Small Pig's Ear&#34;,&#34;Small Seal Plushie&#34;,&#34;Small Witch Cauldron&#34;,&#34;Pocket-sized Igloo&#34;,&#34;Trunk Polish&#34;,&#34;Frozen Scute&#34;,&#34;Scuttler Shell&#34;,&#34;Chocolate Syringe&#34;,&#34;Magic Top Hat&#34;,&#34;Eerie Toy&#34;,&#34;Eerie Treat&#34;,&#34;Black Woolen Yarn&#34;,&#34;Pure Mithril Gem&#34;,&#34;Guardian Lucky Block&#34;,&#34;Fake Neuroscience Degree&#34;,&#34;Mixed Mite Gel&#34;,&#34;Rat Jetpack&#34;,&#34;Radioactive Vial&#34;,&#34;Enderman Cortex Rewriter&#34;,&#34;Jerry 3D Glasses&#34;,&#34;Vampire Fang&#34;,&#34;Wisp Upgrade Stone&#34;,&#34;Kuudra Chunk&#34;,&#34;Base Griffin Upgrade Stone&#34;&#93;&#91;&#34;Hephaestus Anvil&#34;,&#34;Zog Anvil&#34;,&#34;Super Scorcher&#34;,&#34;Super Scrubber&#34;,&#34;Mythological Ritual&#34;,&#34;Pets&#34;&#93; | v · d · ePet Items
+| 
+| Crafting | 
+
+- &#160;Barrel of Riches
+
+- &#160;Exp Share
+
+- &#160;Core
+
+- &#160;Lotus Crown
+
+- &#160;Lucky Clover
+
+- &#160;Core
+
+- &#160;Poignant Lucky Clover
+
+- &#160;Magic For Pets In A Hurry
+
+- &#160;Saddle
+
+- &#160;Textbook
+
+- &#160;Tier Boost
+
+- &#160;Core
+
+| 
+| Exp Boosts | 
+
+- &#160;All Skills Exp Boost
+
+- &#160;Super-Boost
+
+- &#160;Combat
+
+- &#160;Mining
+
+- &#160;Farming
+
+- &#160;Foraging
+
+- &#160;Fishing
+
+| 
+| [A sprite icon representing Zog in Hypixel SkyBlock] Zog | 
+
+- &#160;Big Teeth
+
+- &#160;Bigger
+
+- &#160;Iron Claws
+
+- &#160;Gold
+
+- &#160;Hardened Scales
+
+- &#160;Reinforced
+
+- &#160;Sharpened Claws
+
+- &#160;Serrated
+
+- &#160;Bubblegum
+
+| 
+| Mythological Ritual | 
+
+- &#160;Antique Remedies
+
+- &#160;Hephaestus
+
+- &#160;Cretan Urn
+
+- &#160;Hephaestus
+
+- &#160;Crochet Tiger Plushie
+
+- &#160;Hephaestus
+
+- &#160;Dwarf Turtle Shelmet
+
+- &#160;Hephaestus
+
+- &#160;Minos Relic
+
+- &#160;Hephaestus
+
+- &#160;Washed-Up Souvenir
+
+- &#160;Hephaestus
+
+| 
+| Pet Specific | 
+
+- &#160;Dead Cat Food
+
+- &#160;Flying Pig
+
+- &#160;Four-Eyed Fish
+
+- &#160;Grandma's Knitting Needle
+
+- Drone Mods
+
+- &#160;Contraband
+
+- &#160;Grungle
+
+- &#160;Mining Off Camera
+
+| 
+| Other | 
+
+- &#160;Bejeweled Collar
+
+- &#160;Brown Bandana
+
+- &#160;Burnt Texts
+
+- &#160;Edible Seaweed
+
+- &#160;Green Bandana
+
+- &#160;Quick Claw
+
+- &#160;Reaper Gem
+
+- &#160;Rubber Snorkel
+
+- &#160;Snake Eyes
+
+- &#160;Spooky Cupcake
+
+- &#160;Titanium Minecart
+
+- &#160;Uncommon Party Hat
+
+- &#160;Winding Ivy
+
+- &#160;Yellow Bandana
+
+| 
+| Pet Upgrade Items | 
+
+- &#160;Griffin Upgrade Stones
+
+- &#160;Kuudra Chunks
+
+- &#160;Wisp Upgrade Stones
+
+- &#160;Vampire Fang
+
+- &#160;Jerry 3D Glasses
+
+- &#160;Enderman Cortex Rewriter
+
+- &#160;Radioactive Vial
+
+- &#160;Rat Jetpack
+
+- &#160;Mixed Mite Gel
+
+- &#160;Fake Neuroscience Degree
+
+- &#160;Guardian Lucky Block
+
+- &#160;Pure Mithril Gem
+
+- &#160;Black Woolen Yarn
+
+- &#160;Eerie Treat
+
+- &#160;Toy
+
+- &#160;Magic Top Hat
+
+- &#160;Chocolate Syringe
+
+- &#160;Scuttler Shell
+
+- &#160;Frozen Scute
+
+- &#160;Trunk Polish
+
+- &#160;Pocket-sized Igloo
+
+- &#160;Witch Cauldrons
+
+- &#160;Seal Plushies
+
+- &#160;Pig's Ears
+
+- &#160;Honey Dippers
+
+- &#160;Royal Jelly
+
+- &#160;Frog Treats
+
+- &#160;Frogspawn Bucket
+
+- &#160;Sloth Claws
+
+- &#160;Dolphin Charms [AHN]
+
+| 
+| Related | 
+
+- Pets
+
+- Mythological Ritual
+
+- &#160;Super Scrubber
+
+- &#160;Super Scorcher
+
+- &#160;Zog Anvil
+
+- &#160;Hephaestus Anvil
+
+80 ms 4.3%
+80 ms 4.3%
+format 60 ms 3.2%
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::getExpandedArgument 60 ms 3.2%
+(for generator) 60 ms 3.2%
+replaceStrings 60 ms 3.2%
+[others] 580 ms 31.2%
+-->
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Pet_Items?oldid=885344"
+
+Categories: 
+- Pet items
+- 0.7.8
+
+Hidden categories: 
+- Pages using Crit Chance
+- Pages using Crit Damage
+- Pages using Defense
+- Pages using Strength
+- Pages using Speed
+- Pages using Intelligence
+- Pages using Overbloom
+- Pages using Farming Fortune
+- Pages using Bonus Pest Chance
+- Pages using Mining Speed
+- Pages using Mining Fortune
+- Pages using Fishing Speed
+- Pages using Treasure Chance
+- Pages using Double Hook Chance
+- Pages using Respiration
+- Pages using Sweep
+- Pages using True Defense
+- Pages using Attack Speed
+- Pages using Sea Creature Chance
+- Pages using Pet Luck
+- Pages using Ferocity
+- Pages using Rift Time
+- Pages using Mana Regen
+- Pages using Potato Fortune
+- Pages using Combat Wisdom
+- Pages using Magic Find
+- Pages with history
+- Pages with unknown history dates
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Page
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+3h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+- View buckets
+
+- This page was last edited on 22 November 2026, at 20:15.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

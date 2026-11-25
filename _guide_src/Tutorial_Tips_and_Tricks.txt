@@ -1,0 +1,487 @@
+Tutorial:Tips and Tricks - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Tutorial:Tips and Tricks
+
+From Hypixel SkyBlock Wiki
+
+Jump to navigation
+Jump to search
+
+- This tutorial is a guide.
+
+- This tutorial has been assembled by members of the community as a helpful resource or Tutorial, instructing players on SkyBlock, and thus is not official.
+
+- If you see missing, incorrect or out of date information, please help by contributing to the page.
+
+This is a place where you can find some useful Tips and Tricks for Hypixel SkyBlock. Feel free to add more!
+
+## Contents
+
+- 1 &#160;Farming
+
+- 2 &#160;Mining
+
+- 3 &#160;Combat
+
+- 4 &#160;Foraging
+
+- 5 &#160;Fishing
+
+- 6 &#160;Enchanting
+
+- 7 Dungeons
+
+- 8 Reforging
+
+- 9 Money Making Methods
+
+- 10 Other Tips
+
+- 11 Navigation
+
+## &#160;Farming
+[edit | edit source]
+
+- In the early game, it is recommended to use a &#160;Rookie Hoe from the Farm Merchant to harvest crops on public islands, or just using your fist. Once you unlock &#xe067; The Garden, you can start to use the &#160;Advanced Gardening Hoe, which automatically has Replenish on it. Once you reach a decent Garden level and have a supply of copper, specialized hoes and axes such as the &#160;Euclid's Wheat Sickle can be used and are optimal, with upgrades and an XP system. It is recommended that the user puts the Harvesting enchantment on their hoe and Blessed reforge, as well as the Turbo-Crop enchantment for the crop they are farming, as they increase the user's &#xe051;&#160;Farming Fortune, increasing the overall crop output.
+
+- All crops are balanced to have similar money and &#160;Farming XP rates, so the choice of crop doesn't matter too much. However, &#160;Enchanted Sugar Cane can be used to brew Speed&#160;VI potions, which could be used for &#160;Alchemy XP.
+
+- Using a LEGENDARY or MYTHIC armor set reforged to Sunny is optimal for ☯&#160;Farming Wisdom, which allows you to maximize &#160;Farming XP obtained from Minions.
+
+- &#160;Melon Minions and &#160;Cactus Minions are recommended for &#160;Farming XP, all other farming minions produce too little &#160;Farming XP.
+
+## &#160;Mining
+[edit | edit source]
+
+- Remember to deposit your bank before entering the &#xe067; Deep Caverns, as early-game players often die to the mobs there even if they are careful.
+
+- You can acquire a free &#160;Compactor by talking to the [A sprite icon representing Lapis Miner in Hypixel SkyBlock] Lapis Miner and giving them a &#160;Lapis Pickaxe, which could be crafted from the [A sprite icon representing Lazy Miner in Hypixel SkyBlock] Lazy Miner's &#160;Iron Pickaxe and 512 &#160;Lapis Lazuli. It is recommended to do so after acquiring a better pickaxe, such as a &#160;Fractured Mithril Pickaxe.
+
+- Prioritize completing Commissions and acquiring high amounts of Powder, as the Heart of the Mountain is far more important to mining progression than &#160;Mining levels.
+
+- See Tutorial:Mining Guide for a more in-depth mining guide.
+
+- If the player wishes to level up &#160;Mining without actually mining, they can use mining Minions, such as &#160;Snow Minions.
+
+## &#160;Combat
+[edit | edit source]
+
+- Putting Knockback on your primary weapon often results in mobs surviving longer, attacking more, and being more frustrating overall.
+
+- The &#160;Void Sword is the best early-game weapon, and acquiring it should be a priority for most players. The &#160;Undead Sword can be used to reach &#160;Combat&#160;XII (12), and the &#160;End Sword should be used to kill the initial five [A sprite icon representing Enderman in Hypixel SkyBlock] Endermen.
+
+- Saving up 200,000 Coins may seem challenging initially, but it is not that difficult when considering how much is given for free just for reaching certain skill levels.
+
+- Gaining access to the Dwarven Mines in order to kill [A sprite icon representing Glacite Walker in Hypixel SkyBlock] Glacite Walkers may assist in getting Combat XP early game, especially for accessing &#xe067; The End.
+
+- While the player can kill them in a single hit with a pickaxe, they can easily kill an underprepared player, so caution is advised.
+
+- &#160;Ender Armor should be used for early-game combat, even outside of &#xe067; The End.
+
+- Players should always reforge their weapons and armor, in order to maximize damage output. Recommended reforges for your weapons and armor can be found here.
+
+- Accessories are very important, much more so than your gear. Though the individual effects of each accessory may not be strong, their Magical Power gives a substantial stat boost that should not be ignored, especially with a good accessory power such as &#160;Silky or &#160;Scorching.
+
+- The &#160;Rift Necklace is a very powerful necklace, although The Rift could prove challenging for new players, acquiring enough timecharms could bolster your combat capabilities by a great amount.
+
+- Though items from the &#160;Catacombs are extremely valuable for combat, they are not the only option. Weapons such as the &#160;Aspect of the Dragons or a Gilded &#160;Midas Sword are effective options for general combat, while more specialized weapons such as the &#160;Atomsplit Katana are often very strong for their niche.
+
+- Players should never throw away any weapon, tool, or armor piece. Instead, the &#xe067; Museum is a good place to place old items for Skyblock XP, or simply selling them on the Auction House could net some Coins.
+
+- [A sprite icon representing Ghost in Hypixel SkyBlock] Ghosts are a very effective way of acquiring &#160;Combat XP lategame, but have high gear requirements due to their HP of 1 million. Most Slayer bosses can also allow for high &#160;Combat XP rates, especially when using specialized pets that increases ☯&#160;Combat Wisdom for specific mob types.
+
+## &#160;Foraging
+[edit | edit source]
+
+- There's an in-game tutorial for foraging, follow that tutorial if you struggle with it.
+
+- The &#160;Spruce Axe and &#160;Treecapitator should be used until you reach &#xe067; Galatea, after which the &#160;Fig Hew, &#160;Figstone Splitter and &#160;Helix Chopper are stronger.
+
+- Refer to Tutorial:Foraging Guide for more details.
+
+## &#160;Fishing
+[edit | edit source]
+
+- Squid fishing should be done in the &#xe067; Birch Park, where [A sprite icon representing Vanessa in Hypixel SkyBlock] Vanessa can summon rain, which allows [A sprite icon representing Squid in Hypixel SkyBlock] Squids to naturally spawn and [A sprite icon representing Night Squid in Hypixel SkyBlock] Night Squids to be fished up, both of which drops &#160;Ink Sacs. Due to their rarity outside of this method, they often sell for a lot, and &#160;Night Squid Shards also often goes for high prices on the Bazaar. This results in an extremely profitable fishing money making method, though not very good for &#160;Fishing XP. A &#160;Squid Hat vastly increases your chances of fishing up squids.
+
+- The &#160;Flying Fish Pet, though expensive, grants high &#xe00c;&#160;Fishing Speed. The &#160;Ammonite Pet grants high &#xe021;&#160;Sea Creature Chance, and most other pets are somewhere in between. The &#160;Reindeer Pet is optimal for fishing in &#xe067; Jerry's Workshop, while &#160;Dolphin is a good all-rounder pet for fishing.
+
+- The &#160;Squid Pet gives ☯&#160;Fishing Wisdom, which helps level up &#160;Fishing faster.
+
+- While the &#160;Fish Bait gives the highest &#xe00c;&#160;Fishing Speed, &#160;Whale Bait is the best bait for fishing, although extremely expensive. Other baits, such as &#160;Worm Bait or &#160;Frozen Bait, typically have their own niches.
+
+- Don't forget to wear armor with Sea Creature Chance, like &#160;Thunder Armor or &#160;Magma Lord Armor.
+
+- &#160;Clay Minions, &#160;Fishing Minions and &#160;Lily Pad Minion all produce good rates for &#160;Fishing XP for players who do not wish to actively fish or to bypass early-game fishing.
+
+- The 2x2 pool of lava next to [A sprite icon representing Sawyer in Hypixel SkyBlock] Sawyer in &#xe067; Galatea can be used to fish up large numbers of [A sprite icon representing Stridersurfer in Hypixel SkyBlock] Stridersurfers, each of which gives high amounts of &#160;Fishing XP. Due to them being the only mob that can spawn in &#xe067; Galatea lava, this is extremely consistent unlike other fishing methods.
+
+## &#160;Enchanting
+[edit | edit source]
+
+Enchanting has been made fairly easy by the addition of the Experimentation Table, but it still takes some few weeks to get &#160;Enchanting&#160;LX (60). 
+
+- It is recommended to use unofficial mods that can help you with solving the Experiments.
+
+- If the player wishes to lose as little money as possible, they can do Experiments only once a day.
+
+- The ideal pet to use to level up &#160;Enchanting is the &#160;Guardian Pet, as it boosts your ☯&#160;Enchanting Wisdom.
+
+- If the player wishes to level up the skill as quickly as possible, they can use all three Experiment renews and manually enchant until they hit the cap, but this is not recommended for mid-game players as it ends up taxing quite a few Bits.
+
+- Players may wish to keep doing Experiments even after they have hit &#160;Enchanting&#160;LX (60), because there is always a low chance of obtaining rare but valuable books such as Protection VII.
+
+## Dungeons
+[edit | edit source]
+
+- Healer is not a recommended class early-game due to the difficulty of its milestones, though it is suggested for mid-game players whose gear may not be optimal to avoid class overlap.
+
+- Refer to the Dungeon Ultimate Guide, or the Tutorials for each class: Mage Guide, Berserk Guide, Tutorials/Archer Guide, Tutorials/Healer Guide and Tutorials/Tank Guide.
+
+## Reforging
+[edit | edit source]
+
+The following reforges are based on optimising damage for melee setups.
+
+- Fabled and Withered are the best sword reforges. Sharp should be used earlygame before you can consistently afford them, or Spicy if you can hit 100%&#160;&#xe02c;&#160;Crit Chance without Sharp.
+
+- The best for bows is Spiritual if one is willing to spend a good amount of coins. Otherwise, it is recommended to use Precise or Unreal. Hasty is optimal for the &#160;Terminator due to its &#xe02c;&#160;Crit Chance penalty.
+
+- Armor pieces should be reforged to Fierce early game, and Ancient late game. Renowned is a more expensive alternative that gives slightly less &#xe050;&#160;Damage but more &#xe010;&#160;Effective Health and &#xe01a;&#160;Magic Find.
+
+- Refer to the Tutorial:Reforging Guide for more detailed descriptions.
+
+## Money Making Methods
+[edit | edit source]
+
+- By simply breaking wheat at the &#xe067; Farm, you can easily obtain a few thousand coins for beginner items, such as the [A sprite icon representing Combat Merchant in Hypixel SkyBlock] Combat Merchant talismans.
+
+- An easy way to get coins is to mine sand at the &#xe067; Mushroom Desert, then selling it to an NPC such as the [A sprite icon representing Farm Merchant in Hypixel SkyBlock] Farm Merchant. An Efficiency II &#160;Golden Shovel can instantly break sand, and this is a reliable method of acquiring enough money for the &#160;Void Sword.
+
+- Use Minions with upgrades (for example &#160;Super Compactor 3000 and &#160;Diamond Spreading) for passive money generation over time. The &#160;Redstone Minion with a &#160;Super Compactor 3000 is suggested to also acquire extra Accessory Bag slots via Redstone Collection.
+
+- Once you acquire 13,000 damage against [A sprite icon representing Zealot in Hypixel SkyBlock] Zealots, grinding them could often produce numerous &#160;Summoning Eyes per hour, each of which sells for over 1,000,000 Coins on the Bazaar. However, note that this method is extremely competitive.
+
+- &#160;Hideonleaf Shards often sell for high prices, and grinding them in large amounts is easy and have extremely low gear requirements. However, note that this method does not grant anything else of significance outside of Coins, with the &#160;Hunting XP given being extremely low and also producing low Starlyn Contest points, so it is not recommended. Also, it may be difficult to spot Hideonleafs without using mods to highlight their locations. This hurdle can be overcome by using F3 + B to highlight existing [A sprite icon representing Hideonleaf in Hypixel SkyBlock] Hideonleafs, although locations can not be viewed through walls and most spawn locations would not have an alive [A sprite icon representing Hideonleaf in Hypixel SkyBlock] Hideonleaf.
+
+- The player can use a method called NPC flipping. The player buys items (available in the Bazaar) from the NPC merchants and sell it at the Bazaar for profit (Note, players can only purchase 640 of the chosen item from the NPC merchants each day, or 6400 when [A sprite icon representing Diaz in Hypixel SkyBlock] Diaz is in office with Shopping Spree active). Typically, items such as &#160;Ice or &#160;Cobblestone have high margins, although due to the fluctuating market this may change.
+
+- Buying &#160;Viper Shards from [A sprite icon representing Kiara in Hypixel SkyBlock] Kiara and using them for Attribute Fusion or just selling them on the Bazaar often produces decent profit every day. You can add [A sprite icon representing Kiara in Hypixel SkyBlock] Kiara as an Abiphone contact to do this more effectively every day.
+
+- &#160;Farming on &#xe067; The Garden is a very consistent way of making money, due to NPC sell prices being consistent. Grinding Pests can give an extremely high amount of Coins per hour.
+
+- &#160;Mining has many money making methods, notably Mineshaft mining gives an extremely high coins per hour. However, early game players can mine &#160;Ruby or &#160;Mithril for a decent number of coins per hour.
+
+## Other Tips
+[edit | edit source]
+
+- /visit prtl allows you to access a community-made 'Portal Hub', which includes a portal to almost every single location you can warp to. It is extremely helpful even for late-game players. The island also has every &#160;Century Cake, along with a &#160;Placeable Fairy Soul.
+
+- You should always make sure you have enough money in your bank to be able to get the maximum interest.
+
+- If you don't have enough minion slots, you should alternate your minions, depending on your objective.
+
+- You should consider storing essential items in your Ender Chest. It can be accessed at any time via the SkyBlock Menu, and helps declutter a messy inventory.
+
+- When you break portals on your private island, the portal item is lost. You will need to craft another one.
+
+- The &#160;Personal Bank upgrades from [A sprite icon representing Guy in Hypixel SkyBlock] Guy are very useful for any player, do not neglect this upgrade.
+
+- There's an odd house in the &#xe067; Wilderness where people often gather every hour, consider checking it out once you have a lot of Coins...
+
+## Navigation
+[edit | edit source]
+
+&#91;&#34;Tutorial:Navigation&#34;,&#34;Tutorial:Day Count&#34;,&#34;Tutorial:Autopet Guide&#34;&#93;&#91;&#34;Tutorial:Ultimate Guide&#34;,&#34;Tutorial:Tips and Tricks&#34;,&#34;Tutorial:Ironman Guide&#34;,&#34;Tutorial:Bingo Guide&#34;,&#34;Tutorial:Periodic Tasks&#34;&#93;&#91;&#34;Tutorial:Maxing Items&#34;,&#34;Tutorial:Ranged_Weapon_Guide&#34;,&#34;Tutorial:Melee_Weapon_Guide&#34;,&#34;Tutorial:Minion Farming&#34;,&#34;Tutorial:Reforging Guide&#34;,&#34;Tutorial:Armor Guide&#34;,&#34;Tutorial:Accessory Guide&#34;&#93;&#91;&#34;Tutorial:Mining Guide&#34;,&#34;Tutorial:Hunting Guide&#34;,&#34;Tutorial:Foraging Guide&#34;,&#34;Tutorial:Fishing Guide&#34;,&#34;Tutorial:Farming Guide&#34;,&#34;Tutorial:Alchemy Guide&#34;&#93;&#91;&#34;Tutorial:Gemstone Gauntlet's Ability&#34;,&#34;Tutorial:Killing Ghosts on a Budget&#34;,&#34;Tutorial:Dragon Fights Guide&#34;,&#34;Tutorial:How to Obtain a Summoning Eye&#34;,&#34;Tutorial:Kuudra Guide&#34;,&#34;Tutorial:Slayer_Guide&#34;&#93;&#91;&#34;Tutorial:Tank Guide&#34;,&#34;Tutorial:Left-Click_Mage_Guide&#34;,&#34;Tutorial:Right-Click Mage Guide&#34;,&#34;Tutorial:Mage Guide&#34;,&#34;Tutorial:Healer Guide&#34;,&#34;Tutorial:Berserk Guide&#34;,&#34;Tutorial:Archer Guide&#34;,&#34;Tutorial:Dungeon Puzzles&#34;,&#34;Tutorial:Master Mode Guide&#34;,&#34;Tutorial:Catacombs Guide&#34;,&#34;Tutorial:Ultimate Dungeon Guide&#34;&#93;&#91;&#34;Tutorial:Mushroom Farm&#34;,&#34;Tutorial:Sugar Cane Farm&#34;,&#34;Tutorial:Cocoa Beans Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;&#93;&#91;&#34;Tutorial:Timite Mining&#34;,&#34;Tutorial:Tick Thresholds&#34;,&#34;Tutorial:Heart of the Mountain Trees&#34;,&#34;Tutorial:Sapphire Crystal&#34;,&#34;Tutorial:6-ticking Ruby in the Magma Fields&#34;&#93;&#91;&#34;Tutorial:Lowballing&#34;,&#34;Tutorial:NPC Flipping&#34;,&#34;Tutorial:Bazaar Flipping&#34;,&#34;Tutorial:AH Flipping&#34;&#93; | v · d · eTutorials
+| 
+| How-To's | 
+
+- Autopet Guide
+
+- Day Count
+
+- Navigation
+
+| 
+| 
+| General Guides | 
+
+- Periodic Tasks
+
+- Bingo Guide
+
+- Ironman Guide
+
+- Tips and Tricks
+
+- Ultimate Guide
+
+| 
+| Progression Guides | 
+
+- Accessory Guide
+
+- Armor Guide
+
+- Reforging Guide
+
+- Minion Farming
+
+- Melee Weapon Guide
+
+- Ranged Weapon Guide
+
+- Maxing Items
+
+| 
+| Skill Guides | 
+
+- Alchemy Guide
+
+- Farming Guide
+
+- Fishing Guide
+
+- Foraging Guide
+
+- Hunting Guide
+
+- Mining Guide
+
+| 
+| Combat | 
+
+- Slayer Guide
+
+- Kuudra Guide
+
+- How to Obtain a Summoning Eye
+
+- Dragon Fights Guide
+
+- Killing Ghosts on a Budget
+
+- Gemstone Gauntlet Ability
+
+| 
+| Dungeon Guides | 
+
+- Ultimate Dungeon Guide
+
+- Catacombs Guide
+
+- Master Mode Guide
+
+- Dungeon Puzzles
+
+- Archer Guide
+
+- Berserk Guide
+
+- Healer Guide
+
+- Mage Guide (RCM Guide & LCM Guide)
+
+- Tank Guide
+
+| 
+| Farming | 
+
+- Wheat
+
+- Potato
+
+- Carrot
+
+- Nether Wart
+
+- Pumpkin
+
+- Melon
+
+- Cocoa Beans
+
+- Sugar Cane
+
+- Mushroom
+
+| 
+| Mining | 
+
+- 6-ticking Ruby in the Magma Fields
+
+- Nucleus Runs (Sapphire Crystal)
+
+- Heart of the Mountain Trees
+
+- Tick Thresholds
+
+- Timite Mining
+
+| 
+| Economy Guides | 
+
+- AH
+
+- Bazaar
+
+- NPC
+
+- Lowballing
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Tutorial:Tips_and_Tricks?oldid=869613"
+
+Categories: 
+- Community Guides
+- Tutorials
+
+Hidden categories: 
+- Pages using Farming Fortune
+- Pages using Farming Wisdom
+- Pages using Combat Wisdom
+- Pages using Fishing Speed
+- Pages using Sea Creature Chance
+- Pages using Fishing Wisdom
+- Pages using Enchanting Wisdom
+- Pages using Crit Chance
+- Pages using Damage
+- Pages using Effective Health
+- Pages using Magic Find
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Tutorial
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+2h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+
+- This page was last edited on 8 November 2026, at 02:34.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

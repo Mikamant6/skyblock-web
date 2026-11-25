@@ -50,6 +50,23 @@ export default function LevelGuideView({ skillKey }: { skillKey: string }) {
       // egal
     }
   }
+  // Filter "nur Fehlendes": blendet Teile aus, die der Spieler schon hat. Die Wahl wird im Browser gemerkt.
+  const [onlyMissing, setOnlyMissing] = useState(false);
+  useEffect(() => {
+    try {
+      setOnlyMissing(window.localStorage.getItem("guide-only-missing") === "1");
+    } catch {
+      // Browser-Speicher nicht verfuegbar: Filter bleibt aus
+    }
+  }, []);
+  function chooseOnlyMissing(value: boolean) {
+    setOnlyMissing(value);
+    try {
+      window.localStorage.setItem("guide-only-missing", value ? "1" : "0");
+    } catch {
+      // egal
+    }
+  }
   const range = ranges[Math.min(selected, ranges.length - 1)];
   // Eintraege fuer eine bestimmte Pflanze nur zeigen, wenn diese Pflanze gewaehlt ist
   const gear = range === undefined ? [] : range.gear.filter((item) => item.crop === undefined || item.crop === crop);
@@ -89,6 +106,9 @@ export default function LevelGuideView({ skillKey }: { skillKey: string }) {
   // Teile, die durch eine bessere Stufe ersetzt wurden (z. B. Fig Hew -> Figstone Splitter), gelten auch als vorhanden
   const owned = withUpgradeOwnership(skillKey, rawOwned);
   const prices = current !== null && current.result.ok ? current.result.data.prices : null;
+  // Der Filter geht nur, wenn wir wissen, was der Spieler hat
+  const filterActive = onlyMissing && owned !== null;
+  const visibleGear = filterActive ? gear.filter((item) => !isComplete(item, owned)) : gear;
 
   return (
     <div style={{ "--skill-color": meta.color } as CSSProperties}>
@@ -136,6 +156,12 @@ export default function LevelGuideView({ skillKey }: { skillKey: string }) {
           </nav>
 
           {ids.length > 0 && <OwnedStatus loaded={current} />}
+          {owned !== null && (
+            <label className={styles.filterToggle}>
+              <input type="checkbox" checked={onlyMissing} onChange={(event) => chooseOnlyMissing(event.target.checked)} />
+              Only show what I am missing
+            </label>
+          )}
 
           <div className={`${Panel.panel} ${styles.panel}`}>
             <h3>
@@ -143,10 +169,12 @@ export default function LevelGuideView({ skillKey }: { skillKey: string }) {
             </h3>
             {gear.length === 0 ? (
               <p className={styles.empty}>No equipment has been added for this level range yet.</p>
+            ) : visibleGear.length === 0 ? (
+              <p className={styles.empty}>You already have everything for this level range.</p>
             ) : (
               <ul className={styles.gearList}>
-                {gear.map((item) => (
-                  <GearRow key={`${item.slot}-${item.name}`} item={item} owned={owned} onHover={setHovered} />
+                {visibleGear.map((item) => (
+                  <GearRow key={`${item.slot}-${item.name}`} item={item} owned={owned} onlyMissing={filterActive} onHover={setHovered} />
                 ))}
               </ul>
             )}
@@ -191,13 +219,34 @@ function OwnedStatus({ loaded }: { loaded: Loaded | null }) {
   );
 }
 
-function GearRow({ item, owned, onHover }: { item: GearItem; owned: Record<string, string[]> | null; onHover: (hovered: Hovered | null) => void }) {
+// Hat der Spieler alle Teile dieses Eintrags? (Eintraege ohne Teile gelten nie als komplett)
+function isComplete(item: GearItem, owned: Record<string, string[]>): boolean {
   const pieces = piecesOf(item);
-  const have = owned === null ? 0 : pieces.filter((piece) => owned[piece.id] !== undefined).length;
-  const complete = owned !== null && pieces.length > 0 && have === pieces.length;
+  return pieces.length > 0 && pieces.every((piece) => owned[piece.id] !== undefined);
+}
+
+function GearRow({
+  item,
+  owned,
+  onlyMissing,
+  onHover,
+}: {
+  item: GearItem;
+  owned: Record<string, string[]> | null;
+  onlyMissing: boolean;
+  onHover: (hovered: Hovered | null) => void;
+}) {
+  const allPieces = piecesOf(item);
+  // Bei Sets nur die fehlenden Teile zeigen; Upgrade-Pfade (Pfeile) bleiben ganz, sonst fehlt der Zusammenhang
+  const pieces =
+    onlyMissing && owned !== null && allPieces.length > 1 && item.flow !== true
+      ? allPieces.filter((piece) => owned[piece.id] === undefined)
+      : allPieces;
+  const have = owned === null ? 0 : allPieces.filter((piece) => owned[piece.id] !== undefined).length;
+  const complete = owned !== null && allPieces.length > 0 && have === allPieces.length;
   // Sets (mehrere Teile) und einzelne Gegenstaende mit Bild bekommen die Teile-Liste mit Bild und Hover-Beschreibung.
   // Bei einem einzelnen Gegenstand ist der Name dort schon zu sehen, deshalb entfaellt die Ueberschrift.
-  const isSet = pieces.length > 1;
+  const isSet = allPieces.length > 1;
   const isFlow = item.flow === true;
   const showList = isSet || pieces[0]?.icon !== undefined;
 
@@ -209,7 +258,7 @@ function GearRow({ item, owned, onHover }: { item: GearItem; owned: Record<strin
           {item.name}
           {owned !== null && isSet && !isFlow && (
             <span className={styles.badge} data-complete={complete}>
-              {have} / {pieces.length} pieces
+              {have} / {allPieces.length} pieces
             </span>
           )}
           {item.tag !== undefined && (

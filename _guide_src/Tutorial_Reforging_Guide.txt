@@ -1,0 +1,482 @@
+Tutorial:Reforging Guide - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Tutorial:Reforging Guide
+
+From Hypixel SkyBlock Wiki
+
+Jump to navigation
+Jump to search
+
+- This tutorial is a guide.
+
+- This tutorial has been assembled by members of the community as a helpful resource or Tutorial, instructing players on SkyBlock, and thus is not official.
+
+- If you see missing, incorrect or out of date information, please help by contributing to the page.
+
+This page exists as a guide to newer players who don't know which reforge to put on their items. 
+
+Show/Hide List of Recommended Reforges
+
+### Recommended Reforges (Without Reforge Stones)
+[edit | edit source]
+
+| Recommended Reforges for:
+
+| Stat to increase
+
+| Reforge
+
+| Armor
+
+| &#xe010;&#160;Health and &#xe008;&#160;Defense
+
+| Titanic, Heavy1
+
+| &#xe003;&#160;Intelligence
+
+| Wise
+
+| &#xe02c;&#160;Crit Chance and &#xe050;&#160;Damage
+
+| Fierce
+
+| Equipment
+
+| &#xe010;&#160;Health and &#xe008;&#160;Defense
+
+| Colossal, Hefty1
+
+| &#xe050;&#160;Damage
+
+| Menacing
+
+| &#xe003;&#160;Intelligence
+
+| Brilliant
+
+| &#xe02c;&#160;Crit Chance
+
+| Stained2
+
+| Bows
+
+| &#xe050;&#160;Damage
+
+| Unreal
+
+| &#xe02c;&#160;Crit Chance
+
+| Hasty, Deadly
+
+| Swords
+
+| &#xe050;&#160;Damage
+
+| Spicy
+
+| &#xe003;&#160;Intelligence
+
+| Heroic
+
+| &#xe02c;&#160;Crit Chance
+
+| Sharp, Legendary3
+
+| Notes
+
+| 1 Heavy is better for &#xe010;&#160;Effective Health than Titanic, but debuffs some of your stats.. It is instead recommended to use Reinforced, which keeps Heavy's high &#xe008;&#160;Defense but without any debuffs, with an easy-to-get reforge stone even for ironman players (see below). Likewise for equipment, Hefty provides more &#xe010;&#160;Effective Health with its high &#xe008;&#160;Defense bonus, but its debuffs makes it typically worse than Colossal at an early-game stage.
+2 At Common and Uncommon rarities, Stained gives the same &#xe02c;&#160;Crit Chance as other reforges, such as Menacing, Soft, Honored, and Blended, all of which are better at low rarities.
+
+3 Legendary produces higher &#xe050;&#160;Damage. However, Sharp gives more &#xe02c;&#160;Crit Chance, which is often more valuable until you get access to reforge stones.
+
+### Recommended Reforge (with Reforge Stones)
+[edit | edit source]
+
+| Recommended Reforges for
+
+| Stats to increase
+
+| Reforge
+
+| Armor
+
+| &#xe010;&#160;Health and &#xe008;&#160;Defense
+
+| Reinforced, Giant&#91;1&#93;
+
+| &#xe003;&#160;Intelligence
+
+| Necrotic, Loving&#91;2&#93;
+
+| &#xe050;&#160;Damage and &#xe02c;&#160;Crit Chance
+
+| Ancient, Renowned&#91;3&#93;
+
+| Equipment
+
+| &#xe008;&#160;Defense
+
+| Fortified
+
+| &#xe050;&#160;Damage
+
+| Strengthened
+
+| &#xe003;&#160;Intelligence
+
+| Glistening
+
+| &#xe02c;&#160;Crit Chance
+
+| Waxed
+
+| &#xe028;&#160;Vitality
+
+| Blood-Soaked (Cloak only)
+
+| Bows
+
+| &#xe050;&#160;Damage
+
+| Spiritual, Precise&#91;4&#93;
+
+| Swords
+
+| &#xe050;&#160;Damage
+
+| Withered, Fabled
+
+| &#xe02c;&#160;Crit Chance and &#xe007;&#160;Crit Damage
+
+| Suspicious
+
+| &#xe003;&#160;Intelligence
+
+| Heroic
+
+| &#xe001;&#160;Attack Speed
+
+| Fast
+
+| &#xe00b;&#160;Ferocity
+
+| Dirty
+
+| Fishing Rods
+
+| &#xe00c;&#160;Fishing Speed
+
+| Pitchin', Chomp
+
+| &#xe021;&#160;Sea Creature Chance
+
+| Treacherous, Stiff, Lucky
+
+Tutorial:Efficient Minion Farming
+
+Tutorial:Maxing Items
+
+&#91;&#34;Tutorial:Navigation&#34;,&#34;Tutorial:Day Count&#34;,&#34;Tutorial:Autopet Guide&#34;&#93;&#91;&#34;Tutorial:Ultimate Guide&#34;,&#34;Tutorial:Tips and Tricks&#34;,&#34;Tutorial:Ironman Guide&#34;,&#34;Tutorial:Bingo Guide&#34;,&#34;Tutorial:Periodic Tasks&#34;&#93;&#91;&#34;Tutorial:Maxing Items&#34;,&#34;Tutorial:Ranged_Weapon_Guide&#34;,&#34;Tutorial:Melee_Weapon_Guide&#34;,&#34;Tutorial:Minion Farming&#34;,&#34;Tutorial:Reforging Guide&#34;,&#34;Tutorial:Armor Guide&#34;,&#34;Tutorial:Accessory Guide&#34;&#93;&#91;&#34;Tutorial:Mining Guide&#34;,&#34;Tutorial:Hunting Guide&#34;,&#34;Tutorial:Foraging Guide&#34;,&#34;Tutorial:Fishing Guide&#34;,&#34;Tutorial:Farming Guide&#34;,&#34;Tutorial:Alchemy Guide&#34;&#93;&#91;&#34;Tutorial:Gemstone Gauntlet's Ability&#34;,&#34;Tutorial:Killing Ghosts on a Budget&#34;,&#34;Tutorial:Dragon Fights Guide&#34;,&#34;Tutorial:How to Obtain a Summoning Eye&#34;,&#34;Tutorial:Kuudra Guide&#34;,&#34;Tutorial:Slayer_Guide&#34;&#93;&#91;&#34;Tutorial:Tank Guide&#34;,&#34;Tutorial:Left-Click_Mage_Guide&#34;,&#34;Tutorial:Right-Click Mage Guide&#34;,&#34;Tutorial:Mage Guide&#34;,&#34;Tutorial:Healer Guide&#34;,&#34;Tutorial:Berserk Guide&#34;,&#34;Tutorial:Archer Guide&#34;,&#34;Tutorial:Dungeon Puzzles&#34;,&#34;Tutorial:Master Mode Guide&#34;,&#34;Tutorial:Catacombs Guide&#34;,&#34;Tutorial:Ultimate Dungeon Guide&#34;&#93;&#91;&#34;Tutorial:Mushroom Farm&#34;,&#34;Tutorial:Sugar Cane Farm&#34;,&#34;Tutorial:Cocoa Beans Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;&#93;&#91;&#34;Tutorial:Timite Mining&#34;,&#34;Tutorial:Tick Thresholds&#34;,&#34;Tutorial:Heart of the Mountain Trees&#34;,&#34;Tutorial:Sapphire Crystal&#34;,&#34;Tutorial:6-ticking Ruby in the Magma Fields&#34;&#93;&#91;&#34;Tutorial:Lowballing&#34;,&#34;Tutorial:NPC Flipping&#34;,&#34;Tutorial:Bazaar Flipping&#34;,&#34;Tutorial:AH Flipping&#34;&#93; | v · d · eTutorials
+| 
+| How-To's | 
+
+- Autopet Guide
+
+- Day Count
+
+- Navigation
+
+| 
+| 
+| General Guides | 
+
+- Periodic Tasks
+
+- Bingo Guide
+
+- Ironman Guide
+
+- Tips and Tricks
+
+- Ultimate Guide
+
+| 
+| Progression Guides | 
+
+- Accessory Guide
+
+- Armor Guide
+
+- Reforging Guide
+
+- Minion Farming
+
+- Melee Weapon Guide
+
+- Ranged Weapon Guide
+
+- Maxing Items
+
+| 
+| Skill Guides | 
+
+- Alchemy Guide
+
+- Farming Guide
+
+- Fishing Guide
+
+- Foraging Guide
+
+- Hunting Guide
+
+- Mining Guide
+
+| 
+| Combat | 
+
+- Slayer Guide
+
+- Kuudra Guide
+
+- How to Obtain a Summoning Eye
+
+- Dragon Fights Guide
+
+- Killing Ghosts on a Budget
+
+- Gemstone Gauntlet Ability
+
+| 
+| Dungeon Guides | 
+
+- Ultimate Dungeon Guide
+
+- Catacombs Guide
+
+- Master Mode Guide
+
+- Dungeon Puzzles
+
+- Archer Guide
+
+- Berserk Guide
+
+- Healer Guide
+
+- Mage Guide (RCM Guide & LCM Guide)
+
+- Tank Guide
+
+| 
+| Farming | 
+
+- Wheat
+
+- Potato
+
+- Carrot
+
+- Nether Wart
+
+- Pumpkin
+
+- Melon
+
+- Cocoa Beans
+
+- Sugar Cane
+
+- Mushroom
+
+| 
+| Mining | 
+
+- 6-ticking Ruby in the Magma Fields
+
+- Nucleus Runs (Sapphire Crystal)
+
+- Heart of the Mountain Trees
+
+- Tick Thresholds
+
+- Timite Mining
+
+| 
+| Economy Guides | 
+
+- AH
+
+- Bazaar
+
+- NPC
+
+- Lowballing
+
+- ↑ Giant is better, but Reinforced is almost free, so should be used for earlygame and ironman players.
+
+- ↑ Loving produces less &#xe003;&#160;Intelligence than Necrotic. However, the 5% &#xe002;&#160;Ability Damage buff makes it a much better choice than Necrotic on chestplates.
+
+- ↑ Ancient is the more recommended reforge. However, Renowned is better if the player's Catacombs level is extremely low, or if they wish for some additional &#xe01a;&#160;Magic Find 
+
+- ↑ Precise is better than Spiritual for The Catacombs - Floor IV and its master mode equivalent only.
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Tutorial:Reforging_Guide?oldid=841785"
+
+Categories: 
+- Community Guides
+- Tutorials
+
+Hidden categories: 
+- Pages using Health
+- Pages using Defense
+- Pages using Intelligence
+- Pages using Crit Chance
+- Pages using Damage
+- Pages using Effective Health
+- Pages using Vitality
+- Pages using Crit Damage
+- Pages using Attack Speed
+- Pages using Ferocity
+- Pages using Fishing Speed
+- Pages using Sea Creature Chance
+- Pages using Ability Damage
+- Pages using Magic Find
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Tutorial
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+3h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+
+- This page was last edited on 14 September 2026, at 22:15.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

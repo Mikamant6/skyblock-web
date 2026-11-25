@@ -10,18 +10,22 @@
 /* ---- Seitenleiste ---- */
 .sidebar {
   position: sticky;
-  top: 0;
+  top: var(--sidebar-top, 0);
   align-self: flex-start;
   display: flex;
   flex-direction: column;
   gap: 20px;
   width: 248px;
-  height: 100vh;
+  height: var(--sidebar-height, 100vh);
+  margin: var(--sidebar-margin, 0);
   flex-shrink: 0;
   overflow-y: auto;
-  padding: 20px 12px;
-  border-right: 1px solid var(--line, rgb(128 128 128 / 0.3));
-  background: var(--sidebar-bg, rgb(128 128 128 / 0.06));
+  padding: var(--sidebar-padding, 20px 12px);
+  border: var(--sidebar-border, 0);
+  border-right: var(--sidebar-border-right, var(--sidebar-border, 0));
+  border-radius: var(--sidebar-radius, 0);
+  background: var(--sidebar-bg-full, var(--sidebar-bg, rgb(128 128 128 / 0.06)));
+  box-shadow: var(--sidebar-shadow, none);
 }
 .brand,
 .brandSmall {
@@ -38,13 +42,30 @@
   gap: 10px;
 }
 .brand {
+  flex-direction: var(--brand-dir, row);
+  gap: 8px;
   padding: 4px 10px;
+  font-family: var(--brand-font, inherit);
+  font-size: var(--brand-size, 1.35rem);
+  font-weight: var(--brand-weight, 700);
+  text-align: var(--brand-align, left);
+  text-shadow: var(--brand-shadow, none);
+}
+.brandSmall {
+  font-family: var(--brand-font, inherit);
+  font-size: var(--brand-small-size, 1.35rem);
+  font-weight: var(--brand-weight, 700);
 }
 /* Logo-Zeichen neben dem Namen */
 .logo {
   flex-shrink: 0;
-  border-radius: 8px;
-  box-shadow: 0 0 0 1px var(--line, rgb(128 128 128 / 0.3));
+  display: var(--logo-new-display, inline-block);
+  filter: var(--logo-filter, none);
+}
+/* Altes Logo, nur im Classic-Design sichtbar */
+.logoClassic {
+  flex-shrink: 0;
+  display: var(--logo-classic-display, none);
 }
 .navList,
 .subList {
@@ -60,10 +81,13 @@
 .navRow {
   display: flex;
   align-items: center;
-  border-radius: 8px;
+  border: 1px solid transparent;
+  border-radius: var(--nav-radius, 8px);
 }
 .navRow[data-active="true"] {
-  background: var(--surface-strong, rgb(128 128 128 / 0.14));
+  border-color: var(--nav-active-border, transparent);
+  background: var(--nav-active-bg, var(--surface-strong, rgb(128 128 128 / 0.14)));
+  box-shadow: var(--nav-active-shadow, none);
 }
 .navLink {
   flex: 1;
@@ -124,8 +148,24 @@
   outline: 2px solid var(--accent, #2f9e6f);
   outline-offset: 2px;
 }
-.sidebarFoot {
-  margin-top: auto;
+/* Hintergrund hinter der ganzen Seite. Auf der Startseite gilt --home-bg (schlicht, ohne Foto). */
+.pageBg {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background: var(--page-bg, none);
+}
+.pageBg[data-home="true"] {
+  background: var(--home-bg, var(--page-bg, none));
+}
+
+/* Umschalter der Designs: fest oben rechts */
+.themeCorner {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  z-index: 45;
 }
 
 /* ---- Inhalt ---- */
@@ -180,9 +220,6 @@
   padding: 14px 24px;
   border-bottom: 1px solid var(--line, rgb(128 128 128 / 0.3));
 }
-.topbarTools {
-  margin-left: auto;
-}
 
 @media (max-width: 800px) {
   .shell {
@@ -217,6 +254,8 @@
     z-index: 40;
     height: 100vh;
     height: 100dvh;
+    margin: 0;
+    border-radius: 0;
     background: var(--background);
     visibility: hidden; /* geschlossen: auch per Tastatur nicht erreichbar */
     transform: translateX(-100%);

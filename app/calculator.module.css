@@ -19,9 +19,11 @@
   align-items: center;
   gap: 12px;
   color: var(--title-color, inherit);
-  font-size: 2rem;
-  font-weight: 700;
-  line-height: 1.2;
+  font-family: var(--title-font, inherit);
+  font-size: var(--title-size, 2rem);
+  font-weight: var(--title-weight, 700);
+  line-height: var(--title-lh, 1.2);
+  text-shadow: var(--title-shadow, none);
 }
 .beta {
   padding: 2px 10px;
@@ -33,23 +35,25 @@
   letter-spacing: 0.04em;
   text-transform: uppercase;
 }
-/* Startseite: breites Titelbild, unten weich in den Hintergrund ausgeblendet */
+/* Startseite: breites Titelbild, unten weich in den Hintergrund ausgeblendet.
+   Welches Bild, steht je Design in globals.css (--banner-image). */
 .banner {
-  display: block;
+  display: var(--banner-display, none);
   width: 100%;
   height: clamp(130px, 20vw, 240px); /* flacher Streifen, damit das Eingabefeld weiter oben sitzt */
-  object-fit: cover;
-  object-position: center 35%;
   margin-bottom: 16px;
   border-radius: 16px;
-  box-shadow: 0 0 40px rgb(95 211 179 / 0.15);
+  background: var(--banner-image, none) center 35% / cover no-repeat;
+  box-shadow: var(--banner-glow, none);
   -webkit-mask-image: linear-gradient(to bottom, #000 70%, transparent 100%);
   mask-image: linear-gradient(to bottom, #000 70%, transparent 100%);
 }
 .subtitle {
-  margin: 8px 0 0;
-  opacity: 0.75;
+  margin: 10px 0 0;
+  font-size: var(--sub-size, 1rem);
+  opacity: var(--sub-opacity, 0.75);
   line-height: 1.5;
+  text-shadow: var(--sub-shadow, none);
 }
 
 /* ---- Formular ---- */
@@ -188,6 +192,7 @@
 }
 .tableWrap {
   overflow-x: auto;
+  background: var(--surface, transparent);
   border: 1px solid var(--line, rgb(128 128 128 / 0.3));
   border-radius: 12px;
 }
@@ -288,7 +293,7 @@
 
 @media (max-width: 520px) {
   .title {
-    font-size: 1.6rem;
+    font-size: 2.4rem;
   }
   .button {
     width: 100%;

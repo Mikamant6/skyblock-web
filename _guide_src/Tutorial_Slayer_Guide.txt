@@ -1,0 +1,1229 @@
+Tutorial:Slayer Guide - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Tutorial:Slayer Guide
+
+From Hypixel SkyBlock Wiki
+
+Jump to navigation
+Jump to search
+
+- This tutorial is a guide.
+
+- This tutorial has been assembled by members of the community as a helpful resource or Tutorial, instructing players on SkyBlock, and thus is not official.
+
+- If you see missing, incorrect or out of date information, please help by contributing to the page.
+
+- This article is a work in progress.
+
+- This article is incomplete and will be expanded on over the course of the article's creation.
+
+- If you see missing, incorrect or out of date information, you are welcomed to edit this page.
+
+- 
+
+This tutorial was last edited by ~2026-MangroveWolfEcho40282 (contribs|logs|block) on 7:56, October 31 2026 (23 days ago)
+
+Currently, in Hypixel SkyBlock, there are 6 types of Slayers: Zombie, Spider, Wolf, Enderman, Blaze, and Vampire. Each type of Slayer has their own unique strategies pertaining to each boss: this guide will detail useful strategies and gear progression for each specific Slayer.
+
+NOTE: The gear outlined below are simply recommended prerequisites, and strictly following this exact progression is not mandatory.
+
+Zombie Slayer involves killing [A sprite icon representing Zombie in Hypixel SkyBlock] Zombies and culminates in killing the [A sprite icon representing Revenant Horror in Hypixel SkyBlock] Revenant Horror. It is widely considered to be the easiest Slayer, due to its low stats and predictable actions: however, inexperienced or weak players may struggle with defeating one.
+
+## Strategies
+[edit | edit source]
+
+### Tier I
+[edit | edit source]
+
+The Tier&#160;I [A sprite icon representing Revenant Horror in Hypixel SkyBlock] Revenant Horror is relatively easy to kill due to its low &#xe010;&#160;Health and &#xe050;&#160;Damage. Its only ability, Life Drain, drains the player's &#xe010;&#160;Health every 2.5s. Not a lot of gear is required to defeat a Tier&#160;I Revenant Horror as it is barely stronger than a basic [A sprite icon representing Graveyard Zombie in Hypixel SkyBlock] Graveyard Zombie.
+
+| Slot
+| Name
+| Notes
+
+| [Undead Sword] 
+
+| &#160;Undead Sword
+
+| The &#160;Undead Sword should be enough to defeat a Tier&#160;I Revenant Horror due to its passive of dealing +100% damage to &#xe084;&#160;Undead mobs, especially when paired with a high level of Sharpness and Smite.
+
+| [Mole Hat] [Kelly's T-Shirt] [Charlie's Trousers] [Melody's Shoes] 
+
+| &#160;Park Armor
+
+| An early-game armor set with decent &#xe010;&#160;Effective Health should be enough to get one through a Tier&#160;I Revenant Horror, such as &#160;Park Armor or &#160;Lapis Armor.
+
+| [Lapis Armor Helmet] [Lapis Armor Chestplate] [Lapis Armor Leggings] [Lapis Armor Boots] 
+
+| &#160;Lapis Armor
+
+### Tier II
+[edit | edit source]
+
+The Tier&#160;II [A sprite icon representing Revenant Horror in Hypixel SkyBlock] Revenant Horror, while still relatively easy, is a decent step up from the Tier&#160;I variant. As you progress through Zombie Slayer, you will notice that the Revenant Horror's &#xe050;&#160;Damage is much, much lower than its &#xe010;&#160;Health: as a result, you can focus more on dealing damage.
+
+The Revenant Horror, at Tier&#160;II, gains the Pestilence ability, which deals AoE damage. As a result, one should also prioritise efficient healing through items such as the &#160;Wand of Healing and &#160;Wand of Mending.
+
+| Slot
+| Name
+| Notes
+
+| [Undead Sword] 
+
+| &#160;Undead Sword
+
+| The &#160;Undead Sword should be enough to defeat a Tier&#160;II Revenant Horror due to its passive of dealing +100% damage to &#xe084;&#160;Undead mobs, especially when paired with a high level of Sharpness and Smite. Eventually, it can be upgraded into a &#160;Revenant Falchion.
+
+| [Void Sword] 
+
+| &#160;Void Sword
+
+| Alternatively, you may use the &#160;Void Sword alongside &#160;Ender Armor to easily defeat the boss without much trouble due to its extremely high stats at this stage of the game, even when you are not in &#xe067; The End.
+
+| [Hardened Diamond Helmet] [Hardened Diamond Chestplate] [Hardened Diamond Leggings] [Hardened Diamond Boots] 
+
+| &#160;Hardened Diamond Armor
+
+| An armor set with decent &#xe010;&#160;Effective Health should be enough to get one through a Tier&#160;II Revenant Horror: &#160;Ender Armor provides balanced &#xe010;&#160;Health and &#xe008;&#160;Defense, whereas &#160;Hardened Diamond Armor provides high amounts of &#xe008;&#160;Defense.
+
+| [Ender Helmet] [Ender Chestplate] [Ender Leggings] [Ender Boots] 
+
+| &#160;Ender Armor
+
+| [Zombie's Heart] 
+
+| &#160;Zombie's Heart
+
+| The &#160;Zombie's Heart, despite granting minimal &#xe010;&#160;Health, doubles one's &#xe028;&#160;Vitality when worn: as a result, it is useful for increasing all incoming healing, and upgrades into more powerful items. Although it may not be necessary for this tier, keep it in mind as it is helpful for future tiers.
+
+| [Wand of Healing] [Wand of Mending] 
+
+| &#160;Wand of Healing
+
+| The &#160;Wand of Healing and &#160;Wand of Mending are useful healing items, countering the Revenant Horror's Life Drain and Pestilence abilities usefully.
+
+### Tier III
+[edit | edit source]
+
+The Tier&#160;III [A sprite icon representing Revenant Horror in Hypixel SkyBlock] Revenant Horror is a significant increase in difficulty when considering the previous tiers. At Tier&#160;III, the Revenant Horror gains the Enrage ability: every 40s, the Revenant Horror will increase its attack range by +50% and increase damage dealt from Pestilence by +500%.
+
+It is imperative for players to get their damage up significantly, since killing the Revenant Horror quickly allows you to avoid its Enrage phase.
+
+| Slot
+| Name
+| Notes
+
+| [Revenant Falchion] 
+
+| &#160;Revenant Falchion
+
+| The &#160;Revenant Falchion is useful for defeating a Tier&#160;III Revenant Horror, due to its passive of dealing +150% more damage to &#xe084;&#160;Undead mobs. It is important to put a good reforge and &#160;Hot Potato Books on one due to its low &#xe050;&#160;Damage and &#xe00d;&#160;Strength: an &#160;Aspect of the End or &#160;Void Sword are useful alternatives.
+
+| [Strong Dragon Helmet] [Strong Dragon Chestplate] [Strong Dragon Leggings] [Strong Dragon Boots] 
+
+| &#160;Strong Dragon Armor
+
+| &#160;Strong and &#160;Unstable Dragon Armor grant substantial &#xe010;&#160;Effective Health in the early game, as well as decent &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage respectively.
+
+| [Unstable Dragon Helmet] [Unstable Dragon Chestplate] [Unstable Dragon Leggings] [Unstable Dragon Boots] 
+
+| &#160;Unstable Dragon Armor
+
+| [Crystallized Heart] 
+
+| &#160;Crystallized Heart
+
+| The &#160;Crystallized Heart, similar to its predecessor, doubles all &#xe028;&#160;Vitality when worn. It is outclassed by most helmets, but is great as a last resort if you are struggling to stay alive.
+
+| [Wand of Mending] 
+
+| &#160;Wand of Mending
+
+| The &#160;Wand of Mending is useful for healing, granting decent &#xe010;&#160;Health regeneration: this allows you to counter the Revenant Horror's Life Drain and Pestilence abilities, especially when the latter is under the effect of Enrage.
+
+Once you begin fighting this tier of the Revenant Horror, you should prioritise having a useful pet both for spawning and killing the boss.
+
+| Slot
+| Name
+| Notes
+
+| [Zombie Pet] [Zombie Pet] [Zombie Pet] 
+
+| &#160;Zombie Pet
+
+| The &#160;Zombie Pet is a useful early-game pet for fighting the Revenant Horror, due to its Bite Shield and Rotten Blade abilities that reduces damage taken from and increases damage dealt to &#xe084;&#160;Undead mobs. Additionally, the LEGENDARY variant increases the stats on Undead &#xe084; armor by up to +20%, which benefits players who use the &#160;Zombie's Heart, &#160;Crystallized Heart, and &#160;Revived Heart.
+
+| [Ghoul Pet] 
+
+| &#160;Ghoul Pet
+
+| The &#160;Ghoul Pet is best in slot for spawning the Revenant Horror, granting a 1.5x multiplicative increase on all Combat XP against Zombies. It outclasses the &#160;Wolf Pet due to its 1.5x Combat XP multiplier at Lvl 100: the &#160;Wolf Pet's +30&#160;☯&#160;Combat Wisdom at Lvl 100 is equivalent to a 1.3x Combat XP multiplier, which is significantly less than the Ghoul Pet.
+
+| [Wolf Pet] 
+
+| &#160;Wolf Pet
+
+| The LEGENDARY &#160;Wolf Pet is decent for spawning the Revenant Horror if one does not possess a &#160;Ghoul Pet.
+
+### Tier IV
+[edit | edit source]
+
+The Tier&#160;IV [A sprite icon representing Revenant Horror in Hypixel SkyBlock] Revenant Horror, despite not having any new abilities, has substantially higher &#xe010;&#160;Health and &#xe050;&#160;Damage from its predecessor, at 1.5m&#160;&#xe010;&#160;Health and 400&#160;&#xe050;&#160;Damage. While the Tier&#160;IV Revenant Horror's damage may not appear as a considerable increase from its Tier&#160;III variant, this is increased by both Life Drain, Pestilence, and Enrage.
+
+As is the case with previous tiers of the Revenant Horror, the best strategy would be to maintain a balance of dealing high damage and healing.
+
+| Slot
+| Name
+| Notes
+
+| [Reaper Falchion] 
+
+| &#160;Reaper Falchion
+
+| The &#160;Reaper Falchion is incredibly useful for spawning and fighting the Tier&#160;IV variant of the Revenant Horror, due to granting both +200% more damage to and +45&#160;☯&#160;Combat Wisdom against &#xe084;&#160;Undead mobs.
+
+| [Strong Dragon Helmet] [Strong Dragon Chestplate] [Strong Dragon Leggings] [Strong Dragon Boots] 
+
+| &#160;Strong Dragon Armor
+
+| &#160;Strong Dragon Armor grants decent &#xe00d;&#160;Strength and &#xe008;&#160;Defense in the early game. &#160;Shadow Assassin Armor grants less &#xe008;&#160;Defense but grants more &#xe010;&#160;Health, as well as granting both +100&#160;&#xe00d;&#160;Strength and +100%&#160;&#xe007;&#160;Crit Damage: however, it is significantly more expensive and more difficult to get.
+It is highly not recommended to use a set of armor that grants high &#xe010;&#160;Effective Health. Your armor contributes significantly to your &#xe050;&#160;Damage output: it is wiser to increase your healing or invest in Pets that grant high &#xe010;&#160;Effective Health, such as a &#160;Turtle Pet.
+
+| [Shadow Assassin Helmet] [Shadow Assassin Chestplate] [Shadow Assassin Leggings] [Shadow Assassin Boots] 
+
+| &#160;Shadow Assassin Armor
+
+| [Revived Heart] 
+
+| &#160;Revived Heart
+
+| The &#160;Revived Heart, similar to its predecessor, doubles all &#xe028;&#160;Vitality when worn. It is outclassed by most helmets, but is great as a last resort if you are struggling to stay alive even with a &#160;Turtle Pet. Additionally, due to it being Undead &#xe084;, the Revived Heart is buffed by the LEGENDARY &#160;Zombie Pet, though this is largely irrelevant due to its low base stats outside of its ability.
+
+| [Wand of Restoration] 
+
+| &#160;Wand of Restoration
+
+| The &#160;Wand of Restoration and &#160;Atonement are both invaluable for healing, countering the Revenant Horror's abilities and buffed by the &#160;Revived Heart.
+
+| [Wand of Atonement] 
+
+| &#160;Wand of Atonement
+
+| [Zombie Sword] 
+
+| &#160;Zombie Sword
+
+| The &#160;Zombie, &#160;Ornate Zombie, and &#160;Florid Zombie Sword are both useful for burst healing when used in combination with the aforementioned healing wands.
+
+| [Ornate Zombie Sword] 
+
+| &#160;Ornate Zombie Sword
+
+| [Florid Zombie Sword] 
+
+| &#160;Florid Zombie Sword
+
+A useful pet is important for fighting the Tier&#160;IV Revenant Horror.
+
+| Slot
+| Name
+| Notes
+
+| [Lion Pet] 
+
+| &#160;Lion Pet
+
+| The &#160;Lion Pet is a great pet for fighting the Tier&#160;IV Revenant Horror. Its Primal Force ability increases the &#xe00d;&#160;Strength and &#xe050;&#160;Damage of your weapons; First Pounce increases the effectiveness of First Strike, Triple-Strike, and Combo, allowing you to deal more damage initially; King of the Jungle also allows you to deal +150% damage to mobs that have attacked you, which is equal to the increased damage againt &#xe084;&#160;Undead mobs gained from the &#160;Zombie Pet's Rotten Blade ability.
+One added bonus of the pet is the fact that it is a &#160;Foraging pet, which means it is extremely easy to level up due to the amount of Skill XP that Galatea gives compared to pets of other skills.
+
+| [Zombie Pet] 
+
+| &#160;Zombie Pet
+
+| The &#160;Zombie Pet is a decent pet for fighting the Revenant Horror as previously mentioned, though it is outclassed by better, more expensive options such as the &#160;Lion Pet.
+
+| [Wither Skeleton Pet] 
+
+| &#160;Wither Skeleton Pet
+
+| This pet is rather underestimated for its DPS potential, and it also has the bonus of being easy to level due to it being a &#160;Mining pet. Its third ability essentially acts as a second Fire Aspect and its base stats are certainly not negligible. However, it is completely useless against the Tier&#160;V Atoned Horror due to it being immune to this ability.
+
+| [Turtle Pet] [Turtle Pet] 
+
+| &#160;Turtle Pet
+
+| The &#160;Turtle Pet is a budget pet for survivability if you are struggling with the boss. It should be used instead of swapping out your armor for a set that grants &#xe010;&#160;Effective Health.
+
+| [Ghoul Pet] 
+
+| &#160;Ghoul Pet
+
+| The &#160;Ghoul Pet is best in slot for spawning the Revenant Horror, granting a 1.5x multiplicative increase on all Combat XP against Zombies. It outclasses the &#160;Wolf Pet due to its 1.5x Combat XP multiplier at Lvl 100: the &#160;Wolf Pet's +30&#160;☯&#160;Combat Wisdom at Lvl 100 is equivalent to a 1.3x Combat XP multiplier, which is significantly less than the Ghoul Pet.
+
+| [Wolf Pet] 
+
+| &#160;Wolf Pet
+
+| The LEGENDARY &#160;Wolf Pet is decent for spawning the Revenant Horror if one does not possess a &#160;Ghoul Pet.
+
+### Tier V
+[edit | edit source]
+
+The Tier&#160;V [A sprite icon representing Atoned Horror in Hypixel SkyBlock] Atoned Horror is completely unique from the [A sprite icon representing Revenant Horror in Hypixel SkyBlock] Revenant Horror, both possessing completely unique abilities and having significantly more &#xe010;&#160;Health and &#xe050;&#160;Damage.
+
+- Redemption allows the Atoned Horror to heal rapidly.
+
+- Explosive Assault allows the Atoned Horror to throw explosive TNT at the player. A radius appears under the area where the TNT will land: damage dealt is dependent on the distance of the player to the center. This attack does a deceptively high amount of damage, so prioritize avoiding it even if it means dealing less damage to the boss unless it is on low health.
+
+- Thermonuclear causes the Atoned Horror to stand still as it charges up, releasing a volley of lightning within a 7 block radius, damaging all players within depending on how many times they have been damaged. This damage will almost always instantly kill you, so do not make the mistake of trying to tank the attack.
+
+- Note that this ability will only be used after the boss has been alive for around 30 seconds, so you can ignore it if you can consistently kill the Atoned Horror before that time.
+
+- The boss is also immune to most &#xe002;&#160;Ability Damage, meaning mage items such as the &#160;Ink Wand or &#160;Hyperion are mostly useless against it in terms of their abilities.
+
+To kill the Atoned Horror, a popular strategy is to hold down ⇧ Shift+S and repeatedly hit the boss in order to defeat it. By sneaking, you can avoid moving too fast to the point where you can no longer hit the boss while still avoiding the TNT. This strategy works best with around 370+&#160;&#xe022;&#160;Speed.
+
+While the Atoned Horror is charging up its Thermonuclear attack, it can still be damaged. As a result, if its &#xe010;&#160;Health is low enough, you can kill it while it is charging up and avoid the lightning.
+
+| Slot
+| Name
+| Notes
+
+| [Halberd of the Shredded] 
+
+| &#160;Halberd of the Shredded
+
+| The &#160;Halberd of the Shredded is a very useful weapon for killing the Atoned Horror, dealing +250% damage to &#xe084;&#160;Undead mobs and granting +45&#160;☯&#160;Combat Wisdom against them. Its Throw ability allows you to throw your halberd consecutively, increasing your damage each time you throw it alongside the &#xe003;&#160;Mana cost, and is one of the few abilities that can damage the Atoned Horror. It is also often used to kill the boss in one hit by endgame players, due to its ability capping out at inflicting 160% damage of a melee attack, which works even if you hold another weapon when the ability connects.
+
+| [Giant's Sword] 
+
+| &#160;Giant's Sword
+
+| The &#160;Giant's Sword and &#160;Dark Claymore deal incredibly high &#xe050;&#160;Damage and have increased &#xe024;&#160;Swing Range, allowing you to damage the Atoned Horror from further. However, they have incredibly high requirements and are difficult to get, requiring completion of Floor VI and Master Mode - Floor VII respectively.
+
+| [Dark Claymore] 
+
+| &#160;Dark Claymore
+
+| [Necron's Helmet] [Necron's Chestplate] [Necron's Leggings] [Necron's Boots] 
+
+| &#160;Necron's Armor
+
+| &#160;Necron's Armor is a useful armor set for fighting the Atoned Horror, granting high &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage: however, it is outclassed by &#160;Burning Crimson Armor and, to an extent, &#160;Reaper Armor for those struggling with survivability. The &#160;Necron's Helmet is often swapped out for a more useful alternative, such as the &#160;Primordial Helmet or &#160;Crown of Avarice.
+&#160;Shadow Assassin Armor may suffice for this boss as well if upgraded enough, though it is not recommended.
+
+| [Reaper Chestplate] [Reaper Leggings] [Reaper Boots] 
+
+| &#160;Reaper Armor
+
+| &#160;Reaper Armor, despite having lower stats than &#160;Necron's Armor, grants a significant &#xe008;&#160;Defense and &#xe050;&#160;Damage increase against &#xe084;&#160;Undead mobs, an increase to healing from Healing Wands, and an Enrage ability that grants +100&#160;&#xe022;&#160;Speed, +100&#160;&#xe00d;&#160;Strength, and +100&#160;&#xe050;&#160;Damage for 6s. Its Zombie Bulwark bonus is also useful for players who struggle with survivability.
+
+| [Burning Crimson Helmet] [Burning Crimson Chestplate] [Burning Crimson Leggings] [Burning Crimson Boots] 
+
+| &#160;Burning Crimson Armor
+
+| &#160;Burning, &#160;Fiery, and &#160;Infernal Crimson Armor are the best sets of armor for fighting the Atoned Horror, as well as almost every general purpose during combat.
+Not only does it grant higher stats than &#160;Necron's Armor, but its Dominus tiered bonus also grants higher DpS due to its bonus &#xe00b;&#160;Ferocity and &#xe024;&#160;Swing Range (and bonus &#xe050;&#160;Damage at Infernal) and its swipe attack.
+However, it is important to note that it is incredibly expensive to properly upgrade &#160;Crimson Armor to Burning, much less Fiery and Infernal.
+
+| [Fiery Crimson Helmet] [Fiery Crimson Chestplate] [Fiery Crimson Leggings] [Fiery Crimson Boots] 
+
+| &#160;Fiery Crimson Armor
+
+| [Infernal Crimson Helmet] [Infernal Crimson Chestplate] [Infernal Crimson Leggings] [Infernal Crimson Boots] 
+
+| &#160;Infernal Crimson Armor
+
+| [Primordial Helmet] 
+
+| &#160;Primordial Helmet
+
+| The &#160;Primordial Helmet is an excellent budget choice both for fighting the Atoned Horror and general combat both inside and outside of Dungeons. Converting &#xe00d;&#160;Strength to &#xe007;&#160;Crit Damage and dealing +50%&#160;&#xe050;&#160;Damage every 3 strikes, it is excellent for DpS: despite being ever so slightly worse than a &#160;Warden Helmet, the price gap between the two and the lack of a &#xe022;&#160;Speed penalty justifies using the &#160;Primordial Helmet over a &#160;Warden Helmet.
+
+| [Reaper Mask] 
+
+| &#160;Reaper Mask
+
+| The &#160;Reaper Mask, which doubles all &#xe028;&#160;Vitality, should only be used if your &#xe010;&#160;Effective Health is too low to survive the boss consistently even with full &#160;Reaper Armor.
+
+| [Wand of Atonement] 
+
+| &#160;Wand of Atonement
+
+| The &#160;Wand of Atonement and &#160;Florid Zombie Sword are invaluable for healing, especially if you are taking large amounts of damage from the Atoned Horror's Thermonuclear attack. The former is useful for consistent healing over a long period, whereas the latter is superior for quick, one-time burst healing.
+
+| [Florid Zombie Sword] 
+
+| &#160;Florid Zombie Sword
+
+| [Mana Flux Power Orb] 
+
+| &#160;Mana Flux Power Orb
+
+| The &#160;Mana Flux and &#160;Overflux Power Orb are useful for extra healing and &#xe00d;&#160;Strength: despite being decently expensive, they will serve as decent QoL and are also useful in general combat.
+
+| [Overflux Power Orb] 
+
+| &#160;Overflux Power Orb
+
+A useful pet is also required for fighting the Atoned Horror: preferably, something that increases your damage output instead of survivability is preferred.
+
+| Slot
+| Name
+| Notes
+
+| [Ankylosaurus Pet] 
+
+| &#160;Ankylosaurus Pet
+
+| The &#160;Ankylosaurus Pet, despite seeming quite unassuming with its low base stats, has proven itself to be one of the best pets outside of dungeons: converting 50% of your &#xe008;&#160;Defense to &#xe00d;&#160;Strength (up to +500&#160;&#xe00d;&#160;Strength), you can easily get a free +500&#160;&#xe00d;&#160;Strength, which is a very significant buff.
+
+| [Lion Pet] 
+
+| &#160;Lion Pet
+
+| The &#160;Lion Pet is a useful alternative pet for fighting the Tier&#160;V Revenant Horror. Its perks are geared towards increasing your first-hit damage, but the LEGENDARY perk does allow it to keep up for the rest of the fight as the boss will be constantly applying chip damage.
+
+| [Golden Dragon Pet] 
+
+| &#160;Golden Dragon Pet
+
+| The &#160;Golden Dragon Pet is the ultimate pet not only for Zombie Slayer but also for general combat, granting absurd amounts of both &#xe00d;&#160;Strength and &#xe01a;&#160;Magic Find: however, costing over 500,000,000 Coins and several Perfect Gemstones, it is far too costly for the vast majority of players to utilise.
+
+| [Ghoul Pet] 
+
+| &#160;Ghoul Pet
+
+| The &#160;Ghoul Pet is best in slot for spawning the Revenant Horror, granting a 1.5x multiplicative increase on all Combat XP against Zombies. It outclasses the &#160;Wolf Pet due to its 1.5x Combat XP multiplier at Lvl 100: the &#160;Wolf Pet's +30&#160;☯&#160;Combat Wisdom at Lvl 100 is equivalent to a 1.3x Combat XP multiplier, which is significantly less than the Ghoul Pet.
+
+| [Wolf Pet] 
+
+| &#160;Wolf Pet
+
+| The LEGENDARY &#160;Wolf Pet is decent for spawning the Revenant Horror if one does not possess a &#160;Ghoul Pet.
+
+## Item Explanations
+[edit | edit source]
+
+This section needs more information. Please help expand it.
+
+See more stubs.
+
+This section is dedicated to analyzing each item unlocked from Zombie Slayer, their use cases, and whether they are worth getting or not.
+
+| Slot
+| Name
+| Req.
+| Notes
+
+| [Wand of Healing] 
+
+| &#160;Wand of Healing
+
+| Zombie Slayer&#160;I (1)
+
+| The &#160;Wand of Healing is great in the early game, gaining +60&#160;&#xe010;&#160;Health over the duration of 7s for the low cost of 60&#160;&#xe003;&#160;Mana. It is exceptionally cheap, takes very little materials to craft, and can be upgraded into more useful variants further down the line.
+
+| [Zombie Ring] 
+
+| &#160;Zombie Ring
+
+| Zombie Slayer&#160;II (2)
+
+| The &#160;Zombie Ring reduces damage taken by &#xe084;&#160;Undead mobs by 10%. It is incredibly cheap and is essentially free Accessory Power.
+
+| [Crystallized Heart] 
+
+| &#160;Crystallized Heart
+
+| Zombie Slayer&#160;III (3)
+
+| The &#160;Crystallized Heart is cheaper than the &#160;Strong Dragon Helmet or &#160;Unstable Dragon Helmet. While providing much less &#xe010;&#160;Health and &#xe008;&#160;Defense than either dragon helmets, its ability, healing boost, doubles its wearers &#xe028;&#160;Vitality and &#xe014;&#160;Mending causing the player to regenerate health much faster. With a defense boosting Reforge such as Reinforced it can be very useful for survivability early game. It also has an upgraded variant, the &#160;Revived Heart unlocked at Zombie Slayer&#160;VI (6).
+
+| [Revenant Falchion] 
+
+| &#160;Revenant Falchion
+
+| Zombie Slayer&#160;III (3)
+
+| The &#160;Revenant Falchion, as previously outlined, is a useful weapon in the early stages of Zombie Slayer: depending on your primary weapon, this can prove to be useful against the Revenant Horror due to its +150% damage bonus to &#xe084;&#160;Undead mobs. However, if you own a stronger weapon like a &#160;Aspect of the Dragons, &#160;Super Cleaver, &#160;Hyper Cleaver, or &#160;Giant Cleaver, it is not recommended to use one until you have the requirements and prerequisites to craft a &#160;Reaper Falchion.
+
+| [Revenant Chestplate] [Revenant Leggings] [Revenant Boots] 
+
+| &#160;Revenant Armor
+
+| Zombie Slayer&#160;IV (4)
+
+| The &#160;Revenant Armor provides great survivability with a full set bonus of +100&#160;&#xe008;&#160;Defense against zombie mobs and even more if the zombie bulwark ability is leveled up. The downside is it provides no damage modifying stats making bosses slower. It is not very necessary to obtain unless you are really struggling. Armor sets like &#160;Strong Dragon Armor, &#160;Unstable Dragon Armor, and &#160;Shadow Assassin Armor will most likely provide plenty of survivability while giving much more damage.
+
+## Attributes
+[edit | edit source]
+
+This section of the guide details useful Attributes for fighting the [A sprite icon representing Revenant Horror in Hypixel SkyBlock] Revenant Horror.
+
+| Slot
+| Name
+| Stats
+| Notes
+
+| [Flash Shard] 
+
+| &#160;Flash Shard
+
+Light Elemental
+
+| +1-10&#160;&#xe00d;&#160;Strength
+
+| 
+
+- Total of +50&#160;&#xe00d;&#160;Strength with all Elemental Shards maxed out.
+
+- Buffed by the Echo of Elemental attribute, increasing the effect of these attributes by +20% to a total of 60&#160;&#xe00d;&#160;Strength. This is not necessarily recommended, as the attribute is expensive and the stat boost minuscule.
+
+- Echo of Elemental can be improved by +50% via Echo of Echoes, increasing the total to 65&#160;&#xe00d;&#160;Strength.
+
+| [Quake Shard] 
+
+| &#160;Quake Shard
+
+Stone Elemental
+
+| +1-10&#160;&#xe00d;&#160;Strength
+
+| [Bolt Shard] 
+
+| &#160;Bolt Shard
+
+Lightning Elemental
+
+| +1-10&#160;&#xe00d;&#160;Strength
+
+| [Aero Shard] 
+
+| &#160;Aero Shard
+
+Wind Elemental
+
+| +1-10&#160;&#xe00d;&#160;Strength
+
+| [Tempest Shard] 
+
+| &#160;Tempest Shard
+
+Storm Elemental
+
+| +1-10&#160;&#xe00d;&#160;Strength
+
+| [Zombie Soldier Shard] 
+
+| &#160;Zombie Soldier Shard
+
+Undead Ruler
+
+| +3-30%&#160;&#xe050;&#160;Damage on &#xe084;&#160;Undead mobs
+
+| 
+
+- Grants +3-30% more damage on &#xe084;&#160;Undead mobs.
+
+- Buffed by the Echo of Ruler attribute, increasing the effect of this attribute by +20% and bringing the total damage up to +36%.
+
+- Echo of Ruler can be further buffed by Echo of Echoes, bringing the total damage increase up to +39%.
+
+| [Tank Zombie Shard] 
+
+| &#160;Tank Zombie Shard
+
+Undead Resistance
+
+| +4-40&#160;&#xe008;&#160;Defense on &#xe084;&#160;Undead mobs
+
+| 
+
+- Grants +4-40&#160;&#xe008;&#160;Defense on &#xe084;&#160;Undead mobs.
+
+- Buffed by the Echo of Resistance attribute, increasing the effect of this attribute by +20% and bringing the &#xe008;&#160;Defense bonus up to +48&#160;&#xe008;.
+
+- Echo of Resistance can be further buffed by Echo of Echoes, bringing the &#xe008;&#160;Defense bonus up to +52&#160;&#xe008;.
+
+| [Caiman Shard] 
+
+| &#160;Caiman Shard
+
+Echo of Ruler
+
+| Ruler attributes are +2-20% stronger
+
+| 
+
+- Buffs all Ruler attributes by +20%.
+
+- Can be further upgraded by Echo of Echoes.
+
+| [Alligator Shard] 
+
+| &#160;Alligator Shard
+
+Echo of Resistance
+
+| Resistance attributes are +2-20% stronger
+
+| 
+
+- Buffs all Resistance attributes by +20%.
+
+- Can be further upgraded by Echo of Echoes.
+
+| [Tiamat Shard] 
+
+| &#160;Tiamat Shard
+
+Echo of Echoes
+
+| Echo attributes are +5-50% stronger
+
+| 
+
+| [Shellwise Shard] 
+
+| &#160;Shellwise Shard
+
+Shell
+
+| +10-100% chance to negate knockback
+Knockback immunity at Lvl 10
+
+| 
+
+- Grants a +10-100% chance to negate knockback, gaining knockback immunity at max level.
+
+- Maxing this attribute allows you to use another Pet Item instead of being locked to the &#160;Dwarf Turtle Shelmet.
+
+- Requires &#160;Turbo Fishing Net to hunt.
+
+| [Barbarian Duke X Shard] 
+
+| &#160;Barbarian Duke X Shard
+
+Warrior
+
+| Increases all melee damage dealt by +2.5-25%.
+
+| 
+
+| [Spike Shard] 
+
+| &#160;Spike Shard
+
+Payback
+
+| When hit, your next hit deals +2.5-25% damage.
+
+| 
+
+- Requires &#160;Turbo Fishing Net to hunt.
+
+| [Power Dragon Shard] 
+
+| &#160;Power Dragon Shard
+
+Elite
+
+| Grants +3-30% more &#xe050;&#160;Damage against bosses and mini-bosses.
+
+| 
+
+- Despite normally dropping from Master Mode - Floor VII, you can fuse &#160;Hellwisp Shards into &#160;Power Dragon Shards, allowing you to max out this attribute very quickly.
+
+- &#160;Hellwisp Shards are obtained by hunting Hellwisps, but they can also be obtained very easily by placing traps in the &#xe067; Matriarch's Lair.
+
+- If you are going to manually hunt Hellwisps and you're not strong enough, try using &#160;Mastiff Armor with a &#160;Pooch Sword with the Silky power active. See the wolf slayer section for more.
+
+| [Apex Dragon Shard] 
+
+| &#160;Apex Dragon Shard
+
+Veteran
+
+| Grants +10&#160;☯&#160;Combat Wisdom.
+
+| 
+
+- Despite normally dropping from Master Mode - Floor VII, you can fuse &#160;Power Dragon Shards into &#160;Apex Dragon Shards, allowing you to max out this attribute very quickly through the method described above.
+
+- However, this is not a very efficient use of your Attribute Shards, and this method should only be used if you have an excess of &#160;Power Dragon Shards available, whether you are on ♲&#160;Ironman or not. Normal profiles should instead just buy this Shard from the Bazaar.
+
+This article needs more information. Please help expand it.
+
+See more stubs.
+
+Spider Slayer involves killing [A sprite icon representing Spider in Hypixel SkyBlock] Spiders and culminates in killing the [A sprite icon representing Tarantula Broodfather in Hypixel SkyBlock] Tarantula Broodfather. A step up in difficulty from the [A sprite icon representing Revenant Horror in Hypixel SkyBlock] Revenant Horror, it revolves around anti-healing and dealing heavy damage. It is unlocked after beating a Tier II [A sprite icon representing Revenant Horror in Hypixel SkyBlock] Revenant Horror.
+
+## Strategies
+[edit | edit source]
+
+### Tier I
+[edit | edit source]
+
+The Tier&#160;I [A sprite icon representing Tarantula Broodfather in Hypixel SkyBlock] Tarantula Broodfather is relatively easy to kill due to its low &#xe010;&#160;Health and&#xe050;&#160;Damage. It's only ability, Backstab, means that it does 50% more &#xe050;&#160;Damage to the player when behind the player. However this can be countered by backing into a wall so that the Tarantula Broodfather can't get behind the player.
+
+| Slot
+| Name
+| Notes
+
+| [Spider Sword] 
+
+| [Spider Sword] &#160;Spider Sword
+
+| The [Spider Sword] &#160;Spider Sword should be enough to defeat a Tier&#160;I Tarantula broodfather due to its passive ability of dealing +100% damage to &#xe074;&#160;Arthropod mobs, especially when paired with a high level of Sharpness and Bane of Arthropods.
+
+| [Hardened Diamond Helmet] [Hardened Diamond Chestplate] [Hardened Diamond Leggings] [Hardened Diamond Boots] 
+
+| [Hardened Diamond Helmet] &#160;Hardened Diamond Armor
+
+| An early-game armor set with decent &#xe010;&#160;Effective Health should be enough to get one through a Tier&#160;I Tarantula Broodfather, such as [Hardened Diamond Helmet] &#160;Hardened Diamond Armor.
+
+| [Spider Talisman] 
+
+| [Spider Talisman] &#160;Spider Talisman
+
+| It is recomended that the player has slain the [A sprite icon representing Broodmother in Hypixel SkyBlock] Broodmother to obtain this Accessory, as it will reduce the incoming &#xe050;&#160;Damage from all types of spiders and can later be upgraded to the [Spider Ring] &#160;Spider Ring.
+
+### Tier II
+[edit | edit source]
+
+### Tier III
+[edit | edit source]
+
+### Tier IV
+[edit | edit source]
+
+### Tier V
+[edit | edit source]
+
+## Item Explanations
+[edit | edit source]
+
+## Attributes
+[edit | edit source]
+
+Tutorial:Slayer Guide/Wolf
+
+Tutorial:Slayer Guide/Enderman
+
+Tutorial:Slayer Guide/Blaze
+
+Vampire Slayer involves killing Vampires and culminates in killing the [A sprite icon representing Riftstalker Bloodfiend in Hypixel SkyBlock] Riftstalker Bloodfiend. As it is part of The Rift, it features a unique gear progression and can be tackled at essentially any part of the game. For Ironman however, it is recommended to wait until Ghast Tear&#160;V (5) to acquire &#160;12&#160;Silver Fang, which will be required for an important upgrade.
+
+You can preemptively (or later) bring &#160;76&#160;Silver Fang, &#160;Maddox Batphone, &#160;Leggings of the Pack, &#160;16&#160;Re-heated Gummy Polar Bear, &#160;Scarf's Studies and &#160;2&#160;Weird Tuba. Those will be required for some crafts later.
+
+## Rift Recommendations
+[edit | edit source]
+
+While you can immediatly attempt to fight the [A sprite icon representing Riftstalker Bloodfiend in Hypixel SkyBlock] Riftstalker Bloodfiend after securing the &#160;Globulate Timecharm, having the following will help you in the long run.
+
+| Slot
+| Name
+| Notes
+
+| [Montezuma Pet] 
+
+| &#160;Montezuma Pet
+
+| From here, all pieces of the &#160;Montezuma Pet can be found, allowing you to raise it's rarity to EPIC, making it grant 18&#160;&#xe004;&#160;Mana Regen.
+
+| [Enigma Cloak] 
+
+| &#160;Enigma Cloak
+
+| &#160;36&#160;Enigma Soul are available before having access to the boss. Purchasing 9 &#160;Enigma Cloak upgrades from [A sprite icon representing Enigma in Hypixel SkyBlock] Enigma will result in +18&#160;&#xe022;&#160;Speed and +36%&#160;&#xe004;&#160;Mana Regen.
+
+## Strategies
+[edit | edit source]
+
+### Tier I
+[edit | edit source]
+
+The Tier&#160;I [A sprite icon representing Riftstalker Bloodfiend in Hypixel SkyBlock] Riftstalker Bloodfiend relatively easy to kill due to its low &#xe010;&#160;Health and &#xe01f;&#160;Hearts damage. Coagulation passively deals 0.5&#160;&#xe01f;&#160;Hearts of damage every second and be easily staved off with the &#160;Healing Melon. Once it reach 50%&#160;&#xe010;&#160;Health, Mania will have you stand in the highlighted area in green to avoid taking 2&#160;&#xe01f;&#160;Hearts of damage. 
+
+| Slot
+| Name
+| Notes
+
+| [Healing Melon] 
+
+| &#160;Healing Melon
+
+| The &#160;Healing Melon is an important item throughout all of Vampire Slayer, as Coagulation will have you take constant, unavoidable damage. Make sure to only use it when you can heal all 7&#160;&#xe01f;&#160;Hearts it provides, as recklessly using the melon early and too much will have you run out of &#xe003;&#160;Mana.
+
+### Tier II
+[edit | edit source]
+
+The Tier&#160;II [A sprite icon representing Riftstalker Bloodfiend in Hypixel SkyBlock] Riftstalker Bloodfiend introduce Twinclaw, which deals 3&#160;&#xe01f;&#160;Hearts of damage every 7 seconds and cannot be avoided at close range. You will need to use the &#160;Holy Ice to greatly reduce it's damage. Later on, it will use Stonewrath, which is a move in 3 parts: first, it summons 3 Clotgoyles. While alive, they each reduce your max &#xe01f;&#160;Hearts by 1 and can hit you for 10&#160;&#xe020;&#160;Rift Time and 1&#160;&#xe01f;&#160;Hearts. When killed, they become a Cadaver. Afterward, the boss will fly up and prepare charging an attack targetted onto you. After 2 second, the location will be locked in, which you must move out of, it will then crash down and deal damage and destroy any Cadaver caught in the explosion. If any Cadaver are left, they will then be ressurected, taking away your maximum &#xe01f;&#160;Hearts again.
+
+Coagulation and Mania now deal 1&#160;&#xe01f;&#160;Hearts and 3&#160;&#xe01f;&#160;Hearts
+
+| Slot
+| Name
+| Notes
+
+| [Silver-Laced Karambit] 
+
+| &#160;Silver-Laced Karambit
+
+| The &#160;Silver-Laced Karambit should be used from Tier&#160;II onward due to its bonus 3&#160;&#xe01e;&#160;Rift Damage against Vampires, along with the 5&#160;&#xe003;&#160;Mana and 0.5&#160;&#xe01f;&#160;Hearts on hit, reducing the need to use &#160;Healing Melon and use the mana for &#160;Holy Ice instead.
+
+| [Holy Ice] 
+
+| &#160;Holy Ice
+
+| &#160;Holy Ice provides 80% &#xe01f;&#160;Hearts damage resistance for 1.5 seconds and is meant to be used to reduce the high, unavoidable damage of Twinclaw. Use it roughly 0.5-1 second after the start of the Twinclaw attack indicator to reduce the damage it deals. Succesfull reduction will add the word "ICED" to the attack damage in the chat.
+
+| [Anti-Bite Scarf] 
+
+| &#160;Anti-Bite Scarf
+
+| The &#160;Anti-Bite Scarf provides a significant 0.3&#160;&#xe01f;&#160;Hearts damage reduction against all attacks. The main purpose here is to protect you against Coagulation.
+
+The following items will prove useful moving forward and should be obtained if planning to go for higher tiers.
+
+| Slot
+| Name
+| Notes
+
+| [Juicy Healing Melon] 
+
+| &#160;Juicy Healing Melon
+
+| The &#160;Juicy Healing Melon heals 9&#160;&#xe01f;&#160;Hearts, 2 more than the &#160;Healing Melon. You can allow yourself to lose more &#xe01f;&#160;Hearts before using it, saving &#xe003;&#160;Mana in the long run.
+
+| [Steak Stake] 
+
+| &#160;Steak Stake
+
+| The &#160;Steak Stake allows you to instantly vanquish vampires, including the [A sprite icon representing Riftstalker Bloodfiend in Hypixel SkyBlock] Riftstalker Bloodfiend, once they are below 20%&#160;&#xe010;&#160;Health. Their name will be BOLDENED once their &#xe010;&#160;Health is low enough. This essentially allows you to skip 1/5 of the fight.
+
+| [Maddox Badphone] 
+
+| &#160;Maddox Badphone
+
+| If you do not have Auto-Slayer unlocked, the &#160;Maddox Badphone allows you to quickly turn in and start another slayer task. Since [A sprite icon representing Maddox the Slayer in Hypixel SkyBlock] Maddox the Slayer is out of the way, quickly starting tasks lets you save some &#xe020;&#160;Rift Time.
+
+### Tier III
+[edit | edit source]
+
+The Tier&#160;III [A sprite icon representing Riftstalker Bloodfiend in Hypixel SkyBlock] Riftstalker Bloodfiend introduce Impel and Killer Spring, it will now use Mania at 75%&#160;&#xe010;&#160;Health and 40%&#160;&#xe010;&#160;Health instead. During Mania, Impel will require you to perform a small task (one of the following: CLICK UP, CLICK DOWN, JUMP, SNEAK) within 2s. Failing to complete the task will deal 4&#160;&#xe01f;&#160;Hearts. Killer Spring will make a pillar of candles appear, which must be quickly compressed by alternating Right and Left clicks within 15s. Failing to do so instantly kills the player.
+
+Mania and Twinclaw now deal 5&#160;&#xe01f;&#160;Hearts.
+
+For Impel, it is strongly advised to use RIGHT-CLICK, or even both clicks at once, as LEFT-CLICK have a tendency to not register.
+
+| Slot
+| Name
+| Notes
+
+| [Leggings of the Coven] 
+
+| &#160;Leggings of the Coven
+
+| If you can purchase a &#160;Leggings of the Pack or have achieved Wolf Slayer LVL6 to make your own, bringing it to The Rift lets you upgrade your &#160;Femurgrowth Leggings into the &#160;Leggings of the Coven, providing an additional &#xe01f;&#160;Hearts and potentially more &#xe01e;&#160;Rift Damage. The &#160;Leggings of the Coven are actually not mandatory here, but will be useful for Tier&#160;IV and important for Tier&#160;V. The informally agreed upon color to use for the stat bonus is Black.
+
+| [Super Sharp 'n Stabby Steak Stake] 
+
+| &#160;Super Sharp 'n Stabby Steak Stake
+
+| The &#160;Super Sharp 'n Stabby Steak Stake let's you speed up the killing process of vampires by granting 1.5x Combat Exp when vanquishing vampires with it's ability and allow the next hit of it to deal 2x&#160;&#xe050;&#160;Damage. Mind you, the combat exp and damage bonus are only granted if you actually vanquish a vampire with the ability, killing them with the base damage without them being below 20%&#160;&#xe010;&#160;Health will not trigger the bonus.
+
+| [Perma-Jelled Garlic-Flavored Re-Heated Gummy Polar Bear] 
+
+| &#160;Perma-Jelled Garlic-Flavored Re-Heated Gummy Polar Bear
+
+| If you can afford to make a &#160;Perma-Jelled Garlic-Flavored Re-Heated Gummy Polar Bear, the +3&#160;&#160;Combat&#160;XP will let you spawn the [A sprite icon representing Riftstalker Bloodfiend in Hypixel SkyBlock] Riftstalker Bloodfiend with 1 or 2 less kills.
+
+### Tier IV
+[edit | edit source]
+
+The Tier&#160;IV [A sprite icon representing Riftstalker Bloodfiend in Hypixel SkyBlock] Riftstalker Bloodfiend does not introduce new abilities, it will however use Twinclaw during Mania and will keep using Impel after the first Mania. The Twinclaw might be problematic during Mania as it can push you out of the safe zone, so make sure to not be airborn, and walk against the knockback to remain in place. Do not forget that &#160;Holy Ice is active for 1.5 seconds, allowing you to tank the Twinclaw and possibly Mania if you get pushed out. If the current Mania ring is not the one closest to the boss, Twinclaw can be avoided by moving parallel to the boss (sideway when looking at it).
+
+Mania and Twinclaw now deal 6&#160;&#xe01f;&#160;Hearts. Impel now deals 5&#160;&#xe01f;&#160;Hearts.
+
+The Tier&#160;IV [A sprite icon representing Riftstalker Bloodfiend in Hypixel SkyBlock] Riftstalker Bloodfiend can reasonably be defeated without these upgrades however if you are careful. Obtaining them will make it more manageable if you are struggling, but will be required for Tier&#160;V.
+
+| Slot
+| Name
+| Notes
+
+| [Silver-Twist Karambit] 
+
+| &#160;Silver-Twist Karambit
+
+| The additional &#xe01e;&#160;Rift Damage of the &#160;Silver-Twist Karambit, along with the extra 6&#160;&#xe003;&#160;Mana on hit will be useful with the increasing health of the [A sprite icon representing Riftstalker Bloodfiend in Hypixel SkyBlock] Riftstalker Bloodfiend and heightened ability usage, requiring a higher upkeep of &#xe003;&#160;Mana
+
+| [Luscious Healing Melon] 
+
+| &#160;Luscious Healing Melon
+
+| With the &#160;Luscious Healing Melon healing 12&#160;&#xe01f;&#160;Hearts, you can allow your &#xe01f;&#160;Hearts to go even lower before needing to use it, saving more &#xe003;&#160;Mana.
+
+| [Anti-Bite Scarf (Mythic)] 
+
+| &#160;Anti-Bite Scarf (Mythic)
+
+| The &#160;Anti-Bite Scarf (Mythic) provides a significant 0.5&#160;&#xe01f;&#160;Hearts damage reduction, granting far better survivability against the [A sprite icon representing Riftstalker Bloodfiend in Hypixel SkyBlock] Riftstalker Bloodfiend.
+
+The Tier&#160;IV [A sprite icon representing Riftstalker Bloodfiend in Hypixel SkyBlock] Riftstalker Bloodfiend is the recommended tier to grind of the boss if you wish to obtain the &#160;Vampiric Timecharm and other upgrades in a reasonable amount of time. It also feature the whole loot table of the boss, with the exception of the &#160;Enchanted Book Bundle (The One).
+
+### Tier V
+[edit | edit source]
+
+The Tier&#160;V [A sprite icon representing Riftstalker Bloodfiend in Hypixel SkyBlock] Riftstalker Bloodfiend is the final challenge and will put your micro management skills to the test. It introduces Blood Ichor, which summons a Blood Ichor nearby with a 25 second timer. If it runs out, it instantly kills the player. It can be destroyed by letting a Twinclaw hit the Blood Ichor. Mania will now be used at 80%&#160;&#xe010;&#160;Health, 60%&#160;&#xe010;&#160;Health and 40%&#160;&#xe010;&#160;Health. The frequency of Impel is also increased.
+
+Coagulation now deals 1.5&#160;&#xe01f;&#160;Hearts, Twinclaw deals 8&#160;&#xe01f;&#160;Hearts, Mania deals 15&#160;&#xe01f;&#160;Hearts, Impel deals 20&#160;&#xe01f;&#160;Hearts.
+
+Mania and Impel can be survived with &#160;Holy Ice, but do not rely on it.
+
+Be especially careful of Blood Ichor, as you only have a few Twinclaw attacks available, and make sure to pay attention to when it appears.
+
+Make liberal use of the ability to avoid Twinclaw by moving parralel to the boss during Mania to save on &#xe003;&#160;Mana.
+
+| Slot
+| Name
+| Notes
+
+| [Lively Sepulture Chestplate] 
+
+| &#160;Lively Sepulture Chestplate
+
+| The &#160;Lively Sepulture Chestplate provides an extra &#xe01f;&#160;Hearts, 30&#160;&#xe003;&#160;Mana and 25&#160;&#xe004;&#160;Mana Regen. Those will be important, as you will be using your Melon far more due to the higher damage of Coagulation.
+
+| [Weirder Tuba] 
+
+| &#160;Weirder Tuba
+
+| The &#160;Weirder Tuba provides 2&#160;&#xe01e;&#160;Rift Damage and 30&#160;&#xe022;&#160;Speed while active. Use the damage increase to kill the boss faster and the speed to avoid Twinclaw more reliably.
+
+| [Vampire Dentist Relic] 
+
+| &#160;Vampire Dentist Relic
+
+| If you can drop an &#160;Unfanged Vampire Part from the Tier&#160;IV [A sprite icon representing Riftstalker Bloodfiend in Hypixel SkyBlock] Riftstalker Bloodfiend to make the &#160;Vampire Dentist Relic, the extra &#xe01f;&#160;Hearts and +1&#160;&#xe01f;&#160;Hearts from Healing Melons will be useful.
+
+| [Strength Elixir] 
+
+| &#160;Strength Elixir
+
+| The &#160;Strength Elixir provides 3&#160;&#xe01e;&#160;Rift Damage for 10:00. While not a major buff, the additional damage can help make the difference.
+
+Tutorial:Kuudra Guide
+
+&#91;&#34;Tutorial:Navigation&#34;,&#34;Tutorial:Day Count&#34;,&#34;Tutorial:Autopet Guide&#34;&#93;&#91;&#34;Tutorial:Ultimate Guide&#34;,&#34;Tutorial:Tips and Tricks&#34;,&#34;Tutorial:Ironman Guide&#34;,&#34;Tutorial:Bingo Guide&#34;,&#34;Tutorial:Periodic Tasks&#34;&#93;&#91;&#34;Tutorial:Maxing Items&#34;,&#34;Tutorial:Ranged_Weapon_Guide&#34;,&#34;Tutorial:Melee_Weapon_Guide&#34;,&#34;Tutorial:Minion Farming&#34;,&#34;Tutorial:Reforging Guide&#34;,&#34;Tutorial:Armor Guide&#34;,&#34;Tutorial:Accessory Guide&#34;&#93;&#91;&#34;Tutorial:Mining Guide&#34;,&#34;Tutorial:Hunting Guide&#34;,&#34;Tutorial:Foraging Guide&#34;,&#34;Tutorial:Fishing Guide&#34;,&#34;Tutorial:Farming Guide&#34;,&#34;Tutorial:Alchemy Guide&#34;&#93;&#91;&#34;Tutorial:Gemstone Gauntlet's Ability&#34;,&#34;Tutorial:Killing Ghosts on a Budget&#34;,&#34;Tutorial:Dragon Fights Guide&#34;,&#34;Tutorial:How to Obtain a Summoning Eye&#34;,&#34;Tutorial:Kuudra Guide&#34;,&#34;Tutorial:Slayer_Guide&#34;&#93;&#91;&#34;Tutorial:Tank Guide&#34;,&#34;Tutorial:Left-Click_Mage_Guide&#34;,&#34;Tutorial:Right-Click Mage Guide&#34;,&#34;Tutorial:Mage Guide&#34;,&#34;Tutorial:Healer Guide&#34;,&#34;Tutorial:Berserk Guide&#34;,&#34;Tutorial:Archer Guide&#34;,&#34;Tutorial:Dungeon Puzzles&#34;,&#34;Tutorial:Master Mode Guide&#34;,&#34;Tutorial:Catacombs Guide&#34;,&#34;Tutorial:Ultimate Dungeon Guide&#34;&#93;&#91;&#34;Tutorial:Mushroom Farm&#34;,&#34;Tutorial:Sugar Cane Farm&#34;,&#34;Tutorial:Cocoa Beans Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;&#93;&#91;&#34;Tutorial:Timite Mining&#34;,&#34;Tutorial:Tick Thresholds&#34;,&#34;Tutorial:Heart of the Mountain Trees&#34;,&#34;Tutorial:Sapphire Crystal&#34;,&#34;Tutorial:6-ticking Ruby in the Magma Fields&#34;&#93;&#91;&#34;Tutorial:Lowballing&#34;,&#34;Tutorial:NPC Flipping&#34;,&#34;Tutorial:Bazaar Flipping&#34;,&#34;Tutorial:AH Flipping&#34;&#93; | v · d · eTutorials
+| 
+| How-To's | 
+
+- Autopet Guide
+
+- Day Count
+
+- Navigation
+
+| 
+| 
+| General Guides | 
+
+- Periodic Tasks
+
+- Bingo Guide
+
+- Ironman Guide
+
+- Tips and Tricks
+
+- Ultimate Guide
+
+| 
+| Progression Guides | 
+
+- Accessory Guide
+
+- Armor Guide
+
+- Reforging Guide
+
+- Minion Farming
+
+- Melee Weapon Guide
+
+- Ranged Weapon Guide
+
+- Maxing Items
+
+| 
+| Skill Guides | 
+
+- Alchemy Guide
+
+- Farming Guide
+
+- Fishing Guide
+
+- Foraging Guide
+
+- Hunting Guide
+
+- Mining Guide
+
+| 
+| Combat | 
+
+- Slayer Guide
+
+- Kuudra Guide
+
+- How to Obtain a Summoning Eye
+
+- Dragon Fights Guide
+
+- Killing Ghosts on a Budget
+
+- Gemstone Gauntlet Ability
+
+| 
+| Dungeon Guides | 
+
+- Ultimate Dungeon Guide
+
+- Catacombs Guide
+
+- Master Mode Guide
+
+- Dungeon Puzzles
+
+- Archer Guide
+
+- Berserk Guide
+
+- Healer Guide
+
+- Mage Guide (RCM Guide & LCM Guide)
+
+- Tank Guide
+
+| 
+| Farming | 
+
+- Wheat
+
+- Potato
+
+- Carrot
+
+- Nether Wart
+
+- Pumpkin
+
+- Melon
+
+- Cocoa Beans
+
+- Sugar Cane
+
+- Mushroom
+
+| 
+| Mining | 
+
+- 6-ticking Ruby in the Magma Fields
+
+- Nucleus Runs (Sapphire Crystal)
+
+- Heart of the Mountain Trees
+
+- Tick Thresholds
+
+- Timite Mining
+
+| 
+| Economy Guides | 
+
+- AH
+
+- Bazaar
+
+- NPC
+
+- Lowballing
+
+120 ms 5.9%
+_replace 100 ms 4.9%
+dataWrapper 80 ms 3.9%
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::parseFormattedNumber 80 ms 3.9%
+60 ms 2.9%
+format 60 ms 2.9%
+(for generator) 60 ms 2.9%
+[others] 640 ms 31.4%
+-->
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Tutorial:Slayer_Guide?oldid=866200"
+
+Categories: 
+- Community Guides
+- Tutorials
+
+Hidden categories: 
+- Pages using Health
+- Pages using Damage
+- Pages using Effective Health
+- Pages using Defense
+- Pages using Vitality
+- Pages using Strength
+- Pages using Crit Damage
+- Pages using Combat Wisdom
+- Pages using Ability Damage
+- Pages using Speed
+- Pages using Mana
+- Pages using Swing Range
+- Pages using Ferocity
+- Pages using Magic Find
+- Pages using Mending
+- Pages using Mana Regen
+- Pages using Hearts
+- Pages using Rift Time
+- Pages using Rift Damage
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Tutorial
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+2h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+
+- This page was last edited on 31 October 2026, at 07:56.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

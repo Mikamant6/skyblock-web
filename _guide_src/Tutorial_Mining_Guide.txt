@@ -1,0 +1,1038 @@
+Tutorial:Mining Guide - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Tutorial:Mining Guide
+
+From Hypixel SkyBlock Wiki
+
+Jump to navigation
+Jump to search
+
+- This tutorial is a guide.
+
+- This tutorial has been assembled by members of the community as a helpful resource or Tutorial, instructing players on SkyBlock, and thus is not official.
+
+- If you see missing, incorrect or out of date information, please help by contributing to the page.
+
+This article needs to be reworked as its content is outdated.
+You can help the wiki by editing this page and reworking it.
+
+Reason: New Heart of the Mountain Perks; also no Gemstone Mining strategies.
+
+This tutorial was last edited by Akame0308 (contribs|logs|block) on 6:15, November 6 2026 (17 days ago)
+
+This tutorial is an overall guide for &#160;Mining.
+
+## Contents
+
+- 1 Basic Information
+
+- 1.1 Breaking Speed
+
+- 1.2 Block Efficiency
+
+- 1.2.1 Video
+
+- 1.3 Waypoints
+
+- 1.3.1 SkyTils
+
+- 1.3.2 SoopyAddons
+
+- 1.3.3 Coleweight
+
+- 2 Gear
+
+- 2.1 Tools
+
+- 2.2 Armor
+
+- 2.3 Equipment
+
+- 3 Early Game Techniques
+
+- 3.1 Reaching Dwarven Mines
+
+- 3.1.1 Requirements
+
+- 3.1.2 Method
+
+- 4 Crystal Hollows Techniques
+
+- 4.1 Crystal Hollows Mithril
+
+- 4.1.1 Requirements
+
+- 4.1.2 HotM Tree
+
+- 4.1.3 Method
+
+- 4.2 Magma Fields Mithril
+
+- 4.2.1 Requirements
+
+- 4.2.2 HotM Tree
+
+- 4.2.3 Routes
+
+- 4.3 Coal Mining
+
+- 4.3.1 Requirements
+
+- 4.3.2 HotM Tree
+
+- 4.3.3 Tips
+
+- 5 Glacite Mineshaft Techniques
+
+- 5.1 Spawning a Mineshaft
+
+- 5.1.1 Requirements
+
+- 5.1.2 Method
+
+- 5.2 Inside Mineshafts
+
+- 5.2.1 Requirements
+
+- 5.2.2 Methods
+
+- 6 Crimson Isle Techniques
+
+- 6.1 Quartz Mining
+
+- 6.1.1 Requirements
+
+- 6.1.2 HotM Tree
+
+- 6.1.3 Method
+
+- 6.2 Opal Mining
+
+- 6.2.1 Requirements
+
+- 6.2.2 HotM Tree
+
+- 6.2.3 Method
+
+- 6.2.4 Route
+
+## Basic Information
+[edit | edit source]
+
+There are certain topics that are necessary to get to grips with mining. Many, if not all, of the methods in this guide require Heart of the Mountain&#160;VII (7). It is highly recommended to do commissions until reaching this milestone.
+
+### Breaking Speed
+[edit | edit source]
+
+There are 20 Minecraft ticks per second (1 tick = 0.05s).
+
+Blocks break in terms of ticks; how many ticks it takes to break a block is determined by your &#xe015;&#160;Mining Speed and the "Block Strength" (see Breaking Power) of the block you are breaking.
+The formula for how many ticks you break a block is round(blockStrength*30/miningSpeed)
+
+Ticks round: 8.499999 ticks break at the same speed as 8 ticks, as does 8.33333333. Once you cross that threshold, you will be able to break the block in 1 tick, or 0.05s, faster. Mining a block 1 tick faster is equal to roughly 150 fortune (another ~1.5m per hour). The formula for how many ticks it takes to break a block is round(blockStrength*30/(tick+0.4999999999999))
+
+If you have the mining speed to mine a block in less than 1 tick, the block will be instamined. However, if you do not have the mining speed to break a block in less than a tick, you will mine the block in 4 ticks instead of insta-mining.
+
+Maximum possible consistent tick speeds
+
+- Jade: 8348 Speed (11 Tick)
+
+- Ruby: 9201 Speed (7/8 Tick)
+
+- Blue Wool Mithril: 6923 Speed (6 Tick)
+
+Blocks that can be instamined with Mining Speed Boost
+
+- Mines of Divan Gold: 36,000 Speed
+
+- Prismarine Mithril: 48,000 Speed (In Magma Fields with Bal Pet)
+
+- Gray Mithril: 30,000 Speed
+
+- Obsidian: 30,000 Speed
+
+### Block Efficiency
+[edit | edit source]
+
+Block efficiency is how much downtime you take in-between mining. This can include moving your crosshair to your next block or ether warping to the next platform.
+
+The higher your block efficiency is, the more gemstones you can mine in an hour. To get better block efficiency you just have to keep practicing to get faster. Your ping or the server's TPS can affect how hard it is to have high efficiency.
+
+#### Video
+[edit | edit source]
+
+A video displaying high block efficiency can be seen below.
+
+### Waypoints
+[edit | edit source]
+
+Waypoints are crucial to efficiently and effectively mining. They mark locations to easily see where you need to go to mine. There are 3 main types of waypoint, and you can differentiate them as follows. You can use https://soopy.dev/waypointconvert to convert between waypoint formats.
+
+#### SkyTils
+[edit | edit source]
+
+Waypoint
+There are 2 variations of the import format:
+
+- <Skytils-Waypoint-Data>(V1):H4sIAAAAAAAC/51Y225bNxD8FeM8CwW5F (Newer)
+
+- eyJjYXRlZ29yaWVzIjogW3sibmFtZSI6ICJBbWJlciBEaWxsbyIsIndheXBv (Older)
+
+Import
+Copy the import string then in-game, do /st → Exit Waypoints → Share → Import from clipboard
+
+#### SoopyAddons
+[edit | edit source]
+
+Waypoint
+There are 2 variations of the import format:
+
+- AQAAAJ0AATFDTwAAQxsAAEPsgAAAfwAAAAABMQABMkNMAABDHwAAQ+0AAAB/AAAAAAEyAAEzQ0sAAEMiAA (Newer)
+
+- [{"x":208,"y":170,"z":518,"r":0,"g":1,"b":0,"options":{"name":1}},{"x":207,"y":173,"z":520,"r":0,"g":1,"b":0,"options":{"name":2}} (Older)
+
+Import
+Copy the import string then in-game, do /loadwaypoints → /converttoorder → /clear waypoints. If you do not want ordered waypoints just do /loadwaypoints
+
+#### Coleweight
+[edit | edit source]
+
+Waypoint
+Coleweight uses both Soopy import formats as well as the older skytils format.
+
+- AQAAAJ0AATFDTwAAQxsAAEPsgAAAfwAAAAABMQABMkNMAABDHwAAQ+0AAAB/AAAAAAEyAAEzQ0sAAEMiAA (Newer Soopy)
+
+- [{"x":208,"y":170,"z":518,"r":0,"g":1,"b":0,"options":{"name":1}},{"x":207,"y":173,"z":520,"r":0,"g":1,"b":0,"options":{"name":2}} (Older Soopy)
+
+- eyJjYXRlZ29yaWVzIjogW3sibmFtZSI6ICJBbWJlciBEaWxsbyIsIndheXBv (Older SkyTils)
+
+Import
+Copy the import string then in-game, do /cw ordered load. If you do not want ordered waypoints, do /cw waypoint load
+
+Additional Commands
+/cw ordered delete <#>, /cw ordered add <#>, /cw ordered unload and /cw waypoints delete <#>. For any other commands do /cw help.
+
+## Gear
+[edit | edit source]
+
+### Tools
+[edit | edit source]
+
+Until in the Dwarven Mines the Progress are the normal Vanilla Mining Tools.
+
+| Heart of The Mountain Level
+
+| Tool
+
+| Heart of the Mountain 0-1
+
+| &#160;Fractured Mithril Pickaxe
+
+| Heart of the Mountain 2
+
+| &#160;Bandaged Mithril Pickaxe
+&#160;Mithril Pickaxe
+
+| Heart of the Mountain 3
+
+| &#160;Titanium Pickaxe
+&#160;Mithril Drill SX-R226 
+&#160;Ruby Drill TX-15 for Gemstones
+
+| Heart of the Mountain 4
+
+| &#160;Polished Titanium Pickaxe
+&#160;Mithril Drill SX-R326 
+&#160;Gemstone Drill LT-522
+
+| &#160;Pickonimbus 2000
+
+| Heart of the Mountain 5
+
+| &#160;Titanium Drill DR-X555 for non-gemstones, but &#160;Titanium Drill DR-X355 is more cost-effective; &#160;Topaz Drill KGR-12 for gemstones, but &#160;Gemstone Drill LT-522 is more cost-effective
+
+| Heart of the Mountain 6
+
+| &#160;Titanium Drill DR-X655, but &#160;Gemstone Gauntlet is more cost-effective
+
+| Heart of the Mountain 7-10
+
+| &#160;Divan's Drill, but &#160;Gemstone Gauntlet and &#160;Titanium Drill DR-X655 are more cost-effective. With HoTm Lvl 7 you can get in to the Glacite Mines and there you need a tool with Breaking Power 9.
+
+- 
+
+- &#160;Pickonimbus 2000 is highly recommended for people who just started mining Gemstones, although it cannot break Topaz (unless you have the Rhinestone Infusion perk from the Diamond Essence Shop) or Jasper.
+
+- &#160;Mithril Drill SX-R226 and &#160;Mithril Drill SX-R326 are not recommended for mining because of their high cost despite the inability to mine most types of gemstones, and their inferiority to the &#160;Titanium Drill DR-X355. However, their increased ᠅&#8201;Mithril Powder gain can be useful in deficit.
+
+- The &#160;Ruby Drill TX-15 line should be made even if it won’t be used as a mining tool, because of the eventual +20% ᠅&#8201;Gemstone Powder buff given by the &#160;Jasper Drill X.
+
+### Armor
+[edit | edit source]
+
+| Requirement/ Heart of the Mountain Level
+
+| Armor
+
+| Mining 0-31
+Iron&#160;II (2)
+
+| &#160;Prospecting Armor
+
+| Hard Stone&#160;V (5)
+
+| optional &#160;Flamebreaker Armor This Armor is Optional but gives 40 Mining Fortune which is the highest until the Sorrow Armor and Divan Armor.
+
+| Hard Stone&#160;V (5)
+
+| optional &#160;Yog Armor this armor is useful when you are farming in the Magma Fields because of the set immunity to the heat.
+
+| Mining Level 31
+
+| &#160;Glacite Armor it can be used earlier but until now it gives less mining speed
+
+| Heart of the Mountain 5
+
+| &#160;Sorrow Armor
+
+| Heart of the Mountain 6
+
+| &#160;Divan Armor
+
+### Equipment
+[edit | edit source]
+
+| Heart of the Mountain Level
+
+| Equipment
+
+| Heart of the Mountain 0-1
+
+| 
+
+| Heart of the Mountain 2
+
+| &#160;Mithril Necklace&#160;Mithril Cloak&#160;Mithril Belt&#160;Mithril Gauntlet
+
+| Heart of the Mountain 3
+
+| &#160;Titanium Necklace&#160;Titanium Cloak&#160;Titanium Belt&#160;Titanium Gauntlet
+
+| Heart of the Mountain 5
+
+| &#160;Amber Necklace&#160;Sapphire Cloak&#160;Jade Belt&#160;Amethyst Gauntlet
+
+| Heart of the Mountain 8
+
+| &#160;Dwarven Handwarmers
+
+| Heart of the Mountain 10
+
+| &#160;Pendant of Divan
+
+In Some Areas other Sets are better
+
+| 
+
+| Dwarven Mines
+
+| Crystal Hollows
+
+| Glacite Tunnels
+
+| Necklace
+
+| &#160;Titanium Necklace until Heart of the Mountain 10 then
+&#160;Pendant of Divan
+
+| 
+
+| &#160;Pendant of Divan
+
+| Cloak
+
+| &#160;Titanium Cloak
+
+| 
+
+| &#160;Ancient Cloak/&#160;Sapphire Cloak
+
+| Belt
+
+| &#160;Titanium Belt
+
+| 
+
+| &#160;Jade Belt
+
+| Gloves
+
+| &#160;Titanium Gauntlet until you have the &#160;Pendant of Divan then
+&#160;Dwarven Handwarmers
+
+| 
+
+| &#160;Dwarven Handwarmers
+
+## Early Game Techniques
+[edit | edit source]
+
+These methods are for early-game players to reach Heart of the Mountain&#160;VII (7).
+
+### Reaching Dwarven Mines
+[edit | edit source]
+
+Reaching &#160;Mining&#160;XII (12) is key in early game progression, as it allows the player access to the Dwarven Mines. 
+
+#### Requirements
+[edit | edit source]
+
+- &#160;Golden Shovel (Efficiency II)
+
+#### Method
+[edit | edit source]
+
+After creating a profile, you should start farming wheat in the hub until reaching &#160;Farming&#160;V (5), which is the requirement to access the Mushroom Desert. From here, buy a Gold Ingot from the [A sprite icon representing Mine Merchant in Hypixel SkyBlock] Mine Merchant and &#160;2&#160;Sticks from the Lumber Merchant, and craft a Golden Shovel, which you should then enchant with Efficiency II at the enchantment table next to the Librarian.
+Once you have done so, go to the Mushroom Desert and mine sand until you reach &#160;Mining&#160;XII (12).
+
+Craft your sand into enchanted sand, and sell both the sand and wheat to the Bazaar. With this money, buy &#160;30&#160;Enchanted Redstone, which will cost ???&#160;coins, and give it to Rhys to access the Dwarven Mines.
+
+## Crystal Hollows Techniques
+[edit | edit source]
+
+All of the following methods take place in the &#xe067; Crystal Hollows.
+
+### Crystal Hollows Mithril
+[edit | edit source]
+
+Crystal Hollows mithril mining is a general purpose mining method that utilizes mithril veins generated in the crystal hollows. Mithril blocks in these veins give around 2x the XP of the mithril blocks in the Dwarven Mines and because of that, its very good for obtaining mining XP.
+
+#### Requirements
+[edit | edit source]
+
+- Maxed Armor of Divan
+
+- &#160;Golden Dragon Pet (For max XP rates, share a second G-Drag)
+
+- Maxed &#160;Divan's Drill (Refined and &#160;Blue Cheese Goblin Omelette)
+
+- Other mining essentials like equipment and accessories etc.
+
+A minimum of 5334&#160;&#xe015;&#160;Mining Speed is required to instamine green mithril. 
+
+#### HotM Tree
+[edit | edit source]
+
+The Heart of the Mountain tree used for crystal hollows mithril mining requires the following powder:
+
+- 9.8m Mithril Powder
+
+- 11.05m/17.35m Gemstone Powder
+
+The Mithril Powder is needed to max &#160;Efficient Miner, &#160;Seasoned Mineman, &#160;Mining Fortune 1 and &#160;Mining Speed 1, whilst the Gemstone Powder is required to max &#160;Mining Fortune 2 and &#160;Mining Speed 2, mining speed and &#160;Powder Buff. To set up lobbies quicker you could max out &#160;Mole, which costs another 6.3m gemstone powder.
+
+Heart of the Mountain
+[Lime Stained Glass Pane] [Diamond] [Diamond] [Diamond] 
+[Lime Stained Glass Pane] [Block of Coal] [Diamond] [Diamond] [Diamond] [Diamond] [Diamond] [Block of Coal] 
+[Lime Stained Glass Pane] [Coal] [Block of Redstone] [Coal] 
+[Lime Stained Glass Pane] [Coal] [Diamond] [Diamond] [Diamond] [Diamond] [Coal] [Coal] 
+[Lime Stained Glass Pane] [Coal] [Diamond] [Coal] 
+[Lime Stained Glass Pane] [Block of Coal] [Coal] [Diamond] [Diamond] [Enchanted Emerald Block] 
+[Lime Stained Glass Pane] [Diamond] 
+[Barrier] [Arrow] [Heart of the Mountain] [Crystal Hollows Crystals Icon] [Reset Heart of the Mountain] 
+
+#### Method
+[edit | edit source]
+
+What makes this method good is being able to level up pets insanely quickly and the most profitable one being the &#160;Golden Dragon Pet, which will gain around 2.5 levels per hour at good efficiency.
+
+You should be digging 2-3 blocks into the vein then activate &#160;Pickobulus to use the ability efficiently.
+
+### Magma Fields Mithril
+[edit | edit source]
+
+Magma fields mithril mining is a form of mining which utilises the Bal Pet's Made of Lava perk, which buffs mining speed to a point where you are able to insta-mine the prismarine mithril blocks. Unlike normal crystal hollows mithril mining, which can generate around 5m mining XP/h, magma fields mithril can generate up to 8m mining XP/hour without any event buffs, which is a noticeable increase. 
+
+It should also be noted that this method is not good for pet levelling.
+
+#### Requirements
+[edit | edit source]
+
+- Armor of Divan (Jaded, Perfect Gems, &#160;Recomb'd)
+
+- &#160;Divan's Drill (Refined, &#160;Amber-Polished Drill Engine, &#160;Blue Cheese Goblin Omelette, Efficiency X)
+
+- [Lv100] &#160;EPIC&#160;Bal Pet
+
+- [Lv100] &#160;LEGENDARY&#160;Silverfish Pet (When not using MSB, have Silverfish out for more MW, and swap to a Bal when using MSB)
+
+- 2 Auto Pet Rules + Fishing Rod
+
+The rules for the autopet are: 
+
+- Rule 1: On cast fishing rod equip Silverfish EXCEPT if Silverfish is already equipped.
+
+- Rule 2: On cast fishing rod equip Bal EXCEPT if Bal is already equipped.
+
+A minimum of 48,000&#160;&#xe015;&#160;Mining Speed is required to instamine mithril ore. A base 8,500&#160;&#xe015;&#160;Mining Speed is needed.
+
+#### HotM Tree
+[edit | edit source]
+
+It is recommended to have a minimum of 7.7m mithril powder and 7.4m gemstone powder. This is to max out the Efficient Miner, Mining Speed 1 and Seasoned Mineman perks, and the Powder Buff and Mining Speed 2 perks.
+
+Heart of the Mountain
+[Lime Stained Glass Pane] [Diamond] [Coal] [Diamond] 
+[Lime Stained Glass Pane] [Block of Coal] [Diamond] [Diamond] [Diamond] [Diamond] [Diamond] [Block of Coal] 
+[Lime Stained Glass Pane] [Coal] [Block of Redstone] [Coal] 
+[Lime Stained Glass Pane] [Coal] [Diamond] [Diamond] [Diamond] [Coal] [Coal] [Coal] 
+[Lime Stained Glass Pane] [Coal] [Diamond] [Coal] 
+[Lime Stained Glass Pane] [Enchanted Emerald Block] [Diamond] [Diamond] [Diamond] [Enchanted Emerald Block] 
+[Lime Stained Glass Pane] [Diamond] 
+[Barrier] [Arrow] [Heart of the Mountain] [Crystal Hollows Crystals Icon] [Reset Heart of the Mountain] 
+
+#### Routes
+[edit | edit source]
+
+As with most mining methods, a route is necessary to mine efficiently, and waypoints can be seen below.
+
+### Coal Mining
+[edit | edit source]
+
+Coal is an ore found very commonly in the Crystal Hollows. Coal mining is a method that utilizes huge routes in the &#xe067; Magma Fields and is very ping dependent.
+
+#### Requirements
+[edit | edit source]
+
+- [Lv100] &#160;Bal Pet (Preferably LEGENDARY)
+
+- 3/4 &#160;Divan Armor
+
+- &#160;Mineral Boots
+
+A minimum of 1,800&#160;&#xe015;&#160;Mining Speed is required to instamine coal ore. A base 7,500&#160;&#xe015;&#160;Mining Speed is needed in the Magma Fields to instamine Hard Stone while falling.
+
+#### HotM Tree
+[edit | edit source]
+
+The Heart of the Mountain tree used for Coal mining should have the following powder splits:
+
+- Efficient Miner 60-80
+
+- Mole 71
+
+- Efficient Miner 100
+
+- Mole 190
+
+It is recommended to have a minimum of 4.2m mithril powder and 4m gemstone powder to start off. All fortune perks should be maxed, and the remaining powder should be put into efficient miner.
+
+Heart of the Mountain
+[Lime Stained Glass Pane] [Diamond] [Diamond] [Diamond] 
+[Lime Stained Glass Pane] [Block of Coal] [Diamond] [Diamond] [Diamond] [Diamond] [Diamond] [Block of Coal] 
+[Lime Stained Glass Pane] [Coal] [Block of Redstone] [Coal] 
+[Lime Stained Glass Pane] [Diamond] [Diamond] [Diamond] [Diamond] [Coal] [Coal] [Coal] 
+[Lime Stained Glass Pane] [Coal] [Diamond] [Coal] 
+[Lime Stained Glass Pane] [Block of Coal] [Coal] [Diamond] [Diamond] [Enchanted Emerald Block] 
+[Lime Stained Glass Pane] [Diamond] 
+[Barrier] [Arrow] [Heart of the Mountain] [Crystal Hollows Crystals Icon] [Reset Heart of the Mountain] 
+
+#### Tips
+[edit | edit source]
+
+- Muscle memory is your best friend, the less you think about going to the next waypoint the better.
+
+- Use Coleweight ordered waypoints, Skytils waypoints can clutter your screen so you won't see where to go next.
+
+- Always instasell your &#160;Enchanted Coal, sell order isn't worth the time.
+
+- Use Etherwarp to go up, jumping is just downtime.
+
+## Glacite Mineshaft Techniques
+[edit | edit source]
+
+The following methods take place on the &#xe067; Glacite Tunnels and &#xe067; Glacite Mineshafts.
+
+### Spawning a Mineshaft
+[edit | edit source]
+
+To effeciently spawn Mineshafts, the Pity must be filled as fast as possible. There are mainly two methods: the first one being bombing the giant Glacite veins, the other being mining Gemstones quickly, which is preferred if the player has a pretty decent setup and wants higher profit as &#xe01c;&#160;Pristine doesn't work when Pickobulus is casted.
+
+#### Requirements
+[edit | edit source]
+
+- [Lv100] &#160;Glacite Golem Pet (Any rarity, if &#xe006;&#160;Cold Resistance is low or cannot afford a Scatha) or [Lv100] &#160;Scatha Pet (if &#xe006;&#160;Cold Resistance is high enough and you mine gemstones for pity)
+
+- Sorrow Armor or Armor of Divan with Ice Cold enchantment
+
+- Any drills with at least 9 &#xe005;&#160;Breaking Power or Scraped Gemstone Gauntlet (not recommended)
+
+- Glacite Lantern or Will-o'-wisp
+
+#### Method
+[edit | edit source]
+
+For bombing Glacite veins, players can just mine as usual and when Pickobulus is available, cast it towards the giant glacite vein, which can provide up to 300 Pity value. During the cooldown gemstones and mithril ores are recommended to be mined. For mining gemstone only, use Mining Speed Boost Pickaxe Ability and just mine gemstones as usual.
+
+Make sure that the deployable buff is always active.
+
+Waypoints are not necessarily required as it usually doesn't take too long to mine out a Mineshaft.
+
+Maxing out the Surveyor perk at HotM8 will grant +15% (or +15.5% with Blue Cheese Goblin Omelette) chance to discover a Mineshaft. 
+
+It's also great to have a mineshaft party with at least 4 players.
+
+### Inside Mineshafts
+[edit | edit source]
+
+Inside the Mineshafts, players can obtain &#160;Suspicious Scraps, Fossil Essences, and the precious &#160;Jasper Gemstones, which players can profit a lot from them.
+
+#### Requirements
+[edit | edit source]
+
+- [Lv100] &#160;Glacite Golem Pet ( RARE+ to provide extra &#xe053;&#160;Mining Fortune inside Mineshafts, and LEGENDARY to provide &#xe01c;&#160;Pristine and the most fortune)
+
+- [Lv100] &#160;Mammoth Pet for fully negating &#xe006;&#160;Cold decrease from being hit by Glacial Mobs (optional)
+
+- All the armors, drills and deployables mentioned above
+
+#### Methods
+[edit | edit source]
+
+Whatever you do, if you are in a mineshaft party, always obey the rules. Without otherwise stated, the common rules include that don't mine too many gemstones so that the owner has nothing to mine, especially for Jasper; always leave the Fossil Essences for the owner.
+
+Inside the Mineshafts, &#xe006;&#160;Cold Resistance is the most important stat as it dominates how long you can stay in a mineshaft, so stack it up as much as possible.
+
+Before mining, it's good to know that not all mineshafts are good, and only mine in the mineshafts which contain the resource you are grinding or good gemstones.
+
+These suggestions are only for profits, not for grinding materials or Ironmans.
+
+- Onyx, Aquamarine, and Citrine mineshafts are typically not good for profit for their low prices at the Bazaar and high block strength, so loot the corpses and crystal and then leave.
+
+- Peridot mineshafts can be considered. Despite the high block strength as those three gemstones, Peridot Gemstones do have high prices.
+
+- Ruby, Amethyst, Sapphire, Jade, Amber, Opal and Topaz mineshafts can be considered.
+
+- Jasper mineshafts are definitely worth it.
+
+- Littlefoot's Den is only for the shards. Kill Littlefoot, loot corpses and then leave.
+
+- Umber and Tungsten mineshafts are only for those who need the resources to forge keys.
+
+- Vanguard mineshafts are only for those running for Shattered Lockets.
+
+Upon entering the mineshaft, place down deployables to provide buffs for everyone and cast Pickobulus (if chosen) towards Glacite veins to gain 1-2 pieces of Suspicious Scraps. Kill some Glacial mobs to gain extra &#xe006;&#160;Cold Resistance if Cut Loose perk is purchased.
+
+Looting Umber and Tungsten Corpses are not very recommended because their expected profit is negative. However, with enough keys (or money to buy keys from Bazaar) and LEGENDARY &#160;Glacite Golem Pet, up to +4 extra &#xe01c;&#160;Pristine can be granted, making Glacite Golem better than Scatha inside Mineshafts. It is also a good but expensive way to grind &#160;Glacite Powder.
+
+Aspect of the Void is disabled inside the Mineshaft, use Grappling Hook, Leaping Sword or other items instead.
+
+When you leave the Mineshaft, typing /warp gt is the most convenient way. Exiting through Ascension Ropes is also only one-click and it also grants &#160;Glacite Powder.
+
+## Crimson Isle Techniques
+[edit | edit source]
+
+The following methods take place on the &#xe067; Crimson Isle.
+
+### Quartz Mining
+[edit | edit source]
+
+Quartz is a white ore found on the Crimson Isle. It is not a very common mining method, although it does make quite a sizeable amount of coins, at around 30-40m/h, although this is dependent on the current bazaar prices. It is also often used by Ironman players for the &#160;Terminator crafting recipe.
+
+#### Requirements
+[edit | edit source]
+
+- [Lv100] &#160;Scatha Pet (Any rarity, but EPIC+ is preferable)
+
+- Any Mining armor
+
+- &#160;Mineral Boots
+
+- Any Drill/Gemstone Gauntlet
+
+#### HotM Tree
+[edit | edit source]
+
+The Heart of the Mountain tree used for Quartz mining is the same as dillo mining, as it only requires fortune due to the Quartz ore speed cap being very low. For the powder and powder splits, it is recommended to have 3m/3.7m powder to start off. All fortune perks should be maxed, and the remaining powder should be put into efficient miner.
+
+Heart of the Mountain
+[Lime Stained Glass Pane] [Diamond] [Diamond] [Diamond] 
+[Lime Stained Glass Pane] [Block of Coal] [Diamond] [Diamond] [Diamond] [Diamond] [Diamond] [Block of Coal] 
+[Lime Stained Glass Pane] [Coal] [Block of Redstone] [Coal] 
+[Lime Stained Glass Pane] [Diamond] [Diamond] [Diamond] [Diamond] [Coal] [Coal] [Coal] 
+[Lime Stained Glass Pane] [Coal] [Diamond] [Coal] 
+[Lime Stained Glass Pane] [Enchanted Emerald Block] [Diamond] [Diamond] [Coal] [Block of Coal] 
+[Lime Stained Glass Pane] [Diamond] 
+[Barrier] [Arrow] [Heart of the Mountain] [Crystal Hollows Crystals Icon] [Reset Heart of the Mountain] 
+
+#### Method
+[edit | edit source]
+
+For Quartz mining, the route that should be used are these 3 waypoints:
+
+- -436, 57, -662
+
+- -419, 57, -696
+
+- -440, 57, -687
+
+You should circle around these 3 waypoints and mine all the Quartz veins there.
+
+As for the mobs, you can either kill them using any weapon that can kill them quickly, or you can use an Aspect of the Dragons to remove them from the veins. Right click abilities do not aggro the magma cubes.
+
+### Opal Mining
+[edit | edit source]
+
+Opal is a white Gemstone that spawns in veins in the &#xe067; Smoldering Tomb area of the Crimson Isle. Opal mining isn't a very common mining method that is used, but can still make respectable amounts of coins (20–30,000,000 Coins an hour, although this is dependent on the current bazaar prices). This method is often not recommended due to the insane amount of lag in the Crimson Isle.
+
+#### Requirements
+[edit | edit source]
+
+- [Lv100] &#160;Scatha Pet (Any rarity, but EPIC+ is preferable)
+
+- Any Mining armor
+
+- Any Drill/Gemstone Gauntlet
+
+#### HotM Tree
+[edit | edit source]
+
+The Heart of the Mountain tree used for Opal mining is the same as any other manual mining. The powder requirements are also the same, being 4m powder of both types.
+
+Heart of the Mountain
+[Lime Stained Glass Pane] [Diamond] [Diamond] [Diamond] 
+[Lime Stained Glass Pane] [Block of Coal] [Diamond] [Diamond] [Diamond] [Diamond] [Diamond] [Block of Coal] 
+[Lime Stained Glass Pane] [Coal] [Block of Redstone] [Coal] 
+[Lime Stained Glass Pane] [Diamond] [Diamond] [Diamond] [Diamond] [Coal] [Coal] [Coal] 
+[Lime Stained Glass Pane] [Coal] [Diamond] [Coal] 
+[Lime Stained Glass Pane] [Enchanted Emerald Block] [Diamond] [Diamond] [Coal] [Block of Coal] 
+[Lime Stained Glass Pane] [Diamond] 
+[Barrier] [Arrow] [Heart of the Mountain] [Crystal Hollows Crystals Icon] [Reset Heart of the Mountain] 
+
+#### Method
+[edit | edit source]
+
+The method for mining opal is quite similar to any manual mining method, with the only difference being no setup time. This can be useful if you don't have time to set up a dillo route. 
+
+To neutralize damage from the blazes that spawn in the Smoldering Tomb, you can use a method with the &#160;Re-heated Gummy Polar Bear:
+
+- Consume a Gummy
+
+- Spawn a T1 Blaze Slayer boss.
+
+- After its spawn animation finishes, go to your island.
+
+- Go back to the Smoldering Tomb and blazes shouldn't attack you!
+
+Alternatively, you can use a Moody Grappleshot to pull blazes away from where you are mining or use an &#160;Aspect of the Dragons to yeet the blazes away.
+
+#### Route
+[edit | edit source]
+
+Unlike a lot of mining methods, Opal does not require setting up a route. Just run around the Smoldering Tomb and mine the Opal veins.
+
+Tutorial:Farming Guide
+
+Tutorial:Fishing Guide
+
+&#91;&#34;Tutorial:Navigation&#34;,&#34;Tutorial:Day Count&#34;,&#34;Tutorial:Autopet Guide&#34;&#93;&#91;&#34;Tutorial:Ultimate Guide&#34;,&#34;Tutorial:Tips and Tricks&#34;,&#34;Tutorial:Ironman Guide&#34;,&#34;Tutorial:Bingo Guide&#34;,&#34;Tutorial:Periodic Tasks&#34;&#93;&#91;&#34;Tutorial:Maxing Items&#34;,&#34;Tutorial:Ranged_Weapon_Guide&#34;,&#34;Tutorial:Melee_Weapon_Guide&#34;,&#34;Tutorial:Minion Farming&#34;,&#34;Tutorial:Reforging Guide&#34;,&#34;Tutorial:Armor Guide&#34;,&#34;Tutorial:Accessory Guide&#34;&#93;&#91;&#34;Tutorial:Mining Guide&#34;,&#34;Tutorial:Hunting Guide&#34;,&#34;Tutorial:Foraging Guide&#34;,&#34;Tutorial:Fishing Guide&#34;,&#34;Tutorial:Farming Guide&#34;,&#34;Tutorial:Alchemy Guide&#34;&#93;&#91;&#34;Tutorial:Gemstone Gauntlet's Ability&#34;,&#34;Tutorial:Killing Ghosts on a Budget&#34;,&#34;Tutorial:Dragon Fights Guide&#34;,&#34;Tutorial:How to Obtain a Summoning Eye&#34;,&#34;Tutorial:Kuudra Guide&#34;,&#34;Tutorial:Slayer_Guide&#34;&#93;&#91;&#34;Tutorial:Tank Guide&#34;,&#34;Tutorial:Left-Click_Mage_Guide&#34;,&#34;Tutorial:Right-Click Mage Guide&#34;,&#34;Tutorial:Mage Guide&#34;,&#34;Tutorial:Healer Guide&#34;,&#34;Tutorial:Berserk Guide&#34;,&#34;Tutorial:Archer Guide&#34;,&#34;Tutorial:Dungeon Puzzles&#34;,&#34;Tutorial:Master Mode Guide&#34;,&#34;Tutorial:Catacombs Guide&#34;,&#34;Tutorial:Ultimate Dungeon Guide&#34;&#93;&#91;&#34;Tutorial:Mushroom Farm&#34;,&#34;Tutorial:Sugar Cane Farm&#34;,&#34;Tutorial:Cocoa Beans Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;&#93;&#91;&#34;Tutorial:Timite Mining&#34;,&#34;Tutorial:Tick Thresholds&#34;,&#34;Tutorial:Heart of the Mountain Trees&#34;,&#34;Tutorial:Sapphire Crystal&#34;,&#34;Tutorial:6-ticking Ruby in the Magma Fields&#34;&#93;&#91;&#34;Tutorial:Lowballing&#34;,&#34;Tutorial:NPC Flipping&#34;,&#34;Tutorial:Bazaar Flipping&#34;,&#34;Tutorial:AH Flipping&#34;&#93; | v · d · eTutorials
+| 
+| How-To's | 
+
+- Autopet Guide
+
+- Day Count
+
+- Navigation
+
+| 
+| 
+| General Guides | 
+
+- Periodic Tasks
+
+- Bingo Guide
+
+- Ironman Guide
+
+- Tips and Tricks
+
+- Ultimate Guide
+
+| 
+| Progression Guides | 
+
+- Accessory Guide
+
+- Armor Guide
+
+- Reforging Guide
+
+- Minion Farming
+
+- Melee Weapon Guide
+
+- Ranged Weapon Guide
+
+- Maxing Items
+
+| 
+| Skill Guides | 
+
+- Alchemy Guide
+
+- Farming Guide
+
+- Fishing Guide
+
+- Foraging Guide
+
+- Hunting Guide
+
+- Mining Guide
+
+| 
+| Combat | 
+
+- Slayer Guide
+
+- Kuudra Guide
+
+- How to Obtain a Summoning Eye
+
+- Dragon Fights Guide
+
+- Killing Ghosts on a Budget
+
+- Gemstone Gauntlet Ability
+
+| 
+| Dungeon Guides | 
+
+- Ultimate Dungeon Guide
+
+- Catacombs Guide
+
+- Master Mode Guide
+
+- Dungeon Puzzles
+
+- Archer Guide
+
+- Berserk Guide
+
+- Healer Guide
+
+- Mage Guide (RCM Guide & LCM Guide)
+
+- Tank Guide
+
+| 
+| Farming | 
+
+- Wheat
+
+- Potato
+
+- Carrot
+
+- Nether Wart
+
+- Pumpkin
+
+- Melon
+
+- Cocoa Beans
+
+- Sugar Cane
+
+- Mushroom
+
+| 
+| Mining | 
+
+- 6-ticking Ruby in the Magma Fields
+
+- Nucleus Runs (Sapphire Crystal)
+
+- Heart of the Mountain Trees
+
+- Tick Thresholds
+
+- Timite Mining
+
+| 
+| Economy Guides | 
+
+- AH
+
+- Bazaar
+
+- NPC
+
+- Lowballing
+
+160 ms 10.0%
+replaceStrings 140 ms 8.8%
+_toNumber 80 ms 5.0%
+validateData 80 ms 5.0%
+format 60 ms 3.8%
+gmatch 40 ms 2.5%
+_replace 40 ms 2.5%
+40 ms 2.5%
+new 40 ms 2.5%
+[others] 540 ms 33.8%
+-->
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Tutorial:Mining_Guide?oldid=868780"
+
+Categories: 
+- Community Guides
+- Outdated pages
+- Tutorials
+
+Hidden categories: 
+- Pages using Mining Speed
+- Pages using Pristine
+- Pages using Cold Resistance
+- Pages using Breaking Power
+- Pages using Mining Fortune
+- Pages using Cold
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Tutorial
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+2h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+
+- This page was last edited on 6 November 2026, at 18:15.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

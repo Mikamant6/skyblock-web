@@ -1,0 +1,346 @@
+Enchantments/Fishing Rod - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Enchantments/Fishing Rod
+
+From Hypixel SkyBlock Wiki
+
+< Enchantments
+
+Jump to navigation
+Jump to search
+
+| Angler
+&#160;Ench Lvl: 4
+
+| Grants +X&#160;&#xe021;&#160;Sea Creature Chance
+
+| I | II | III | IV | V | VI
+| 1 | 2 | 3 | 4 | 5 | 6
+| Enchantment Table | [A sprite icon representing Deep Sea Protector in Hypixel SkyBlock] Deep Sea Protector
+
+| Blessing
+&#160;Ench Lvl: 9
+
+| Increases the chance for Treasure catches to be GREAT or OUTSTANDING by X%.
+
+| I | II | III | IV | V | VI
+| 2 | 4 | 6 | 8 | 10 | 12
+| Enchantment Table | [A sprite icon representing Bayou Sludge in Hypixel SkyBlock] Bayou Sludge
+
+| Caster
+&#160;Ench Lvl: 15
+
+| X% chance to not consume bait.
+
+| I | II | III | IV | V | VI
+| 5 | 10 | 15 | 20 | 25 | 30
+| Enchantment Table | [A sprite icon representing Carrot King in Hypixel SkyBlock] Carrot King
+
+| Charm
+&#160;Ench Lvl: 25
+
+| Increases the chance to receive higher-tiered Trophies by X%.
+
+| I | II | III | IV | V | VI
+| 2 | 4 | 6 | 8 | 10 | 12
+| [A sprite icon representing Pyroclastic Worm in Hypixel SkyBlock] Pyroclastic Worm | Combining Books | &#160;Chain of the End Times
+
+| Corruption
+&#160;Ench Lvl: 25
+
+| Gain a X% chance to spawn a Corrupted Sea Creature.
+
+| I | II | III | IV | V
+| 1 | 2 | 3 | 4 | 5
+| Corrupted Sea Creatures | Combining Books
+
+| Expertise
+
+| Grants +X&#160;&#xe021;&#160;Sea Creature Chance and +Y&#160;☯&#160;Fishing Wisdom when killing Sea Creatures.Upgrade by killing Sea Creatures.
+Cannot be combined in the anvil.
+
+| I | II | III | IV | V | VI | VII | VIII | IX | X
+| 0.6
+2 | 1.2
+4 | 1.8
+6 | 2.4
+8 | 3
+10 | 3.6
+12 | 4.2
+14 | 4.8
+16 | 5.4
+18 | 6
+20
+| Community Center
+(4,000 Bits) | 50 | 100 | 250 | 500 | 1k | 2.5k | 5.5k | 10k | 15k
+
+| Frail
+&#160;Ench Lvl: 14
+
+| Sea creatures start with X% reduced health.
+
+| I | II | III | IV | V | VI | VII
+| 2.5 | 5 | 7.5 | 10 | 12.5 | 15 | 17.5
+| Enchantment Table | [A sprite icon representing Catfish in Hypixel SkyBlock] Catfish | &#160;Severed Pincer
+
+| Impaling
+&#160;Ench Lvl: 12
+
+| Increases damage dealt to &#xe072;&#160;Aquatic mobs by X%.
+
+| I | II | III | IV | V
+| 5 | 10 | 15 | 20 | 30
+| Enchantment Table
+
+| Looting
+&#160;Ench Lvl: 3
+
+| Increases the chance of a monster dropping an item by X%.
+This only affects Fishing Rods when using them as a weapon.
+
+| I | II | III | IV | V | VI | VII
+| 2.5 | 5 | 7.5 | 10 | 15 | 20 | 25
+| Enchantment Table | [A sprite icon representing Einary in Hypixel SkyBlock] EinaryExperimentation Table | Experimentation Table
+
+| Luck of the Sea
+
+| Grants +X&#160;&#xe025;&#160;Treasure Chance, which increases the chance of fishing treasure.
+
+| I | II | III | IV | V | VI | VII
+| 0.5 | 1 | 1.5 | 2 | 2.5 | 3 | 3.5
+| Enchantment Table | [A sprite icon representing Junker Joel in Hypixel SkyBlock] Junker Joel | &#160;Gold Bottle Cap
+
+| Lure
+
+| Shortens the maximum time to catch something by X%.
+
+| I | II | III | IV | V | VI
+| 5 | 10 | 15 | 20 | 25 | 30
+| Enchantment Table | [A sprite icon representing Guardian Defender in Hypixel SkyBlock] Guardian Defender
+
+| Magnet
+&#160;Ench Lvl: 13
+
+| Grants X additional experience orb every time you successfully catch a fish.
+
+| I | II | III | IV | V | VI
+| 1 | 2 | 3 | 4 | 5 | 6
+| Enchantment Table | [A sprite icon representing Rider of the Deep in Hypixel SkyBlock] Rider of the Deep
+
+| Pyroclasm
+&#160;Ench Lvl: 9
+
+| Increases damage dealt to &#xe07d;&#160;Magmatic mobs by X%.
+
+| I | II | III | IV | V | VI
+| 10 | 20 | 30 | 40 | 60 | 80
+| Enchantment Table | Drop from a [A sprite icon representing Magma Pillar in Hypixel SkyBlock] Magma Pillar
+
+| Piscary
+&#160;Ench Lvl: 8
+
+| Grants +X&#160;&#xe00c;&#160;Fishing Speed.
+
+| I | II | III | IV | V | VI | VII
+| 1 | 2 | 3 | 4 | 5 | 6 | 7
+| Enchantment Table | [A sprite icon representing Abyssal Miner in Hypixel SkyBlock] Abyssal MinerExperiments | &#160;Troubled Bubble
+
+| Quick Bite
+&#160;Ench Lvl: 23
+
+| Makes fish swim X% faster towards your bobber.
+
+| I | II | III | IV | V
+| 5 | 10 | 15 | 20 | 25
+| Crafting
+▦ Recipe
+
+[Enchanted Paper] [Enchanted Paper] 
+[Enchanted Paper] [Alligator Skin] 8
+
+| Combining Books
+
+| Spiked Hook
+&#160;Ench Lvl: 18
+
+| Fishing rod deals X% more damage to monsters.
+
+| I | II | III | IV | V | VI | VII
+| 5 | 10 | 15 | 20 | 25 | 30 | 35
+| Enchantment Table | [A sprite icon representing Sea Leech in Hypixel SkyBlock] Sea Leech | &#160;Octopus Tendril
+
+| Tabasco
+
+| Grants +X weapon damage if you don't have a Dragon pet equipped.
+
+| II | III
+| 2 | 3
+| Chili Pepper&#160;IX (9)
+▦ Recipe
+
+[Chili Pepper] 16 [Kuudra Teeth] [Chili Pepper] 16
+[Kuudra Teeth] 
+[Kuudra Teeth] 
+
+| Combining Tabasco II Books
+
+60 ms 4.4%
+replaceStrings 60 ms 4.4%
+new 60 ms 4.4%
+validateData 60 ms 4.4%
+dataWrapper 40 ms 2.9%
+gsub 40 ms 2.9%
+40 ms 2.9%
+old_getmetatable 40 ms 2.9%
+[others] 260 ms 19.1%
+-->
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Enchantments/Fishing_Rod?oldid=841851"
+
+Category: 
+- Enchantments
+
+Hidden categories: 
+- Pages using Sea Creature Chance
+- Pages using Fishing Wisdom
+- Pages using Treasure Chance
+- Pages using Fishing Speed
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Page
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+3h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+- View buckets
+
+- This page was last edited on 14 September 2026, at 22:18.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

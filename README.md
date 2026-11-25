@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# FlawlessSB
 
-## Getting Started
+Tools for Hypixel SkyBlock: enter a Minecraft name and a profile name and get networth, shard values and progress guides automatically from the Hypixel API. Not affiliated with or endorsed by Hypixel or Mojang.
 
-First, run the development server:
+Live: https://flawlesssb.de
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Run locally
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. Put your own Hypixel API key into `.env.local` as `HYPIXEL_API_KEY=...` (this file is not committed and must never be shared).
+2. `npm install`
+3. `npm run dev` and open http://localhost:3000
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- `app/` pages, layout and design (themes: Winter and Classic, see `app/globals.css`)
+- `lib/` data fetching and pure logic (with tests next to the code)
+- `data/` generated data files (guides, recipes, icons)
+- `scripts/` one-time scripts that fetch data from the wiki and API
+- `public/` images
 
-## Learn More
+## Notes
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Shard data is partly based on the Hypixel SkyBlock Wiki (CC BY-NC-SA 3.0). Networth is calculated with the SkyHelper-Networth library (MIT).
+- Logo and artwork are our own designs, no Hypixel or Minecraft marks.

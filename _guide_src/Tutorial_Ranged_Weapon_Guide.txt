@@ -1,0 +1,393 @@
+Tutorial:Ranged Weapon Guide - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Tutorial:Ranged Weapon Guide
+
+From Hypixel SkyBlock Wiki
+
+Jump to navigation
+Jump to search
+
+- This tutorial is a guide.
+
+- This tutorial has been assembled by members of the community as a helpful resource or Tutorial, instructing players on SkyBlock, and thus is not official.
+
+- If you see missing, incorrect or out of date information, please help by contributing to the page.
+
+This article needs more information. Please help expand it.
+
+See more stubs.
+
+This article needs to be reworked as its content is outdated.
+You can help the wiki by editing this page and reworking it.
+
+This tutorial was last edited by ScringliestSilly (contribs|logs|block) on 6:08, August 26 2026 (2 months ago)
+
+Ranged Weapons are a big part of SkyBlock. Ender Dragons, the Magma Boss, and even Endstone Protectors to some extent, are all mainly defeated using Bows. Additionally, the Archer class is focused around using Bows.
+
+## Contents
+
+- 1 Target Practice
+
+- 2 Early Game
+
+- 3 Mid Game
+
+- 4 Late Game
+
+- 5 End Game
+
+- 6 Shortbows
+
+## Target Practice
+[edit | edit source]
+
+Main page: Archery Range §&#160;Target Practice
+
+It is highly recommended to complete Target Practice in order to unlock better Arrows.
+
+Usage of a Shortbow is recommended, especially with high &#xe001;&#160;Attack Speed
+
+## Early Game
+[edit | edit source]
+
+Many ranged weapons are quite expensive, heavily limiting effective early-game options.
+
+One of the best bows for the early game is the Dragon Shortbow. Until then, an Artisanal Shortbow or an Undead Bow should be used, if a bow is desired.
+
+## Mid Game
+[edit | edit source]
+
+There are several bows you can get during Mid Game:
+
+- Last Breath is a bow that reduces &#xe008;&#160;Defense which makes it a strong bow when fighting mobs with high defense (e.g Lost Adventurer, Tank Zombie and Super Tank Zombie)
+
+- The Juju Shortbow is very useful in Dungeons because it has no drawback time, making it one of the most recommended bows during mid game. Also, it is recommended to apply the Soul Eater Enchantment due to the fact that it instantly shoots arrows.
+
+- Spider Queen's Stinger is a great bow with the normal version costing about 300,000 Coins and when starred, 500,000 Coins to 850,000 Coins and can shoot Enderman.
+
+- Venom's Touch does moderate damage, and it's ability is decent too.
+
+- Bonemerang used to be the strongest bow until sword swapping was patched. Its only use at the moment is to stun Thorn when you do it rapidly.
+
+- Souls Rebound does a lot of damage and it's stacking ability is good for dungeon bosses.
+
+## Late Game
+[edit | edit source]
+
+- The Mosquito Bow is slightly stronger than the Runaan's Bow during Dragon Fights. It is also the only bow that players can rely on to consistently one-shot Wolves in the Howling Cave, even when they don't charge the arrow all the way.
+
+- Death Bow is a strong bow in dungeons due to it dealing 100% more &#xe050;&#160;Damage to undead mobs. It also has a 50% chance to bounce to another enemy after hitting an enemy. When used with Bouncy Arrows, the bounce rate will turn to 100% chance.
+
+## End Game
+[edit | edit source]
+
+- Currently, the only end game bow is the Terminator which is unlocked with Enderman Slayer 7.
+
+## Shortbows
+[edit | edit source]
+
+The game has numerous shortbows: a type of bow that fires instantly without needing to recharge. This section lists the types of Shortbows ranging from early to endgame
+
+- Artisanal Shortbow is likely the first shortbow you'll obtain, being purchased from the Weaponsmith for cheap.
+
+- Dragon Shortbow is obtained after finishing the Lost Adventurer's quest. It comes pre-enchanted with Dragon Tracer, making it ideal to leech fragments off Dragon fights.
+
+- Machine Gun Shortbow is the first dungeon shortbow you'll come across. while inside dungeons, it comes with a left-click ability that rapidly shoots arrows.
+
+- Spirit Shortbow is a bow you can obtain at Floor IV of the Catacombs. it deals more damage the lower your health becomes and it can be used while dead on Dungeons.
+
+- Juju Shortbow is a very powerful bow that has high stats and can damage Enderman.
+
+- Terminator is currently the most powerful shortbow in the game, requiring Enderman Slayer Level 7 and a Pray RNGesus drop from the Enderman Slayer. It can shoot 3 arrows and has an ability that deals arrow damage to all enemies hit.
+
+Tutorial:Melee Weapon Guide
+
+Tutorial:Talisman Guide
+
+&#91;&#34;Tutorial:Navigation&#34;,&#34;Tutorial:Day Count&#34;,&#34;Tutorial:Autopet Guide&#34;&#93;&#91;&#34;Tutorial:Ultimate Guide&#34;,&#34;Tutorial:Tips and Tricks&#34;,&#34;Tutorial:Ironman Guide&#34;,&#34;Tutorial:Bingo Guide&#34;,&#34;Tutorial:Periodic Tasks&#34;&#93;&#91;&#34;Tutorial:Maxing Items&#34;,&#34;Tutorial:Ranged_Weapon_Guide&#34;,&#34;Tutorial:Melee_Weapon_Guide&#34;,&#34;Tutorial:Minion Farming&#34;,&#34;Tutorial:Reforging Guide&#34;,&#34;Tutorial:Armor Guide&#34;,&#34;Tutorial:Accessory Guide&#34;&#93;&#91;&#34;Tutorial:Mining Guide&#34;,&#34;Tutorial:Hunting Guide&#34;,&#34;Tutorial:Foraging Guide&#34;,&#34;Tutorial:Fishing Guide&#34;,&#34;Tutorial:Farming Guide&#34;,&#34;Tutorial:Alchemy Guide&#34;&#93;&#91;&#34;Tutorial:Gemstone Gauntlet's Ability&#34;,&#34;Tutorial:Killing Ghosts on a Budget&#34;,&#34;Tutorial:Dragon Fights Guide&#34;,&#34;Tutorial:How to Obtain a Summoning Eye&#34;,&#34;Tutorial:Kuudra Guide&#34;,&#34;Tutorial:Slayer_Guide&#34;&#93;&#91;&#34;Tutorial:Tank Guide&#34;,&#34;Tutorial:Left-Click_Mage_Guide&#34;,&#34;Tutorial:Right-Click Mage Guide&#34;,&#34;Tutorial:Mage Guide&#34;,&#34;Tutorial:Healer Guide&#34;,&#34;Tutorial:Berserk Guide&#34;,&#34;Tutorial:Archer Guide&#34;,&#34;Tutorial:Dungeon Puzzles&#34;,&#34;Tutorial:Master Mode Guide&#34;,&#34;Tutorial:Catacombs Guide&#34;,&#34;Tutorial:Ultimate Dungeon Guide&#34;&#93;&#91;&#34;Tutorial:Mushroom Farm&#34;,&#34;Tutorial:Sugar Cane Farm&#34;,&#34;Tutorial:Cocoa Beans Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;&#93;&#91;&#34;Tutorial:Timite Mining&#34;,&#34;Tutorial:Tick Thresholds&#34;,&#34;Tutorial:Heart of the Mountain Trees&#34;,&#34;Tutorial:Sapphire Crystal&#34;,&#34;Tutorial:6-ticking Ruby in the Magma Fields&#34;&#93;&#91;&#34;Tutorial:Lowballing&#34;,&#34;Tutorial:NPC Flipping&#34;,&#34;Tutorial:Bazaar Flipping&#34;,&#34;Tutorial:AH Flipping&#34;&#93; | v · d · eTutorials
+| 
+| How-To's | 
+
+- Autopet Guide
+
+- Day Count
+
+- Navigation
+
+| 
+| 
+| General Guides | 
+
+- Periodic Tasks
+
+- Bingo Guide
+
+- Ironman Guide
+
+- Tips and Tricks
+
+- Ultimate Guide
+
+| 
+| Progression Guides | 
+
+- Accessory Guide
+
+- Armor Guide
+
+- Reforging Guide
+
+- Minion Farming
+
+- Melee Weapon Guide
+
+- Ranged Weapon Guide
+
+- Maxing Items
+
+| 
+| Skill Guides | 
+
+- Alchemy Guide
+
+- Farming Guide
+
+- Fishing Guide
+
+- Foraging Guide
+
+- Hunting Guide
+
+- Mining Guide
+
+| 
+| Combat | 
+
+- Slayer Guide
+
+- Kuudra Guide
+
+- How to Obtain a Summoning Eye
+
+- Dragon Fights Guide
+
+- Killing Ghosts on a Budget
+
+- Gemstone Gauntlet Ability
+
+| 
+| Dungeon Guides | 
+
+- Ultimate Dungeon Guide
+
+- Catacombs Guide
+
+- Master Mode Guide
+
+- Dungeon Puzzles
+
+- Archer Guide
+
+- Berserk Guide
+
+- Healer Guide
+
+- Mage Guide (RCM Guide & LCM Guide)
+
+- Tank Guide
+
+| 
+| Farming | 
+
+- Wheat
+
+- Potato
+
+- Carrot
+
+- Nether Wart
+
+- Pumpkin
+
+- Melon
+
+- Cocoa Beans
+
+- Sugar Cane
+
+- Mushroom
+
+| 
+| Mining | 
+
+- 6-ticking Ruby in the Magma Fields
+
+- Nucleus Runs (Sapphire Crystal)
+
+- Heart of the Mountain Trees
+
+- Tick Thresholds
+
+- Timite Mining
+
+| 
+| Economy Guides | 
+
+- AH
+
+- Bazaar
+
+- NPC
+
+- Lowballing
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Tutorial:Ranged_Weapon_Guide?oldid=824438"
+
+Categories: 
+- Community Guides
+- Outdated pages
+- Tutorials
+- Bows
+
+Hidden categories: 
+- Pages using Attack Speed
+- Pages using Defense
+- Pages using Damage
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Tutorial
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+2h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+
+- This page was last edited on 26 August 2026, at 18:08.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

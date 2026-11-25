@@ -1,0 +1,1129 @@
+Tutorial:Farming Guide - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Tutorial:Farming Guide
+
+From Hypixel SkyBlock Wiki
+
+Jump to navigation
+Jump to search
+
+- This tutorial is a guide.
+
+- This tutorial has been assembled by members of the community as a helpful resource or Tutorial, instructing players on SkyBlock, and thus is not official.
+
+- If you see missing, incorrect or out of date information, please help by contributing to the page.
+
+This is a general progression guide for the &#160;Farming skill. Most Farming progression takes place on &#xe067; The Garden. The upgrades below are goals, not a checklist that has to be completed immediately. Early on, focus on Farming levels, Garden progression, a good Farming Tool, and Visitors. Dedicated Pest Farming starts around &#160;Farming&#160;XL (40), when the gear and permanent upgrades that make it worthwhile are much easier to put together.
+
+Unless otherwise noted, this guide assumes the Player is on a Classic profile. ♲&#160;Ironman profiles cannot use the regular Bazaar, Auction House, or player trading, so anything that would normally be bought has to be obtained from its original source instead. The general order still works, but some upgrades will naturally take longer.
+
+## Contents
+
+- 1 Progression
+
+- 1.1 Stage 1: Unlocking the Garden and reaching Farming 20
+
+- 1.1.1 Contests while progressing
+
+- 1.2 Stage 2: Farming 20-29 and building the setup
+
+- 1.3 Stage 3: Farming 30-39 and preparing for Pests
+
+- 1.4 Stage 4: Farming 40-49 and starting Pest Farming
+
+- 1.5 Stage 5: Farming 50-60 and late Farming progression
+
+- 1.6 Second Farming Set
+
+- 2 Pets
+
+- 2.1 Early Farming
+
+- 2.2 Farming Fortune and crop income
+
+- 2.3 Pest Farming
+
+- 2.4 Overbloom and late pets
+
+- 3 Garden Bestiary
+
+- 4 300+ Bonus Pest Chance Farming
+
+- 5 Garden Chips
+
+- 5.1 Pest Farming priority
+
+- 5.2 Greenhouse priority
+
+- 6 Greenhouse
+
+- 7 Farming Fortune and related progression
+
+- 7.1 Checking personal Farming progression
+
+- 8 Experience and Coins
+
+- 8.1 Farming Experience
+
+- 8.2 Coins
+
+- 9 Farm Design, Speed, and Angles
+
+- 10 Useful Farming Attributes
+
+## Progression
+[edit | edit source]
+
+### Stage 1: Unlocking the Garden and reaching Farming 20
+[edit | edit source]
+
+Public-island crops are fine for the first few Farming levels and Collections. A &#160;Rookie Hoe and &#160;Rookie Farming Axe from the [A sprite icon representing Farm Merchant in Hypixel SkyBlock] Farm Merchant are cheap starter tools and each grant +5&#160;&#xe051;&#160;Farming Fortune. Apply Harvesting as soon as it is available.
+
+At SkyBlock Level 5, speak to [A sprite icon representing Sam in Hypixel SkyBlock] Sam to unlock &#xe067; The Garden. From here, the Garden should be the main place to do Farming.
+
+In SkyMart, the &#160;Basic Gardening Hoe and &#160;Basic Gardening Axe cost 5 Copper each and grant +10&#160;&#xe051;&#160;Farming Fortune. Each can be upgraded to its Advanced version for the original tool and another 20 Copper, increasing the bonus to +15&#160;&#xe051;&#160;Farming Fortune. These are temporary tools while saving for a crop-specific Specialized Farming Tool.
+
+Specialized Farming Tools cost 250 Copper each. They gain Tool XP from harvesting their matching mature crop. Tool levels give &#xe051;&#160;Crop Fortune, unlock Gemstone Slots, and later give ☯&#160;Farming Wisdom. The Mk. II craft at level 15 and Mk. III craft at level 30 raise the tool's rarity and let it keep leveling. Start with the tool for the crop you actually plan to farm. The &#160;Farming Toolkit can be picked up later for storage.
+
+Do not spend much on Basic or Advanced Gardening Tools. Once you have a Specialized Farming Tool you expect to keep, start adding the cheap permanent upgrades:
+
+- Harvesting V should be applied early.
+
+- Cultivating I is worth adding early when affordable because it levels while the tool is used.
+
+- Add cheap levels of the crop's Turbo-Crop enchantment while working toward the contest requirements for Turbo-Crop IV and V.
+
+- Use Replenish on crops that need to be replanted.
+
+- Bountiful is the default tool reforge in this guide. Blessed gives more ☯&#160;Farming Wisdom and some extra &#xe051;&#160;Farming Fortune, but it is not recommended just for Collections or contests. In practice, its main reason to use it is the ☯&#160;Farming Wisdom in an XP-focused Visitor setup.
+
+Players should follow the main Farming armor chain as the requirements are reached::
+
+| Farming Level Requirement
+
+| Armor Set
+
+| Base Full-Set &#xe051;&#160;Farming Fortune
+
+| 3
+
+| &#160;Farmhand Armor
+
+| +20
+
+| 10
+
+| &#160;Haymaker Armor
+
+| +40
+
+| 15
+
+| &#160;Sprout Armor
+
+| +60
+
+| 20
+
+| &#160;Tater Armor
+
+| +70
+
+| 30
+
+| &#160;Cropie Armor
+
+| +90
+
+| 35
+
+| &#160;Squash Armor
+
+| +110
+
+| 40
+
+| &#160;Fermento Armor
+
+| +130
+
+| 50
+
+| &#160;Helianthus Armor
+
+| +150
+
+Early Garden progression is mostly about doing several useful things at once:
+
+- Farm different crops for Crop Milestones. They give &#160;Garden&#160;XP, &#160;Farming&#160;XP, and unlock more Garden content.
+
+- Serve affordable Visitors. They are an important source of &#160;Garden&#160;XP, &#160;Farming&#160;XP, Copper, and unique Visitor progression. Skip an offer if it is far too expensive for the stage of the game.
+
+- Buy Crop Upgrades for crops you farm often, but do not empty your Copper into every crop immediately. It is recommended to prioritize the crop you manually farm, crops received from the Player's Greenhouse, and crops received from your prioritized Pests.
+
+- The default Garden presets are enough at first. Build a proper looping farm once you know which crops you will spend real time on.
+
+Player's should speak to [A sprite icon representing Beth in Hypixel SkyBlock] Beth in the &#xe067; Desert Settlement early and serve her when she appears as a Visitor. Her quest takes several Garden visits, and its later part is needed for the Crop Analyzer. Starting it early avoids clogging your potential visitor list, having to stop later Greenhouse progression just to wait for [A sprite icon representing Beth in Hypixel SkyBlock] Beth to visit. Claiming unique Visitors is important, but unlocking the Underground Lab for early Crop Growth and &#xe051;&#160;Farming Fortune is far more useful than progressing unique Visitors for the &#160;Blossom Set ability, that the Player likely is not utilizing.
+
+Mushroom unlocks at &#160;Garden&#160;IX (9) and gives 6 base &#160;Farming&#160;XP per block. It is the best crop when the immediate goal is Farming levels. Use an &#160;EPIC&#160;Rabbit Pet and a farm that lets you break mushrooms consistently.
+
+#### Contests while progressing
+[edit | edit source]
+
+See also: Jacob's Farming Contest
+
+At &#160;Farming&#160;X (10), you can enter Jacob's Farming Contests. Each contest lasts for 20 minutes and chooses three crops. Early contests are useful for extra progression, but prioritizing them is not needed.
+
+Medals and &#160;Jacob's Tickets are used for [A sprite icon representing Anita in Hypixel SkyBlock] Anita's upgrades. Players should focus on Turbo-Crop for crops they farm and crops received from the Player's Greenhouse. Bronze in a crop allows Turbo-Crop IV to work for that crop, while Silver allows Turbo-Crop V.
+
+Gold Medals become more important later. Each unique crop with a Gold result lets Anita raise the Farming level cap by one, up to 10 upgrades.This is required to reach &#160;Farming&#160;LX (60).
+
+Once &#160;Zorro's Cape is available, equip it before claiming Jacob's Contest rewards. Its 20% chance for an extra Medal is checked when the reward is claimed. Mods such as SkyHanni have settings that block claiming Medals without having a &#160;Zorro's Cape equiped. 
+
+### Stage 2: Farming 20-29 and building the setup
+[edit | edit source]
+
+It is important for Players to understand that the following progression is largely working towards the goal of &#160;Farming&#160;XL (40) where Player's unlock &#160;Fermento Armor.
+
+At &#160;Farming&#160;XX (20), upgrade to &#160;Tater Armor. This is also a good time to put Bustling on the Farming armor. It is a cheap &#xe051;&#160;Farming Fortune Reforge and is enough until the later switch to Mossy.
+
+For Equipment, Blooming is a good early Reforge around this stage. Keep serving Visitors as often as is reasonable because Copper and total Visitor progression matter later for the &#160;Blossom Set, Green Thumb, and several other Farming upgrades.
+
+Players should choose a primary crop and start leveling its Specialized Farming Tool instead of spreading expensive upgrades across every tool. Mushroom is considered the best crop until reaching &#160;Farming&#160;XL (40). Wheat is also a good option because it has solid NPC value, is easy to build a compact farm for, and uses &#160;Euclid's Wheat Sickle. It is not the only valid crop, so if you are working on a Collection or Crop Milestone, farm the crop you need. Regardless of what crop the Player farms, they should always use an &#160;EPIC&#160;Rabbit Pet until reaching &#160;Farming&#160;XL (40).
+
+A main tool around this stage should usually have Harvesting V, the best usable Turbo-Crop level, Cultivating, Dedication III when affordable, Replenish where needed, and Bountiful. Expensive upgrades can wait.
+
+Players should also obtain a &#160;Sprayonator. Once the &#160;Juicy Nozzle is available and the 1,000 Copper upgrade is reasonable, upgrade to the &#160;Juicy Sprayonator during &#160;Farming&#160;20-29. A Juicy spray lasts 45 minutes and can consume three spray materials for twice the regular Sprayonator's base effect. The &#160;Salty Sprayonator is a later upgrade and does not need to be rushed here.
+
+Keep serving Visitors and save Copper instead of treating them as a side activity. Doing the Visitor progression still matters for the permanent unlocks, Green Thumb and the &#160;Peony Set or &#160;Blossom Set.
+
+The Greenhouse unlocks at &#160;Garden&#160;VII (7) after completing the [A sprite icon representing Carpenter in Hypixel SkyBlock] Carpenter's Visitor offer and obtaining the &#160;Greenhouse Blueprint. Start it when convenient, but you do not need to make it a major priority yet. Once you reach &#160;Garden&#160;XII (12) and unlock Wild Rose, the last crop unlocked by Garden level, start prioritizing Greenhouse progression much more heavily. Continue [A sprite icon representing Beth in Hypixel SkyBlock] Beth's quest so the Crop Analyzer is ready when Mutations start to matter.
+
+After reaching Sunflower&#160;VII (7), craft a &#160;Sundial and give it to [A sprite icon representing Sam in Hypixel SkyBlock] Sam to unlock per-crop &#xe022;&#160;Speed settings at the Desk. This is more convenient than relying on &#160;Rancher's Boots for every farm because it lets the normal Farming boots stay equipped. Classic profiles can also buy a &#160;Sundial from the Auction House, while ♲&#160;Ironman profiles must obtain it normally.
+
+If Farming Attributes are already accessible, do not feel forced to buy both &#160;Firefly Shard and &#160;Lunar Moth Shard just to cover both halves of the SkyBlock day. Solar Power from Firefly gives &#xe051;&#160;Farming Fortune during the day. With a &#160;Day Saver and &#160;Night Saver, the Garden's time can later be frozen from the Desk, so a Classic profile can usually choose the cheaper useful option and keep the Garden in the matching time period.
+
+### Stage 3: Farming 30-39 and preparing for Pests
+[edit | edit source]
+
+At &#160;Farming&#160;XXX (30), upgrade to &#160;Cropie Armor, then to &#160;Squash Armor at &#160;Farming&#160;XXXV (35). Keep using the same armor chain rather than buying unrelated temporary sets.
+
+Around &#160;Farming&#160;XXXV (35), Player's should reforge their Farm/Pest Kill Farming Equipment from Blooming to Rooted. Keep working toward &#160;Blossom Set, by serving Visitors and saving Copper. Classic profiles can buy pieces from the Auction House if they would rather skip part of the Copper grind, but Visitor progression itself is still useful.
+
+This stage is mainly for strengthening the account before dedicated Pest Farming begins. Good upgrades include:
+
+- Level the main Specialized Farming Tool and craft its Mk. II and Mk. III upgrades when available.
+
+- Upgrade to Harvesting VI once it is affordable.
+
+- Keep Dedication III as the normal target. Dedication IV can wait.
+
+- Reach Turbo-Crop V after the Silver requirement, then use a &#160;Turbo Gourd for tier VI when the tool is established.
+
+- Apply up to &#160;5&#160;Farming for Dummies to the main tool when the cost is reasonable.
+
+- Start using Peridot Gemstones in unlocked Farming Fortune slots. &#160;Fine Peridot Gemstones are enough to start.
+
+- Add low or moderate levels of Crop Fever instead of buying the maximum immediately.
+
+- Improve the &#160;Vacuums, &#160;Sprayonator, &#160;Pesthunter Badge line, and Pesterminator as the budget allows so the Pest setup is ready for &#160;Farming&#160;XL (40).
+
+- Obtain the &#160;Cropie Talisman and work toward the &#160;Squash Ring.
+
+- Keep working on Personal Bests and permanent upgrades from [A sprite icon representing Anita in Hypixel SkyBlock] Anita.
+
+Do not switch to Blessed just because the goal is a Collection or a Jacob's contest. Bountiful remains the recommended reforge in this guide. Blessed is mainly worth considering when Farming XP itself is the priority and the extra ☯&#160;Farming Wisdom is useful when claiming visitors.
+
+This is also a good time to start collecting useful Farming Attributes without overpaying for high levels. Solar Power is a simple general &#xe051;&#160;Farming Fortune option. Pest Fortune, Pest Luck, Bonus Pest Chance, Infiltration, and Sprayonator Serendipity become more useful once Pest Farming starts. If you are on ♲&#160;Ironman, hunt or lasso the relevant Garden Pests for their shards instead of planning around buying the shards later.
+
+### Stage 4: Farming 40-49 and starting Pest Farming
+[edit | edit source]
+
+See also: Pests
+
+Reaching &#160;Farming&#160;XL (40) farming Mushrooms is no longer recomended. Players should switch to crops such as Wheat, Melon, Sunflower or Moonflower. Spend most active Farming time on crop progression, income, contests, and Pest Farming.
+
+At &#160;Farming&#160;XL (40), upgrade to &#160;Fermento Armor and start moving the main armor set from Bustling to 3/4ths Mossy with Mantid on one piece. This is the point where this guide recommends starting dedicated Pest Farming. By now you can combine &#160;Fermento Armor, better Equipment, a leveled crop tool, &#160;Pesthunter progression, a stronger &#160;Vacuum, &#160;Sprayonator, and Pest pets without giving up most of the normal Farming setup just to make Pests work.
+
+The Pest Farming gameplay loop is as follows:
+
+- Farm normally while the Pest spawn cooldown is active.
+
+- Shortly before the cooldown ends, switch into the Pest-spawning setup and maximize &#xe019;&#160;Bonus Pest Chance.
+
+- Keep farming until the Pests spawn.
+
+- Switch to the Pest-killing setup, clear them quickly, then return to the normal Farming setup.
+
+Wheat is the recommended default crop for this route because it has good NPC value and works well with compact looping farms. Use &#160;Euclid's Wheat Sickle and keep leveling it. Other crops are still worth farming for Collections, Crop Milestones, contests, and Personal Bests.
+
+For the Pest-spawning equipment set, use three pieces of &#160;Pesthunter's Set with a &#160;Pest Vest as the cloak, all reforged to Squeaky. Keep your Rooted &#160;Blossom Set on while farming crops, then loadout swap to the Squeaky set shortly before the Pest cooldown is ready. A &#160;Pest Vest also shortens the Pest spawn cooldown, so it belongs in the spawning setup even when your normal cloak is a Blossom piece.
+
+For a budget Classic profile pet setup, use a &#160;Mooshroom Cow Pet while farming crops, swap to a &#160;Slug Pet when you are ready to spawn Pests, then use a &#160;Hedgehog Pet while killing them. Once an EPIC or LEGENDARY &#160;Mosquito Pet is affordable, use it instead of &#160;Slug Pet for the spawning phase. A &#160;Brown Bandana should be used on the spawning pet once you have it. It gives +0.2&#160;&#xe019;&#160;Bonus Pest Chance per eligible Pest Bestiary tier, up to +45&#160;&#xe019;&#160;Bonus Pest Chance. [A sprite icon representing Timestalk Clone in Hypixel SkyBlock] Timestalk Clone and [A sprite icon representing Zombuddy in Hypixel SkyBlock] Zombuddy tiers do not count toward this bonus because neither mob is a Pest, they do however give &#xe051;&#160;Farming Fortune.
+
+Use the best &#160;Sprayonator available and keep the farm sprayed. &#160;Salty Sprayonator becomes worth considering once its cost is comfortable because its spray lasts 60 minutes, consuming five materials for triple the regular &#160;Sprayonator's base effect.
+
+Turn in Pests to [A sprite icon representing Pesthunter Phillip in Hypixel SkyBlock] Pesthunter Phillip before a longer session, or when claiming your Greenhouse. [A sprite icon representing Pesthunter Phillip in Hypixel SkyBlock] Pesthunter Phillip gives +5&#160;&#xe051;&#160;Farming Fortune per Pest for 30 minutes, up to +200&#160;&#xe051;&#160;Farming Fortune from 40 Pests. This &#xe051;&#160;Farming Fortune is affected by the &#160;Hypercharge Chip and allows this buff to reach +400&#160;&#xe051;&#160;Farming Fortune.
+
+Continue the &#160;Pesthunter Badge upgrade line, improve the &#160;Vacuum when affordable, and add Pesterminator to the Farming armor. &#160;Pest Repellent and &#160;Pest Repellent MAX should never be used dedicated Pest Farming as they increase the Pest spawn cooldown.
+
+Pest Attributes matter more from here onward. Useful ones include Pest Fortune from &#160;Cricket Shard, Pest Luck from &#160;Field Mouse Shard, Bonus Pest Chance from &#160;Keeled Slug Shard, Infiltration from &#160;Earthworm Shard, and Sprayonator Serendipity from &#160;Rat Shard. If you are on ♲&#160;Ironman, actively hunt or lasso the Pest shards you need while doing this progression. Every Garden Pest has its own shard and the shard is guaranteed when that Pest is hunted.
+
+The long-term goals in &#160;Farming&#160;40-49 are:
+
+- Serve more unique Visitors and raise total Visitors served.
+
+- Raise Crop Milestones across several crops.
+
+- Raise Pest Bestiary and keep upgrading Pesthunter gear.
+
+- Generate Sowdust and level the Garden Chips that match the activity.
+
+- Keep leveling the main Specialized Farming Tool and Cultivating.
+
+- Progress the Greenhouse, analyze Mutations, and collect &#160;Ethereal Vines for more crop slots and additional Greenhouses.
+
+- Improve &#160;Blossom Set and Green Thumb.
+
+- Upgrade the &#160;Squash Ring to the &#160;Fermento Artifact and eventually the &#160;Helianthus Relic.
+
+- Work on Anita's Personal Bests and Extra &#xe051;&#160;Farming Fortune.
+
+- Earn Gold in more unique Jacob's Farming Contest crops for the Farming level cap.
+
+Upgrades such as Dedication IV, higher Crop Fever levels, a &#160;Recombobulator 3000, and &#160;Flawless Peridot Gemstones should be considered. For most Players the cost of Perfect Peridots do not pay themselves off.
+
+If Turbo-Crop VII was not added earlier, this is a reasonable time to use an &#160;Enchanted Turbo Gourd on the main crop tool.
+
+Overpriced is a situational reforge for &#xe02b;&#160;Overbloom and Rare Crops. It should only be used during Feast's. Bountiful remains the default recommendation, while Blessed is mainly use on a seperate tool to be held when claiming Visitors option because of its ☯&#160;Farming Wisdom.
+
+After a Specialized Farming Tool reaches level 40, up to 10 &#160;Overclocker 3000s can extend its maximum level to 50. Level 50 also unlocks the fourth Gemstone Slot.
+
+### Stage 5: Farming 50-60 and late Farming progression
+[edit | edit source]
+
+At &#160;Farming&#160;L (50), upgrade to &#160;Helianthus Armor. Keep earning Gold in unique Jacob's Farming Contest crops and buying the Farming level cap upgrades from [A sprite icon representing Anita in Hypixel SkyBlock] Anita until &#160;Farming&#160;LX (60) is unlocked.
+
+Late Farming is mostly about finishing systems that scale with the profile:
+
+- Raise important Specialized Farming Tools toward level 50.
+
+- Finish useful Crop Upgrades, Anita upgrades, Personal Bests, Crop Milestones, Visitor progression, and Pest Bestiary.
+
+- Max the Garden Chips that matter for the activity being done.
+
+- Finish &#160;Blossom Set and higher Green Thumb levels.
+
+- Continue Greenhouse progression, including extra crop slots and Greenhouses.
+
+- Improve Pest setup with more &#xe019;&#160;Bonus Pest Chance, better &#160;Vacuums, stronger &#160;Pesthunter's gear, useful Attributes, and better Pest pets.
+
+### Second Farming Set
+[edit | edit source]
+
+Do not rush several duplicate sets as soon as you reach &#160;Farming&#160;L (50). Start with one strong &#160;Helianthus Armor set plus Rooted &#160;Blossom Set for normal farming and a Squeaky &#160;Pesthunter's Set for spawning. The extra armor and equipment sets only become worthwhile once the rest of your Pest Farming setup is already very strong.
+
+With two &#160;Helianthus Armor sets, use 3/4 Mossy and 1/4 Mantid on your main set for both farming and killing Pests, then keep a second full Mantid set for spawning. Shortly before the Pest cooldown is ready, swap to the full Mantid armor, Squeaky 3/4 &#160;Pesthunter Set plus &#160;Pest Vest, and your spawning pet. Once the Pests appear, swap back to the main set to kill them and continue farming.
+
+True hypermax Pest Farming splits all three phases into separate armor and Equipment sets:
+
+| Phase
+
+| Armor
+
+| Equipment
+
+| Pet
+
+| Farming crops
+
+| Full Mossy &#160;Helianthus Armor
+
+| Full Rooted &#160;Blossom Set
+
+| Level 200 &#160;Rose Dragon Pet with a &#160;Green Bandana
+
+| Spawning Pests
+
+| Full Mantid &#160;Helianthus Armor
+
+| 3/4 &#160;Pesthunter's Set and &#160;Pest Vest, all Squeaky
+
+| Epic or Legendary &#160;Mosquito Pet with a &#160;Brown Bandana
+
+| Killing Pests
+
+| 3/4 Mossy and 1/4 Mantid &#160;Helianthus Armor
+
+| Full Thorny &#160;Blossom Set
+
+| Level 200 &#160;Rose Dragon Pet, eventually a second one with a &#160;Poignant Lucky Clover
+
+The three Equipment sets each have a clear job. A Rooted &#160;Blossom Set stays on while farming crops for &#xe051;&#160;Farming Fortune. The Squeaky &#160;Pesthunter's Set set with &#160;Pest Vest is only used around the spawning window for &#xe019;&#160;Bonus Pest Chance and Pest cooldown reduction. Thorny &#160;Blossom Set is the kill set because it adds &#xe02b;&#160;Overbloom, including extra &#xe02b;&#160;Overbloom based on the combined Thorns tiers on your armor. A hypermax kill armor set should therefore have Thorns IV on all four pieces.
+
+During Jacob's Farming Contest, &#160;Zorro's Cape can replace the &#160;Blossom Cloak in the farming or killing set if you are optimizing contest rates. Reforge it to Rooted with the farming set or Thorny with the kill set. During a Harvest Feast, a hypermax setup can also farm with the Thorny Equipment and a &#160;Rose Dragon Pet with a &#160;Poignant Lucky Clover when Rare Crop drops are worth more than the &#xe051;&#160;Farming Fortune lost from Rooted and &#160;Green Bandana. Outside that Feast setup, keep Rooted and &#160;Green Bandana for normal crop farming.
+
+The second &#160;Rose Dragon Pet is one of the last upgrades in the entire setup. Until you are rich enough to justify a second level 200 &#160;Rose Dragon Pet, use your &#160;Green Bandana &#160;Rose Dragon for both farming and killing. The hypermax kill pet uses &#160;Poignant Lucky Clover, not the regular &#160;Lucky Clover, for its higher &#xe02b;&#160;Overbloom.
+
+For Attributes, a Classic profile can usually use Solar Power and keep the Garden in daytime with the Desk once &#160;Day Saver and &#160;Night Saver have unlocked time control. This avoids paying for both Solar Power and Lunar Power just to have the same type of &#xe051;&#160;Farming Fortune bonus at different times. &#160;Firefly Shards are also often cheaper than &#160;Lunar Moth Shards, although market prices should always be checked before buying.
+
+Late ♲&#160;Ironman can have a different priority. With Sunset V, keeping the Garden at night reduces Visitor cooldown by 5% while breaking crops. If Visitor throughput is the goal, permanent night can be more useful than permanent day, and Lunar Power can be used if it has been self-obtained and is worth leveling.
+
+## Pets
+[edit | edit source]
+
+Your best pet changes between farming crops, spawning Pests, and killing Pests. Trying to use one pet for all three usually means giving up either &#xe051;&#160;Farming Fortune, &#xe019;&#160;Bonus Pest Chance, or Pest drops.
+
+### Early Farming
+[edit | edit source]
+
+&#160;Rabbit Pet is the easiest recommendation while &#160;Farming&#160;XP is the main goal. Its ☯&#160;Farming Wisdom is useful while pushing levels, and early on it is usually more important than squeezing out a little more &#xe051;&#160;Farming Fortune. You should always run it until you are &#160;Farming&#160;XL (40).
+
+&#160;Hedgehog Pet is worth picking up before you start serious Pest Farming. It is commonly much cheaper than a LEGENDARY &#160;Elephant Pet, although prices move, and its Pest-specific &#xe051;&#160;Farming Fortune and &#xe02b;&#160;Overbloom make it very good for the killing phase. Before &#160;Farming&#160;XL (40), Rabbit will usually still be the better purchase if your main goal is reaching the next Farming requirement.
+
+### Farming Fortune and crop income
+[edit | edit source]
+
+A LEGENDARY &#160;Elephant Pet is the better option when Collection is the main goal unless you can reach around 1,429&#160;&#xe00d;&#160;Strength with a &#160;Mooshroom Cow Pet. Below this breakpoint, Elephant gives more &#xe051;&#160;Farming Fortune, while Mooshroom Cow will usually make around 700,000 Coins more per hour from the extra Mushrooms it drops.
+
+A MYTHIC &#160;Elephant Pet pushes this breakpoint to around 2,858&#160;&#xe00d;&#160;Strength, which is not realistically achievable in a normal Farming setup without giving up &#xe051;&#160;Farming Fortune elsewhere. This makes MYTHIC &#160;Elephant Pet the better choice for Collection and also for ✿&#8201;Sowdust when specifically focusing on it. &#160;Mooshroom Cow still generally makes more Coins, although the difference is smaller.
+
+For reference, Mooshroom Cow gains +1&#160;&#xe051;&#160;Farming Fortune for every 28.57&#160;&#xe00d;&#160;Strength.
+
+A level 100 LEGENDARY &#160;Slug Pet gives +100&#160;&#xe051;&#160;Farming Fortune while standing in a sprayed Plot. With a maxed &#160;Hypercharge Chip, that temporary bonus is doubled to 200&#160;&#xe051;&#160;Farming Fortune, tying the raw &#xe051;&#160;Farming Fortune of a level 100 MYTHIC &#160;Elephant Pet while the condition is active. &#160;Slug Pet also gives &#xe019;&#160;Bonus Pest Chance, which makes it the budget spawning pet.
+
+### Pest Farming
+[edit | edit source]
+
+A simple way to think about Pest pets is to keep a separate pet for each phase:
+
+| Setup
+
+| Farming crops
+
+| Spawning Pests
+
+| Killing Pests
+
+| Budget Normal profile
+
+| &#160;Elephant Pet / &#160;Mooshroom Cow Pet
+
+| &#160;Slug Pet
+
+| &#160;Hedgehog Pet
+
+| Late game
+
+| Level 200 &#160;Rose Dragon Pet with &#160;Green Bandana
+
+| EPIC or LEGENDARY &#160;Mosquito Pet with &#160;Brown Bandana
+
+| The same &#160;Rose Dragon Pet with &#160;Green Bandana
+
+| Hypermax
+
+| Level 200 &#160;Rose Dragon Pet with &#160;Green Bandana
+
+| EPIC or LEGENDARY &#160;Mosquito Pet with &#160;Brown Bandana
+
+| A second level 200 &#160;Rose Dragon Pet with &#160;Poignant Lucky Clover
+
+EPIC and LEGENDARY &#160;Mosquito Pet both reach 50&#160;&#xe019;&#160;Bonus Pest Chance at level 100 and both get the full Smooth Jazz bonus, so EPIC is enough for active Pest Farming. LEGENDARY mainly adds its Pest Trap perk. &#160;Brown Bandana adds +0.2&#160;&#xe019;&#160;Bonus Pest Chance per eligible Pest Bestiary tier and belongs on whichever pet you use for spawning. [A sprite icon representing Timestalk Clone in Hypixel SkyBlock] Timestalk Clone and [A sprite icon representing Zombuddy in Hypixel SkyBlock] Zombuddy tiers are excluded from the Bandana's bonus.
+
+For budget Pest Farming, use &#160;Mooshroom Cow while the cooldown is running, swap to &#160;Slug shortly before Pests can spawn, then switch to &#160;Hedgehog once they appear. When you can afford a &#160;Mosquito, it replaces &#160;Slug for spawning. &#160;Hedgehog remains an excellent killing pet until &#160;Rose Dragon becomes realistic.
+
+Once you own a level 200 &#160;Rose Dragon Pet, use it with &#160;Green Bandana for normal crop farming. You can also use that same &#160;Rose Dragon to kill Pests, which makes the late-game loop much stronger without paying for another one. Only at the hypermax end is it worth buying a second level 200 &#160;Rose Dragon purely for killing Pests. Put &#160;Poignant Lucky Clover on that second pet for the extra &#xe02b;&#160;Overbloom. The regular &#160;Lucky Clover works as a cheaper step, but it is not the hypermax option.
+
+If you use AutoPet, fishing-rod rules with exceptions can cycle a budget setup through &#160;Mooshroom Cow, &#160;Slug or &#160;Mosquito, and &#160;Hedgehog. With late-game loadouts, an On Enter Combat rule can swap from &#160;Mosquito to &#160;Rose Dragon as you start killing the Pest. Loadouts are easier to manage once you are swapping separate armor, equipment, and multiple &#160;Rose Dragons at the same time.
+
+### Overbloom and late pets
+[edit | edit source]
+
+&#160;Orchid Mantis Pet is a useful step before &#160;Rose Dragon when unconditional &#xe02b;&#160;Overbloom is wanted. This is especially helpful during Harvest Feast because Seasoning comes from harvesting in-season crops and cannot be obtained from Pest kills. &#160;Orchid Mantis also helps level Farming Tools faster.
+
+&#160;Rose Dragon Pet is the main late-game Farming pet and can reach level 200. Its Farming Fortune scales with &#160;Farming Level and total Crop Milestones. At level 200, its Symbiosis perk also gives &#xe051;&#160;Farming Fortune for each other unique maxed Farming Pet owned. Once &#160;Rose Dragon itself is established, leveling the remaining Farming Pets for Symbiosis becomes worthwhile. Their rarity does not matter for the Symbiosis credit, so cheaper rarities are fine when the only goal is to max the pet.
+
+## Garden Bestiary
+[edit | edit source]
+
+Every tier in the Garden Bestiary grants 0.4&#160;&#xe051;&#160;Farming Fortune, including [A sprite icon representing Timestalk Clone in Hypixel SkyBlock] Timestalk Clone and [A sprite icon representing Zombuddy in Hypixel SkyBlock] Zombuddy. Together, the current Garden Bestiary tiers can grant up to +100&#160;&#xe051;&#160;Farming Fortune.
+
+[A sprite icon representing Timestalk Clone in Hypixel SkyBlock] Timestalk Clone and [A sprite icon representing Zombuddy in Hypixel SkyBlock] Zombuddy are the exceptions to several Pest-specific bonuses. They are listed in the Garden Bestiary and still give the normal Farming Fortune per tier, but neither is a Pest. Because of this, their tiers do not count toward &#160;Brown Bandana or the &#160;Hedgehog Pet's Hunter's Insight. [A sprite icon representing Timestalk Clone in Hypixel SkyBlock] Timestalk Clone has 10 Bestiary tiers and [A sprite icon representing Zombuddy in Hypixel SkyBlock] Zombuddy has 15, so maxing both still gives 10&#160;&#xe051;&#160;Farming Fortune while adding no &#xe019;&#160;Bonus Pest Chance to &#160;Brown Bandana. [A sprite icon representing Timestalk Clone in Hypixel SkyBlock] Timestalk Clone is spawned by Timestalk, while [A sprite icon representing Zombuddy in Hypixel SkyBlock] Zombuddy is spawned by the Zombud Mutation.
+
+## 300+ Bonus Pest Chance Farming
+[edit | edit source]
+
+Each full 100&#160;&#xe019;&#160;Bonus Pest Chance guarantees one additional Pest in a spawn, while the remaining amount is the percentage chance for one more. For example, 304&#160;&#xe019;&#160;Bonus Pest Chance gives four guaranteed Pests with a 4% chance for a fifth.
+
+Once &#160;Helianthus Armor and the permanent Pest upgrades are far enough along, you can reach just over 300 permanent &#xe019;&#160;Bonus Pest Chance before temporary sprays, pets, or a Mantid swap. One baseline is 304&#160;&#xe019;&#160;Bonus Pest Chance:
+
+| Source
+
+| &#xe019;&#160;Bonus Pest Chance
+
+| 5 &#160;Wriggling Larva
+
+| +10
+
+| Level 20 &#160;Vermin Vaporizer Chip
+
+| +100
+
+| &#160;Pesthunter Relic
+
+| +80
+
+| Full &#160;Helianthus Armor
+
+| +80
+
+| Pesterminator VI on all four armor pieces
+
+| +24
+
+| Level 10 &#160;Keeled Slug Shard
+
+| +10
+
+| Total
+
+| 304
+
+This is a permanent baseline, not the whole Pest-spawning setup. For actual spawning, swap from Rooted &#160;Blossom Set into three pieces of &#160;Pesthunter's Set plus &#160;Pest Vest, all on Squeaky, and use an EPIC or LEGENDARY &#160;Mosquito Pet with a &#160;Brown Bandana. In late-game setups, also swap from the Mossy &#160;Helianthus Armor set into full Mantid &#160;Helianthus shortly before the Pest cooldown is ready. Mantid's temporary stacks come from Pest kills, so your later kill set keeps one Mantid armor piece to continue receiving kill credit for those stacks.
+
+Temporary and swap-based Bonus Pest Chance can push the total much higher:
+
+| Source
+
+| Effect while equipped or active
+
+| Regular &#160;Sprayonator
+
+| Uses one spray material lasts 30 minutes, and can give +25&#160;&#xe019;&#160;Bonus Pest Chance with the &#xe019;&#160;Bonus Pest Chance spray material.
+
+| &#160;Juicy Sprayonator
+
+| Can use three spray materials for twice the regular &#160;Sprayonator's base effect and lasts 45 minutes. For &#xe019;&#160;Bonus Pest Chance spray material, this can give +50&#160;&#xe019;&#160;Bonus Pest Chance.
+
+| &#160;Salty Sprayonator
+
+| Can use five spray materials for triple the regular &#160;Sprayonator's base effect and lasts 60 minutes. For &#xe019;&#160;Bonus Pest Chance spray material, this can give +75&#160;&#xe019;&#160;Bonus Pest Chance.
+
+| Level 100 LEGENDARY &#160;Slug Pet
+
+| Grants +40&#160;&#xe019;&#160;Bonus Pest Chance.
+
+| Level 100 &#160;Mosquito Pet
+
+| Grants +50&#160;&#xe019;&#160;Bonus Pest Chance.
+
+| &#160;Brown Bandana
+
+| Grants +0.2&#160;&#xe019;&#160;Bonus Pest Chance per eligible Pest Bestiary tier, up to 45&#160;&#xe019;&#160;Bonus Pest Chance. [A sprite icon representing Timestalk Clone in Hypixel SkyBlock] Timestalk Clone and [A sprite icon representing Zombuddy in Hypixel SkyBlock] Zombuddy do not count.
+
+| &#160;Douce Pluie de Stinky Cheese Potion
+
+| Grants +20&#160;&#xe019;&#160;Bonus Pest Chance while active.
+
+| [A sprite icon representing Doug in Hypixel SkyBlock] Doug
+
+| During a Harvest Feast, Feast Crasher can temporarily add +2-6&#160;&#xe019;&#160;Bonus Pest Chance depending on its level.
+
+The exact total used for spawning depends on your Squeaky Equipment, Mantid stacks, pet, spray, and temporary buffs. The point of the 304&#160;&#xe019; baseline is that a large amount of &#xe019;&#160;Bonus Pest Chance can stay active without giving up the normal Mossy Farming set permanently.
+
+At 304&#160;&#xe019;&#160;Bonus Pest Chance, a spawn produces four guaranteed Pests with a 4% chance for a fifth. At 300-399&#160;&#xe019;&#160;Bonus Pest Chance, having eight active Pests reduces &#xe051;&#160;Farming Fortune by 15%. Eight is also the normal Garden Pest cap, so additional Pests stop spawning until one is removed.
+
+This makes 300+&#160;&#xe019;&#160;BPC useful for both active Pest Farming and lower-attention farming where Pests are allowed to build up. Active Pest Farming still gives better Pest throughput because the Pests are cleared and the spawn loop is repeated instead of sitting at the cap.
+
+A maxed &#160;Earthworm Shard gives up to +30&#160;&#xe051;&#160;Farming Fortune while your current Garden Plot contains a Pest. This works well when some Pests are intentionally left alive while farming.
+
+## Garden Chips
+[edit | edit source]
+
+See also: Garden Chips
+
+Garden Chips are permanent upgrades bought with ✿&#8201;Sowdust. The best order depends on what you are doing, so the lists below are priorities rather than required unlock orders.
+
+### Pest Farming priority
+[edit | edit source]
+
+For active Pest Farming, a practical order is:
+
+| Priority
+
+| Chip
+
+| Reason
+
+| 1
+
+| &#160;Vermin Vaporizer Chip
+
+| Gives a large amount of &#xe019;&#160;Bonus Pest Chance.
+
+| 2
+
+| &#160;Rarefinder Chip
+
+| Gives &#xe02b;&#160;Overbloom, helping Rare Crop drops while farming.
+
+| 3
+
+| &#160;Hypercharge Chip
+
+| Improves supported temporary Farming Fortune buffs. It is especially strong with [A sprite icon representing Pesthunter Phillip in Hypixel SkyBlock] Pesthunter Phillip and with a LEGENDARY &#160;Slug standing in a sprayed Plot.
+
+| 4
+
+| &#160;Cropshot Chip
+
+| Gives general &#xe051;&#160;Farming Fortune.
+
+| 5
+
+| &#160;Quickdraw Chip
+
+| Makes Visitors arrive faster while harvesting and helps long-term Visitor, &#160;Blossom Set, and Green Thumb progression.
+
+| 6
+
+| &#160;Mechamind Chip
+
+| Increases Specialized Farming Tool XP gain.
+
+| 7
+
+| &#160;Overdrive Chip
+
+| Gives &#xe051;&#160;Crop Fortune for the active crop during Jacob's Farming Contest. Move it higher when pushing a contest for that crop.
+
+| 8
+
+| &#160;Sowledge Chip
+
+| Gives ☯&#160;Farming Wisdom and becomes more useful when Farming XP or pet leveling is the goal.
+
+| 9
+
+| &#160;Synthesis Chip
+
+| Gives extra Copper from analyzing Mutations, so it does not do much for the Pest loop itself.
+
+| 10
+
+| &#160;Evergreen Chip
+
+| Increases base crops harvested in the Greenhouse and does not improve active Pest Farming.
+
+Once a [Lv200] &#160;Rose Dragon Pet is owned, Sowledge becomes more useful while leveling the other Farming Pets needed for Symbiosis.
+
+### Greenhouse priority
+[edit | edit source]
+
+When preparing for a large Greenhouse harvest, the order changes:
+
+- &#160;Evergreen Chip for extra base Greenhouse crops.
+
+- &#160;Hypercharge Chip if supported temporary &#xe051;&#160;Farming Fortune buffs are being used.
+
+- &#160;Cropshot Chip for general &#xe051;&#160;Farming Fortune, or &#160;Overdrive Chip ahead of it when the harvested crop matches the current Jacob's Farming Contest crop.
+
+- &#160;Rarefinder Chip for &#xe02b;&#160;Overbloom.
+
+- &#160;Sowledge Chip when &#160;Farming&#160;XP from the harvest matters.
+
+- &#160;Mechamind Chip after the direct Greenhouse bonuses.
+
+&#160;Vermin Vaporizer and &#160;Quickdraw do not directly increase a Greenhouse harvest. &#160;Synthesis is useful for Copper from Mutations rather than raw harvest yield.
+
+## Greenhouse
+[edit | edit source]
+
+See also: Greenhouse
+
+The Greenhouse unlocks at &#160;Garden&#160;VII (7) after completing the [A sprite icon representing Carpenter in Hypixel SkyBlock] Carpenter's Visitor offer and obtaining the &#160;Greenhouse Blueprint. Crops inside continue growing while you are offline and can be arranged into patterns that create Mutations.
+
+The Crop Analyzer is not unlocked automatically with the Greenhouse. Complete the later part of [A sprite icon representing Beth in Hypixel SkyBlock] Beth's quest and return to the &#xe067; Underground Lab to unlock it. Analyzed Mutations can drop &#160;Ethereal Vines, which unlock more crop slots and eventually a second and third Greenhouse. Harvest Bounty also provides useful Greenhouse upgrades and materials.
+
+The Greenhouse has been rebalanced several times, including another mutation multiplier change in August 2026. Old mutation profit charts can become wrong quickly. &#160;All-in Aloe is still a useful late mutation to work toward, but the best choice depends on your slots, layout, current balance, and what you need.
+
+Once &#160;Zorro's Cape is available, it is worth harvesting a mature Greenhouse during Jacob's Farming Contest when practical. If the Greenhouse crop matches the contest crop, &#160;Overdrive and Personal Best progression can add more value.
+
+Once you reach &#160;Garden&#160;XII (12) and unlock Wild Rose, the last crop unlocked by Garden level, the Greenhouse should become a much bigger priority. At that point you are no longer waiting on Garden levels for another crop unlock, so focus more heavily on Mutations, Crop Analyzer progression, &#160;Ethereal Vines, extra crop slots, and eventually the second and third Greenhouses.
+
+When Greenhouse progression is the current goal, put new ✿&#8201;Sowdust into the Greenhouse chip priorities instead of blindly following the Pest order.
+
+## Farming Fortune and related progression
+[edit | edit source]
+
+&#xe051;&#160;Farming Fortune increases normal crop drops. &#xe051;&#160;Crop Fortune only works on its listed crop. &#xe019;&#160;Bonus Pest Chance affects Pest spawns, while &#xe02b;&#160;Overbloom improves Rare Crop drops. They are separate stats and should be built for the activity being done.
+
+| Source
+
+| What to progress
+
+| &#160;Farming Level
+
+| Keep leveling &#160;Farming and unlock the level cap to 60 through unique Gold Jacob's Farming Contest results and [A sprite icon representing Anita in Hypixel SkyBlock] Anita.
+
+| Farming Tool
+
+| Use the matching Specialized Farming Tool and improve it in stages. Start with Harvesting V, Cultivating, usable Turbo-Crop levels, Dedication III, Replenish where needed, and Bountiful. &#160;Farming for Dummies and &#160;Fine Peridots fit around &#160;Farming&#160;XXX (30); &#160;Flawless Peridots and the more expensive upgrades fit &#160;Farming&#160;40-49; &#160;Perfect Peridots are normally a &#160;Farming&#160;50+ goal.
+
+| Armor
+
+| Follow &#160;Farmhand Armor → &#160;Haymaker Armor → &#160;Sprout Armor → &#160;Tater Armor → &#160;Cropie Armor → &#160;Squash Armor → &#160;Fermento Armor → &#160;Helianthus Armor. Use Bustling around &#160;Farming&#160;XX (20) and Mossy around &#160;Farming&#160;XL (40). Late Pest Farming can add a full Mantid spawning set, while a hypermax setup also uses a 3/4 Mossy and 1/4 Mantid killing set.
+
+| Equipment
+
+| Use Blooming early, move to Rooted around &#160;Farming&#160;XXXV (35), and work from &#160;Peony into &#160;Blossom Set. Pest Farming adds a 3/4 &#160;Pesthunter's Set plus &#160;Pest Vest set on Squeaky for spawning. Hypermax setups also use a separate Thorny &#160;Blossom Set for killing Pests.
+
+| Pets
+
+| &#160;Rabbit Pet is the early XP pet and &#160;Elephant Pet is the simple Farming Fortune benchmark. For Pest Farming, use &#160;Mooshroom Cow Pet → &#160;Slug Pet → &#160;Hedgehog Pet on a budget, then &#160;Rose Dragon Pet → &#160;Mosquito Pet → &#160;Rose Dragon Pet in late game. Hypermax setups use a second &#160;Rose Dragon with &#160;Poignant Lucky Clover for killing Pests.
+
+| Garden
+
+| Raise Crop Milestones, Crop Upgrades, Visitor progression, Personal Bests, Extra &#xe051;&#160;Farming Fortune, Pest Bestiary, and Garden Chips over time.
+
+| Attributes
+
+| Solar Power is a simple general &#xe051;&#160;Farming Fortune option. Pest Fortune, Pest Luck, &#xe019;&#160;Bonus Pest Chance, Infiltration, and Sprayonator Serendipity are useful once Pest Farming starts. If you are on ♲&#160;Ironman, hunt or lasso Pest shards instead of relying on the market.
+
+| Temporary buffs
+
+| Turn in up to 40 Pests to [A sprite icon representing Pesthunter Phillip in Hypixel SkyBlock] Pesthunter Phillip for up to 200&#160;&#xe051;&#160;Farming Fortune for 30 minutes. Sprays, &#160;Slug's sprayed-Plot bonus, and other supported temporary Farming Fortune buffs become stronger with &#160;Hypercharge Chip.
+
+An upgrade is not useful only because it adds &#xe051;&#160;Farming Fortune. Visitor progress, Tool XP, Crop Milestones, Pest Bestiary, ✿&#8201;Sowdust, Greenhouse unlocks, Attributes, and pet progression can be worth more than a small immediate stat increase.
+
+### Checking personal Farming progression
+[edit | edit source]
+
+Elite Skyblock can be used to check your Farming profile instead of following a generic upgrade list blindly. The Fortune page shows &#xe051;&#160;Farming Fortune progress and a personalized Cheapest Upgrades list based on your current gear. On a Classic profile, use it to compare upgrades by Coins per stat. On ♲&#160;Ironman, use it as a checklist instead because an item that is cheap on the market can still be difficult to obtain yourself.
+
+The site's Pest Farming page shows Pest-related stats such as &#xe019;&#160;Bonus Pest Chance, Pest Kill &#xe051;&#160;Farming Fortune, Pest spawn cooldown reduction, &#xe051;&#160;Farming Fortune, &#xe02b;&#160;Overbloom, and &#160;Vacuum progress. It is useful for spotting missing stats, but it should not replace checking the actual item or system pages when choosing an upgrade.
+
+## Experience and Coins
+[edit | edit source]
+
+### Farming Experience
+[edit | edit source]
+
+See also: Farming Wisdom §&#160;Increasing Bonus Farming Wisdom
+
+Mushroom gives 6 base &#160;Farming&#160;XP per block and is a good &#160;Farming&#160;XP crop once unlocked. &#xe051;&#160;Farming Fortune does not increase XP per block, so an XP setup should focus on breaking crops consistently and increasing ☯&#160;Farming Wisdom.
+
+Useful ☯&#160;Farming Wisdom sources include &#160;Booster Cookie, &#160;God Potion, an EPIC or higher &#160;Rabbit Pet, Blessed, Cultivating, and later the &#160;Sowledge Chip. Blessed is included here because this is the situation where its ☯&#160;Wisdom is actually the main reason to use it.
+
+Crop Milestones and Visitor progression also award &#160;Farming&#160;XP while progressing other Garden systems. &#160;Farming&#160;XP granted directly by milestones is not increased by ☯&#160;Farming Wisdom.
+
+### Coins
+[edit | edit source]
+
+For crop profit, this guide uses direct sell prices to NPCs rather than Bazaar prices. Unless stated otherwise, "sell value" in this section refers to that direct sell price. Bazaar prices change constantly, so they are not used to decide which crop the progression guide recommends.
+
+Before &#xe051;&#160;Farming Fortune is applied, a Wheat block averages 10.5 Coins in sell value from its Wheat and average &#160;Seeds drops, while a Melon block averages 10 Coins from five &#160;Melon Slices. These figures do not include other drops or bonuses.
+
+Bountiful is especially useful on Melon because its Coins bonus is based on the number of crop items harvested, and Melon has a high base drop count. Wheat remains the default crop recommended for the Pest route because it combines good sell value with a simple compact farm and a strong Specialized Farming Tool.
+
+Armor set drops also add to your profit while farming eligible crops. &#160;Tater Armor can drop &#160;Cropie, &#160;Cropie Armor can drop &#160;Squash, &#160;Squash Armor can drop &#160;Fermento, and &#160;Fermento Armor can drop &#160;Helianthus. Every set of Armor can also drop the items that the sets below them can. These drops are affected by &#xe02b;&#160;Overbloom, so late Farming income is not just the value of the base crop.
+
+Pest Farming gives another source of income through Pest drops while also progressing Pest Bestiary, &#160;Pesthunter's Set, ✿&#8201;Sowdust, and Garden Chips. ♲&#160;Ironman profiles should judge these drops by how many Coins they sell for and whether they are needed for self-obtained upgrades.
+
+&#160;Mooshroom Cow Pet can also add income through the extra Mushrooms it drops. This is its main reason to use it over &#160;Elephant for money, not because it normally beats &#160;Elephant in raw &#xe051;&#160;Farming Fortune.
+
+The Greenhouse is another source of crops and Rare Crops, but mutation balance changes often enough that fixed hourly-profit claims age badly. Compare current layouts and sell values instead of relying on an old static rate.
+
+## Farm Design, Speed, and Angles
+[edit | edit source]
+
+The ideal &#xe022;&#160;Speed, yaw, pitch, and movement pattern depend on the farm design. Use the values for the exact layout being built instead of copying settings from another crop or another farm.
+
+A main farm should loop without a long reset between lanes. This matters even more once Pest Farming starts because you repeatedly move between normal farming, the Pest-spawn swap, and Pest killing.
+
+Current farm layouts and their &#xe022;&#160;Speed, yaw, and pitch can be found at Elite Skyblock Guides. Use the settings listed for the exact design.
+
+## Useful Farming Attributes
+[edit | edit source]
+
+See also: Attributes
+
+Attributes are worth adding gradually. A low-level useful Attribute is often a better buy than forcing a maxed one too early, and market prices can change enough that the cheapest order is not permanent.
+
+| Attribute
+
+| Shard
+
+| Use
+
+| Solar Power
+
+| &#160;Firefly Shard
+
+| Gives &#xe051;&#160;Farming Fortune during the day. For most Classic profiles this is the simple general choice once Garden time can be frozen to daytime.
+
+| Lunar Power
+
+| &#160;Lunar Moth Shard
+
+| Gives &#xe051;&#160;Farming Fortune at night. It is usually unnecessary to own both Solar Power and Lunar Power just for ordinary Farming, but Lunar Power fits a permanent-night setup. It is also necessary when farming Moonflower.
+
+| Pest Fortune
+
+| &#160;Cricket Shard
+
+| Gives &#xe051;&#160;Farming Fortune while killing Pests.
+
+| Pest Luck
+
+| &#160;Field Mouse Shard
+
+| Gives &#xe02b;&#160;Overbloom on Pests.
+
+| Bonus Pest Chance
+
+| &#160;Keeled Slug Shard
+
+| Adds &#xe019;&#160;Bonus Pest Chance and is one of the permanent sources used in the 300+&#160;&#xe019;&#160;Bonus Pest Chance setup.
+
+| Infiltration
+
+| &#160;Earthworm Shard
+
+| Gives &#xe051;&#160;Farming Fortune while the current Garden Plot contains a Pest.
+
+| Sprayonator Serendipity
+
+| &#160;Rat Shard
+
+| Helps with obtaining extra &#160;Sprayonator materials.
+
+| Pest Cooldown
+
+| &#160;Moth Shard
+
+| Reduces the Pest spawn cooldown.
+
+| Enchanted Farmer
+
+| &#160;Mosquito Shard
+
+| Gives a small chance to obtain an Enchanted Crop while farming.
+
+| Visitor Bait
+
+| &#160;Mudworm Shard
+
+| Makes Visitors arrive faster.
+
+| Fancy Visit
+
+| &#160;Invisibug Shard
+
+| Gives a chance for a Visitor to be RARE or higher.
+
+| Garden Wisdom
+
+| &#160;Dragonfly Shard
+
+| Gives ☯&#160;Farming Wisdom on the Garden.
+
+For a Classic profile, Solar Power is usually the easiest general &#xe051;&#160;Farming Fortune Attribute to build around. Once both &#160;Day Saver and &#160;Night Saver have been given to the Garden, use the Desk's Island Time setting to freeze the Garden during the day. This removes the need to buy and level both &#160;Firefly and &#160;Lunar Moth just to cover day and night. &#160;Firefly is often the cheaper shard as well, but check current prices before buying.
+
+For late game ♲&#160;Ironman, the time choice can flip. Sunset V gives 5&#160;&#xe02b;&#160;Overbloom during the day but shortens Visitor cooldown by 5% while breaking crops at night. If faster Visitors are more important than the daytime &#xe02b;&#160;Overbloom, freeze the Garden at night and use Lunar Power if it has been obtained.
+
+If you are on ♲&#160;Ironman, make Pest Shard collection part of Pest Farming. Current Garden Pests have guaranteed shards when hunted, so hunt or lasso useful Pest-related shards directly instead of treating them as market-only upgrades.
+
+Tutorial:Mining Guide
+
+&#91;&#34;Tutorial:Navigation&#34;,&#34;Tutorial:Day Count&#34;,&#34;Tutorial:Autopet Guide&#34;&#93;&#91;&#34;Tutorial:Ultimate Guide&#34;,&#34;Tutorial:Tips and Tricks&#34;,&#34;Tutorial:Ironman Guide&#34;,&#34;Tutorial:Bingo Guide&#34;,&#34;Tutorial:Periodic Tasks&#34;&#93;&#91;&#34;Tutorial:Maxing Items&#34;,&#34;Tutorial:Ranged_Weapon_Guide&#34;,&#34;Tutorial:Melee_Weapon_Guide&#34;,&#34;Tutorial:Minion Farming&#34;,&#34;Tutorial:Reforging Guide&#34;,&#34;Tutorial:Armor Guide&#34;,&#34;Tutorial:Accessory Guide&#34;&#93;&#91;&#34;Tutorial:Mining Guide&#34;,&#34;Tutorial:Hunting Guide&#34;,&#34;Tutorial:Foraging Guide&#34;,&#34;Tutorial:Fishing Guide&#34;,&#34;Tutorial:Farming Guide&#34;,&#34;Tutorial:Alchemy Guide&#34;&#93;&#91;&#34;Tutorial:Gemstone Gauntlet's Ability&#34;,&#34;Tutorial:Killing Ghosts on a Budget&#34;,&#34;Tutorial:Dragon Fights Guide&#34;,&#34;Tutorial:How to Obtain a Summoning Eye&#34;,&#34;Tutorial:Kuudra Guide&#34;,&#34;Tutorial:Slayer_Guide&#34;&#93;&#91;&#34;Tutorial:Tank Guide&#34;,&#34;Tutorial:Left-Click_Mage_Guide&#34;,&#34;Tutorial:Right-Click Mage Guide&#34;,&#34;Tutorial:Mage Guide&#34;,&#34;Tutorial:Healer Guide&#34;,&#34;Tutorial:Berserk Guide&#34;,&#34;Tutorial:Archer Guide&#34;,&#34;Tutorial:Dungeon Puzzles&#34;,&#34;Tutorial:Master Mode Guide&#34;,&#34;Tutorial:Catacombs Guide&#34;,&#34;Tutorial:Ultimate Dungeon Guide&#34;&#93;&#91;&#34;Tutorial:Mushroom Farm&#34;,&#34;Tutorial:Sugar Cane Farm&#34;,&#34;Tutorial:Cocoa Beans Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;&#93;&#91;&#34;Tutorial:Timite Mining&#34;,&#34;Tutorial:Tick Thresholds&#34;,&#34;Tutorial:Heart of the Mountain Trees&#34;,&#34;Tutorial:Sapphire Crystal&#34;,&#34;Tutorial:6-ticking Ruby in the Magma Fields&#34;&#93;&#91;&#34;Tutorial:Lowballing&#34;,&#34;Tutorial:NPC Flipping&#34;,&#34;Tutorial:Bazaar Flipping&#34;,&#34;Tutorial:AH Flipping&#34;&#93; | v · d · eTutorials
+| 
+| How-To's | 
+
+- Autopet Guide
+
+- Day Count
+
+- Navigation
+
+| 
+| 
+| General Guides | 
+
+- Periodic Tasks
+
+- Bingo Guide
+
+- Ironman Guide
+
+- Tips and Tricks
+
+- Ultimate Guide
+
+| 
+| Progression Guides | 
+
+- Accessory Guide
+
+- Armor Guide
+
+- Reforging Guide
+
+- Minion Farming
+
+- Melee Weapon Guide
+
+- Ranged Weapon Guide
+
+- Maxing Items
+
+| 
+| Skill Guides | 
+
+- Alchemy Guide
+
+- Farming Guide
+
+- Fishing Guide
+
+- Foraging Guide
+
+- Hunting Guide
+
+- Mining Guide
+
+| 
+| Combat | 
+
+- Slayer Guide
+
+- Kuudra Guide
+
+- How to Obtain a Summoning Eye
+
+- Dragon Fights Guide
+
+- Killing Ghosts on a Budget
+
+- Gemstone Gauntlet Ability
+
+| 
+| Dungeon Guides | 
+
+- Ultimate Dungeon Guide
+
+- Catacombs Guide
+
+- Master Mode Guide
+
+- Dungeon Puzzles
+
+- Archer Guide
+
+- Berserk Guide
+
+- Healer Guide
+
+- Mage Guide (RCM Guide & LCM Guide)
+
+- Tank Guide
+
+| 
+| Farming | 
+
+- Wheat
+
+- Potato
+
+- Carrot
+
+- Nether Wart
+
+- Pumpkin
+
+- Melon
+
+- Cocoa Beans
+
+- Sugar Cane
+
+- Mushroom
+
+| 
+| Mining | 
+
+- 6-ticking Ruby in the Magma Fields
+
+- Nucleus Runs (Sapphire Crystal)
+
+- Heart of the Mountain Trees
+
+- Tick Thresholds
+
+- Timite Mining
+
+| 
+| Economy Guides | 
+
+- AH
+
+- Bazaar
+
+- NPC
+
+- Lowballing
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Tutorial:Farming_Guide?oldid=866910"
+
+Categories: 
+- Community Guides
+- Tutorials
+
+Hidden categories: 
+- Pages using Farming Fortune
+- Pages using Crop Fortune
+- Pages using Farming Wisdom
+- Pages using Speed
+- Pages using Bonus Pest Chance
+- Pages using Overbloom
+- Pages using Strength
+- Pages using Wisdom
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Tutorial
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+2h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+
+- This page was last edited on 2 November 2026, at 14:15.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

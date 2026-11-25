@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Cormorant_Garamond, Geist, Geist_Mono } from "next/font/google";
 import AppShell from "./AppShell";
 import { ProfileProvider } from "./profile/ProfileProvider";
 import "./globals.css";
@@ -7,6 +7,14 @@ import "./globals.css";
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
+});
+
+// Schrift fuer Titel und Logo-Namen (Serife, passend zum Winter-Design)
+const display = Cormorant_Garamond({
+  variable: "--font-display",
+  subsets: ["latin"],
+  weight: ["500", "600"],
+  style: ["normal", "italic"],
 });
 
 const geistMono = Geist_Mono({
@@ -24,7 +32,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      className={`${geistSans.variable} ${geistMono.variable} ${display.variable} h-full antialiased`}
       suppressHydrationWarning
     >
       <head>
@@ -32,7 +40,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             "ok" ist die Liste der erlaubten Schemata (muss zu THEMES in ThemePicker.tsx passen). */}
         <script
           dangerouslySetInnerHTML={{
-            __html: `try{var ok=[];var t=localStorage.getItem("theme");if(ok.indexOf(t)>-1){document.documentElement.setAttribute("data-theme",t)}}catch(e){}`,
+            __html: `try{var ok=["classic"];var t=localStorage.getItem("theme");if(ok.indexOf(t)>-1){document.documentElement.setAttribute("data-theme",t)}}catch(e){}`,
           }}
         />
       </head>

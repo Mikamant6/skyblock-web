@@ -1,0 +1,1372 @@
+Tutorial:Armor Guide - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Tutorial:Armor Guide
+
+From Hypixel SkyBlock Wiki
+
+Jump to navigation
+Jump to search
+
+- This tutorial is a guide.
+
+- This tutorial has been assembled by members of the community as a helpful resource or Tutorial, instructing players on SkyBlock, and thus is not official.
+
+- If you see missing, incorrect or out of date information, please help by contributing to the page.
+
+There are many armors in SkyBlock, but not every single armor is useful. This guide listed the armors you should buy and use in very early to end game.
+
+- For late/end game players and players who have a lot of knowledge about the game, you have the ability to select the most suitable armor for yourself!
+
+## Contents
+
+- 1 General
+
+- 2 Dungeons
+
+- 3 Slayer
+
+- 3.1 Revenant Horror
+
+- 3.2 Tarantula Broodfather
+
+- 3.3 Sven Packmaster
+
+- 3.4 Voidgloom Seraph
+
+## General
+[edit | edit source]
+
+Note: if marked with #, then the armor is highly recommended
+
+| Status
+
+| Armor
+
+| Requirements
+
+| Notes
+
+| First Set
+
+| [Farmhand Helmet] [Farmhand Chestplate] [Farmhand Leggings] [Farmhand Boots] 
+
+| None
+
+| The crafting recipe for the Farmhand can be obtained at Wheat&#160;II (2), and is absolutely the first set you should obtain.
+#
+
+| [Angler Helmet] [Angler Chestplate] [Angler Leggings] [Angler Boots] 
+
+| None
+
+| Easy to buy from the fish merchant for next to nothing. It can help for players who enjoy fishing, as well as being cheap &#xe021;&#160;Sea Creature Chance for bingo players. Other than the angler equipment, which has no competition at this point in the game, this armor set is usually not worth it if you already have Farmhand Armor.
+
+| Beginner
+
+| [Lapis Armor Helmet] [Lapis Armor Chestplate] [Lapis Armor Leggings] [Lapis Armor Boots] 
+
+| &#160;Mining&#160;V (5)
+
+| This set is nice for new players wishing to level up mining and can be easy to obtain for certain bingo goals, but most players can obtain cheaper armor for earlygame.
+
+| [Rosetta's Helmet] [Rosetta's Chestplate] [Rosetta's Leggings] [Rosetta's Boots] 
+
+| &#160;Combat&#160;III (3)
+
+| The Rosetta's armor set costs 4,530 Coins at [A sprite icon representing Rosetta in Hypixel SkyBlock] Rosetta after obtaining &#160;Combat&#160;III (3), although it is recommended to also obtain &#160;Enchanting&#160;V (5) to gain the full benefits of growth, which can easily be done by enchanting something such as an &#160;Undead Sword.
+
+| [Glacite Helmet] [Glacite Chestplate] [Glacite Leggings] [Glacite Boots] 
+
+| 
+
+| Glacite Armor is the best armor set for beginners, being easy to obtain for both ironman and normal players. Early-game ironman players may find it hard to kill Ice Walkers, but they can be killed in a single hit by a pickaxe. Non-ironman players can easily obtain the armor on the Auction House by saving up some coins.
+#
+
+| Early Game
+
+| [Ender Helmet] [Ender Chestplate] [Ender Leggings] [Ender Boots] 
+
+| &#160;Combat&#160;XII (12)
+
+| Ender Armor is the best combat armor for this stage of the game, especially when combined with the &#160;Void Sword, providing for an earlygame powerhouse and easily granting enough damage to kill most creatures on the End Island. It being soulbound means you may have to grind the armor pieces manually, but it is well worth it for 90% of combat players.
+#
+
+| Mid-Early Game
+
+| [Old Dragon Helmet] [Old Dragon Chestplate] [Old Dragon Leggings] [Old Dragon Boots] 
+
+| &#160;Combat&#160;XVI (16)
+
+| Don't use this armor set unless you plan on playing as tank in Dungeons.
+
+| [Unstable Dragon Helmet] [Unstable Dragon Chestplate] [Unstable Dragon Leggings] [Unstable Dragon Boots] 
+
+| &#160;Combat&#160;XVI (16)
+
+| Cheap legendary armor that actually boosts your &#xe050;&#160;Damage. The full set bonus isn't very useful, but the &#xe02c;&#160;Crit Chance and &#xe007;&#160;Crit Damage bonuses are extremely helpful for this stage in the game.
+#
+
+| Late-Early Game
+
+| [Strong Dragon Helmet] [Tarantula Helmet] [Strong Dragon Chestplate] [Strong Dragon Leggings] [Strong Dragon Boots] 
+
+| &#160;Combat&#160;XVI (16)(Spider Slayer&#160;IV (4), if the Tarantula Helmet is used.)
+
+| Unless your primary weapon is still the &#160;Aspect of the End, you should consider switching some armor pieces out for pieces of &#160;Unstable Dragon Armor and/or use a &#160;Tarantula Helmet, which can help balance &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage and result in higher damage overall, or save some coins as they are often a lot cheaper.
+
+| [Crimson Helmet] [Crimson Chestplate] [Crimson Leggings] [Crimson Boots] 
+
+| &#160;Combat&#160;XXII (22) and Basic Tier Kuudra completion
+
+| If you do not plan on doing dungeons, or if you wish to focus on out-of-dungeon combat, it is recommended to acquire this armor set early to slowly upgrade it over the course of your playtime as it is the best melee armor set for out-of-dungeon melee combat for now. However, this armor set is practically useless inside dungeons after the first floor. The helmet should be replaced by a &#160;Tarantula Helmet if you have one for now.
+#
+
+| Transition Note
+
+| 
+
+| 
+
+| It is possible to transition straight from Unstable Dragon Armor to Shadow Assassin, via using various sets in dungeons, and possibly some other sets for other game elements, such as slayers and dungeons.
+
+| Early-Mid Game
+
+| [Shadow Assassin Helmet] [Shadow Assassin Chestplate] [Zombie Knight Chestplate] [Shadow Assassin Leggings] [Shadow Assassin Boots] 
+
+| Floor 5 Completion
+
+| With this armor set, the chestplate is not necessary due to its high cost relative to the rest of this armor set. A Legendary &#160;Zombie Knight Chestplate or a &#160;Skeleton Master Chestplate dropped from floor 5 or 6 is a good alternative for those who cannot afford the full set. The &#160;Tarantula Helmet is still a good alternative helmet outside dungeons. Remember to star your armor using &#160;Livid Fragments for additional stats and a rarity upgrade.
+#
+
+| Mid Game
+
+| [Tarantula Helmet] [Necron's Chestplate] [Necron's Leggings] [Necron's Boots] 
+
+| Floor VII Completion, Spider Slayer&#160;IV (4)
+
+| This is essential for any player and Berserk class player. As it not only provides great &#xe008;&#160;Defense and &#xe010;&#160;Health, but also a great amount of &#xe050;&#160;Damage. If you can afford it, you can upgrade your &#160;Tarantula Helmet into a &#160;Primordial Helmet at this point, and many may choose to select &#160;Maxor's Boots for additional in-dungeons speed and additional &#xe007;&#160;Crit Damage for more balance.
+#
+
+| [Frozen Blaze Helmet] [Frozen Blaze Chestplate] [Frozen Blaze Leggings] [Frozen Blaze Boots] 
+
+| &#160;Combat&#160;XXII (22)
+
+| A great alternative to the &#160;Necron's Armor, albeit much more expensive and relies on the &#160;Blaze Pet. However, it is extremely potent as an armor set that has defied power creep since its inception, being viable even over &#160;Burning Crimson Armor for Crimson Isle content. Use this armor if you either prefer the ice aesthetic, have a lot of spare money from non-combat money making methods such as Farming or Mining, or if you want to use its full set bonus for Loot Sharing with Fishing content.
+
+| Later-Mid Game
+
+| [Warden Helmet] [Necron's Chestplate] [Necron's Leggings] [Necron's Boots] 
+
+| Floor VII Completion, Zombie Slayer&#160;VIII (8)
+
+| This is essential for any player and Berserk class player. As it not only provides great &#xe008;&#160;Defense and &#xe010;&#160;Health, but also a great amount of &#xe050;&#160;Damage. The &#160;Warden Helmet, though rather expensive, has the highest damage bonus of any armor piece and is rather important for most late-game combat, especially for the Crimson Isle and high-tier slayers. However, many players may prefer to use the &#160;Primordial Helmet or the &#160;Crown of Avarice over it due to the lack of a speed penalty.
+# 
+
+| Late-Game
+
+| [Infernal Crimson Helmet] [Infernal Crimson Chestplate] [Infernal Crimson Leggings] [Infernal Crimson Boots] 
+
+| Infernal Tier Kuudra Completion, Combat Level 47
+
+| This set is the best &#xe050;&#160;Damage set in the game due to the Dominus set ability. It provides very high &#xe010;&#160;Health and high &#xe008;&#160;Defense, and a very high amount of &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage. The Dominus ability grants &#xe024;&#160;Swing Range, at tiers Burning and above gives extra &#xe00b;&#160;Ferocity, and at Infernal tier, gives an additive +10%&#160;&#xe050;&#160;Damage. It is a must-have for any task that requires high damage. However, some players may choose the &#160;Warden Helmet for the similar damage and lower cost compared to an infernal helmet.
+# 
+
+| Late-Game
+
+| [Infernal Aurora Helmet] [Infernal Aurora Chestplate] [Infernal Aurora Leggings] [Infernal Aurora Boots] 
+
+| Infernal Tier Kuudra Completion, Combat Level 47
+
+| This set is the best &#xe003;&#160;Intelligence set in the game, giving 1,424&#160;&#xe003;&#160;Intelligence, 274&#160;&#xe003;&#160;Intelligence more than Storm's Armor. It provides very high &#xe010;&#160;Health and high &#xe008;&#160;Defense, along with 40&#160;&#xe002;&#160;Ability Damage. The set bonus Arcane Energy gives the wearer the ability to gain Arcane Energy, and at 10 Arcane Energy, they can sneak to fire homing missiles, firing more the higher tier the armor is. It is a must-have for any task that requires &#xe003;&#160;Intelligence or &#xe002;&#160;Ability Damage. The &#160;Wither Goggles is a less expensive alternative helmet that provides similar &#xe002;&#160;Ability Damage at a much lower cost.
+
+## Dungeons
+[edit | edit source]
+
+| Floor
+
+| Armor
+
+| Requirements
+
+| Notes
+
+| Floor I
+
+| [Unstable Dragon Helmet] [Unstable Dragon Chestplate] [Unstable Dragon Leggings] [Unstable Dragon Boots] 
+
+| &#160;Combat 16
+
+| The Unstable Dragon Armor set provide a decent balance of &#xe010;&#160;Health, &#xe008;&#160;Defense and &#xe050;&#160;Damage, making it viable for lower floors, (and outside of dungeons) such as The Entrance, and Floor I. Its low requirements, being only 1 &#160;Combat level higher then the requirements for entering dungeons, combined with its low price makes it a great option for starting off.
+
+| Floor II
+
+| [Unstable Dragon Helmet] [Unstable Dragon Chestplate] [Unstable Dragon Leggings] [Unstable Dragon Boots] 
+
+| &#160;Combat 16
+
+| See above
+
+| [Strong Dragon Helmet] [Strong Dragon Chestplate] [Strong Dragon Leggings] [Strong Dragon Boots] 
+
+| &#160;Combat 16
+
+| This armor set has slightly higher damage output than &#160;Unstable Dragon Armor, and is generally a better pick.
+
+| Floor III
+
+| [Superior Dragon Helmet] [Superior Dragon Chestplate] [Superior Dragon Leggings] [Superior Dragon Boots] 
+
+| &#160;Combat 20
+
+| You are not affording this armor set for floor 3. If you can afford it, buy carries up to floor 5 and use &#160;Shadow Assassin Armor instead.
+
+| [Adaptive Helmet] [Adaptive Chestplate] [Adaptive Leggings] [Adaptive Boots] 
+
+| Floor III Completion
+
+| Full &#160;Adaptive Armor, along with the &#160;Adaptive Belt, are a great option for every class. Using &#160;Scarf Fragments to star the armor is recommended.
+
+| Floor IV
+
+| [Adaptive Helmet] [Adaptive Chestplate] [Adaptive Leggings] [Adaptive Boots] 
+
+| Floor III Completion
+
+| See above
+
+| Floor V & Floor VI
+
+| [Shadow Assassin Helmet] [Shadow Assassin Chestplate] [Zombie Knight Chestplate] [Skeleton Master Chestplate] [Shadow Assassin Leggings] [Shadow Assassin Boots] 
+
+| Floor V Completion
+
+| Remember to star your armor using &#160;Livid Fragments for additional stats and a rarity upgrade. A high quality &#160;Zombie Knight Chestplate or &#160;Skeleton Master Chestplate can be used as a budget alternative to the expensive chestplate for Berserk and Archer players respectively.
+
+| [Wither Goggles] [Reaper Mask] [Necromancer Lord Chestplate] [Necromancer Lord Leggings] [Necromancer Lord Boots] 
+
+| Floor VI Completion
+
+| Necromancer Lord Armor is a great armor set for Mages and Tanks for this stage. The &#160;Necromancer Lord Helmet should not be used at all due to better alternatives for both classes. Mages should choose the &#160;Wither Goggles, while tanks should go for a &#160;Reaper Mask to boost their survivability.
+
+| Floor VII
+
+| [Golden Necron Head] [Wither Goggles] [Reaper Mask] [Necron's Chestplate] [Storm's Chestplate] [Goldor's Chestplate] [Necron's Leggings] [Storm's Leggings] [Goldor's Leggings] [Necron's Boots] [Storm's Boots] [Goldor's Boots] 
+
+| Floor VII Completion
+
+| The recommended armor sets provide the greatest amount of &#xe010;&#160;Health, &#xe008;&#160;Defense, &#xe050;&#160;Damage and &#xe003;&#160;Intelligence out of all the Dungeon Armor sets. &#160;Necron's Armor is best for Berserk and Archer players, &#160;Storm's Armor is best for Mage players, and &#160;Goldor's Armor is best for Tank players. Due to the lackluster full set bonus, it is recommended to replace the helmet with either &#160;Wither Goggles for &#160;Storm's Armor, &#160;Reaper Mask for &#160;Goldor's Armor, or &#160;Primordial Helmet or &#160;Golden Necron Head if it's &#160;Necron's Armor. For both Mages and Tanks, the boots can be replaced by Tier 13 &#160;Perfect Boots for additional &#xe008;&#160;Defense.
+
+## Slayer
+[edit | edit source]
+
+### Revenant Horror
+[edit | edit source]
+
+| Tier
+
+| Armor
+
+| Requirements
+
+| Notes
+
+| Tier&#160;I
+
+| Any
+
+| 
+
+| Let's be honest you can probably solo a T1 rev in no armor, it's basically just a zombie with slightly more HP, only way you're going to fail is if you let it into the village
+
+| Tier&#160;II
+
+| [Glacite Helmet] [Glacite Chestplate] [Glacite Leggings] [Glacite Boots] 
+
+| 
+
+| 
+
+| Tier&#160;III
+
+| [Unstable Dragon Helmet] [Unstable Dragon Chestplate] [Unstable Dragon Leggings] [Unstable Dragon Boots] 
+
+| &#160;Combat XVI
+
+| 
+
+| Tier&#160;IV
+
+| [Tarantula Helmet] [Strong Dragon Chestplate] [Strong Dragon Leggings] [Strong Dragon Boots] 
+
+| &#160;Combat XVI
+
+| 
+
+| [Mastiff Crown] [Mastiff Chestplate] [Mastiff Leggings] [Mastiff Boots] 
+
+| Wolf Slayer&#160;IV (4)
+
+| This armor works surprisingly well against the Revenant Tier&#160;IV since the lifesteal rework as the absence of &#xe008;&#160;Defense makes the Revenant armor penetration useless (25%) and the percentage healing is extremely efficient with the high &#xe010;&#160;Health potential of the armor. Furthermore this armor is very good against Sven as well so you should consider killing 2 birds with one stone and buy this armor. Combine with the &#160;Pooch Sword to deal actual damage.
+
+| [Shadow Assassin Helmet] [Shadow Assassin Chestplate] [Shadow Assassin Leggings] [Shadow Assassin Boots] 
+
+| Floor V Completion
+
+| 
+
+| Tier&#160;V
+
+| [Necron's Helmet] [Necron's Chestplate] [Necron's Leggings] [Necron's Boots] 
+
+| Floor VII
+Completion
+
+| This is a great armor to slay the Tier&#160;V Revenant Horror, as it provides a great amount of &#xe008;&#160;Defense, &#xe010;&#160;Health and &#xe050;&#160;Damage.
+
+| [Tarantula Helmet] [Primordial Helmet] [Reaper Chestplate] [Reaper Leggings] [Reaper Boots] 
+
+| Zombie Slayer&#160;VII (7)
+
+| Armor specialized for Revenants, along with a generically good helmet for damage.
+
+| [Warden Helmet] [Reaper Chestplate] [Reaper Leggings] [Reaper Boots] 
+
+| Zombie Slayer&#160;VIII (8)
+
+| Best damage set for Revenants.
+
+### Tarantula Broodfather
+[edit | edit source]
+
+| Tier
+
+| Armor
+
+| Requirements
+
+| Notes
+
+| Tier&#160;I
+
+| Any
+
+| 
+
+| You killed a T2 rev, you can kill a T1 tara no problem
+
+| Tier&#160;II
+
+| [Glacite Helmet] [Ender Helmet] [Glacite Chestplate] [Ender Chestplate] [Glacite Leggings] [Ender Leggings] [Glacite Boots] [Ender Boots] 
+
+| 
+
+| &#160;Ender Armor along with a &#160;Void Sword can easily kill a Tier 2 Tarantula. If you use any other weapon, &#160;Glacite Armor is slightly better.
+
+| Tier&#160;III
+
+| [Unstable Dragon Helmet] [Unstable Dragon Chestplate] [Unstable Dragon Leggings] [Unstable Dragon Boots] 
+
+| &#160;Combat XVI
+
+| Use a shortbow to destroy the egg sacs during invulnerability phases.
+
+| Tier&#160;IV
+
+| [Tarantula Helmet] [Tarantula Chestplate] [Tarantula Leggings] [Tarantula Boots] 
+
+| Spider Slayer IV
+
+| This set is recommended for beating the Tier&#160;IV Tarantula Broodfather, as it has good abilities, counters anti-healing, and even has a Double Jump if you can't aim your shortbow at the egg sacs. In addition, players gain more &#xe008;&#160;Defense depending on how many spider kills they have with the armor, which can prove useful for early game players with low survivability.
+
+| [Tarantula Helmet] [Strong Dragon Chestplate] [Strong Dragon Leggings] [Strong Dragon Boots] 
+
+| &#160;Combat XVI
+
+| Damage set, deals more damage and is recommended if you can survive without full &#160;Tarantula Armor
+
+| [Tarantula Helmet] [Shadow Assassin Chestplate] [Necron's Chestplate] [Shadow Assassin Leggings] [Necron's Leggings] [Shadow Assassin Boots] [Necron's Boots] 
+
+| Floor V / Floor VII Completion
+
+| Damage set, deals more damage and is recommended if you can survive without full &#160;Tarantula Armor
+
+| Tier&#160;V
+
+| [Tarantula Helmet] [Tarantula Chestplate] [Tarantula Leggings] [Tarantula Boots] 
+
+| Spider Slayer IV
+
+| Same as Tier IV, but much more important due to the much stronger anti-heal effect of a Tier 5 Tarantula
+
+| [Primordial Helmet] [Primordial Chestplate] [Primordial Leggings] [Primordial Boots] 
+
+| Spider Slayer VII
+
+| Upgrade over Tarantula armor better in every way. Once you can easily survive even without their effects, you may replace pieces with &#160;Sorrow Armor for more &#xe01a;&#160;Magic Find, starting with the leggings and boots.
+
+### Sven Packmaster
+[edit | edit source]
+
+| Tier
+
+| Armor
+
+| Requirements
+
+| Notes
+
+| Tier&#160;I
+
+| Any
+
+| 
+
+| Once again, you killed a T2 Tarantula, you can kill a T1 Sven
+
+| Tier&#160;II
+
+| [Glacite Helmet] [Ender Helmet] [Glacite Chestplate] [Ender Chestplate] [Glacite Leggings] [Ender Leggings] [Glacite Boots] [Ender Boots] 
+
+| 
+
+| &#160;Ender Armor along with a &#160;Void Sword can easily kill a Tier 2 Sven. If you use any other weapon, &#160;Glacite Armor is slightly better.
+
+| Tier&#160;III
+
+| [Unstable Dragon Helmet] [Strong Dragon Helmet] [Unstable Dragon Chestplate] [Strong Dragon Chestplate] [Unstable Dragon Leggings] [Strong Dragon Leggings] [Unstable Dragon Boots] [Strong Dragon Boots] 
+
+| &#160;Combat XVI
+
+| You can use the water found in most sven areas if you have trouble consistently hitting the slayer boss, as it heavily slows down when you lure it into water. Making use of &#160;Ghost Shards and &#160;Tortoise Shards for additional &#xe027;&#160;True Defense is recommended if you struggle to survive.
+
+| Tier&#160;IV
+
+| [Mastiff Crown] [Mastiff Chestplate] [Mastiff Leggings] [Mastiff Boots] 
+
+| Wolf Slayer&#160;IV (4)
+
+| Due to this armor's high health, the Sven's true damage isn't as dangerous. For many people, especially ironman and less experienced players, this is the only Armor in which they can consistently do Tier 4 Svens in.
+
+| [Tarantula Helmet] [Primordial Helmet] [Shadow Assassin Helmet] [Necron's Helmet] [Shadow Assassin Chestplate] [Necron's Chestplate] [Shadow Assassin Leggings] [Necron's Leggings] [Shadow Assassin Boots] [Necron's Boots] 
+
+| Floor V / VII Completion
+
+| Using a damage set is great if you can survive without &#160;Mastiff Armor and want faster kills, as the &#160;Pooch Sword may have trouble keeping up with stronger weapons. Making use of &#160;Ghost Shards and &#160;Tortoise Shards for additional &#xe027;&#160;True Defense is recommended if you struggle to survive.
+
+| Best Armor Set
+
+| [Sorrow Helmet] 
+[Sorrow Chestplate] 
+[Sorrow Leggings] 
+[Sorrow Boots] 
+
+| 
+
+| The extra &#xe01a;&#160;Magic Find will add up over time and this set is definitely worth it for dedicated slayer grinders.
+
+### Voidgloom Seraph
+[edit | edit source]
+
+| Tier
+
+| Armor
+
+| Requirements
+
+| Notes
+
+| Tier&#160;I
+
+| [Shadow Assassin Helmet] 
+[Shadow Assassin Chestplate] 
+[Shadow Assassin Leggings] 
+[Shadow Assassin Boots] 
+
+| Floor V Completion
+
+| Use a &#160;Reaper Mask or &#160;Revived Heart if you are struggling with survivability. If you are not an Ironman player, &#160;Kraken Shards are another way of boosting your healing, and necromancy items such as the &#160;Necromancer Sword can help you survive the 'Hits' phase without being forced to tank extra damage.
+
+| Tier&#160;II
+
+| [Tarantula Helmet] [Reaper Mask] [Necron's Chestplate] [Necron's Leggings] [Necron's Boots] 
+
+| Floor VII Completion
+
+| [Tarantula Helmet] [Reaper Mask] [Crimson Chestplate] [Crimson Leggings] [Crimson Boots] 
+
+| &#160;Combat&#160;XXII (22) and Basic Tier Kuudra completion
+
+| Tier&#160;III
+
+| [Final Destination Helmet] 
+[Final Destination Chestplate] 
+[Final Destination Leggings] 
+[Final Destination Boots] 
+
+| Enderman Slayer&#160;III (3)
+
+| The ability "Enderman Bulwark" allows for more &#xe008;&#160;Defense based on the amount of kills the user has gained while wearing each piece of armor. The common consensus for this tier is to have all four pieces of Final Destination armor to have 5000 stored kills each. During hits phase, use summons if you struggle to survive.
+
+| Tier&#160;IV
+
+| [Final Destination Helmet] 
+[Final Destination Chestplate] 
+[Final Destination Leggings] 
+[Final Destination Boots] 
+
+| Enderman Slayer&#160;III (3)
+
+| 10k kills or higher is recommended at this stage. If you struggle to survive still, Refrigerate is a very helpful ultimate enchant. During hits phase, use summons if you struggle to survive.
+
+| [Warden Helmet] [Burning Crimson Chestplate] [Burning Crimson Leggings] [Burning Crimson Boots] 
+
+| &#160;Combat&#160;XXII (22) and Burning Tier Kuudra completion
+Zombie Slayer&#160;VIII (8)
+
+| Use Refrigerate or &#160;Final Destination Armor if you struggle to survive outside hits phase. During hits phase, use summons if you struggle to survive.
+
+&#91;&#34;Tutorial:Navigation&#34;,&#34;Tutorial:Day Count&#34;,&#34;Tutorial:Autopet Guide&#34;&#93;&#91;&#34;Tutorial:Ultimate Guide&#34;,&#34;Tutorial:Tips and Tricks&#34;,&#34;Tutorial:Ironman Guide&#34;,&#34;Tutorial:Bingo Guide&#34;,&#34;Tutorial:Periodic Tasks&#34;&#93;&#91;&#34;Tutorial:Maxing Items&#34;,&#34;Tutorial:Ranged_Weapon_Guide&#34;,&#34;Tutorial:Melee_Weapon_Guide&#34;,&#34;Tutorial:Minion Farming&#34;,&#34;Tutorial:Reforging Guide&#34;,&#34;Tutorial:Armor Guide&#34;,&#34;Tutorial:Accessory Guide&#34;&#93;&#91;&#34;Tutorial:Mining Guide&#34;,&#34;Tutorial:Hunting Guide&#34;,&#34;Tutorial:Foraging Guide&#34;,&#34;Tutorial:Fishing Guide&#34;,&#34;Tutorial:Farming Guide&#34;,&#34;Tutorial:Alchemy Guide&#34;&#93;&#91;&#34;Tutorial:Gemstone Gauntlet's Ability&#34;,&#34;Tutorial:Killing Ghosts on a Budget&#34;,&#34;Tutorial:Dragon Fights Guide&#34;,&#34;Tutorial:How to Obtain a Summoning Eye&#34;,&#34;Tutorial:Kuudra Guide&#34;,&#34;Tutorial:Slayer_Guide&#34;&#93;&#91;&#34;Tutorial:Tank Guide&#34;,&#34;Tutorial:Left-Click_Mage_Guide&#34;,&#34;Tutorial:Right-Click Mage Guide&#34;,&#34;Tutorial:Mage Guide&#34;,&#34;Tutorial:Healer Guide&#34;,&#34;Tutorial:Berserk Guide&#34;,&#34;Tutorial:Archer Guide&#34;,&#34;Tutorial:Dungeon Puzzles&#34;,&#34;Tutorial:Master Mode Guide&#34;,&#34;Tutorial:Catacombs Guide&#34;,&#34;Tutorial:Ultimate Dungeon Guide&#34;&#93;&#91;&#34;Tutorial:Mushroom Farm&#34;,&#34;Tutorial:Sugar Cane Farm&#34;,&#34;Tutorial:Cocoa Beans Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;&#93;&#91;&#34;Tutorial:Timite Mining&#34;,&#34;Tutorial:Tick Thresholds&#34;,&#34;Tutorial:Heart of the Mountain Trees&#34;,&#34;Tutorial:Sapphire Crystal&#34;,&#34;Tutorial:6-ticking Ruby in the Magma Fields&#34;&#93;&#91;&#34;Tutorial:Lowballing&#34;,&#34;Tutorial:NPC Flipping&#34;,&#34;Tutorial:Bazaar Flipping&#34;,&#34;Tutorial:AH Flipping&#34;&#93; | v · d · eTutorials
+| 
+| How-To's | 
+
+- Autopet Guide
+
+- Day Count
+
+- Navigation
+
+| 
+| 
+| General Guides | 
+
+- Periodic Tasks
+
+- Bingo Guide
+
+- Ironman Guide
+
+- Tips and Tricks
+
+- Ultimate Guide
+
+| 
+| Progression Guides | 
+
+- Accessory Guide
+
+- Armor Guide
+
+- Reforging Guide
+
+- Minion Farming
+
+- Melee Weapon Guide
+
+- Ranged Weapon Guide
+
+- Maxing Items
+
+| 
+| Skill Guides | 
+
+- Alchemy Guide
+
+- Farming Guide
+
+- Fishing Guide
+
+- Foraging Guide
+
+- Hunting Guide
+
+- Mining Guide
+
+| 
+| Combat | 
+
+- Slayer Guide
+
+- Kuudra Guide
+
+- How to Obtain a Summoning Eye
+
+- Dragon Fights Guide
+
+- Killing Ghosts on a Budget
+
+- Gemstone Gauntlet Ability
+
+| 
+| Dungeon Guides | 
+
+- Ultimate Dungeon Guide
+
+- Catacombs Guide
+
+- Master Mode Guide
+
+- Dungeon Puzzles
+
+- Archer Guide
+
+- Berserk Guide
+
+- Healer Guide
+
+- Mage Guide (RCM Guide & LCM Guide)
+
+- Tank Guide
+
+| 
+| Farming | 
+
+- Wheat
+
+- Potato
+
+- Carrot
+
+- Nether Wart
+
+- Pumpkin
+
+- Melon
+
+- Cocoa Beans
+
+- Sugar Cane
+
+- Mushroom
+
+| 
+| Mining | 
+
+- 6-ticking Ruby in the Magma Fields
+
+- Nucleus Runs (Sapphire Crystal)
+
+- Heart of the Mountain Trees
+
+- Tick Thresholds
+
+- Timite Mining
+
+| 
+| Economy Guides | 
+
+- AH
+
+- Bazaar
+
+- NPC
+
+- Lowballing
+
+&#91;&#34;Kuudra Follower Armor&#34;,&#34;Young Dragon Armor&#34;,&#34;Wither Armor&#34;,&#34;Wise Dragon Armor&#34;,&#34;Werewolf Armor&#34;,&#34;Unstable Dragon Armor&#34;,&#34;Thermodynamic Armor&#34;,&#34;Terror Armor&#34;,&#34;Superior Dragon Armor&#34;,&#34;Strong Dragon Armor&#34;,&#34;Storm's Armor&#34;,&#34;Sorrow Armor&#34;,&#34;Shark Scale Armor&#34;,&#34;Reaper Armor&#34;,&#34;Protector Dragon Armor&#34;,&#34;Primordial Armor&#34;,&#34;Perfect Armor&#34;,&#34;Old Dragon Armor&#34;,&#34;Nutcracker Armor&#34;,&#34;Necron's Armor&#34;,&#34;Necromancer Lord Armor&#34;,&#34;Mythos Armor&#34;,&#34;Maxor's Armor&#34;,&#34;Magma Lord Armor&#34;,&#34;Holy Dragon Armor&#34;,&#34;Hollow Armor&#34;,&#34;Helianthus Armor&#34;,&#34;Goldor's Armor&#34;,&#34;Glossy Mineral Armor&#34;,&#34;Frozen Blaze Armor&#34;,&#34;Final Destination Armor&#34;,&#34;Fervor Armor&#34;,&#34;Fancy Tuxedo&#34;,&#34;Elegant Tuxedo&#34;,&#34;Eleanor's Armor&#34;,&#34;Armor of Divan&#34;,&#34;Diamond Hunter Armor&#34;,&#34;Crimson Armor&#34;,&#34;Bat Person Armor&#34;,&#34;Aurora Armor&#34;,&#34;Zombie Soldier Armor&#34;,&#34;Zombie Lord Armor&#34;,&#34;Zombie Knight Armor&#34;,&#34;Zombie Commander Armor&#34;,&#34;Zombie Armor&#34;,&#34;Yog Armor&#34;,&#34;Thunder Armor&#34;,&#34;Tarantula Armor&#34;,&#34;Super Heavy Armor&#34;,&#34;Spooky Armor&#34;,&#34;Sponge Armor&#34;,&#34;Snow Suit Armor&#34;,&#34;Skeletor Armor&#34;,&#34;Skeleton Soldier Armor&#34;,&#34;Skeleton Master Armor&#34;,&#34;Skeleton Lord Armor&#34;,&#34;Skeleton Grunt Armor&#34;,&#34;Shadow Assassin Armor&#34;,&#34;Revenant Armor&#34;,&#34;Rekindled Ember Armor&#34;,&#34;Perfect Armor&#34;,&#34;Armor of the Pack&#34;,&#34;Mineral Armor&#34;,&#34;Mastiff Armor&#34;,&#34;Helix Armor&#34;,&#34;Great Spook Armor&#34;,&#34;Gold Hunter Armor&#34;,&#34;Glacite Armor&#34;,&#34;Flamebreaker Armor&#34;,&#34;Fermento Armor&#34;,&#34;Ender Armor&#34;,&#34;Emerald Armor&#34;,&#34;Diver's Armor&#34;,&#34;Crystal Armor&#34;,&#34;Cheap Tuxedo&#34;,&#34;Challenger's Armor&#34;,&#34;Blaze Armor&#34;,&#34;Berserker Armor&#34;,&#34;Adaptive Armor&#34;,&#34;Starlight Armor&#34;,&#34;Squash Armor&#34;,&#34;Silver Hunter Armor&#34;,&#34;Shimmering Light Armor&#34;,&#34;Seymour's Special Armor&#34;,&#34;Salmon Armor&#34;,&#34;Rotten Armor&#34;,&#34;Rampart Armor&#34;,&#34;Perfect Armor&#34;,&#34;Monster Raider Armor&#34;,&#34;Monster Hunter Armor&#34;,&#34;Miner Armor&#34;,&#34;Mercenary Armor&#34;,&#34;Lava Sea Creature Armor&#34;,&#34;Heavy Armor&#34;,&#34;Heat Armor&#34;,&#34;Hardened Diamond Armor&#34;,&#34;Armor of Growth&#34;,&#34;Golem Armor&#34;,&#34;Goblin Armor&#34;,&#34;Fig Armor&#34;,&#34;Fairy Armor&#34;,&#34;Bouncy Armor&#34;,&#34;Arachne's Armor&#34;,&#34;Tater Armor&#34;,&#34;Squire Armor&#34;,&#34;Sprout Armor&#34;,&#34;Speedster Armor&#34;,&#34;Snorkeling Armor&#34;,&#34;Rosetta's Armor&#34;,&#34;Prospecting Armor&#34;,&#34;Lapis Armor&#34;,&#34;Cropie Armor&#34;,&#34;Celeste Armor&#34;,&#34;Canopy Armor&#34;,&#34;Bronze Hunter Armor&#34;,&#34;Biohazard Armor&#34;,&#34;Backwater Armor&#34;,&#34;Rabbit Armor&#34;,&#34;Park Armor&#34;,&#34;Mushroom Armor&#34;,&#34;Leaflet Armor&#34;,&#34;Haymaker Armor&#34;,&#34;Farmhand Armor&#34;,&#34;Cactus Armor&#34;,&#34;Angler Armor&#34;&#93;&#91;&#34;Squid Boots&#34;,&#34;Spring Boots&#34;,&#34;Spirit Boots&#34;,&#34;Spider's Boots&#34;,&#34;Slug Boots&#34;,&#34;Rancher's Boots&#34;,&#34;Farmer Boots&#34;,&#34;Stereo Pants&#34;,&#34;Moogma Leggings&#34;,&#34;Creeper Pants&#34;,&#34;Stone Chestplate&#34;,&#34;Steel Chestplate&#34;,&#34;Obsidian Chestplate&#34;,&#34;Mithril Coat&#34;,&#34;Metal Chestplate&#34;,&#34;Guardian Chestplate&#34;,&#34;Flaming Chestplate&#34;,&#34;Dead Man's Chestplate&#34;,&#34;7th Anniversary Cake Hat&#34;,&#34;6th Anniversary Balloon Hat&#34;,&#34;5th Anniversary Balloon Hat&#34;,&#34;4th Anniversary Sloth Hat&#34;,&#34;Crab Hat of Celebration - 2022 Edition&#34;,&#34;Crab Hat of Celebration&#34;,&#34;Zombie's Heart&#34;,&#34;Wither Goggles&#34;,&#34;Water Hydra Head&#34;,&#34;Warden Helmet&#34;,&#34;Vampire Witch Mask&#34;,&#34;Vampire Mask&#34;,&#34;Tiki Mask&#34;,&#34;Taurus Helmet&#34;,&#34;Sunflower Head&#34;,&#34;Squid Hat&#34;,&#34;Spirit Mask&#34;,&#34;Spider Hat&#34;,&#34;Space Helmet&#34;,&#34;Snowman Mask&#34;,&#34;Sniper Helmet&#34;,&#34;Slime Hat&#34;,&#34;Skeleton's Helmet&#34;,&#34;Skeleton Hat&#34;,&#34;Shadow Goggles&#34;,&#34;Sea Lantern Hat&#34;,&#34;Salmon Hat&#34;,&#34;Revived Heart&#34;,&#34;Reaper Mask&#34;,&#34;Racing Helmet&#34;,&#34;Rabbit Hat&#34;,&#34;Pufferfish Hat&#34;,&#34;Party Top Hat&#34;,&#34;Mender Helmet&#34;,&#34;Mender Fedora&#34;,&#34;Mender Crown&#34;,&#34;Magma Cube Head&#34;,&#34;Magmafish Hat&#34;,&#34;Lantern Helmet&#34;,&#34;Krampus Helmet&#34;,&#34;Kalhuiki Mask&#34;,&#34;Ghast Head&#34;,&#34;Flex Helmet&#34;,&#34;Fish Hat&#34;,&#34;Enderman Mask&#34;,&#34;Dark Goggles&#34;,&#34;Crown of Greed&#34;,&#34;Crown of Avarice&#34;,&#34;Creeper Hat&#34;,&#34;Cow Hat&#34;,&#34;Clover Helmet&#34;,&#34;Chicken Hat&#34;,&#34;Bonzo's Mask&#34;,&#34;Blobfish Hat&#34;,&#34;Blaze Hat&#34;&#93;&#91;&#34;Diamond Necron Head&#34;,&#34;Golden Necron Head&#34;,&#34;Diamond Sadan Head&#34;,&#34;Golden Sadan Head&#34;,&#34;Diamond Livid Head&#34;,&#34;Golden Livid Head&#34;,&#34;Diamond Thorn Head&#34;,&#34;Golden Thorn Head&#34;,&#34;Diamond Professor Head&#34;,&#34;Golden Professor Head&#34;,&#34;Diamond Scarf Head&#34;,&#34;Golden Scarf Head&#34;,&#34;Diamond Bonzo Head&#34;,&#34;Golden Bonzo Head&#34;&#93;&#91;&#34;Ugly Boots&#34;,&#34;Snake-in-a-Boot&#34;,&#34;Gunther's Sneakers&#34;,&#34;Exceedingly Comfy Sneakers&#34;,&#34;Wizardman Leggings&#34;,&#34;Leggings of the Coven&#34;,&#34;Femurgrowth Leggings&#34;,&#34;Chicken Leggs&#34;,&#34;Burned Pants&#34;,&#34;W Logo&#34;,&#34;Orange Chestplate&#34;,&#34;Lively Sepulture Chestplate&#34;,&#34;etalptsehC norI&#34;,&#34;Warmer Wizard Face&#34;,&#34;Warm Wizard Face&#34;,&#34;Wizard Face&#34;,&#34;Retro-Encabulating Visor&#34;,&#34;Used Detransfigured Face&#34;,&#34;Not-Dead-Gehog Mask&#34;,&#34;Anti-Bite Scarf&#34;,&#34;Agaricus Cap Cap&#34;&#93;&#91;&#34;Admin-only&#34;,&#34;Titan's Armor&#34;,&#34;Kindred&#34;,&#34;Ghast Armor&#34;,&#34;The Fast&#34;,&#34;Emperor Head&#34;,&#34;Crypt Witherlord Armor&#34;,&#34;Boss&#34;,&#34;Armor of the Stars&#34;,&#34;Arenjey God&#34;,&#34;Anubis&#34;&#93; | v · d · eArmor
+| 
+| | Armor Sets
+| 
+| 
+&#91;&#34;Rabbit Armor&#34;,&#34;Park Armor&#34;,&#34;Mushroom Armor&#34;,&#34;Leaflet Armor&#34;,&#34;Haymaker Armor&#34;,&#34;Farmhand Armor&#34;,&#34;Cactus Armor&#34;,&#34;Angler Armor&#34;&#93;&#91;&#34;Tater Armor&#34;,&#34;Squire Armor&#34;,&#34;Sprout Armor&#34;,&#34;Speedster Armor&#34;,&#34;Snorkeling Armor&#34;,&#34;Rosetta's Armor&#34;,&#34;Prospecting Armor&#34;,&#34;Lapis Armor&#34;,&#34;Cropie Armor&#34;,&#34;Celeste Armor&#34;,&#34;Canopy Armor&#34;,&#34;Bronze Hunter Armor&#34;,&#34;Biohazard Armor&#34;,&#34;Backwater Armor&#34;&#93;&#91;&#34;Starlight Armor&#34;,&#34;Squash Armor&#34;,&#34;Silver Hunter Armor&#34;,&#34;Shimmering Light Armor&#34;,&#34;Seymour's Special Armor&#34;,&#34;Salmon Armor&#34;,&#34;Rotten Armor&#34;,&#34;Rampart Armor&#34;,&#34;Perfect Armor&#34;,&#34;Monster Raider Armor&#34;,&#34;Monster Hunter Armor&#34;,&#34;Miner Armor&#34;,&#34;Mercenary Armor&#34;,&#34;Lava Sea Creature Armor&#34;,&#34;Heavy Armor&#34;,&#34;Heat Armor&#34;,&#34;Hardened Diamond Armor&#34;,&#34;Armor of Growth&#34;,&#34;Golem Armor&#34;,&#34;Goblin Armor&#34;,&#34;Fig Armor&#34;,&#34;Fairy Armor&#34;,&#34;Bouncy Armor&#34;,&#34;Arachne's Armor&#34;&#93;&#91;&#34;Zombie Soldier Armor&#34;,&#34;Zombie Lord Armor&#34;,&#34;Zombie Knight Armor&#34;,&#34;Zombie Commander Armor&#34;,&#34;Zombie Armor&#34;,&#34;Yog Armor&#34;,&#34;Thunder Armor&#34;,&#34;Tarantula Armor&#34;,&#34;Super Heavy Armor&#34;,&#34;Spooky Armor&#34;,&#34;Sponge Armor&#34;,&#34;Snow Suit Armor&#34;,&#34;Skeletor Armor&#34;,&#34;Skeleton Soldier Armor&#34;,&#34;Skeleton Master Armor&#34;,&#34;Skeleton Lord Armor&#34;,&#34;Skeleton Grunt Armor&#34;,&#34;Shadow Assassin Armor&#34;,&#34;Revenant Armor&#34;,&#34;Rekindled Ember Armor&#34;,&#34;Perfect Armor&#34;,&#34;Armor of the Pack&#34;,&#34;Mineral Armor&#34;,&#34;Mastiff Armor&#34;,&#34;Helix Armor&#34;,&#34;Great Spook Armor&#34;,&#34;Gold Hunter Armor&#34;,&#34;Glacite Armor&#34;,&#34;Flamebreaker Armor&#34;,&#34;Fermento Armor&#34;,&#34;Ender Armor&#34;,&#34;Emerald Armor&#34;,&#34;Diver's Armor&#34;,&#34;Crystal Armor&#34;,&#34;Cheap Tuxedo&#34;,&#34;Challenger's Armor&#34;,&#34;Blaze Armor&#34;,&#34;Berserker Armor&#34;,&#34;Adaptive Armor&#34;&#93;&#91;&#34;Young Dragon Armor&#34;,&#34;Wither Armor&#34;,&#34;Wise Dragon Armor&#34;,&#34;Werewolf Armor&#34;,&#34;Unstable Dragon Armor&#34;,&#34;Thermodynamic Armor&#34;,&#34;Terror Armor&#34;,&#34;Superior Dragon Armor&#34;,&#34;Strong Dragon Armor&#34;,&#34;Storm's Armor&#34;,&#34;Sorrow Armor&#34;,&#34;Shark Scale Armor&#34;,&#34;Reaper Armor&#34;,&#34;Protector Dragon Armor&#34;,&#34;Primordial Armor&#34;,&#34;Perfect Armor&#34;,&#34;Old Dragon Armor&#34;,&#34;Nutcracker Armor&#34;,&#34;Necron's Armor&#34;,&#34;Necromancer Lord Armor&#34;,&#34;Mythos Armor&#34;,&#34;Maxor's Armor&#34;,&#34;Magma Lord Armor&#34;,&#34;Holy Dragon Armor&#34;,&#34;Hollow Armor&#34;,&#34;Helianthus Armor&#34;,&#34;Goldor's Armor&#34;,&#34;Glossy Mineral Armor&#34;,&#34;Frozen Blaze Armor&#34;,&#34;Final Destination Armor&#34;,&#34;Fervor Armor&#34;,&#34;Fancy Tuxedo&#34;,&#34;Elegant Tuxedo&#34;,&#34;Eleanor's Armor&#34;,&#34;Armor of Divan&#34;,&#34;Diamond Hunter Armor&#34;,&#34;Crimson Armor&#34;,&#34;Bat Person Armor&#34;,&#34;Aurora Armor&#34;&#93;&#91;&#34;Kuudra Follower Armor&#34;&#93; | COMMON | 
+
+- &#160;Angler Armor
+
+- &#160;Cactus Armor
+
+- &#160;Farmhand Armor
+
+- &#160;Haymaker Armor
+
+- &#160;Leaflet Armor
+
+- &#160;Mushroom Armor
+
+- &#160;Park Armor
+
+- &#160;Rabbit Armor
+
+| 
+| UNCOMMON | 
+
+- &#160;Backwater Armor
+
+- &#160;Biohazard Armor
+
+- &#160;Bronze Hunter Armor
+
+- &#160;Canopy Armor
+
+- &#160;Celeste Armor
+
+- &#160;Cropie Armor
+
+- &#160;Lapis Armor
+
+- &#160;Prospecting Armor
+
+- &#160;Rosetta's Armor
+
+- &#160;Snorkeling Armor
+
+- &#160;Speedster Armor
+
+- &#160;Sprout Armor
+
+- &#160;Squire Armor
+
+- &#160;Tater Armor
+
+| 
+| RARE | 
+
+- &#160;Arachne's Armor
+
+- &#160;Bouncy Armor
+
+- &#160;Fairy Armor
+
+- &#160;Fig Armor
+
+- &#160;Goblin Armor
+
+- &#160;Golem Armor
+
+- &#160;Armor of Growth
+
+- &#160;Hardened Diamond Armor
+
+- &#160;Heat Armor
+
+- &#160;Heavy Armor
+
+- &#160;Lava Sea Creature Armor
+
+- &#160;Mercenary Armor
+
+- &#160;Miner Armor
+
+- &#160;Monster Hunter Armor
+
+- &#160;Monster Raider Armor
+
+- &#160;Perfect Armor (I-III)
+
+- &#160;Rampart Armor
+
+- &#160;Rotten Armor
+
+- &#160;Salmon Armor
+
+- &#160;Seymour's Special Armor
+
+- &#160;Shimmering Light Armor
+
+- &#160;Silver Hunter Armor
+
+- &#160;Squash Armor
+
+- &#160;Starlight Armor
+
+| 
+| EPIC | 
+
+- &#160;Adaptive Armor
+
+- &#160;Berserker Armor
+
+- &#160;Blaze Armor
+
+- &#160;Challenger's Armor
+
+- &#160;Cheap Tuxedo
+
+- &#160;Crystal Armor
+
+- &#160;Diver's Armor
+
+- &#160;Emerald Armor
+
+- &#160;Ender Armor
+
+- &#160;Fermento Armor
+
+- &#160;Flamebreaker Armor
+
+- &#160;Glacite Armor
+
+- &#160;Gold Hunter Armor
+
+- &#160;Great Spook Armor
+
+- &#160;Helix Armor
+
+- &#160;Mastiff Armor
+
+- &#160;Mineral Armor
+
+- &#160;Armor of the Pack
+
+- &#160;Perfect Armor (IV-VII)
+
+- &#160;Rekindled Ember Armor
+
+- &#160;Revenant Armor
+
+- &#160;Shadow Assassin Armor
+
+- &#160;Skeleton Grunt Armor
+
+- &#160;Skeleton Lord Armor
+
+- &#160;Skeleton Master Armor
+
+- &#160;Skeleton Soldier Armor
+
+- &#160;Skeletor Armor
+
+- &#160;Snow Suit Armor
+
+- &#160;Sponge Armor
+
+- &#160;Spooky Armor
+
+- &#160;Super Heavy Armor
+
+- &#160;Tarantula Armor
+
+- &#160;Thunder Armor
+
+- &#160;Yog Armor
+
+- &#160;Zombie Armor
+
+- &#160;Zombie Commander Armor
+
+- &#160;Zombie Knight Armor
+
+- &#160;Zombie Lord Armor
+
+- &#160;Zombie Soldier Armor
+
+| 
+| LEGENDARY | 
+
+- &#160;Aurora Armor
+
+- &#160;Bat Person Armor
+
+- &#160;Crimson Armor
+
+- &#160;Diamond Hunter Armor
+
+- &#160;Armor of Divan
+
+- &#160;Eleanor's Armor
+
+- &#160;Elegant Tuxedo
+
+- &#160;Fancy Tuxedo
+
+- &#160;Fervor Armor
+
+- &#160;Final Destination Armor
+
+- &#160;Frozen Blaze Armor
+
+- &#160;Glossy Mineral Armor
+
+- &#160;Goldor's Armor
+
+- &#160;Helianthus Armor
+
+- &#160;Hollow Armor
+
+- &#160;Holy Dragon Armor
+
+- &#160;Magma Lord Armor
+
+- &#160;Maxor's Armor
+
+- &#160;Mythos Armor
+
+- &#160;Necromancer Lord Armor
+
+- &#160;Necron's Armor
+
+- &#160;Nutcracker Armor
+
+- &#160;Old Dragon Armor
+
+- &#160;Perfect Armor (VIII-XII)
+
+- &#160;Primordial Armor
+
+- &#160;Protector Dragon Armor
+
+- &#160;Reaper Armor
+
+- &#160;Shark Scale Armor
+
+- &#160;Sorrow Armor
+
+- &#160;Storm's Armor
+
+- &#160;Strong Dragon Armor
+
+- &#160;Superior Dragon Armor
+
+- &#160;Terror Armor
+
+- &#160;Thermodynamic Armor
+
+- &#160;Unstable Dragon Armor
+
+- &#160;Werewolf Armor
+
+- &#160;Wise Dragon Armor
+
+- &#160;Wither Armor
+
+- &#160;Young Dragon Armor
+
+| 
+| SPECIAL | 
+
+- &#160;Kuudra Follower Armor
+
+| 
+| 
+| | Armor Pieces
+| 
+| 
+&#91;&#34;Zombie's Heart&#34;,&#34;Wither Goggles&#34;,&#34;Water Hydra Head&#34;,&#34;Warden Helmet&#34;,&#34;Vampire Witch Mask&#34;,&#34;Vampire Mask&#34;,&#34;Tiki Mask&#34;,&#34;Taurus Helmet&#34;,&#34;Sunflower Head&#34;,&#34;Squid Hat&#34;,&#34;Spirit Mask&#34;,&#34;Spider Hat&#34;,&#34;Space Helmet&#34;,&#34;Snowman Mask&#34;,&#34;Sniper Helmet&#34;,&#34;Slime Hat&#34;,&#34;Skeleton's Helmet&#34;,&#34;Skeleton Hat&#34;,&#34;Shadow Goggles&#34;,&#34;Sea Lantern Hat&#34;,&#34;Salmon Hat&#34;,&#34;Revived Heart&#34;,&#34;Reaper Mask&#34;,&#34;Racing Helmet&#34;,&#34;Rabbit Hat&#34;,&#34;Pufferfish Hat&#34;,&#34;Party Top Hat&#34;,&#34;Mender Helmet&#34;,&#34;Mender Fedora&#34;,&#34;Mender Crown&#34;,&#34;Magma Cube Head&#34;,&#34;Magmafish Hat&#34;,&#34;Lantern Helmet&#34;,&#34;Krampus Helmet&#34;,&#34;Kalhuiki Mask&#34;,&#34;Ghast Head&#34;,&#34;Flex Helmet&#34;,&#34;Fish Hat&#34;,&#34;Enderman Mask&#34;,&#34;Dark Goggles&#34;,&#34;Crown of Greed&#34;,&#34;Crown of Avarice&#34;,&#34;Creeper Hat&#34;,&#34;Cow Hat&#34;,&#34;Clover Helmet&#34;,&#34;Chicken Hat&#34;,&#34;Bonzo's Mask&#34;,&#34;Blobfish Hat&#34;,&#34;Blaze Hat&#34;&#93;&#91;&#34;7th Anniversary Cake Hat&#34;,&#34;6th Anniversary Balloon Hat&#34;,&#34;5th Anniversary Balloon Hat&#34;,&#34;4th Anniversary Sloth Hat&#34;,&#34;Crab Hat of Celebration - 2022 Edition&#34;,&#34;Crab Hat of Celebration&#34;&#93;&#91;&#34;Stone Chestplate&#34;,&#34;Steel Chestplate&#34;,&#34;Obsidian Chestplate&#34;,&#34;Mithril Coat&#34;,&#34;Metal Chestplate&#34;,&#34;Guardian Chestplate&#34;,&#34;Flaming Chestplate&#34;,&#34;Dead Man's Chestplate&#34;&#93;&#91;&#34;Stereo Pants&#34;,&#34;Moogma Leggings&#34;,&#34;Creeper Pants&#34;&#93;&#91;&#34;Squid Boots&#34;,&#34;Spring Boots&#34;,&#34;Spirit Boots&#34;,&#34;Spider's Boots&#34;,&#34;Slug Boots&#34;,&#34;Rancher's Boots&#34;,&#34;Farmer Boots&#34;&#93; | Helmets | 
+
+- &#160;Blaze Hat
+
+- &#160;Blobfish Hat
+
+- &#160;Bonzo's Mask
+
+- &#160;Chicken Hat
+
+- &#160;Clover Helmet
+
+- &#160;Cow Hat
+
+- &#160;Creeper Hat
+
+- &#160;Crown of Avarice
+
+- &#160;Crown of Greed
+
+- &#160;Dark Goggles
+
+- &#160;Enderman Mask
+
+- &#160;Fish Hat
+
+- &#160;Flex Helmet
+
+- &#160;Ghast Head
+
+- &#160;Kalhuiki Mask
+
+- &#160;Krampus Helmet
+
+- &#160;Lantern Helmet
+
+- &#160;Magmafish Hat
+
+- &#160;Magma Cube Head
+
+- &#160;Mender Crown
+
+- &#160;Mender Fedora
+
+- &#160;Mender Helmet
+
+- &#160;Party Top Hat
+
+- &#160;Pufferfish Hat
+
+- &#160;Rabbit Hat
+
+- &#160;Racing Helmet
+
+- &#160;Reaper Mask
+
+- &#160;Revived Heart
+
+- &#160;Salmon Hat
+
+- &#160;Sea Lantern Hat
+
+- &#160;Shadow Goggles
+
+- &#160;Skeleton Hat
+
+- &#160;Skeleton's Helmet
+
+- &#160;Slime Hat
+
+- &#160;Sniper Helmet
+
+- &#160;Snowman Mask
+
+- &#160;Space Helmet
+
+- &#160;Spider Hat
+
+- &#160;Spirit Mask
+
+- &#160;Squid Hat
+
+- &#160;Sunflower Head
+
+- &#160;Taurus Helmet
+
+- &#160;Tiki Mask
+
+- &#160;Vampire Mask
+
+- &#160;Vampire Witch Mask
+
+- &#160;Warden Helmet
+
+- &#160;Water Hydra Head
+
+- &#160;Wither Goggles
+
+- &#160;Zombie's Heart
+
+| 
+| Anniversary Hats | 
+
+- &#160;Crab Hat of Celebration
+
+- &#160;Crab Hat of Celebration - 2022 Edition
+
+- &#160;4th Anniversary Sloth Hat
+
+- &#160;5th Anniversary Balloon Hat
+
+- &#160;6th Anniversary Balloon Hat
+
+- &#160;7th Anniversary Cake Hat
+
+| 
+| Chestplates | 
+
+- &#160;Dead Man's Chestplate
+
+- &#160;Flaming Chestplate
+
+- &#160;Guardian Chestplate
+
+- &#160;Metal Chestplate
+
+- &#160;Mithril Coat
+
+- &#160;Obsidian Chestplate
+
+- &#160;Steel Chestplate
+
+- &#160;Stone Chestplate
+
+| 
+| Leggings | 
+
+- &#160;Creeper Pants
+
+- &#160;Moogma Leggings
+
+- &#160;Stereo Pants
+
+| 
+| Boots | 
+
+- &#160;Farmer Boots
+
+- &#160;Rancher's Boots
+
+- &#160;Slug Boots
+
+- &#160;Spider's Boots
+
+- &#160;Spirit Boots
+
+- &#160;Spring Boots
+
+- &#160;Squid Boots
+
+| 
+| | Other
+| 
+| Golden and Diamond Heads | 
+
+- &#160;Golden Bonzo Head
+
+- &#160;Diamond Bonzo Head
+
+- &#160;Golden Scarf Head
+
+- &#160;Diamond Scarf Head
+
+- &#160;Golden Professor Head
+
+- &#160;Diamond Professor Head
+
+- &#160;Golden Thorn Head
+
+- &#160;Diamond Thorn Head
+
+- &#160;Golden Livid Head
+
+- &#160;Diamond Livid Head
+
+- &#160;Golden Sadan Head
+
+- &#160;Diamond Sadan Head
+
+- &#160;Golden Necron Head
+
+- &#160;Diamond Necron Head
+
+| 
+| Rift Exclusive | 
+
+- &#160;Agaricus Cap Cap
+
+- &#160;Anti-Bite Scarf
+
+- &#160;Not-Dead-Gehog Mask
+
+- &#160;Used Detransfigured Face
+
+- &#160;Retro-Encabulating Visor
+
+- &#160;Wizard Face
+
+- &#160;Warm Wizard Face
+
+- &#160;Warmer Wizard Face
+
+- &#160;etalptsehC norI
+
+- &#160;Lively Sepulture Chestplate
+
+- &#160;Orange Chestplate
+
+- &#160;W Logo
+
+- &#160;Burned Pants
+
+- &#160;Chicken Leggs
+
+- &#160;Femurgrowth Leggings
+
+- &#160;Leggings of the Coven
+
+- &#160;Wizardman Leggings
+
+- &#160;Exceedingly Comfy Sneakers
+
+- &#160;Gunther's Sneakers
+
+- &#160;Snake-in-a-Boot
+
+- &#160;Ugly Boots
+
+| 
+| Unreleased | 
+
+- &#160;Anubis
+
+- &#160;Arenjey God
+
+- &#160;Armor of the Stars
+
+- &#160;Boss
+
+- &#160;Crypt Witherlord Armor
+
+- &#160;Emperor Head
+
+- &#160;The Fast
+
+- &#160;Ghast Armor
+
+- &#160;Kindred
+
+- &#160;Titan's Armor
+
+- Admin-only
+
+100 ms 5.0%
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::parseFormattedNumber 100 ms 5.0%
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::getExpandedArgument 80 ms 4.0%
+_replace 80 ms 4.0%
+init 60 ms 3.0%
+type 60 ms 3.0%
+new 60 ms 3.0%
+[others] 440 ms 21.8%
+-->
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Tutorial:Armor_Guide?oldid=879269"
+
+Categories: 
+- Community Guides
+- Tutorials
+
+Hidden categories: 
+- Pages using Sea Creature Chance
+- Pages using Damage
+- Pages using Crit Chance
+- Pages using Crit Damage
+- Pages using Strength
+- Pages using Defense
+- Pages using Health
+- Pages using Swing Range
+- Pages using Ferocity
+- Pages using Intelligence
+- Pages using Ability Damage
+- Pages using Magic Find
+- Pages using True Defense
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Tutorial
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+2h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+
+- This page was last edited on 21 November 2026, at 04:24.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

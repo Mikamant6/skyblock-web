@@ -1,0 +1,909 @@
+Tutorial:Berserk Guide - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Tutorial:Berserk Guide
+
+From Hypixel SkyBlock Wiki
+
+Jump to navigation
+Jump to search
+
+- This tutorial is a guide.
+
+- This tutorial has been assembled by members of the community as a helpful resource or Tutorial, instructing players on SkyBlock, and thus is not official.
+
+- If you see missing, incorrect or out of date information, please help by contributing to the page.
+
+Berserk is a class in Dungeons mostly centered around melee &#xe050;&#160;Damage. Berserkers rely heavily on &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage for damage. Whether you are playing Dungeons or Slayers, this tutorial can teach you how to become an efficient Berserker.
+
+Most of this tips also apply to Left-Click Mage, a sub-class of Mage specializing on using the mage beam as a primary form of dealing damage.
+
+Before you read this guide, it is important to note Magical Power. Arguably the most important and often overlooked stat in the game, you should have around 300 between Floors 1-3, 550 by Floors 5 and 6, 700 by Floor 7, 950 by Master Mode F3, 1200 by Master Mode F5, and at least 1500 by Master Mode F7. You increase your Magical Power by having Accessories in your Accessory Bag, and harness it by using Accessory Powers.
+
+If you plan on using a [Terminator] &#160;Terminator in Floor VII, you should have at least 1000 Magical Power.
+
+## Contents
+
+- 1 Recommended Weapons
+
+- 2 Recommended Armor
+
+- 3 Recommended Equipment
+
+- 4 Recommended Pets
+
+- 5 Support Weapons
+
+- 6 Recommended Reforges
+
+- 6.1 Armor
+
+- 6.2 Weapons
+
+- 6.3 Equipment
+
+- 7 Other Modifiers
+
+- 8 Tips
+
+### Recommended Weapons
+[edit | edit source]
+
+These weapons are required or heavily recommended when playing as a Berserk. These often have requirements such as a high &#160;Catacombs or &#160;Combat level.
+
+| Status
+| Slot
+| Name
+| Requirements
+| Notes
+
+| Early Game
+
+| [Super Cleaver] 
+
+| [Super Cleaver] &#160;Super Cleaver
+
+| None
+
+| The [Super Cleaver] &#160;Super Cleaver is a great weapon for the early game, as it is both incredibly cheap and lacks any requirements. While an [Aspect of the Dragons] &#160;Aspect of the Dragons will have more &#xe050;&#160;Damage and &#xe00d;&#160;Strength, a [Super Cleaver] &#160;Super Cleaver is much more efficient for clearing mobs quickly and can be upgraded into the [Hyper Cleaver] &#160;Hyper Cleaver for an extremely low price.
+
+| Early Game
+
+| [Aspect of the Dragons] 
+
+| [Aspect of the Dragons] &#160;Aspect of the Dragons
+
+| &#160;Combat&#160;XVIII (18)
+&#160;Catacombs&#160;XII (12) (when dungeonised)
+
+| The [Aspect of the Dragons] &#160;Aspect of the Dragons is likely the first weapon one will use in Dungeons and can be useful up to Floor V, though it is outclassed by almost every weapon including the [Super Cleaver] &#160;Super Cleaver for a much cheaper price. It has high base &#xe00d;&#160;Strength and &#xe050;&#160;Damage, and its Dragon Rage ability deals substantial damage and knockback to enemies. However, you should aim to obtain a better weapon as soon as possible.
+While paired with the [Dragonfuse Glove] &#160;Dragonfuse Glove, Dragon Rage receives +50&#160;&#xe00d;&#160;Strength and +35&#160;&#xe050;&#160;Damage, and also has very reduced ability knockback. However, it is very expensive for the early game, at around 10,000,000 Coins, it is more worthwhile to upgrade one's Magical Power instead.
+
+| Early Game
+
+| [Hyper Cleaver] 
+
+| [Hyper Cleaver] &#160;Hyper Cleaver
+
+| Floor III completion
+
+| The [Hyper Cleaver] &#160;Hyper Cleaver is very useful for crowd control, with its Cleave ability being capable of clearing lots of enemies in a 4 block radius around it. It is also relatively cheap, only costing 800,000 Coins in addition to its predecessor.
+
+| Early-Mid Game
+Recommended
+
+| [Giant Cleaver] 
+
+| [Giant Cleaver] &#160;Giant Cleaver
+
+| Floor VI completion
+
+| The [Giant Cleaver] &#160;Giant Cleaver is a very good weapon, outclassing the [Shadow Fury] &#160;Shadow Fury and [Aspect of the Dragons] &#160;Aspect of the Dragons. Similar to its predecessor, it is very good for crowd control. It outdamages a lot of previously mentioned weapons, but you'll want to get something more powerful as soon, like the [Juju Shortbow] &#160;Juju Shortbow or FoT/BoL, as possible.
+
+| Early-Mid Game
+Recommended
+
+| [Flower of Truth] 
+
+| [Flower of Truth] &#160;Flower of Truth
+
+| Floor VI completion
+
+| The [Flower of Truth] &#160;Flower of Truth is very cheap to craft, only requiring [Ancient Rose] &#160;9x&#160;Ancient Rose. It has decent damage and very high &#xe00d;&#160;Strength, and is good for clearing mobs. It upgrades into the [Bouquet of Lies] &#160;Bouquet of Lies, which is more expensive, however, this upgrade is very much worthwhile.
+
+| Mid-Game
+
+| [Juju Shortbow] 
+
+| [Juju Shortbow] &#160;Juju Shortbow
+
+| Enderman Slayer&#160;V (5)
+&#160;Catacombs&#160;XV (15) (when dungeonised)
+
+| The [Juju Shortbow] &#160;Juju Shortbow is exceptionally strong for how early it is available. At a Catacombs 15 requirement, this bow boasts great clearing prowess and phenomenal boss damage. It also is very cheap, and Enderman Slayer V is a negligable requisite as slayer carries are a cheap process. It fails in clearing prowess compared to Bouquet of Lies, but is still very usable as a placeholder until you can afford a better option.
+
+| Mid-Game
+
+| [Bouquet of Lies] 
+
+| [Bouquet of Lies] &#160;Bouquet of Lies
+
+| Floor VI completion
+
+| The [Bouquet of Lies] &#160;Bouquet of Lies is exceptional for clearing out mobs, dealing more &#xe050;&#160;Damage the less &#xe010;&#160;Health you have. It has less &#xe050;&#160;Damage than most other weapons here, but retains the high &#xe00d;&#160;Strength that its predecessor has.
+Additionally, holding down right click while spamming left click allows you to constantly activate the ability whilst hitting the target, providing a large boost to damage per second.
+Because of its cheap price and strong ability, this weapon is a staple for Berserkers in The Catacombs - Floor VII or below. The [Bouquet of Lies] &#160;Bouquet of Lies is a solid weapon for Dungeons before transitioning to more late-game weapons like the [Terminator] &#160;Terminator.
+
+| Mid-Game
+
+| [Giant's Sword] 
+
+| [Giant's Sword] &#160;Giant's Sword
+
+| Floor VI completion
+
+| The [Giant's Sword] &#160;Giant's Sword is one of the best weapons for single-hit damage in the game: it also has +1&#160;&#xe024;&#160;Swing Range, allowing you to hit enemies from further. Its Giant's Slam ability can kill several enemies within an 8-block radius, and is useful for weapon swapping with the [Halberd of the Shredded] &#160;Halberd of the Shredded. However, unlike the [Giant Cleaver] &#160;Giant Cleaver and [Bouquet of Lies] &#160;Bouquet of Lies, it is less effective for clearing; it serves as a purely melee weapon, and is not worth buying on the Auction House.
+
+| Late Game
+
+| [Dark Claymore] 
+
+| [Dark Claymore] &#160;Dark Claymore
+
+| Master Mode Floor 7 completion
+
+| The [Dark Claymore] &#160;Dark Claymore has the same &#xe00d;&#160;Strength as the [Giant's Sword] &#160;Giant's Sword, as well as higher &#xe007;&#160;Crit Damage and &#xe024;&#160;Swing Range. While good for clearing, it is extremely rare and expensive and has incredibly high requirements. However, in Master Mode, melee Berserk is far less viable, using a [Terminator] &#160;Terminator instead is a better alternative.
+
+| Late Game
+
+| [Terminator] 
+
+| [Terminator] &#160;Terminator
+
+| Enderman Slayer&#160;VII (7)
+&#160;Catacombs&#160;XXVII (27) (when dungeonised)
+
+| The [Terminator] &#160;Terminator is commonly regarded as the best bow in the game. While it divides your &#xe02c;&#160;Crit Chance by 4, it is exceptional for clearing mobs and has incredibly high &#xe050;&#160;Damage and &#xe007;&#160;Crit Damage. It is advised to aim for 400%&#160;&#xe02c;&#160;Crit Chance to guarantee that every strike critically hits.
+
+### Recommended Armor
+[edit | edit source]
+
+These armor pieces/sets either provide lots of &#xe00d;&#160;Strength or have special abilities that can help you out as a Berserk.
+
+| Status
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| Early Game
+
+| [Unstable Dragon Helmet] [Unstable Dragon Chestplate] [Unstable Dragon Leggings] [Unstable Dragon Boots] 
+
+| [Unstable Dragon Helmet] &#160;Unstable Dragon Armor
+
+| &#160;Combat&#160;XVI (16)
+&#160;Catacombs&#160;X (10) (when dungeonised)
+
+| [Unstable Dragon Helmet] &#160;Unstable Dragon Armor is a decent starting set for Dungeons, and good for &#xe02c;&#160;Crit Chance and &#xe007;&#160;Crit Damage, as well as having a low price for the early game. It has the same &#xe010;&#160;Health and &#xe008;&#160;Defense as [Strong Dragon Helmet] &#160;Strong Dragon Armor, though the latter grants much more &#xe00d;&#160;Strength.
+
+| Early Game
+
+| [Strong Dragon Helmet] [Strong Dragon Chestplate] [Strong Dragon Leggings] [Strong Dragon Boots] 
+
+| [Strong Dragon Helmet] &#160;Strong Dragon Armor
+
+| &#160;Combat&#160;XVI (16)
+&#160;Catacombs&#160;XII (12) (when dungeonised)
+
+| [Strong Dragon Helmet] &#160;Strong Dragon Armor is also a decent starting set for Dungeons, and grants much more &#xe00d;&#160;Strength. It has the same &#xe010;&#160;Health and &#xe008;&#160;Defense as [Unstable Dragon Helmet] &#160;Unstable Dragon Armor, though the latter grants more &#xe02c;&#160;Crit Chance and &#xe007;&#160;Crit Damage, and is substantially cheaper.
+
+| Early Game
+
+| [Superior Dragon Helmet] [Superior Dragon Chestplate] [Superior Dragon Leggings] [Superior Dragon Boots] 
+
+| [Superior Dragon Helmet] &#160;Superior Dragon Armor
+
+| &#160;Combat&#160;XX (20)
+&#160;Catacombs&#160;XIV (14) (when dungeonised)
+
+| [Superior Dragon Helmet] &#160;Superior Dragon Armor is usually not worth it for its price, but is very useful as it grants a lot of &#xe00d;&#160;Strength, &#xe010;&#160;Health, &#xe008;&#160;Defense, &#xe003;&#160;Intelligence, &#xe02c;&#160;Crit Chance, &#xe007;&#160;Crit Damage, and &#xe022;&#160;Speed. Its full bonus, Superior Blood, also increases all Combat stats and &#xe01a;&#160;Magic Find; however, it is outclassed by almost every armor set obtained after this, especially [Shadow Assassin Helmet] &#160;Shadow Assassin Armor.
+If you have high enough stats for its Superior Blood perk to be useful, this could potentially be more useful.
+
+| Mid-Game
+
+| [Shadow Assassin Helmet] [Shadow Assassin Chestplate] [Shadow Assassin Leggings] [Shadow Assassin Boots] 
+
+| [Shadow Assassin Helmet] &#160;Shadow Assassin Armor
+
+| Floor V completion
+
+| [Shadow Assassin Helmet] &#160;Shadow Assassin Armor is the armor set that all Berserks should go for as soon as possible. It is great for &#xe050;&#160;Damage, &#xe00d;&#160;Strength, &#xe007;&#160;Crit Damage, and &#xe010;&#160;Health: however, players using this should invest in modifiers and pets granting &#xe010;&#160;Effective Health. Make sure to upgrade it with [Livid Fragment] &#160;Livid Fragments and fully star it, and if you can't afford the chestplate, a [Zombie Knight Chestplate] &#160;Zombie Knight Chestplate or other chestplates with similar stats can make a good substitute.
+
+| Mid-Game
+
+| [Frozen Blaze Helmet] [Frozen Blaze Chestplate] [Frozen Blaze Leggings] [Frozen Blaze Boots] 
+
+| [Frozen Blaze Helmet] &#160;Frozen Blaze Armor
+
+| Blaze Rod&#160;VII (7)
+Ice&#160;IX (9)
+
+| [Frozen Blaze Helmet] &#160;Frozen Blaze Armor has been compared to [Necron's Helmet] &#160;Necron's Armor for the longest time, and this is because there are a lot of conditions that determine which is better than the other. [Frozen Blaze Helmet] &#160;Frozen Blaze Armor's Frozen Blazing Aura ability deals decent AoE damage, and is exceptional at higher Catacombs levels when paired with an EPIC or LEGENDARY [Blaze Pet] &#160;Blaze Pet.
+However, [Necron's Helmet] &#160;Necron's Armor still has the upper hand in damage when using a strong pet. Additionally, &#xe022;&#160;Speed is an extremely important stat for Berserk, which [Frozen Blaze Helmet] &#160;Frozen Blaze Armor lacks in comparison to [Necron's Helmet] &#160;Necron's Armor with [Maxor's Boots] &#160;Maxor's Boots: if you choose to use [Frozen Blaze Helmet] &#160;Frozen Blaze Armor, you are locked to only being able to use the [Blaze Pet] &#160;Blaze Pet as well, meaning you may miss out on the perks of superior pets like the [Ender Dragon Pet] &#160;Ender or [Golden Dragon Pet] &#160;Golden Dragon Pet.
+
+| Mid-Game
+
+| [Primordial Helmet] 
+
+| [Primordial Helmet] &#160;Primordial Helmet
+
+| Spider Slayer&#160;VII (7)
+
+| The [Primordial Helmet] &#160;Primordial Helmet is a useful alternative to a [Necron's Helmet] &#160;Necron's Helmet. It grants increased &#xe007;&#160;Crit Damage per 10&#160;&#xe00d;&#160;Strength and grants decent base stats for survivability: however, it is more expensive and you should aim to swap it out for something more useful.
+
+| Mid-Game
+
+| [Golden Necron Head] 
+
+| [Golden Necron Head] &#160;Golden Necron Head
+
+| Necron&#160;II (2)
+
+| The [Golden Necron Head] &#160;Golden Necron Head is exceedingly strong for how early it is accessed. Any golden head is usable above most other options, and should be considered if you have the usage requirement. However, the 100 collection usage requirement on the given floor means that it's not as accessible as one may hope. This can be upgraded into the [Diamond Necron Head] &#160;Diamond Necron Head, so the golden head is worth investing into.
+
+| Late Game
+
+| [Necron's Helmet] [Necron's Chestplate] [Necron's Leggings] [Necron's Boots] 
+
+| [Necron's Helmet] &#160;Necron's Armor
+
+| Floor VII completion
+
+| [Necron's Helmet] &#160;Necron's Armor is one of the best sets for Berserks, granting incredibly high &#xe050;&#160;Damage stats as well as a damage reduction from withers. Most people only use 3/4 or 2/4 pieces of [Necron's Helmet] &#160;Necron's Armor, and swap out the helmet for other items like a [Primordial Helmet] &#160;Primordial Helmet, [Diamond Necron Head] &#160;Diamond Necron Head, or [Warden Helmet] &#160;Warden Helmet. The boots are also commonly swapped for [Maxor's Boots] &#160;Maxor's Boots to gain extra &#xe022;&#160;Speed, which is useful for clearing.
+Additionally, at high levels with [Terminator] &#160;Terminator , the chestplate is also commonly swapped with [Skeleton Master Chestplate] &#160;Skeleton Master Chestplate because of the arrow-saving perk.
+
+| Late Game
+
+| [Diamond Necron Head] 
+
+| [Diamond Necron Head] &#160;Diamond Necron Head
+
+| Necron&#160;VI (6)
+
+| The [Diamond Necron Head] &#160;Diamond Necron Head is the best Dungeon helmet. It grants high base stats, doubling on its respective floor: this affects Reforges, Enchantments, and all other modifiers. This makes it incredible for pretty much everything, and is the best-in-slot option for your Helmet. Obviously, swap this out for the respective floor's diamond head for the other floors.
+
+### Recommended Equipment
+[edit | edit source]
+
+Good Equipment is equally important as good Armor. A lot of great Equipment can be found in and out of Dungeons.
+
+| Status
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| Early Game
+
+| [Bone Necklace] 
+
+| [Bone Necklace] &#160;Bone Necklace
+
+| Floor IV completion
+
+| While the [Bone Necklace] &#160;Bone Necklace is more geared towards Tanks, it still provides a decent &#xe008;&#160;Defense boost between its base stats and Gladiator's Will passive, making it good for &#xe010;&#160;Effective Health.
+
+| Early Game
+
+| [Adaptive Belt] 
+
+| [Adaptive Belt] &#160;Adaptive Belt
+
+| Floor II completion
+
+| When properly reforged and upgraded, the [Adaptive Belt] &#160;Adaptive Belt can be very useful. There is quite a lack of useful Belts in the game, so the [Adaptive Belt] &#160;Adaptive Belt is most commonly used for the sake of having a full set of Equipment active.
+
+| Mid-Game
+
+| [Shadow Assassin Cloak] 
+
+| [Shadow Assassin Cloak] &#160;Shadow Assassin Cloak
+
+| Floor V completion
+
+| The [Shadow Assassin Cloak] &#160;Shadow Assassin Cloak may seem unassuming at first, but once upgraded and properly reforged, it can be very useful. Its perk, allowing you to deal +10% more damage within 5s of your last teleport, can be very useful as you will always have an [Aspect of the End] &#160;Aspect of the End or [Aspect of the Void] &#160;Void in your inventory: do note that teleportation is disabled in the bossfight of Floor VII.
+
+| Mid-Game
+
+| [Soulweaver Gloves] 
+
+| [Soulweaver Gloves] &#160;Soulweaver Gloves
+
+| Floor VI completion
+
+| The [Soulweaver Gloves] &#160;Soulweaver Gloves are one of the best Gloves while inside the Catacombs: granting both decent &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage, it also has the ability to summon a Haunted Skull upon melee kill or ever 15s, which stuns enemies for 2s and reducing their damage by 15%.
+
+### Recommended Pets
+[edit | edit source]
+
+Having a good Berserk pet can greatly improve your Berserk abilities. These are some recommended ones.
+
+| Status
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| Required
+
+| [Lion Pet] 
+
+| [Lion Pet] &#160;Lion Pet
+
+| 
+
+| The [Lion Pet] &#160;Lion Pet is great for increasing your total &#xe050;&#160;Damage and &#xe00d;&#160;Strength, especially on enemies that have attacked you. It also buffs First Strike, Triple-Strike, and Combo, making it very useful since your weapons should always have either First Strike or Triple-Strike.
+
+| Required
+
+| [Wither Skeleton Pet] 
+
+| [Wither Skeleton Pet] &#160;Wither Skeleton Pet
+
+| Coal&#160;III (3)
+
+| Being both unlocked very early and giving excellent base stats, the EPIC and LEGENDARY [Wither Skeleton Pet] &#160;Wither Skeleton Pet is very useful for dealing extra damage to &#xe085;&#160;Wither type mobs: this includes the Wither Lords. It's a great budget pet and very useful, even in higher floors.
+
+| Optional
+
+| [Giraffe Pet] 
+
+| [Giraffe Pet] &#160;Giraffe Pet
+
+| 
+
+| The [Giraffe Pet] &#160;Giraffe Pet is incredibly situational, and is only useful when paired with a Longswords like [Giant's Sword] &#160;Giant's Sword, [Felthorn Reaper] &#160;Felthorn Reaper, or [Dark Claymore] &#160;Dark Claymore. However, the &#xe024;&#160;Swing Range it provides can be invaluable at times.
+
+| Recommended
+
+| [Ender Dragon Pet] 
+
+| [Ender Dragon Pet] &#160;Ender Dragon Pet
+
+| 
+
+| The [Ender Dragon Pet] &#160;Ender Dragon Pet is a great pet for &#xe00d;&#160;Strength and &#xe010;&#160;Effective Health. Similar to the [Baby Yeti Pet] &#160;Baby Yeti Pet, it has two relatively useless perks, but its Superior perk is very useful as it grants a 10% increase to all Combat Stats and &#xe01a;&#160;Magic Find: this means 10% more &#xe010;&#160;Health, &#xe008;&#160;Defense, &#xe007;&#160;Crit Damage, &#xe001;&#160;Attack Speed, and more. It's an all-around amazing pet, and you should go for it if you can afford it.
+
+| Required
+
+| [Golden Dragon Pet] 
+
+| [Golden Dragon Pet] &#160;Golden Dragon Pet
+
+| 
+
+| The [Golden Dragon Pet] &#160;Golden Dragon Pet is the best pet in the game for &#xe050;&#160;Damage, although it is slightly worse for &#xe010;&#160;Effective Health. While granting +250%&#160;&#xe050;&#160;Damage and +104.9&#160;&#xe00d;&#160;Strength, making it exceptional for high damage, you will need at least 1,000,000,000 Coins before even thinking about using this pet, and even more if you plan to use its Legendary Treasure perk to its full capacity.
+
+### Support Weapons
+[edit | edit source]
+
+The weapons below are all support weapons and optional. Most of them are for any stage of the game, as they all have different uses.
+
+| Status
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| Universal
+
+| [Aspect of the End] [Aspect of the Void] 
+
+| [Aspect of the End] &#160;Aspect of the End
+[Aspect of the Void] &#160;Aspect of the Void
+
+| Ender Pearl&#160;VIII (8)
+
+| The [Aspect of the End] &#160;Aspect of the End, both inside out out of Dungeons, will be in your hotbar at all times. Its Instant Transmission ability, allowing you to teleport forward 8 blocks (up to 12 with [Transmission Tuner] &#160;Transmission Tuners), is incredibly convenient and can be used anywhere in Dungeons outside of the Floor VII and Master Mode Floor VII boss arenas.
+
+At Enderman Slayer&#160;VI (6), you unlock the recipe for the [Aspect of the Void] &#160;Aspect of the Void: however, you do not need to meet the requirements to use this item. Both can have the Etherwarp Transmission ability added to it through an [Etherwarp Conduit] &#160;Etherwarp Conduit and [Etherwarp Merger] &#160;Etherwarp Merger.
+
+| Universal
+
+| [Rogue Sword] 
+
+| [Rogue Sword] &#160;Rogue Sword
+
+| 
+
+| The [Rogue Sword] &#160;Rogue Sword is likely the first weapon you will obtain outside of a [Wooden Sword] &#160;Wooden Sword or [Stone Sword] &#160;Stone Sword, and its Speed Boost ability grants a lot of &#xe022;&#160;Speed. It has very, very little &#xe050;&#160;Damage, and should only be used for its utility purposes.
+
+| Universal
+
+| [Wand of Restoration] [Wand of Atonement] 
+
+| [Wand of Restoration] &#160;Wand of Restoration
+[Wand of Atonement] &#160;Wand of Atonement
+
+| Zombie Slayer&#160;VI (6)
+Zombie Slayer&#160;VII (7)
+
+| Both the [Wand of Restoration] &#160;Wand of Restoration and [Wand of Atonement] &#160;Atonement are crucial for healing: similar to the [Aspect of the End] &#160;Aspect of the End, these will likely be in your hotbar at all times. However, both are outclassed by the [Florid Zombie Sword] &#160;Florid Zombie Sword.
+
+| Required
+(for early game)
+
+| [Florid Zombie Sword] 
+
+| [Florid Zombie Sword] &#160;Florid Zombie Sword
+
+| Rotten Flesh&#160;VII (7)
+
+| The [Florid Zombie Sword] &#160;Florid Zombie Sword is good for Berserks with low &#xe010;&#160;Health and survivability, as its healing capabilities are very useful. As is the case with almost every healing item, it is much more recommended to get one's stats and Magical Power up instead of using lots of support items to make up for lost health.
+
+| Optional
+
+| [Gloomlock Grimoire] 
+
+| [Gloomlock Grimoire] &#160;Gloomlock Grimoire
+
+| Enderman Slayer&#160;V (5)
+
+| The [Gloomlock Grimoire] &#160;Gloomlock Grimoire is a unique healing item, with its Life Tap ability converting ⸎&#160;Soulflow into &#xe017;&#160;Overflow Mana at the cost of &#xe010;&#160;Health, and its Extreme Measures ability healing the player at the cost of &#xe050;&#160;Damage. Useful as a last resort, but as previously stated, it's better to increase your stats and Magical Power instead of having to use this.
+
+### Recommended Reforges
+[edit | edit source]
+
+#### Armor
+[edit | edit source]
+
+| Status
+
+| Slot
+
+| Name
+
+| Notes
+
+| Early Game
+
+| 
+
+| Fierce
+
+| Fierce is a great early-game armor reforge for Berserks purely for its &#xe00d;&#160;Strength and &#xe02c;&#160;Crit Chance, as well as having the highest &#xe007;&#160;Crit Damage of any basic reforge.
+
+| Early-Mid Game
+
+| [Dragon Horn] 
+
+| [Dragon Horn] &#160;Dragon Horn
+
+Renowned
+
+| Essentially a slightly worse Ancient, Renowned grants very decent stats all around, as well as increasing all of your Combat stats by +1%. This is generally not worth it as [Dragon Horn] &#160;Dragon Horns can reach prices of 40x more expensive than [Precursor Gear] &#160;Precursor Gears.
+
+| Mid-Game
+
+| [Precursor Gear] 
+
+| [Precursor Gear] &#160;Precursor Gear
+
+Ancient
+
+| Ancient grants exceptional base stats on your armor, as well as granting +1&#160;&#xe007;&#160;Crit Damage per Catacombs level, meaning that with this reforge you become exponentially more powerful. This is one of the best reforges on armor and you will find almost everyone using this.
+
+#### Weapons
+[edit | edit source]
+
+| Status
+
+| Slot
+
+| Name
+
+| Notes
+
+| Early Game
+
+| 
+
+| Spicy
+
+| As is the case with Fierce, Spicy is exceptional for &#xe007;&#160;Crit Damage and the best early-game basic reforge.
+
+| Early Game
+
+| [Dragon Claw] 
+
+| [Dragon Claw] &#160;Dragon Claw
+
+Fabled
+
+| Fabled grants decent &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage, as well as granting a chance for critical hits to deal +15% more damage. It's great for starting out in the Catacombs, and not many reforges are better than Fabled: however, the reforges that do outclass it heavily.
+
+| Mid-Game
+
+| [Wither Blood] 
+
+| [Wither Blood] &#160;Wither Blood
+
+Withered
+
+| Withered allows you to achieve the most &#xe00d;&#160;Strength in dungeons and is considered the best reforge for weapons. It is recommended to keep your &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage balanced for optimum DPS, so pairing this with Ancient or a weapon with high &#xe007;&#160;Crit Damage is recommended.
+
+#### Equipment
+[edit | edit source]
+
+| Status
+
+| Slot
+
+| Name
+
+| Notes
+
+| Early Game
+
+| 
+
+| Blended
+
+| Being one of the best Equipment reforges all-around, Blended gives a very good balance of a lot of stats.
+
+| Late Game
+
+| [Blaze Wax] 
+
+| [Blaze Wax] &#160;Blaze Wax
+
+Waxed
+
+| Being both very cheap and granting decent &#xe02c;&#160;Crit Chance, Waxed is very useful if you need your hits to critically strike more often. However, it is slightly outclassed by other reforges like Blended and Menacing when you are not using [Terminator] &#160;Terminator.
+When you are using [Terminator] &#160;Terminator, it is always worth using Waxed as the crit chance is useful for activating Overload with the quartered &#xe02c;&#160;Crit Chance.
+
+### Other Modifiers
+[edit | edit source]
+
+- [Perfect Jasper Gemstone] &#160;Perfect Jasper and [Perfect Onyx Gemstone] &#160;Perfect Onyx Gemstones are recommended if you can afford them, as the boost to &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage is very useful.
+
+- Many Attributes, when maxed out, benefit Berserks greatly: for example, Warrior ( [Barbarian Duke X Shard] &#160;Barbarian Duke X Shard), Unlimited Power ( [Jormung Shard] &#160;Jormung Shard), Unlimited Energy ( [Etherdrake Shard] &#160;Etherdrake Shard), and the different Elemental attributes that grant &#xe00d;&#160;Strength. Additionally, Shell ( [Shellwise Shard] &#160;Shellwise Shard) is a must have, as the 100% knockback reduction makes clearing much easier.
+
+## Tips
+[edit | edit source]
+
+- The most optimal way to play Berserk in Master Mode is to wear a Golden Head or a Diamond Head of that floor with [Necron's Helmet] &#160;Necron's Armor, a [Golden Dragon Pet] &#160;Golden Dragon Pet, and a [Terminator] &#160;Terminator, as melee doesn't really work well in Master Mode.
+
+- The [Tarantula Helmet] &#160;Tarantula Helmet's ability does not scale in dungeons and is therefore not very good in mid-game or above.
+
+- The [Warden Helmet] &#160;Warden Helmet halves your speed which is not beneficial for clearing, so it should be avoided if one wants to clear efficiently. It also cannot be dungeonized, resulting in it often being worse than most alternatives.
+
+Tutorial:Healer Guide
+
+Tutorial:Tank Guide
+
+&#91;&#34;Tutorial:Navigation&#34;,&#34;Tutorial:Day Count&#34;,&#34;Tutorial:Autopet Guide&#34;&#93;&#91;&#34;Tutorial:Ultimate Guide&#34;,&#34;Tutorial:Tips and Tricks&#34;,&#34;Tutorial:Ironman Guide&#34;,&#34;Tutorial:Bingo Guide&#34;,&#34;Tutorial:Periodic Tasks&#34;&#93;&#91;&#34;Tutorial:Maxing Items&#34;,&#34;Tutorial:Ranged_Weapon_Guide&#34;,&#34;Tutorial:Melee_Weapon_Guide&#34;,&#34;Tutorial:Minion Farming&#34;,&#34;Tutorial:Reforging Guide&#34;,&#34;Tutorial:Armor Guide&#34;,&#34;Tutorial:Accessory Guide&#34;&#93;&#91;&#34;Tutorial:Mining Guide&#34;,&#34;Tutorial:Hunting Guide&#34;,&#34;Tutorial:Foraging Guide&#34;,&#34;Tutorial:Fishing Guide&#34;,&#34;Tutorial:Farming Guide&#34;,&#34;Tutorial:Alchemy Guide&#34;&#93;&#91;&#34;Tutorial:Gemstone Gauntlet's Ability&#34;,&#34;Tutorial:Killing Ghosts on a Budget&#34;,&#34;Tutorial:Dragon Fights Guide&#34;,&#34;Tutorial:How to Obtain a Summoning Eye&#34;,&#34;Tutorial:Kuudra Guide&#34;,&#34;Tutorial:Slayer_Guide&#34;&#93;&#91;&#34;Tutorial:Tank Guide&#34;,&#34;Tutorial:Left-Click_Mage_Guide&#34;,&#34;Tutorial:Right-Click Mage Guide&#34;,&#34;Tutorial:Mage Guide&#34;,&#34;Tutorial:Healer Guide&#34;,&#34;Tutorial:Berserk Guide&#34;,&#34;Tutorial:Archer Guide&#34;,&#34;Tutorial:Dungeon Puzzles&#34;,&#34;Tutorial:Master Mode Guide&#34;,&#34;Tutorial:Catacombs Guide&#34;,&#34;Tutorial:Ultimate Dungeon Guide&#34;&#93;&#91;&#34;Tutorial:Mushroom Farm&#34;,&#34;Tutorial:Sugar Cane Farm&#34;,&#34;Tutorial:Cocoa Beans Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;&#93;&#91;&#34;Tutorial:Timite Mining&#34;,&#34;Tutorial:Tick Thresholds&#34;,&#34;Tutorial:Heart of the Mountain Trees&#34;,&#34;Tutorial:Sapphire Crystal&#34;,&#34;Tutorial:6-ticking Ruby in the Magma Fields&#34;&#93;&#91;&#34;Tutorial:Lowballing&#34;,&#34;Tutorial:NPC Flipping&#34;,&#34;Tutorial:Bazaar Flipping&#34;,&#34;Tutorial:AH Flipping&#34;&#93; | v · d · eTutorials
+| 
+| How-To's | 
+
+- Autopet Guide
+
+- Day Count
+
+- Navigation
+
+| 
+| 
+| General Guides | 
+
+- Periodic Tasks
+
+- Bingo Guide
+
+- Ironman Guide
+
+- Tips and Tricks
+
+- Ultimate Guide
+
+| 
+| Progression Guides | 
+
+- Accessory Guide
+
+- Armor Guide
+
+- Reforging Guide
+
+- Minion Farming
+
+- Melee Weapon Guide
+
+- Ranged Weapon Guide
+
+- Maxing Items
+
+| 
+| Skill Guides | 
+
+- Alchemy Guide
+
+- Farming Guide
+
+- Fishing Guide
+
+- Foraging Guide
+
+- Hunting Guide
+
+- Mining Guide
+
+| 
+| Combat | 
+
+- Slayer Guide
+
+- Kuudra Guide
+
+- How to Obtain a Summoning Eye
+
+- Dragon Fights Guide
+
+- Killing Ghosts on a Budget
+
+- Gemstone Gauntlet Ability
+
+| 
+| Dungeon Guides | 
+
+- Ultimate Dungeon Guide
+
+- Catacombs Guide
+
+- Master Mode Guide
+
+- Dungeon Puzzles
+
+- Archer Guide
+
+- Berserk Guide
+
+- Healer Guide
+
+- Mage Guide (RCM Guide & LCM Guide)
+
+- Tank Guide
+
+| 
+| Farming | 
+
+- Wheat
+
+- Potato
+
+- Carrot
+
+- Nether Wart
+
+- Pumpkin
+
+- Melon
+
+- Cocoa Beans
+
+- Sugar Cane
+
+- Mushroom
+
+| 
+| Mining | 
+
+- 6-ticking Ruby in the Magma Fields
+
+- Nucleus Runs (Sapphire Crystal)
+
+- Heart of the Mountain Trees
+
+- Tick Thresholds
+
+- Timite Mining
+
+| 
+| Economy Guides | 
+
+- AH
+
+- Bazaar
+
+- NPC
+
+- Lowballing
+
+80 ms 4.8%
+dataWrapper 80 ms 4.8%
+replaceStrings 60 ms 3.6%
+_templateReplacements 60 ms 3.6%
+createEntryPointsForCurrency 60 ms 3.6%
+_toNumber 40 ms 2.4%
+(for generator) 40 ms 2.4%
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::getExpandedArgument 40 ms 2.4%
+[others] 460 ms 27.4%
+-->
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Tutorial:Berserk_Guide?oldid=868538"
+
+Categories: 
+- Community Guides
+- Tutorials
+- Classes
+- Dungeons
+
+Hidden categories: 
+- Pages using Damage
+- Pages using Strength
+- Pages using Crit Damage
+- Pages using Health
+- Pages using Swing Range
+- Pages using Crit Chance
+- Pages using Defense
+- Pages using Intelligence
+- Pages using Speed
+- Pages using Magic Find
+- Pages using Effective Health
+- Pages using Attack Speed
+- Pages using Soulflow
+- Pages using Overflow Mana
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Tutorial
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+2h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+
+- This page was last edited on 6 November 2026, at 08:51.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

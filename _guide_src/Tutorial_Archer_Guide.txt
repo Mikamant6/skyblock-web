@@ -1,0 +1,900 @@
+Tutorial:Archer Guide - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Tutorial:Archer Guide
+
+From Hypixel SkyBlock Wiki
+
+Jump to navigation
+Jump to search
+
+- This tutorial is a guide.
+
+- This tutorial has been assembled by members of the community as a helpful resource or Tutorial, instructing players on SkyBlock, and thus is not official.
+
+- If you see missing, incorrect or out of date information, please help by contributing to the page.
+
+The Archer class is a class within Dungeons that focuses on Bows damage. This class depends heavily on &#xe00d;&#160;Strength, &#xe02c;&#160;Crit Chance and &#xe007;&#160;Crit Damage, like the Berserk class. As a result, both classes play very similarly.
+
+It is worthy to note that it is much more recommended to play Berserk until one obtains a powerful bow like the [Juju Shortbow] &#160;Juju Shortbow, or [Terminator] &#160;Terminator. It is also not recommended to play this if one doesn't have a decent money-making method, as setups can get very expensive on later floors, especially in Master Mode.
+
+## Contents
+
+- 1 Recommended Weapons
+
+- 2 Recommended Armor Sets
+
+- 3 Recommended Utility Items
+
+- 4 Recommended Pets
+
+- 5 Recommended Modifiers
+
+- 5.1 Enchantments
+
+- 5.2 Reforges
+
+- 5.2.1 Bows
+
+- 5.2.2 Armor
+
+- 5.3 Accessory Powers
+
+- 5.4 Attributes
+
+- 6 References
+
+## Recommended Weapons
+[edit | edit source]
+
+These are heavily recommended items/weapons to use when playing as the Archer class. The best of these often have requirements such as a high &#160;Combat, Slayer, or &#160;Catacombs level. Archer setups are very expensive by nature, and thus the best items will often cost and be worth tens, if not hundreds of millions of coins.
+
+An important note is that most regular Bows that have a drawing time and do not fire instantly, which will be referred to as Longbows, will be almost entirely irrelevant.
+
+| Status
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| Early Game
+
+| [Dragon Shortbow] 
+
+| [Dragon Shortbow] &#160;Dragon Shortbow
+
+| &#160;Combat&#160;XV (15)
+&#160;Catacombs&#160;VIII (8)
+(when dungeonized)
+
+| The [Dragon Shortbow] &#160;Dragon Shortbow is a good starting bow for Archers, granting very decent &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage. If you play your cards right, this or the [Machine Gun Shortbow] &#160;Machine Gun Shortbow will be the first bow you use in Dungeons: it is decent up to Floor II, but useless beyond that.
+
+| Early Game
+
+| [Machine Gun Shortbow] 
+
+| [Machine Gun Shortbow] &#160;Machine Gun Shortbow
+
+| &#160;Catacombs&#160;II (2)
+
+| The [Machine Gun Shortbow] &#160;Machine Gun Shortbow is a very early-game shortbow with decent stats, as well as the Rapid Fire ability that fires 40 arrows over the course of 8s. It is cheaper to fully upgrade than the [Dragon Shortbow] &#160;Dragon Shortbow and will be much more useful until Floor IV.
+
+| Mid Game
+
+| [Mosquito Shortbow] 
+
+| [Mosquito Shortbow] &#160;Mosquito Shortbow
+
+| Spider Slayer&#160;VII (7)
+&#160;Catacombs&#160;XIII (13)(when dungeonized)
+
+| The [Mosquito Shortbow] &#160;Mosquito Shortbow is an all-around amazing bow for &#xe050;&#160;Damage, &#xe00d;&#160;Strength, &#xe007;&#160;Crit Damage, and notably &#xe028;&#160;Vitality. The healing capabilities of its Nasty Bite ability are worthy of mention, although its &#xe050;&#160;Damage falls short of the [Juju Shortbow] &#160;Juju Shortbow. However, after its base damage got buffed to 319, it outdamages the [Juju Shortbow] &#160;Juju Shortbow This is also easier to grind for than the aforementioned [Juju Shortbow] &#160;Juju Shortbow, but will take much longer. As of august 8th, 2026, this now has higher damage than the terminator, but it still only shoots one arrow.
+
+| Mid Game
+
+| [Juju Shortbow] 
+
+| [Juju Shortbow] &#160;Juju Shortbow
+
+| Enderman Slayer&#160;V (5)
+&#160;Catacombs&#160;XV (15)
+(when dungeonized)
+
+| The [Juju Shortbow] &#160;Juju Shortbow is a bow all archers should aim for as soon as they obtain Enderman Slayer level 5 however, its a very stat reliant bow and should only be used if the player has +450 Magical Power, its high &#xe050;&#160;Damage and &#xe007;&#160;Crit Damage make it great for DPS and clearing rooms. As a result, the [Juju Shortbow] &#160;Juju Shortbow is capable of killing minibosses in very short time. Unless you really want to play Archer early-game, it is recommended to play Berserk until you obtain a [Juju Shortbow] &#160;Juju Shortbow.
+
+| Late Game
+
+| [Terminator] 
+
+| [Terminator] &#160;Terminator
+
+| Enderman Slayer&#160;VII (7)
+&#160;Catacombs&#160;XXVII (27)
+(when dungeonized)
+
+| The [Terminator] &#160;Terminator is commonly regarded as the best bow in the game. While it divides your &#xe02c;&#160;Crit Chance by 4, it is exceptional for clearing mobs and has incredibly high &#xe050;&#160;Damage and &#xe007;&#160;Crit Damage. It is advised to aim for 400%&#160;&#xe02c;&#160;Crit Chance to guarantee that every strike critically hits; Overload also pairs well with this, as high &#xe02c;&#160;Crit Chance grants a chance to land a Mega Critical Hit: one should strive for at least 400&#160;&#xe02c;&#160;Crit Chance.
+
+This is also the most expensive bow in the game, and is crafted with an exceedingly rare [Judgement Core] &#160;drop: as a result, most who cannot afford it use either a [Juju Shortbow] &#160;Juju or [Mosquito Shortbow] &#160;Mosquito Shortbow.
+
+## Recommended Armor Sets
+[edit | edit source]
+
+These armor pieces/sets provide bonuses to bow damage and are the standard for anyone who wants to play as an Archer.
+
+| Status
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| Early Game
+
+| [Unstable Dragon Helmet] [Unstable Dragon Chestplate] [Unstable Dragon Leggings] [Unstable Dragon Boots] 
+
+| [Unstable Dragon Helmet] &#160;Unstable Dragon Armor
+
+| &#160;Combat&#160;XVI (16)
+&#160;Catacombs&#160;XV (15) (when dungeonized)
+
+| [Unstable Dragon Helmet] &#160;Unstable Dragon Armor is a decent starting set for Dungeons, and good for &#xe02c;&#160;Crit Chance and &#xe007;&#160;Crit Damage. It has the same &#xe010;&#160;Health and &#xe008;&#160;Defense as [Strong Dragon Helmet] &#160;Strong Dragon Armor, though the latter grants much more &#xe00d;&#160;Strength: however, [Strong Dragon Helmet] &#160;Strong and especially [Superior Dragon Helmet] &#160;Superior Dragon Armor are not worth it for Archers. If you're really struggling with survivability, you could swap out the helmet for a [Revived Heart] &#160;Revived Heart or [Bonzo's Mask] &#160;Bonzo's Mask.
+
+| Early Game
+
+| [Skeleton Soldier Helmet] [Skeleton Soldier Chestplate] [Skeleton Soldier Leggings] [Skeleton Soldier Boots] 
+
+| [Skeleton Soldier Helmet] &#160;Skeleton Soldier Armor
+
+| &#160;Catacombs&#160;IX (9)
+
+| [Skeleton Soldier Helmet] &#160;Skeleton Soldier Armor is a decent Archer set. While it may have worse stats than [Unstable Dragon Helmet] &#160;Unstable Dragon Armor, it vastly improves damage dealt with arrows and scales with your Dungeon progress.
+
+| Early Game
+
+| [Spirit Boots] 
+
+| [Spirit Boots] &#160;Spirit Boots
+
+| Floor IV completion
+
+| The [Spirit Boots] &#160;Spirit Boots are quite useful for &#xe022;&#160;Speed, which is very important for Archers. It is important to note that you should avoid crouching as to not activate its Spirit Glide ability.
+
+| Mid Game
+
+| [Shadow Assassin Helmet] [Shadow Assassin Chestplate] [Shadow Assassin Leggings] [Shadow Assassin Boots] 
+
+| [Shadow Assassin Helmet] &#160;Shadow Assassin Armor
+
+| Floor V completion
+
+| [Shadow Assassin Helmet] &#160;Shadow Assassin Armor is an exceptional armor set. It is great for &#xe050;&#160;Damage, &#xe00d;&#160;Strength, &#xe007;&#160;Crit Damage, and &#xe010;&#160;Health and will get you quite far up to Floor VII. Make sure to upgrade it with [Livid Fragment] &#160;Livid Fragments and fully star it. If you
+
+| Mid Game
+
+| [Necron's Helmet] [Necron's Chestplate] [Necron's Leggings] [Maxor's Boots] 
+
+| [Necron's Helmet] &#160;Necron's Armor
+[Maxor's Boots] &#160;Maxor's Boots
+
+| Floor VII completion
+
+| It is recommended to use 3/4 [Necron's Helmet] &#160;Necron's Armor and [Maxor's Boots] &#160;Maxor's Boots for an both damage and extra &#xe022;&#160;Speed.
+
+| Late Game
+
+| [Skeleton Master Chestplate] 
+
+| [Skeleton Master Chestplate] &#160;Skeleton Master Chestplate
+
+| &#160;Catacombs&#160;XXXVI (36)
+
+| The [Skeleton Master Chestplate] &#160;Skeleton Master Chestplate is useful due to its arrow-saving perk, at the price of little EHP and DPS. It is highly recommended to use a full-quality chestplate obtained from Master Mode Floor VII.
+
+| Late Game
+
+| [Golden Bonzo Head] [Diamond Bonzo Head] [Golden Scarf Head] [Diamond Scarf Head] [Golden Professor Head] [Diamond Professor Head] [Golden Thorn Head] [Diamond Thorn Head] [Golden Livid Head] [Diamond Livid Head] [Golden Sadan Head] [Diamond Sadan Head] [Golden Necron Head] [Diamond Necron Head] 
+
+| Golden Heads
+Diamond Heads
+
+| Boss Collections
+
+| Golden and Diamond Heads should always be substituted for the helmet you currently use if you have them. Granting 2x stats while on their respective floors, these will always be useful inside of the Catacombs.
+
+## Recommended Utility Items
+[edit | edit source]
+
+| Status
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| Universal
+
+| [Aspect of the End] [Aspect of the Void] 
+
+| [Aspect of the End] &#160;Aspect of the End
+[Aspect of the Void] &#160;Aspect of the Void
+
+| Ender Pearl&#160;VIII (8)
+
+| The [Aspect of the End] &#160;Aspect of the End, both inside out out of Dungeons, will be in your hotbar at all times. Its Instant Transmission ability, allowing you to teleport forward 8 blocks (up to 12 with [Transmission Tuner] &#160;Transmission Tuners), is incredibly convenient and can be used anywhere in Dungeons outside of the Floor VII and Master Mode Floor VII boss arenas.
+
+At Enderman Slayer&#160;VI (6), you unlock the recipe for the [Aspect of the Void] &#160;Aspect of the Void: however, you do not need to meet the requirements to use this item. Both can have the Etherwarp Transmission ability added to it through an [Etherwarp Conduit] &#160;Etherwarp Conduit and [Etherwarp Merger] &#160;Etherwarp Merger.
+
+| Universal
+
+| [Rogue Sword] 
+
+| [Rogue Sword] &#160;Rogue Sword
+
+| 
+
+| The [Rogue Sword] &#160;Rogue Sword's Speed Boost ability grants a lot of &#xe022;&#160;Speed.
+
+| Recommended
+
+| [Gyrokinetic Wand] 
+
+| [Gyrokinetic Wand] &#160;Gyrokinetic Wand
+
+| Enderman Slayer&#160;VI (6)
+
+| The [Gyrokinetic Wand] &#160;Gyrokinetic Wand is great for clearing mobs, especially [A sprite icon representing Terracotta in Hypixel SkyBlock] Terracottas in Master Mode - Floor VI
+
+| Late Game
+
+| [Death Bow] 
+
+| [Death Bow] &#160;Death Bow
+
+| Floor VI completion
+
+| The [Death Bow] &#160;Death Bow is an additional weapon that is most commonly only used in Master Mode - Floor VII. A common strategy involves shooting a separate mob, commonly a [A sprite icon representing Wither Miner in Hypixel SkyBlock] Wither Miner or [A sprite icon representing Wither Guard in Hypixel SkyBlock] Wither Guard, with the [Death Bow] &#160;Death Bow due to its high single-hit damage: the Archer's Rapid Fire ultimate ability deals 75% of the highest damage dealt in the past minute, so this strategy helps Archers deal incredibly high damage with the ability.
+A similar strategy is used in [A sprite icon representing Necron in Hypixel SkyBlock] Necron's phase, but using the [Bonemerang] &#160;Bonemerang: by throwing the [Bonemerang] &#160;Bonemerang and waiting for it to reach the apex of its journey and swapping to a weapon with high &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage, incredibly high damage can be achieved.
+
+| [Bonemerang] 
+
+| [Bonemerang] &#160;Bonemerang
+
+| Floor IV completion
+
+| Other
+
+| [Explosive Bow] 
+
+| [Explosive Bow] &#160;Explosive Bow
+
+| Gunpowder&#160;IX (9)
+
+| The [Explosive Bow] &#160;Explosive Bow could be use to apply twilight to Storm while he is unattackable.
+
+## Recommended Pets
+[edit | edit source]
+
+Having a good Archer pet can greatly improve your progression as an Archer. These are some recommended ones.
+
+| Status
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| Early Game
+
+| [Skeleton Pet] 
+
+| [Skeleton Pet] &#160;Skeleton Pet
+
+| Bone&#160;III (3)
+
+| The [Skeleton Pet] &#160;Skeleton Pet is a useful pet for Archers, as it grants decent &#xe02c;&#160;Crit Chance and &#xe007;&#160;Crit Damage: its Bone Arrows and Combo perk are also beneficial for increasing your overall &#xe050;&#160;Damage and &#xe00d;&#160;Strength, and will be useful up until obtaining a [Ender Dragon Pet] &#160;Ender Dragon Pet or [Golden Dragon Pet] &#160;Golden Dragon Pet.
+
+| End Game
+
+| [Golden Dragon Pet] 
+
+| [Golden Dragon Pet] &#160;Golden Dragon Pet
+
+| 
+
+| The [Golden Dragon Pet] &#160;Golden Dragon Pet is the best pet in the game for &#xe050;&#160;Damage. It grants up to +250%&#160;&#xe050;&#160;Damage and +370&#160;&#xe00d;&#160;Strength.
+
+| End Game
+
+| [Ender Dragon Pet] 
+
+| [Ender Dragon Pet] &#160;Ender Dragon Pet
+
+| 
+
+| It grants +200%&#160;&#xe050;&#160;Damage against &#xe078;&#160;Ender mobs. At the mean while, Superior perk grants a 10% increase to all Combat Stats, making its DPS outclasses [Golden Dragon Pet] &#160;Golden Dragon Pet against Dragons in Master Mode - Floor 7.
+
+## Recommended Modifiers
+[edit | edit source]
+
+### Enchantments
+[edit | edit source]
+
+Given that dealing significant &#xe050;&#160;Damage with bows is regularly much harder than dealing large amounts of &#xe050;&#160;Damage with a melee weapon, the Enchantments that an Archer puts on their weapons is extremely important.
+
+| Enchantment
+| Notes
+
+| Bows
+
+| Power
+
+| This is a vital and required Enchantment for all Archers. It grants up to +65%&#160;&#xe050;&#160;Damage on your bows.
+
+| Snipe
+
+| This is useful for when you are trying to hit enemies from far away, since it grants increased damage depending on the distance between you and the target. It is useful when the enemy you are trying to hit is very far away or has a large hitbox.
+
+| Piercing
+
+| This is great for clearing, allowing arrows to pass through mobs and deal additional damage to a lesser degree. It pairs well with the Bouncy Arrows passive.
+
+| Infinite Quiver
+
+| This is useful for saving arrows. It's surprisingly cheap, and will be vital as Archers often use a lot of arrows.
+
+| Overload
+
+| This is absolutely vital and required for all Archers. It grants base &#xe02c;&#160;Crit Chance and &#xe007;&#160;Crit Damage. Additionally, depending on your &#xe02c;&#160;Crit Chance, it has a chance for you to deal a Mega Critical Hit, which multiplies your damage by 1.5x. When paired with a [Terminator] &#160;Terminator, which requires players to have high &#xe02c;&#160;Crit Chance due to it dividing your &#xe02c;&#160;Crit Chance by 4, this Enchantment will be invaluable.
+
+| Armor
+
+| Rejuvenate
+
+| Grants &#xe011;&#160;Health Regen. Improves survivablility.
+
+| Strong Vitality
+
+| Grants &#xe00d;&#160;Strength.
+
+A good Ultimate Enchantment is also vital for efficient Archer progression.
+
+| Enchantment
+| Notes
+
+| Bows
+
+| Soul Eater
+
+| Soul Eater is a recommended Ultimate Enchantment that is excellent for clearing rooms, as its bonus of adding the damage of the last mob killed and applying it onto your next hit: with high enough &#xe050;&#160;Damage, &#xe00d;&#160;Strength, and &#xe007;&#160;Crit Damage, you could clear rooms very efficiently.
+
+| Duplex
+
+| Duplex is a recommended Ultimate Enchantment that is excellent for DPS, allowing your bow to shoot an extra arrow dealing a percentage of the first arrow's damage and dealing increased damage over time. It is not very efficient for clearing, but is recommended to use during boss fights: as a result, it is better to have two bows, one for clearing and one for DPS. This contributes to the Archer class being very expensive.
+
+| Armor
+
+| Legion
+
+| Legion is the best Ultimate Enchantment for Armor, granting increased Combat Stats and &#xe01a;&#160;Magic Find per player near you, which is vital for stats like &#xe00d;&#160;Strength, &#xe007;&#160;Crit Damage, and &#xe02c;&#160;Crit Chance.
+
+### Reforges
+[edit | edit source]
+
+#### Bows
+[edit | edit source]
+
+| Status
+| Slot
+| Name
+| Notes
+
+| Early-Game
+
+| 
+
+| Rapid
+
+| The Rapid reforge grants the most &#xe050;&#160;Damage out of any basic Reforge for Bows. It is great for early game.
+
+| Early-Game
+
+| 
+
+| Unreal
+
+| The Unreal reforge grants the most &#xe02c;&#160;Crit Chance out of any basic Reforge for Bows at the cost of &#xe00d;&#160;Strength, and is a great alternative to Rapid.
+
+| Mid-Game
+
+| 
+
+| Hasty
+
+| The Hasty reforge is commonly used by players who are not able to reach 100%&#160;&#xe02c;&#160;Crit Chance: until one reaches a sufficient amount of &#xe02c;&#160;Crit Chance to use a [Terminator] &#160;Terminator efficiently, most players will apply Hasty to it until they reach sufficient &#xe02c;&#160;Crit Chance or at least 800 Magical Power, after which they will move on to either Precise or Spiritual.
+
+| Late-Game
+
+| [Optical Lens] 
+
+| [Optical Lens] &#160;Optical Lens
+
+Precise
+
+| The Precise reforge has the same reforge stats as Unreal, as well as granting increased &#xe050;&#160;Damage when hitting the head of an enemy, making it excellent for &#xe050;&#160;Damage. If you can get consistent headshots on enemies, this reforge is worth using.
+
+| Late Game
+
+| [Spirit Stone] 
+
+| [Spirit Stone] &#160;Spirit Stone
+
+Spiritual
+
+| The Spiritual reforge is essentially a better version of Precise, with the added bonus of occasionally spawning a Decoy on kill. This is widely considered the best reforge for an Archer. When at 100%&#160;&#xe02c;&#160;Crit Chance, one should use this reforge instead of Hasty, for example.
+
+#### Armor
+[edit | edit source]
+
+| Status
+| Slot
+| Name
+| Notes
+
+| Early Game
+
+| 
+
+| Fierce
+
+| Fierce is a great early-game armor reforge for Berserks purely for its &#xe00d;&#160;Strength and &#xe02c;&#160;Crit Chance, as well as having the highest &#xe007;&#160;Crit Damage of any basic reforge.
+
+| Late-Game
+
+| [Precursor Gear] 
+
+| [Precursor Gear] &#160;Precursor Gear
+
+Ancient
+
+| Ancient grants exceptional base stats on your armor, as well as granting +1&#160;&#xe007;&#160;Crit Damage per Catacombs level, meaning that with this reforge you become exponentially more powerful. This is one of the best reforges on armor and you will find almost everyone using this.
+
+### Accessory Powers
+[edit | edit source]
+
+A proper Accessory Power and high Magical Power is important to ensure optimum survivability and damage capabilities. Tuning Points should be tuned towards &#xe001;&#160;Attack Speed, although you can spend them on &#xe02c;&#160;Crit Chance until you can reach 100%&#160;&#xe02c;&#160;Crit Chance with a [Terminator] &#160;Terminator.
+
+| Status
+| Slot
+| Name
+| Notes
+
+| Early-Game
+
+| [Furball] 
+
+| [Furball] &#160;Furball
+
+Itchy
+
+| The Itchy Power grants significantly more &#xe001;&#160;Attack Speed than the aforementioned Bloody and Silky Powers, though it lacks &#xe007;&#160;Crit Damage. You should aim to balance your &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage as evenly as possible, so it is good to mix and match to see which builds work for you.
+
+| Early-Game
+
+| [Luxurious Spool] 
+
+| [Luxurious Spool] &#160;Luxurious Spool
+
+Silky
+
+| The Silky Power grants more &#xe007;&#160;Crit Damage than the Bloody Power, although it sacrifices &#xe001;&#160;Attack Speed. It is much cheaper and easier to obtain than the [Beating Heart] &#160;Beating Heart as well, and is great for starting out.
+
+| Early-Game
+
+| 
+
+| Fortuitous
+
+| The Fortuitous Power is good for getting that extra bit of &#xe02c;&#160;Crit Chance that you might lack, and should get you through the early game until you obtain a better Power. It is HIGHLY recommended to use this power in late-game if you have a Terminator.
+
+### Attributes
+[edit | edit source]
+
+A number of Attributes should be maxed out as soon as possible, as they greatly benefit playing as an Archer.
+
+| Slot
+| Name
+| Notes
+
+| [Flash Shard] 
+
+| [Flash Shard] &#160;Flash Shard
+
+Light Elemental
+
+| Grants +1-10&#160;&#xe00d;&#160;Strength, maxing out at +50&#160;&#xe00d;&#160;Strength with all Elemental Shards maxed out. Buffed by the Echo of Elemental attribute, increasing the effect of these attributes by +20%.
+
+| [Quake Shard] 
+
+| [Quake Shard] &#160;Quake Shard
+
+Stone Elemental
+
+| [Bolt Shard] 
+
+| [Bolt Shard] &#160;Bolt Shard
+
+Lightning Elemental
+
+| [Aero Shard] 
+
+| [Aero Shard] &#160;Aero Shard
+
+Wind Elemental
+
+| [Tempest Shard] 
+
+| [Tempest Shard] &#160;Tempest Shard
+
+Storm Elemental
+
+| [Skeletor Shard] 
+
+| [Skeletor Shard] &#160;Skeletor Shard
+
+Deadeye
+
+| Increases ranged damage by +25%.
+
+| [Jormung Shard] [Etherdrake Shard] 
+
+| [Jormung Shard] &#160;Jormung Shard
+
+Unlimited Power
+
+| Increases your &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage by +1%. Buffed by the Almighty attribute, which buffs the aforementioned attributes by +50%.
+
+| [Etherdrake Shard] &#160;Etherdrake Shard
+
+Unlimited Energy
+
+| [Inferno Demonlord Shard] 
+
+| [Inferno Demonlord Shard] &#160;Inferno Demonlord Shard
+
+Attack Speed
+
+| Grants +10&#160;&#xe001;&#160;Attack Speed, which is exceptionally useful for Archers.
+
+| [Shellwise Shard] 
+
+| [Shellwise Shard] &#160;Shellwise Shard
+
+Shell
+
+| When maxed out, grants complete immunity to all sources of Knockback. Can substitute a [Dwarf Turtle Shelmet] &#160;Dwarf Turtle Shelmet or [Hephaestus Shelmet] &#160;Hephaestus Shelmet.
+
+## References
+[edit | edit source]
+
+Tutorial:Dungeon Ultimate Guide
+
+Tutorial:Right-Click Mage Guide
+
+&#91;&#34;Tutorial:Navigation&#34;,&#34;Tutorial:Day Count&#34;,&#34;Tutorial:Autopet Guide&#34;&#93;&#91;&#34;Tutorial:Ultimate Guide&#34;,&#34;Tutorial:Tips and Tricks&#34;,&#34;Tutorial:Ironman Guide&#34;,&#34;Tutorial:Bingo Guide&#34;,&#34;Tutorial:Periodic Tasks&#34;&#93;&#91;&#34;Tutorial:Maxing Items&#34;,&#34;Tutorial:Ranged_Weapon_Guide&#34;,&#34;Tutorial:Melee_Weapon_Guide&#34;,&#34;Tutorial:Minion Farming&#34;,&#34;Tutorial:Reforging Guide&#34;,&#34;Tutorial:Armor Guide&#34;,&#34;Tutorial:Accessory Guide&#34;&#93;&#91;&#34;Tutorial:Mining Guide&#34;,&#34;Tutorial:Hunting Guide&#34;,&#34;Tutorial:Foraging Guide&#34;,&#34;Tutorial:Fishing Guide&#34;,&#34;Tutorial:Farming Guide&#34;,&#34;Tutorial:Alchemy Guide&#34;&#93;&#91;&#34;Tutorial:Gemstone Gauntlet's Ability&#34;,&#34;Tutorial:Killing Ghosts on a Budget&#34;,&#34;Tutorial:Dragon Fights Guide&#34;,&#34;Tutorial:How to Obtain a Summoning Eye&#34;,&#34;Tutorial:Kuudra Guide&#34;,&#34;Tutorial:Slayer_Guide&#34;&#93;&#91;&#34;Tutorial:Tank Guide&#34;,&#34;Tutorial:Left-Click_Mage_Guide&#34;,&#34;Tutorial:Right-Click Mage Guide&#34;,&#34;Tutorial:Mage Guide&#34;,&#34;Tutorial:Healer Guide&#34;,&#34;Tutorial:Berserk Guide&#34;,&#34;Tutorial:Archer Guide&#34;,&#34;Tutorial:Dungeon Puzzles&#34;,&#34;Tutorial:Master Mode Guide&#34;,&#34;Tutorial:Catacombs Guide&#34;,&#34;Tutorial:Ultimate Dungeon Guide&#34;&#93;&#91;&#34;Tutorial:Mushroom Farm&#34;,&#34;Tutorial:Sugar Cane Farm&#34;,&#34;Tutorial:Cocoa Beans Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;&#93;&#91;&#34;Tutorial:Timite Mining&#34;,&#34;Tutorial:Tick Thresholds&#34;,&#34;Tutorial:Heart of the Mountain Trees&#34;,&#34;Tutorial:Sapphire Crystal&#34;,&#34;Tutorial:6-ticking Ruby in the Magma Fields&#34;&#93;&#91;&#34;Tutorial:Lowballing&#34;,&#34;Tutorial:NPC Flipping&#34;,&#34;Tutorial:Bazaar Flipping&#34;,&#34;Tutorial:AH Flipping&#34;&#93; | v · d · eTutorials
+| 
+| How-To's | 
+
+- Autopet Guide
+
+- Day Count
+
+- Navigation
+
+| 
+| 
+| General Guides | 
+
+- Periodic Tasks
+
+- Bingo Guide
+
+- Ironman Guide
+
+- Tips and Tricks
+
+- Ultimate Guide
+
+| 
+| Progression Guides | 
+
+- Accessory Guide
+
+- Armor Guide
+
+- Reforging Guide
+
+- Minion Farming
+
+- Melee Weapon Guide
+
+- Ranged Weapon Guide
+
+- Maxing Items
+
+| 
+| Skill Guides | 
+
+- Alchemy Guide
+
+- Farming Guide
+
+- Fishing Guide
+
+- Foraging Guide
+
+- Hunting Guide
+
+- Mining Guide
+
+| 
+| Combat | 
+
+- Slayer Guide
+
+- Kuudra Guide
+
+- How to Obtain a Summoning Eye
+
+- Dragon Fights Guide
+
+- Killing Ghosts on a Budget
+
+- Gemstone Gauntlet Ability
+
+| 
+| Dungeon Guides | 
+
+- Ultimate Dungeon Guide
+
+- Catacombs Guide
+
+- Master Mode Guide
+
+- Dungeon Puzzles
+
+- Archer Guide
+
+- Berserk Guide
+
+- Healer Guide
+
+- Mage Guide (RCM Guide & LCM Guide)
+
+- Tank Guide
+
+| 
+| Farming | 
+
+- Wheat
+
+- Potato
+
+- Carrot
+
+- Nether Wart
+
+- Pumpkin
+
+- Melon
+
+- Cocoa Beans
+
+- Sugar Cane
+
+- Mushroom
+
+| 
+| Mining | 
+
+- 6-ticking Ruby in the Magma Fields
+
+- Nucleus Runs (Sapphire Crystal)
+
+- Heart of the Mountain Trees
+
+- Tick Thresholds
+
+- Timite Mining
+
+| 
+| Economy Guides | 
+
+- AH
+
+- Bazaar
+
+- NPC
+
+- Lowballing
+
+60 ms 4.5%
+dataWrapper 60 ms 4.5%
+gsub 60 ms 4.5%
+type 60 ms 4.5%
+replaceStrings 60 ms 4.5%
+assert 40 ms 3.0%
+getExpandedArgument 40 ms 3.0%
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::getExpandedArgument 40 ms 3.0%
+[others] 420 ms 31.3%
+-->
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Tutorial:Archer_Guide?oldid=876208"
+
+Categories: 
+- Community Guides
+- Tutorials
+- Classes
+- Dungeons
+
+Hidden categories: 
+- Pages using Strength
+- Pages using Crit Chance
+- Pages using Crit Damage
+- Pages using Damage
+- Pages using Vitality
+- Pages using Health
+- Pages using Defense
+- Pages using Speed
+- Pages using Health Regen
+- Pages using Magic Find
+- Pages using Attack Speed
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Tutorial
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+2h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+
+- This page was last edited on 18 November 2026, at 05:04.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

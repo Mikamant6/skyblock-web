@@ -1,0 +1,704 @@
+Reforging/Tool - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Reforging/Tool
+
+From Hypixel SkyBlock Wiki
+
+< Reforging
+
+Jump to navigation
+Jump to search
+
+### Pickaxes and Drills
+[edit | edit source]
+
+#### Basic
+[edit | edit source]
+
+These reforges can be applied to Pickaxes and Drills through the [A sprite icon representing Blacksmith in Hypixel SkyBlock] Blacksmith.
+
+| Reforge Prefix
+
+| COMMON
+
+| UNCOMMON
+
+| RARE
+
+| EPIC
+
+| LEGENDARY
+
+| MYTHIC
+
+| DIVINE
+
+| Unyielding | 1&#160;&#xe022;&#160;Speed
+1&#160;&#xe053;&#160;Mining Fortune | 2&#160;&#xe022;&#160;Speed
+2&#160;&#xe053;&#160;Mining Fortune | 3&#160;&#xe022;&#160;Speed
+3&#160;&#xe053;&#160;Mining Fortune | 5&#160;&#xe022;&#160;Speed
+4&#160;&#xe053;&#160;Mining Fortune | 7&#160;&#xe022;&#160;Speed
+5&#160;&#xe053;&#160;Mining Fortune | 9&#160;&#xe022;&#160;Speed
+6&#160;&#xe053;&#160;Mining Fortune | 11&#160;&#xe022;&#160;Speed
+7&#160;&#xe053;&#160;Mining Fortune
+
+| Prospector's | 1&#160;&#xe022;&#160;Speed | 2&#160;&#xe022;&#160;Speed | 3&#160;&#xe022;&#160;Speed | 5&#160;&#xe022;&#160;Speed | 7&#160;&#xe022;&#160;Speed | 9&#160;&#xe022;&#160;Speed | 11&#160;&#xe022;&#160;Speed
+
+| Excellent | 1&#160;&#xe022;&#160;Speed
+4&#160;&#xe015;&#160;Mining Speed | 2&#160;&#xe022;&#160;Speed
+8&#160;&#xe015;&#160;Mining Speed | 3&#160;&#xe022;&#160;Speed
+12&#160;&#xe015;&#160;Mining Speed | 4&#160;&#xe022;&#160;Speed
+16&#160;&#xe015;&#160;Mining Speed | 5&#160;&#xe022;&#160;Speed
+20&#160;&#xe015;&#160;Mining Speed | 7&#160;&#xe022;&#160;Speed
+25&#160;&#xe015;&#160;Mining Speed | 9&#160;&#xe022;&#160;Speed
+30&#160;&#xe015;&#160;Mining Speed
+
+| Sturdy | 3&#160;&#xe015;&#160;Mining Speed
+3&#160;&#xe008;&#160;Defense | 6&#160;&#xe015;&#160;Mining Speed
+6&#160;&#xe008;&#160;Defense | 9&#160;&#xe015;&#160;Mining Speed
+9&#160;&#xe008;&#160;Defense | 12&#160;&#xe015;&#160;Mining Speed
+12&#160;&#xe008;&#160;Defense | 15&#160;&#xe015;&#160;Mining Speed
+15&#160;&#xe008;&#160;Defense | 20&#160;&#xe015;&#160;Mining Speed
+20&#160;&#xe008;&#160;Defense | 25&#160;&#xe015;&#160;Mining Speed
+25&#160;&#xe008;&#160;Defense
+
+| Fortunate | 1&#160;&#xe015;&#160;Mining Speed
+1&#160;&#xe053;&#160;Mining Fortune | 2&#160;&#xe015;&#160;Mining Speed
+1&#160;&#xe053;&#160;Mining Fortune | 3&#160;&#xe015;&#160;Mining Speed
+1&#160;&#xe053;&#160;Mining Fortune | 4&#160;&#xe015;&#160;Mining Speed
+2&#160;&#xe053;&#160;Mining Fortune | 6&#160;&#xe015;&#160;Mining Speed
+2&#160;&#xe053;&#160;Mining Fortune | 8&#160;&#xe015;&#160;Mining Speed
+3&#160;&#xe053;&#160;Mining Fortune | 10&#160;&#xe015;&#160;Mining Speed
+4&#160;&#xe053;&#160;Mining Fortune
+
+#### Advanced
+[edit | edit source]
+
+These reforges can only be applied to Pickaxes and Drills through Reforge Stones.
+
+| Reforge Prefix
+
+| Reforge Stone
+
+| Passive Ability
+
+| COMMON
+
+| UNCOMMON
+
+| RARE
+
+| EPIC
+
+| LEGENDARY
+
+| MYTHIC
+
+| DIVINE
+
+| Ambered | [Amber Material] &#160;Amber Material | Ambered Bonus
+Find Goblins from mining 40% more often.
+| 25&#160;&#xe015;&#160;Mining Speed | 35&#160;&#xe015;&#160;Mining Speed | 50&#160;&#xe015;&#160;Mining Speed | 75&#160;&#xe015;&#160;Mining Speed | 100&#160;&#xe015;&#160;Mining Speed | 150&#160;&#xe015;&#160;Mining Speed | 200&#160;&#xe015;&#160;Mining Speed
+
+| Auspicious | [Dwarven Geode] &#160;Dwarven Geode | Auspicious Bonus
+Grants +1%  Mining Fortune.
+| 3&#160;&#xe053;&#160;Mining Fortune
+10&#160;&#xe015;&#160;Mining Speed | 6&#160;&#xe053;&#160;Mining Fortune
+20&#160;&#xe015;&#160;Mining Speed | 9&#160;&#xe053;&#160;Mining Fortune
+30&#160;&#xe015;&#160;Mining Speed | 13&#160;&#xe053;&#160;Mining Fortune
+40&#160;&#xe015;&#160;Mining Speed | 16&#160;&#xe053;&#160;Mining Fortune
+50&#160;&#xe015;&#160;Mining Speed | 20&#160;&#xe053;&#160;Mining Fortune
+75&#160;&#xe015;&#160;Mining Speed | 25&#160;&#xe053;&#160;Mining Fortune
+100&#160;&#xe015;&#160;Mining Speed
+
+| Fleet | [Diamonite] &#160;Diamonite | Fleet Bonus
+Grants +50 Mining Spread towards Blocks.
+| 25&#160;&#xe053;&#160;Block Fortune
+10&#160;&#xe015;&#160;Mining Speed | 30&#160;&#xe053;&#160;Block Fortune
+20&#160;&#xe015;&#160;Mining Speed | 35&#160;&#xe053;&#160;Block Fortune
+30&#160;&#xe015;&#160;Mining Speed | 45&#160;&#xe053;&#160;Block Fortune
+40&#160;&#xe015;&#160;Mining Speed | 55&#160;&#xe053;&#160;Block Fortune
+50&#160;&#xe015;&#160;Mining Speed | 65&#160;&#xe053;&#160;Block Fortune
+75&#160;&#xe015;&#160;Mining Speed | 75&#160;&#xe053;&#160;Block Fortune
+100&#160;&#xe015;&#160;Mining Speed
+
+| Fruitful | [Black Diamond] &#160;Black Diamond | Fruitful Bonus
+Grants +75 Defense while on  Mining Islands.
+| 2&#160;&#xe053;&#160;Mining Fortune
+5&#160;&#xe015;&#160;Mining Speed | 4&#160;&#xe053;&#160;Mining Fortune
+10&#160;&#xe015;&#160;Mining Speed | 6&#160;&#xe053;&#160;Mining Fortune
+15&#160;&#xe015;&#160;Mining Speed | 8&#160;&#xe053;&#160;Mining Fortune
+25&#160;&#xe015;&#160;Mining Speed | 10&#160;&#xe053;&#160;Mining Fortune
+40&#160;&#xe015;&#160;Mining Speed | 12&#160;&#xe053;&#160;Mining Fortune
+55&#160;&#xe015;&#160;Mining Speed | 15&#160;&#xe053;&#160;Mining Fortune
+70&#160;&#xe015;&#160;Mining Speed
+
+| Glacial | [Frigid Husk] &#160;Frigid Husk | Glacial Bonus
+Grants +2 Mining Fortune for every 1 Cold you have.
+| 3&#160;&#xe053;&#160;Mining Fortune | 6&#160;&#xe053;&#160;Mining Fortune | 9&#160;&#xe053;&#160;Mining Fortune | 13&#160;&#xe053;&#160;Mining Fortune | 16&#160;&#xe053;&#160;Mining Fortune | 20&#160;&#xe053;&#160;Mining Fortune | 25&#160;&#xe053;&#160;Mining Fortune
+
+| Heated | [Scorched Topaz] &#160;Scorched Topaz | Heated Bonus
+Grants +1 Mining Fortune and +4 Mining Speed per 1 Heat you have.
+| 3&#160;&#xe053;&#160;Mining Fortune
+5&#160;&#xe015;&#160;Mining Speed | 6&#160;&#xe053;&#160;Mining Fortune
+10&#160;&#xe015;&#160;Mining Speed | 9&#160;&#xe053;&#160;Mining Fortune
+15&#160;&#xe015;&#160;Mining Speed | 13&#160;&#xe053;&#160;Mining Fortune
+25&#160;&#xe015;&#160;Mining Speed | 16&#160;&#xe053;&#160;Mining Fortune
+40&#160;&#xe015;&#160;Mining Speed | 20&#160;&#xe053;&#160;Mining Fortune
+55&#160;&#xe015;&#160;Mining Speed | 25&#160;&#xe053;&#160;Mining Fortune
+70&#160;&#xe015;&#160;Mining Speed
+
+| Lustrous | [Gleaming Crystal] &#160;Gleaming Crystal | Lustrous Bonus
+Grants +25 Mining Spread while Mayor Cole's Mining Fiesta perk is active.
+| 10&#160;&#xe015;&#160;Mining Speed
+10&#160;&#xe053;&#160;Mining Fortune | 20&#160;&#xe015;&#160;Mining Speed
+20&#160;&#xe053;&#160;Mining Fortune | 30&#160;&#xe015;&#160;Mining Speed
+30&#160;&#xe053;&#160;Mining Fortune | 40&#160;&#xe015;&#160;Mining Speed
+40&#160;&#xe053;&#160;Mining Fortune | 50&#160;&#xe015;&#160;Mining Speed
+50&#160;&#xe053;&#160;Mining Fortune | 60&#160;&#xe015;&#160;Mining Speed
+60&#160;&#xe053;&#160;Mining Fortune | 75&#160;&#xe015;&#160;Mining Speed
+75&#160;&#xe053;&#160;Mining Fortune
+
+| Magnetic | [Lapis Crystal] &#160;Lapis Crystal | Magnetic Bonus
+Earn +100% more Exp when mining.
+| 10&#160;&#xe015;&#160;Mining Speed | 20&#160;&#xe015;&#160;Mining Speed | 30&#160;&#xe015;&#160;Mining Speed | 40&#160;&#xe015;&#160;Mining Speed | 50&#160;&#xe015;&#160;Mining Speed | 75&#160;&#xe015;&#160;Mining Speed | 100&#160;&#xe015;&#160;Mining Speed
+
+| Mithraic | [Pure Mithril] &#160;Pure Mithril | Mithraic Bonus
+Grants +50 Mining Fortune towards Mithril or Titanium.
+| 3&#160;&#xe053;&#160;Mining Fortune | 6&#160;&#xe053;&#160;Mining Fortune | 9&#160;&#xe053;&#160;Mining Fortune | 13&#160;&#xe053;&#160;Mining Fortune | 16&#160;&#xe053;&#160;Mining Fortune | 20&#160;&#xe053;&#160;Mining Fortune | 25&#160;&#xe053;&#160;Mining Fortune
+
+| Refined | [Andesite Whetstone] &#160;Andesite Whetstone | Refined Bonus
+You have a 0.25% chance to find enchanted forms of items when mining Ores.
+| 1&#160;☯&#160;Mining Wisdom | 2&#160;☯&#160;Mining Wisdom | 3&#160;☯&#160;Mining Wisdom | 4&#160;☯&#160;Mining Wisdom | 6&#160;☯&#160;Mining Wisdom | 8&#160;☯&#160;Mining Wisdom | 10&#160;☯&#160;Mining Wisdom
+
+| Scraped | [Pocket Iceberg] &#160;Pocket Iceberg | Scraped Bonus
+If the block you are mining has the same  Breaking Power as this item, +25 Mining Fortune.
+| 1&#160;&#xe005;&#160;Breaking Power
+1&#160;☯&#160;Mining Wisdom | 1&#160;&#xe005;&#160;Breaking Power
+1&#160;☯&#160;Mining Wisdom | 1&#160;&#xe005;&#160;Breaking Power
+1&#160;☯&#160;Mining Wisdom | 1&#160;&#xe005;&#160;Breaking Power
+2&#160;☯&#160;Mining Wisdom | 1&#160;&#xe005;&#160;Breaking Power
+2&#160;☯&#160;Mining Wisdom | 1&#160;&#xe005;&#160;Breaking Power
+2&#160;☯&#160;Mining Wisdom | 1&#160;&#xe005;&#160;Breaking Power
+3&#160;☯&#160;Mining Wisdom
+
+| Stellar | [Petrified Starfall] &#160;Petrified Starfall | Stellar Bonus
+Earn +20% ᠅ Mithril Powder and +75 Mining Fortune when mining near  Fallen Stars.
+| 5&#160;&#xe053;&#160;Mining Fortune
+5&#160;&#xe015;&#160;Mining Speed | 10&#160;&#xe053;&#160;Mining Fortune
+10&#160;&#xe015;&#160;Mining Speed | 15&#160;&#xe053;&#160;Mining Fortune
+15&#160;&#xe015;&#160;Mining Speed | 20&#160;&#xe053;&#160;Mining Fortune
+25&#160;&#xe015;&#160;Mining Speed | 25&#160;&#xe053;&#160;Mining Fortune
+40&#160;&#xe015;&#160;Mining Speed | 35&#160;&#xe053;&#160;Mining Fortune
+55&#160;&#xe015;&#160;Mining Speed | 50&#160;&#xe053;&#160;Mining Fortune
+70&#160;&#xe015;&#160;Mining Speed
+
+### Farming Tools
+[edit | edit source]
+
+#### Basic
+[edit | edit source]
+
+These reforges can be applied to Farming Tools through the [A sprite icon representing Blacksmith in Hypixel SkyBlock] Blacksmith.
+
+| Reforge Prefix
+
+| COMMON
+
+| UNCOMMON
+
+| RARE
+
+| EPIC
+
+| LEGENDARY
+
+| MYTHIC
+
+| Green Thumb | 1&#160;&#xe022;&#160;Speed
+1&#160;&#xe051;&#160;Farming Fortune | 2&#160;&#xe022;&#160;Speed
+2&#160;&#xe051;&#160;Farming Fortune | 3&#160;&#xe022;&#160;Speed
+3&#160;&#xe051;&#160;Farming Fortune | 5&#160;&#xe022;&#160;Speed
+4&#160;&#xe051;&#160;Farming Fortune | 7&#160;&#xe022;&#160;Speed
+5&#160;&#xe051;&#160;Farming Fortune | 9&#160;&#xe022;&#160;Speed
+6&#160;&#xe051;&#160;Farming Fortune | 11&#160;&#xe022;&#160;Speed
+7&#160;&#xe051;&#160;Farming Fortune
+
+| Peasant's | 1&#160;&#xe022;&#160;Speed | 2&#160;&#xe022;&#160;Speed | 3&#160;&#xe022;&#160;Speed | 5&#160;&#xe022;&#160;Speed | 7&#160;&#xe022;&#160;Speed | 9&#160;&#xe022;&#160;Speed | 11&#160;&#xe022;&#160;Speed
+
+| Robust | 2&#160;&#xe051;&#160;Farming Fortune | 3&#160;&#xe051;&#160;Farming Fortune | 4&#160;&#xe051;&#160;Farming Fortune | 6&#160;&#xe051;&#160;Farming Fortune | 8&#160;&#xe051;&#160;Farming Fortune | 10&#160;&#xe051;&#160;Farming Fortune | 12&#160;&#xe051;&#160;Farming Fortune
+
+| Zooming | 5&#160;&#xe022;&#160;Speed | 8&#160;&#xe022;&#160;Speed | 12&#160;&#xe022;&#160;Speed | 16&#160;&#xe022;&#160;Speed | 20&#160;&#xe022;&#160;Speed | 25&#160;&#xe022;&#160;Speed | 30&#160;&#xe022;&#160;Speed
+
+#### Advanced
+[edit | edit source]
+
+These reforges can only be applied to Farming Tools through Reforge Stones.
+
+| Reforge Prefix
+
+| Reforge Stone
+
+| Passive Ability
+
+| COMMON
+
+| UNCOMMON
+
+| RARE
+
+| EPIC
+
+| LEGENDARY
+
+| MYTHIC
+
+| Blessed | [Blessed Fruit] &#160;Blessed Fruit | Blessed Bonus
+You have a 0.25% chance to find enchanted forms of items when harvesting Crops.
+| 1&#160;☯&#160;Farming Wisdom
+5&#160;&#xe022;&#160;Speed
+5&#160;&#xe051;&#160;Farming Fortune | 2&#160;☯&#160;Farming Wisdom
+7&#160;&#xe022;&#160;Speed
+7&#160;&#xe051;&#160;Farming Fortune | 3&#160;☯&#160;Farming Wisdom
+9&#160;&#xe022;&#160;Speed
+9&#160;&#xe051;&#160;Farming Fortune | 4&#160;☯&#160;Farming Wisdom
+13&#160;&#xe022;&#160;Speed
+13&#160;&#xe051;&#160;Farming Fortune | 5&#160;☯&#160;Farming Wisdom
+16&#160;&#xe022;&#160;Speed
+16&#160;&#xe051;&#160;Farming Fortune | 6&#160;☯&#160;Farming Wisdom
+20&#160;&#xe022;&#160;Speed
+20&#160;&#xe051;&#160;Farming Fortune | 7&#160;☯&#160;Farming Wisdom
+25&#160;&#xe022;&#160;Speed
+25&#160;&#xe051;&#160;Farming Fortune
+
+| Bountiful | [Golden Ball] &#160;Golden Ball | Bountiful Bonus
+Earn +0.2 Coins every time you harvest a Crop.
+| 1&#160;&#xe022;&#160;Speed
+1&#160;&#xe051;&#160;Farming Fortune | 2&#160;&#xe022;&#160;Speed
+2&#160;&#xe051;&#160;Farming Fortune | 3&#160;&#xe022;&#160;Speed
+3&#160;&#xe051;&#160;Farming Fortune | 5&#160;&#xe022;&#160;Speed
+5&#160;&#xe051;&#160;Farming Fortune | 8&#160;&#xe022;&#160;Speed
+7&#160;&#xe051;&#160;Farming Fortune | 13&#160;&#xe022;&#160;Speed
+10&#160;&#xe051;&#160;Farming Fortune | 20&#160;&#xe022;&#160;Speed
+13&#160;&#xe051;&#160;Farming Fortune
+
+| Deep Fried | [Hashbrown] &#160;Hashbrown | Deep Fried Bonus
+Find Seasonings 25% more often during the Feast.
+| 3&#160;&#xe051;&#160;Farming Fortune | 6&#160;&#xe051;&#160;Farming Fortune | 10&#160;&#xe051;&#160;Farming Fortune | 15&#160;&#xe051;&#160;Farming Fortune | 20&#160;&#xe051;&#160;Farming Fortune | 25&#160;&#xe051;&#160;Farming Fortune | 30&#160;&#xe051;&#160;Farming Fortune
+
+| Overpriced | [Overpriced Drink] &#160;Overpriced Drink | | 5&#160;&#xe051;&#160;Farming Fortune
+1&#160;&#xe02b;&#160;Overbloom | 10&#160;&#xe051;&#160;Farming Fortune
+2&#160;&#xe02b;&#160;Overbloom | 15&#160;&#xe051;&#160;Farming Fortune
+3&#160;&#xe02b;&#160;Overbloom | 20&#160;&#xe051;&#160;Farming Fortune
+5&#160;&#xe02b;&#160;Overbloom | 25&#160;&#xe051;&#160;Farming Fortune
+7&#160;&#xe02b;&#160;Overbloom | 30&#160;&#xe051;&#160;Farming Fortune
+9&#160;&#xe02b;&#160;Overbloom | 35&#160;&#xe051;&#160;Farming Fortune
+12&#160;&#xe02b;&#160;Overbloom
+
+### Fishing Rods
+[edit | edit source]
+
+#### Basic
+[edit | edit source]
+
+Fishing Rods can have the same basic reforges as Swords can.
+
+#### Advanced
+[edit | edit source]
+
+These reforges can only be applied to Fishing Rods through Reforge Stones.
+
+| Reforge Prefix
+
+| Reforge Stone
+
+| Passive Ability
+
+| COMMON
+
+| UNCOMMON
+
+| RARE
+
+| EPIC
+
+| LEGENDARY
+
+| MYTHIC
+
+| Salty | [Salt Cube] &#160;Salt Cube | Salty Bonus
+This gives x2 stats while on  Jerry's Workshop.
+| 0.5&#160;&#xe021;&#160;Sea Creature Chance | 1&#160;&#xe021;&#160;Sea Creature Chance | 1.5&#160;&#xe021;&#160;Sea Creature Chance | 2&#160;&#xe021;&#160;Sea Creature Chance | 3&#160;&#xe021;&#160;Sea Creature Chance | 4&#160;&#xe021;&#160;Sea Creature Chance | 5&#160;&#xe021;&#160;Sea Creature Chance
+
+| Treacherous | [Rusty Anchor] &#160;Rusty Anchor | Treacherous Bonus
+Earn +20% Ice Essence from TREASURE catches.
+| 0.5&#160;&#xe021;&#160;Sea Creature Chance
+0.1&#160;&#xe025;&#160;Treasure Chance
+5&#160;&#xe00d;&#160;Strength | 1&#160;&#xe021;&#160;Sea Creature Chance
+0.2&#160;&#xe025;&#160;Treasure Chance
+10&#160;&#xe00d;&#160;Strength | 1.5&#160;&#xe021;&#160;Sea Creature Chance
+0.3&#160;&#xe025;&#160;Treasure Chance
+15&#160;&#xe00d;&#160;Strength | 2&#160;&#xe021;&#160;Sea Creature Chance
+0.4&#160;&#xe025;&#160;Treasure Chance
+20&#160;&#xe00d;&#160;Strength | 2.5&#160;&#xe021;&#160;Sea Creature Chance
+0.6&#160;&#xe025;&#160;Treasure Chance
+25&#160;&#xe00d;&#160;Strength | 3.5&#160;&#xe021;&#160;Sea Creature Chance
+0.8&#160;&#xe025;&#160;Treasure Chance
+30&#160;&#xe00d;&#160;Strength | 5.5&#160;&#xe021;&#160;Sea Creature Chance
+1&#160;&#xe025;&#160;Treasure Chance
+35&#160;&#xe00d;&#160;Strength
+
+| Stiff | [Hardened Wood] &#160;Hardened Wood | Stiff Bonus
+Sea Creatures killed with this Fishing Rod drop +1 Chum.
+| 1&#160;&#xe021;&#160;Sea Creature Chance
+2&#160;&#xe00d;&#160;Strength | 2&#160;&#xe021;&#160;Sea Creature Chance
+4&#160;&#xe00d;&#160;Strength | 2&#160;&#xe021;&#160;Sea Creature Chance
+6&#160;&#xe00d;&#160;Strength | 3&#160;&#xe021;&#160;Sea Creature Chance
+8&#160;&#xe00d;&#160;Strength | 5&#160;&#xe021;&#160;Sea Creature Chance
+10&#160;&#xe00d;&#160;Strength | 7&#160;&#xe021;&#160;Sea Creature Chance
+12&#160;&#xe00d;&#160;Strength | 9&#160;&#xe021;&#160;Sea Creature Chance
+14&#160;&#xe00d;&#160;Strength
+
+| Lucky | [Lucky Dice] &#160;Lucky Dice | Lucky Bonus
+Treasure catches are 7% more likely to be OUTSTANDING.
+| 0.1&#160;&#xe025;&#160;Treasure Chance
+1&#160;&#xe00c;&#160;Fishing Speed | 0.2&#160;&#xe025;&#160;Treasure Chance
+2&#160;&#xe00c;&#160;Fishing Speed | 0.3&#160;&#xe025;&#160;Treasure Chance
+3&#160;&#xe00c;&#160;Fishing Speed | 0.4&#160;&#xe025;&#160;Treasure Chance
+4&#160;&#xe00c;&#160;Fishing Speed | 0.5&#160;&#xe025;&#160;Treasure Chance
+5&#160;&#xe00c;&#160;Fishing Speed | 0.6&#160;&#xe025;&#160;Treasure Chance
+6&#160;&#xe00c;&#160;Fishing Speed | 0.7&#160;&#xe025;&#160;Treasure Chance
+7&#160;&#xe00c;&#160;Fishing Speed
+
+| Pitchin' | [Pitchin' Koi] &#160;Pitchin' Koi | | 1&#160;&#xe021;&#160;Sea Creature Chance
+1&#160;&#xe00c;&#160;Fishing Speed | 1&#160;&#xe021;&#160;Sea Creature Chance
+2&#160;&#xe00c;&#160;Fishing Speed | 2&#160;&#xe021;&#160;Sea Creature Chance
+4&#160;&#xe00c;&#160;Fishing Speed | 3&#160;&#xe021;&#160;Sea Creature Chance
+6&#160;&#xe00c;&#160;Fishing Speed | 4&#160;&#xe021;&#160;Sea Creature Chance
+8&#160;&#xe00c;&#160;Fishing Speed | 5&#160;&#xe021;&#160;Sea Creature Chance
+10&#160;&#xe00c;&#160;Fishing Speed | 6&#160;&#xe021;&#160;Sea Creature Chance
+12&#160;&#xe00c;&#160;Fishing Speed
+
+| Chomp | [Kuudra Mandible] &#160;Kuudra Mandible | Chomp Bonus
+Each unique Lava Sea Creature killed with this rod in your inventory reduces their  Health when fished by 1%. Capped at -20% health. Current Reduction: -0% ❤
+| 5&#160;&#xe00d;&#160;Strength
+5&#160;&#xe02c;&#160;Crit Chance
+2&#160;&#xe00c;&#160;Fishing Speed | 10&#160;&#xe00d;&#160;Strength
+10&#160;&#xe02c;&#160;Crit Chance
+3&#160;&#xe00c;&#160;Fishing Speed | 17&#160;&#xe00d;&#160;Strength
+17&#160;&#xe02c;&#160;Crit Chance
+5&#160;&#xe00c;&#160;Fishing Speed | 25&#160;&#xe00d;&#160;Strength
+25&#160;&#xe02c;&#160;Crit Chance
+7&#160;&#xe00c;&#160;Fishing Speed | 35&#160;&#xe00d;&#160;Strength
+35&#160;&#xe02c;&#160;Crit Chance
+9&#160;&#xe00c;&#160;Fishing Speed | 50&#160;&#xe00d;&#160;Strength
+50&#160;&#xe02c;&#160;Crit Chance
+11&#160;&#xe00c;&#160;Fishing Speed | 70&#160;&#xe00d;&#160;Strength
+70&#160;&#xe02c;&#160;Crit Chance
+13&#160;&#xe00c;&#160;Fishing Speed
+
+| Trashy | [Overflowing Trash Can] &#160;Overflowing Trash Can | Trashy Bonus
+Grants +1 Treasure Chance while in the  Backwater Bayou.
+| 0.5&#160;&#xe021;&#160;Sea Creature Chance
+1&#160;&#xe00c;&#160;Fishing Speed | 1&#160;&#xe021;&#160;Sea Creature Chance
+2&#160;&#xe00c;&#160;Fishing Speed | 1.5&#160;&#xe021;&#160;Sea Creature Chance
+3&#160;&#xe00c;&#160;Fishing Speed | 2&#160;&#xe021;&#160;Sea Creature Chance
+4&#160;&#xe00c;&#160;Fishing Speed | 3&#160;&#xe021;&#160;Sea Creature Chance
+6&#160;&#xe00c;&#160;Fishing Speed | 4&#160;&#xe021;&#160;Sea Creature Chance
+8&#160;&#xe00c;&#160;Fishing Speed | 5&#160;&#xe021;&#160;Sea Creature Chance
+10&#160;&#xe00c;&#160;Fishing Speed
+
+### Axes
+[edit | edit source]
+
+#### Basic
+[edit | edit source]
+
+These reforges can be applied to Axes through the [A sprite icon representing Blacksmith in Hypixel SkyBlock] Blacksmith.
+
+| Reforge Prefix
+
+| COMMON
+
+| UNCOMMON
+
+| RARE
+
+| EPIC
+
+| LEGENDARY
+
+| MYTHIC
+
+| Double-Bit | 1&#160;&#xe054;&#160;Foraging Fortune
+1&#160;&#xe022;&#160;Speed | 2&#160;&#xe054;&#160;Foraging Fortune
+2&#160;&#xe022;&#160;Speed | 3&#160;&#xe054;&#160;Foraging Fortune
+3&#160;&#xe022;&#160;Speed | 4&#160;&#xe054;&#160;Foraging Fortune
+5&#160;&#xe022;&#160;Speed | 5&#160;&#xe054;&#160;Foraging Fortune
+7&#160;&#xe022;&#160;Speed | 6&#160;&#xe054;&#160;Foraging Fortune
+9&#160;&#xe022;&#160;Speed | 6&#160;&#xe054;&#160;Foraging Fortune
+9&#160;&#xe022;&#160;Speed
+
+| Lumberjack's | 1&#160;&#xe022;&#160;Speed | 2&#160;&#xe022;&#160;Speed | 3&#160;&#xe022;&#160;Speed | 5&#160;&#xe022;&#160;Speed | 7&#160;&#xe022;&#160;Speed | 9&#160;&#xe022;&#160;Speed | 11&#160;&#xe022;&#160;Speed
+
+| Great | 2&#160;&#xe00d;&#160;Strength
+2&#160;&#xe007;&#160;Crit Damage
+1&#160;&#xe022;&#160;Speed | 4&#160;&#xe00d;&#160;Strength
+4&#160;&#xe007;&#160;Crit Damage
+2&#160;&#xe022;&#160;Speed | 6&#160;&#xe00d;&#160;Strength
+6&#160;&#xe007;&#160;Crit Damage
+3&#160;&#xe022;&#160;Speed | 9&#160;&#xe00d;&#160;Strength
+9&#160;&#xe007;&#160;Crit Damage
+4&#160;&#xe022;&#160;Speed | 12&#160;&#xe00d;&#160;Strength
+12&#160;&#xe007;&#160;Crit Damage
+5&#160;&#xe022;&#160;Speed | 16&#160;&#xe00d;&#160;Strength
+16&#160;&#xe007;&#160;Crit Damage
+7&#160;&#xe022;&#160;Speed | 20&#160;&#xe00d;&#160;Strength
+20&#160;&#xe007;&#160;Crit Damage
+9&#160;&#xe022;&#160;Speed
+
+| Rugged | 3&#160;&#xe007;&#160;Crit Damage
+4&#160;&#xe00d;&#160;Strength | 5&#160;&#xe007;&#160;Crit Damage
+6&#160;&#xe00d;&#160;Strength | 8&#160;&#xe007;&#160;Crit Damage
+9&#160;&#xe00d;&#160;Strength | 12&#160;&#xe007;&#160;Crit Damage
+13&#160;&#xe00d;&#160;Strength | 16&#160;&#xe007;&#160;Crit Damage
+18&#160;&#xe00d;&#160;Strength | 22&#160;&#xe007;&#160;Crit Damage
+24&#160;&#xe00d;&#160;Strength | 28&#160;&#xe007;&#160;Crit Damage
+30&#160;&#xe00d;&#160;Strength
+
+| Lush | 1&#160;&#xe054;&#160;Foraging Fortune
+3&#160;&#xe022;&#160;Speed | 1&#160;&#xe054;&#160;Foraging Fortune
+4&#160;&#xe022;&#160;Speed | 2&#160;&#xe054;&#160;Foraging Fortune
+5&#160;&#xe022;&#160;Speed | 2&#160;&#xe054;&#160;Foraging Fortune
+7&#160;&#xe022;&#160;Speed | 3&#160;&#xe054;&#160;Foraging Fortune
+10&#160;&#xe022;&#160;Speed | 5&#160;&#xe054;&#160;Foraging Fortune
+15&#160;&#xe022;&#160;Speed | 7&#160;&#xe054;&#160;Foraging Fortune
+20&#160;&#xe022;&#160;Speed
+
+#### Advanced
+[edit | edit source]
+
+These reforges can only be applied to Axes through Reforge Stones.
+
+| Reforge Prefix
+
+| Reforge Stone
+
+| Passive Ability
+
+| COMMON
+
+| UNCOMMON
+
+| RARE
+
+| EPIC
+
+| LEGENDARY
+
+| MYTHIC
+
+| Moil | [Moil Log] &#160;Moil Log | | 1&#160;&#xe054;&#160;Foraging Fortune | 2&#160;&#xe054;&#160;Foraging Fortune | 3&#160;&#xe054;&#160;Foraging Fortune | 4&#160;&#xe054;&#160;Foraging Fortune | 6&#160;&#xe054;&#160;Foraging Fortune | 8&#160;&#xe054;&#160;Foraging Fortune | 10&#160;&#xe054;&#160;Foraging Fortune
+
+| Toil | [Rotting Branch] &#160;Rotting Branch | | 1&#160;☯&#160;Foraging Wisdom | 2&#160;☯&#160;Foraging Wisdom | 3&#160;☯&#160;Foraging Wisdom | 4&#160;☯&#160;Foraging Wisdom | 6&#160;☯&#160;Foraging Wisdom | 8&#160;☯&#160;Foraging Wisdom | 10&#160;☯&#160;Foraging Wisdom
+
+| Moonglade | [Moonglade Jewel] &#160;Moonglade Jewel | | 4&#160;&#xe054;&#160;Foraging Fortune
+1&#160;☯&#160;Foraging Wisdom | 6&#160;&#xe054;&#160;Foraging Fortune
+2&#160;☯&#160;Foraging Wisdom | 8&#160;&#xe054;&#160;Foraging Fortune
+3&#160;☯&#160;Foraging Wisdom | 10&#160;&#xe054;&#160;Foraging Fortune
+4&#160;☯&#160;Foraging Wisdom | 12&#160;&#xe054;&#160;Foraging Fortune
+5&#160;☯&#160;Foraging Wisdom | 15&#160;&#xe054;&#160;Foraging Fortune
+6&#160;☯&#160;Foraging Wisdom | 18&#160;&#xe054;&#160;Foraging Fortune
+7&#160;☯&#160;Foraging Wisdom
+
+### Fishing Nets
+[edit | edit source]
+
+#### Advanced
+[edit | edit source]
+
+These reforges can only be applied to Fishing Nets through Reforge Stones.
+
+| Reforge Prefix
+
+| Reforge Stone
+
+| Passive Ability
+
+| COMMON
+
+| UNCOMMON
+
+| RARE
+
+| EPIC
+
+| LEGENDARY
+
+| MYTHIC
+
+| Sticky | [Extremely Mild Adhesive] &#160;Extremely Mild Adhesive | Sticky Bonus
+Grants +2.5 Hunting Fortune towards Water Shards.
+| 2.5&#160;&#xe02d;&#160;Pull | 5&#160;&#xe02d;&#160;Pull | 7.5&#160;&#xe02d;&#160;Pull | 10&#160;&#xe02d;&#160;Pull | 15&#160;&#xe02d;&#160;Pull | 20&#160;&#xe02d;&#160;Pull | 25&#160;&#xe02d;&#160;Pull
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Reforging/Tool?oldid=854866"
+
+Hidden categories: 
+- Pages using Speed
+- Pages using Mining Fortune
+- Pages using Mining Speed
+- Pages using Defense
+- Pages using Block Fortune
+- Pages using Mining Wisdom
+- Pages using Breaking Power
+- Pages using Farming Fortune
+- Pages using Farming Wisdom
+- Pages using Overbloom
+- Pages using Sea Creature Chance
+- Pages using Treasure Chance
+- Pages using Strength
+- Pages using Fishing Speed
+- Pages using Crit Chance
+- Pages using Foraging Fortune
+- Pages using Crit Damage
+- Pages using Foraging Wisdom
+- Pages using Pull
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Page
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+3h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+- View buckets
+
+- This page was last edited on 8 October 2026, at 18:25.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

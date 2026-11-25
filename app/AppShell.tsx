@@ -8,6 +8,8 @@ import { useState, type ReactNode } from "react";
 import styles from "./AppShell.module.css";
 import { NAV, WIDE_PATHS, type NavItem } from "./navigation";
 import { useProfile } from "./profile/ProfileProvider";
+import logoTree from "./logo-tree.png";
+import logoMark from "./icon.png"; // das urspruengliche Logo (gleiche Datei wie das Browser-Symbol)
 import ThemePicker from "./ThemePicker";
 
 export default function AppShell({ children }: { children: ReactNode }) {
@@ -81,6 +83,14 @@ export default function AppShell({ children }: { children: ReactNode }) {
       data-wide={WIDE_PATHS.includes(pathname)}
       data-xwide={pathname.startsWith("/profile/skills/") || pathname.startsWith("/profile/guides/")}
     >
+      {/* Design-Umschalter (Winter / Classic), immer oben rechts */}
+      <div className={styles.themeCorner}>
+        <ThemePicker />
+      </div>
+
+      {/* Hintergrund: Foto je Design, auf der Startseite das schlichte Design (siehe globals.css) */}
+      <div className={styles.pageBg} data-home={pathname === "/"} aria-hidden="true" />
+
       <header className={styles.topbar}>
         {hasProfile && (
           <button
@@ -95,16 +105,13 @@ export default function AppShell({ children }: { children: ReactNode }) {
           </button>
         )}
         <Link href="/" className={styles.brandSmall}>
+          {/* Winter/Test: Baum mit Schneeflocke; Classic: das urspruengliche Logo (je nach Design ein-/ausgeblendet) */}
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img className={styles.logo} src="/logo-mark.png" alt="" width={32} height={32} />
+          <img className={styles.logo} src={logoTree.src} alt="" width={30} height={38} />
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img className={styles.logoClassic} src={logoMark.src} alt="" width={32} height={32} />
           FlawlessSB
         </Link>
-        {/* Ohne Seitenleiste steht die Theme-Wahl hier oben */}
-        {!hasProfile && (
-          <div className={styles.topbarTools}>
-            <ThemePicker />
-          </div>
-        )}
       </header>
 
       {hasProfile && menuOpen && (
@@ -119,8 +126,11 @@ export default function AppShell({ children }: { children: ReactNode }) {
       {hasProfile && (
       <aside id="sidebar" className={styles.sidebar} data-open={menuOpen}>
         <Link href="/" className={styles.brand} onClick={closeMenu}>
+          {/* Winter/Test: Baum mit Schneeflocke; Classic: das urspruengliche Logo (je nach Design ein-/ausgeblendet) */}
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img className={styles.logo} src="/logo-mark.png" alt="" width={36} height={36} />
+          <img className={styles.logo} src={logoTree.src} alt="" width={76} height={96} />
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img className={styles.logoClassic} src={logoMark.src} alt="" width={32} height={32} />
           FlawlessSB
         </Link>
 
@@ -129,10 +139,6 @@ export default function AppShell({ children }: { children: ReactNode }) {
             {NAV.map((item) => renderNode(item, 0))}
           </ul>
         </nav>
-
-        <div className={styles.sidebarFoot}>
-          <ThemePicker />
-        </div>
       </aside>
       )}
 

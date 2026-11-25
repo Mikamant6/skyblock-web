@@ -1,0 +1,447 @@
+Tutorial:Ironman Guide - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Tutorial:Ironman Guide
+
+From Hypixel SkyBlock Wiki
+
+Jump to navigation
+Jump to search
+
+- This tutorial is a guide.
+
+- This tutorial has been assembled by members of the community as a helpful resource or Tutorial, instructing players on SkyBlock, and thus is not official.
+
+- If you see missing, incorrect or out of date information, please help by contributing to the page.
+
+## Contents
+
+- 1 Introduction
+
+- 2 Foreword
+
+- 3 Getting Started
+
+- 3.1 Fresh Profile
+
+- 3.2 Cheap Upgrades
+
+- 3.3 The Dwarven Mines - Mining Progression
+
+- 3.4 The End Island - Combat Progression
+
+- 4 Next Steps
+
+- 4.1 Combat
+
+- 4.1.1 Slayers
+
+- 4.1.1.1 Zombie Slayer
+
+- 4.1.1.2 Spider Slayer
+
+- 4.1.1.3 Wolf Slayer
+
+- 4.1.2 Further End Progression
+
+- 4.1.3 Dungeons
+
+- 4.1.4 Crimson Isle
+
+- 4.2 Farming
+
+- 4.3 Mining
+
+- 4.4 Foraging
+
+- 4.4.1 Moonglade Marsh
+
+- 4.4.2 Torrhus Canyon
+
+- 4.5 Fishing
+
+## Introduction
+[edit | edit source]
+
+An ♲&#160;Ironman (or Iman) profile is a unique way to play SkyBlock. It makes the game harder in three distinct ways:
+
+- The Bazaar is closed, with the exception of &#160;Booster Cookies.
+
+- The &#xe067; Auction House is closed, with the exception of the Cosmetics tab
+
+- You cannot trade between players, unless it is with players on your Co-op.
+
+These elements are key parts of progression on a normal profile, and the way you play the game changes drastically when these restrictions are imposed. The purpose of this guide is to help you with your Ironman journey, and make sure that you progress in the game well.
+
+## Foreword
+[edit | edit source]
+
+Playing on an Ironman profile requires a lot of time and determination. You will often get unlucky and have to grind at the same point of the game for many hours. It is not advised for an Ironman to be your first profile, as grinding as efficiently as possible and knowing optimal progression paths requires a deep knowledge of the game. However, accomplishing goals often gives a greater sense of accomplishment than on a Classic profile.
+
+## Getting Started
+[edit | edit source]
+
+### Fresh Profile
+[edit | edit source]
+
+This section goes over your starting Weapon, Tools, Armor, and unlocking &#160;Carpentry and &#160;Taming.
+
+When you spawn in on your &#xe067; Private Island, do /hub. Head over to the [A sprite icon representing Bartender in Hypixel SkyBlock] Bartender, and start his quest. This involves you killing [A sprite icon representing Graveyard Zombie in Hypixel SkyBlock] Graveyard Zombies in the &#xe067; Graveyard. Upon starting the quest you'll receive a free Undead Sword. Kill Zombies until you unlock the &#xe067; Spider's Den at &#160;Combat&#160;I (1). Buy the &#160;Rogue Sword from the [A sprite icon representing Weaponsmith in Hypixel SkyBlock] Weaponsmith using the 100 Coins you just got from the &#160;Combat level up, as it allows you to increase your &#xe022;&#160;Speed by using &#xe003;&#160;Mana, which is useful for movement.
+
+You need to talk to 4 NPCs once you arrive on the &#xe067; Spider's Den. First [A sprite icon representing Michael in Hypixel SkyBlock] Michael and [A sprite icon representing Ike in Hypixel SkyBlock] Ike, who will unlock Mob Types. Mob Types can be used to level up &#160;Combat and unlock &#xe067; The End efficiently. Go to Grandma's House, and on the outside of the house talk to [A sprite icon representing Bramass Beastslayer in Hypixel SkyBlock] Bramass Beastslayer to unlock the Bestiary, then head inside and talk to [A sprite icon representing Grandma Wolf in Hypixel SkyBlock] Grandma Wolf to unlock your first pet, the COMMON &#160;Grandma Wolf Pet. Equip it to start levelling up &#160;Taming through the /pets menu. The &#160;Grandma Wolf Pet's perks are always active, unlike most other pets. 
+
+Complete [A sprite icon representing Farmer Rigby in Hypixel SkyBlock] Farmer Rigby's quest using &#160;10&#160;Wheat to get a &#160;Rookie Hoe. Farm &#160;Wheat in the &#xe067; Farm and craft a set of &#160;Farmhand Armor and a [Wheat Minion IV] &#160;Tier IV Wheat Minion. Grab a &#160;Rookie Farming Axe and a &#160;Beginner Agronomy Sack from the [A sprite icon representing Farm Merchant in Hypixel SkyBlock] Farm Merchant and head over to [A sprite icon representing Bea in Hypixel SkyBlock] Bea. Buy the COMMON &#160;Bee Pet for 50 Coins and replace your equipped pet before traveling to &#xe067; The Barn. Sell &#160;Seeds for Coins if needed. Buy [Wool] &#160;64x&#160;Wool from the [A sprite icon representing Husbandry Merchant in Hypixel SkyBlock] Husbandry Merchant in &#xe067; The Barn, then speak with the [A sprite icon representing Farmhand in Hypixel SkyBlock] Farmhand and complete his quest. Collect [Pumpkin] &#160;&#160;Pumpkins to unlock and craft the &#160;Farmer Orb and continue collecting [Wheat] &#160;&#160;Wheat until &#160;Farming&#160;X (10).
+
+Now that you're &#160;Farming&#160;X (10), talk to [A sprite icon representing Jacob in Hypixel SkyBlock] Jacob to unlock Farming Contests and head to the [A sprite icon representing Carpenter in Hypixel SkyBlock] Carpenter in the &#xe067; Foraging Camp. Give him the &#160;Wool you bought earlier, unlocking the &#160;Carpentry skill. If you have a Rank, once you reach &#160;Carpentry&#160;III (3), you will gain access to Quick Crafting.
+
+Go to the [A sprite icon representing Lumber Merchant in Hypixel SkyBlock] Lumber Merchant and buy [Stick] &#160;32x&#160;Sticks, [Wooden Shovel] &#160;2x&#160;Wooden Shovels, a &#160;Beginner Foraging Sack and a &#160;Rookie Foraging Axe. Complete [A sprite icon representing Lumber Jack in Hypixel SkyBlock] Lumber Jack's quest, then go to the [A sprite icon representing Mining Merchant in Hypixel SkyBlock] Mining Merchant and buy [Iron Ingot] &#160;2x&#160;Iron Ingots, a &#160;Beginner Mining Sack and a &#160;Rookie Pickaxe.
+Complete the [A sprite icon representing Blacksmith in Hypixel SkyBlock] Blacksmith's quest, which will teach you how Reforging works. Go to the [A sprite icon representing Librarian in Hypixel SkyBlock] Librarian and buy enough [Experience Bottle] &#160;&#160;Experience Bottles to put Smite V on your &#160;Undead Sword. Travel back to the &#xe067; Spider's Den and give your [Iron Ingot] &#160;&#160;Iron Ingots to [A sprite icon representing Rick in Hypixel SkyBlock] Rick to obtain the &#160;Promising Shovel. Collect gravel until you're at Gravel&#160;IV (4) and have a [Gravel Minion IV] &#160;Tier IV Gravel Minion.
+
+Speak with the [A sprite icon representing Fishing Merchant in Hypixel SkyBlock] Fishing Merchant and purchase &#160;Angler Armor and a &#160;Beginner Fishing Sack. Go talk to [A sprite icon representing Angler Angus in Hypixel SkyBlock] Angler Angus to receive some free &#160;Fish Bait and speak with [A sprite icon representing Fisherwoman Enid in Hypixel SkyBlock] Fisherwoman Enid to get a free [Fishing Rod] &#160;&#160;Fishing Rod. Fish until you're &#160;Fishing&#160;V (5). Start [A sprite icon representing Fisherman Gerald in Hypixel SkyBlock] Fisherman Gerald's quest, and upon completion you will unlock the &#xe067; Backwater Bayou. Continue fishing on the &#xe067; Backwater Bayou, following the Chapters until you can craft a [Lily Pad Minion I] &#160;Lily Pad Minion and [Fishing Minion I] &#160;Fishing Minion. Speak with the [A sprite icon representing Fishing Merchant in Hypixel SkyBlock] Fishing Merchant again to purchase [Raw Cod] &#160;&#160;Raw Cod and [Fishing Rod] &#160;&#160;Fishing Rods to make a few [Fishing Minion I] &#160;Fishing Minions and place them on your Private Island with your [Lily Pad Minion I] &#160;Lily Pad Minion. Claim the items these minions generate regularly, and upgrade them as much as you can.
+
+Minions are a very important feature on Ironman profiles, as they allow you to collect large amounts of resources while you are offline. Minions can be placed on your &#xe067; Private Island and will passively collect resources for you. They are unlocked through most of SkyBlock's Collections. You will start with a base limit of 5, which can be increased by crafting Unique Minions (ie. Minions and their Tiers you, or your Co-op Members, haven't crafted before), and [A sprite icon representing Elizabeth in Hypixel SkyBlock] Elizabeth's Account & Profile Upgrades tab. You can increase their efficiency is through Minion Modifiers, which can increase their Storage space, their speed, make them generate more resources and/or make them Compact their resources, so that they can fit more in the same storage.
+
+After reaching SkyBlock Level 10, players can talk to [A sprite icon representing Susan in Hypixel SkyBlock] Susan in the &#xe067; Community Center to start the account security quest line in which they will earn a free &#160;Booster Cookie. File:Booster Cookies.png&#160;Booster Cookies provide useful buffs and QOL perks, and they last for 4 real life days. Use the &#160;Booster Cookie when you think you will be playing a lot during the next 4 days.
+
+You'll unlock [A sprite icon representing Elizabeth in Hypixel SkyBlock] Elizabeth at SkyBlock Level 3 and can collect 1 free Booster Cookie, 75 free Gems, and start your first Account & Profile Upgrades at her in the &#xe067; Community Center.
+Recommended Priority:
+
+- Profile Upgrades: Minion Slots, Coins Allowance, Guest Limit I, Island Size I
+
+- Account Upgrades: Accessory Bag, Ender Chest II, Armor Wardrobe Slots I, Magic Find, Garden Farming Fortune, Sack of Sacks III
+
+### Cheap Upgrades
+[edit | edit source]
+
+This section goes over early game upgrades that aren't a major time investment.
+
+Head to &#xe067; The Park and use your &#160;Promising Axe to complete [A sprite icon representing Charlie in Hypixel SkyBlock] Charlie's quest. Get a &#160;Spruce Axe, reforge it to Double-Bit, and enchant it with Efficiency V. Do [A sprite icon representing Kelly in Hypixel SkyBlock] Kelly's, [A sprite icon representing Ryan in Hypixel SkyBlock] Ryan's, [A sprite icon representing Melody in Hypixel SkyBlock] Melody's, and [A sprite icon representing Molbert in Hypixel SkyBlock] Molbert's quests to get &#160;Park Armor and the &#160;Campfire Initiate Badge.
+
+You should be at least &#160;Mining&#160;I (1) from completing the [A sprite icon representing Blacksmith in Hypixel SkyBlock] Blacksmith's quest earlier, so you can now head to the first Mining Island, the &#xe067; Gold Mine. Follow and complete the questline here, unlocking the [A sprite icon representing Lazy Miner in Hypixel SkyBlock] Lazy Miner's Pickaxe, which comes pre-enchanted with Smelting Touch I, allowing you to not have to smelt mined ores, although this is only a factor when mining &#160;Iron Ore or &#160;Gold Ore. Craft a &#160;Silverfish Pet.
+
+Head to the second Farming Island, the &#xe067; Mushroom Desert, which is located behind &#xe067; The Barn. talk to any NPCs you see and complete their quests. Then, mine &#160;Sand with your &#160;Promising Shovel, craft a [Sand Minion IV] &#160;Tier IV Sand Minion and continue mining until you reach at least &#160;Mining&#160;V (5), but ideally until &#160;Mining&#160;XII (12). The former of the two unlocks the &#xe067; Deep Caverns, and the latter unlocks the &#xe067; Dwarven Mines. 
+
+In the &#xe067; Deep Caverns, talk to the [A sprite icon representing Lift Operator in Hypixel SkyBlock] Lift Operator and then get to the bottom of the island, however be careful, as the mobs located here can deal surprisingly high amounts of Damage. Dying will result in the loss of 50% of your Coins, so store them in the &#xe067; Bank first. You can also stay in &#xe067; Lapis Quarry and slay [A sprite icon representing Lapis Zombie in Hypixel SkyBlock] Lapis Zombies, since they have 1% chance to drop the first mining armor, &#160;Lapis Armor.
+
+If you choose to grind for it, enchant your sword with Looting III and Luck V. If you need more damage, you can also get enchantments such as Sharpness V, Smite V and Fire Aspect, or reforge your weapon to Sharp. You should also talk to [A sprite icon representing Maxwell in Hypixel SkyBlock] Maxwell and select a Starter Power such as Warrior. To get more Accessory Power, go to the [A sprite icon representing Combat Merchant in Hypixel SkyBlock] Combat Merchant and buy their Accessories for 26,000 Coins in total. Other Accessories you could get are &#160;Feather Talisman, &#160;Potion Affinity Talisman (by farming &#160;Nether Wart next to the [A sprite icon representing Alchemist in Hypixel SkyBlock] Alchemist's house), &#160;Talisman of Coins, &#160;Magnetic Talisman, &#160;Wood Affinity Talisman, &#160;Sea Creature Talisman (by purchasing &#160;Sponges from the [A sprite icon representing Builder in Hypixel SkyBlock] Builder), &#160;Speed Talisman and &#160;Mediocre Ring of Love.
+
+At the &#xe067; Obsidian Sanctuary, you will find [A sprite icon representing Rhys in Hypixel SkyBlock] Rhys. He will ask you for 15 enchanted ores. The best one to get is [Enchanted Redstone] &#160;15x&#160;Enchanted Redstone, since it drops in large quantities, and can be purchased from the [A sprite icon representing Mad Redstone Engineer in Hypixel SkyBlock] Mad Redstone Engineer. The collection is useful, as it lets you harness the power of more Accessories. You may also want to pick up a &#160;Zombie Pickaxe to boost your &#xe053;&#160;Mining Fortune.
+
+### The Dwarven Mines - Mining Progression
+[edit | edit source]
+
+After giving [A sprite icon representing Rhys in Hypixel SkyBlock] Rhys the materials, you will unlock Heart of the Mountain and be warped to &#xe067; Dwarven Mines, the best island for most of the Mining Resources. Be sure to talk to [A sprite icon representing Rhys in Hypixel SkyBlock] Rhys inside the Dwarven Mines, as he will teach you everything you need to know about the island. Following Rhys' advice, head over to [A sprite icon representing Bubu in Hypixel SkyBlock] Bubu and purchase a &#160;Fractured Mithril Pickaxe, which you will need for its &#xe005;&#160;Breaking Power.
+
+Find the locations of [A sprite icon representing Fetchur in Hypixel SkyBlock] Fetchur and [A sprite icon representing Puzzler in Hypixel SkyBlock] Puzzler and be ready to complete their quests once a 2x Powder Event happens, as that will award you 4000&#32;᠅&#8201;Mithril Powder instead of 2000&#32;᠅&#8201;Mithril Powder. Our wiki will tell you what item Fetchur is looking for on his page every day.
+
+Via an Enchantment Table, Enchant your Pickaxes with Efficiency V, Fortune III and Experience III. Sooner or later you will reach &#160;Enchanting&#160;X (10), which unlocks the recipe for &#160;Experimentation Table. Craft it as soon as you can, and do its minigames every day, as it will level your &#160;Enchanting incredibly fast, which will grant you more Experience from every source, including Experience Bottles, and unlock stronger Enchantments, making it one of the most useful Skills to level.
+
+After you are done upgrading your gear, talk to the Dwarven King, who will give you quests called Commissions to do in the &#xe067; Dwarven Mines, awarding HotM XP, &#160;Mining&#160;XP and some ᠅&#8201;Mithril Powder. The first 4 Commissions done every day grant additional 900 HotM XP.
+
+After doing 3 Commissions, you will reach Heart of the Mountain level 2, which grants 2 Tokens of the Mountain, allowing you to pick 2 additional perks in the HotM menu. Pick Mining Fortune and Titanium Insanium, the first of which will grant you more money and the second will make additional Commissions easier.
+
+After finishing 5 Commissions, you will unlock Emissaries and the &#160;Royal Compass as well as a ton of &#160;Mining&#160;XP. Emissaries are in many places throughout the &#xe067; Dwarven Mines, and can be used to claim the rewards from Commissions, saving you some time. The Royal Compass will point to the direction of the nearest Emissary, or the King if he is closer.
+
+Within &#xe067; Royal Mines you will find Pure Ore deposits, which, while not useful for the Commissions, are the best source of Ore Collections, useful for the aforementioned Accessory Bag.
+
+### The End Island - Combat Progression
+[edit | edit source]
+
+Craft a &#160;Cleaver, then travel to the &#xe067; Dungeon Hub, speak to [A sprite icon representing Ophelia in Hypixel SkyBlock] Ophelia and buy a &#160;Super Cleaver for 80,000 Coins. It should also be enchanted and reforged.
+
+Reaching &#xe067; The End requires &#160;Combat&#160;XII (12). Farm [A sprite icon representing Glacite Walker in Hypixel SkyBlock] Glacite Walkers located at the &#xe067; Great Ice Wall, which is directly to the South of &#xe067; The Forge. They have a chance of dropping Glacite Armor, the best Mining armor at this stage of progression, as well as a strong defensive option for early Dungeons. After obtaining full &#160;Glacite Armor, collect Mob Types you may be missing. Magmatic and Woodland can be obtained from [A sprite icon representing Stridersurfer in Hypixel SkyBlock] Stridersurfers in the &#xe067; Moonglade Marsh. Craft a &#160;Roofed Forest Island to get [A sprite icon representing Bat in Hypixel SkyBlock] Bats for the &#160;Bat Talisman and the Airborne Mob Type. The Spooky and Frozen Mob Types are both event dependent with the Spooky Festival and Jerry's Workshop respectively, so make sure to unlock them when the event is on. For any remaining &#160;Combat&#160;XP complete Bestiary Milestones.
+
+When leveling Combat, one thing to keep in mind are Slayers, unlocked through [A sprite icon representing Maddox the Slayer in Hypixel SkyBlock] Maddox the Slayer. Slayers are a way to unlock many strong items, whether it's the &#160;Wand of Healing and the &#160;Radiant Power Orb or the &#160;Terminator and the &#160;SOS Flare. Slaying unique Slayer Bosses also grants ☯&#160;Combat Wisdom, which makes leveling Combat permanently faster.
+
+After reaching &#160;Combat&#160;XII (12), head straight over to &#xe067; The End. Talk to the [A sprite icon representing Lone Adventurer in Hypixel SkyBlock] Lone Adventurer, who tells you everything you need to know about the Island, and offers you a upgrade to your weapon arsenal, the &#160;Void Sword.
+
+You should try to get every piece of &#160;Ender Armor, as it will help you survive the mobs in &#xe067; The End. The 4 main pieces and the &#160;Ender Necklace can be obtained as a 1% and 0.5% drop from [A sprite icon representing Enderman in Hypixel SkyBlock] Enderman respectively. The &#160;Ender Cloak can be obtained as a 1% drop from [A sprite icon representing Seer in Hypixel SkyBlock] Seer, which is located in the &#xe067; Dragon's Nest. The &#160;Ender Belt can be obtained as a 1% drop from [A sprite icon representing Obsidian Defender in Hypixel SkyBlock] Obsidian Defender, also in the &#xe067; Dragon's Nest. And finally, &#160;Ender Gauntlet can be obtained from Ender Nodes.
+
+On &#xe067; The End island, there are few &#160;Purple Hardened Clay blocks emitting purple particles. These are Ender Nodes, and they award special loot when mined. The three important ones for now are &#160;Grand Experience Bottles, &#160;Titanic Experience Bottles and the &#160;Ender Gauntlet. Mining Ender Nodes can sometimes spawn [A sprite icon representing Nest Endermite in Hypixel SkyBlock] Nest Endermites, which deal 750&#160;&#xe050;&#160;Damage, likely too much to survive without &#160;Ender Armor.
+
+However, once you are able to survive them, you can slay them for money, since &#160;Mite Gel, a guaranteed drop, has an NPC sell price of 2,000 Coins per piece. Reforge your equipment to Blended and your armor to Pure or Fierce depending on if you need &#xe02c;&#160;Crit Chance or &#xe050;&#160;Damage. Craft an &#160;Endermite Pet.
+
+Once you have all 8 pieces, talk to the [A sprite icon representing Lone Adventurer in Hypixel SkyBlock] Lone Adventurer once again (you might need to leave and re-enter the island). If you have reached &#160;Combat&#160;XV (15), you can now unlock a new part of the quest, which unlocks the &#160;Dragon Shortbow, a great early-game Shortbow. After being granted the quest, it will rarely drop from [A sprite icon representing Seer in Hypixel SkyBlock] Seers. After receiving it, you are tasked to give it back to the Lone Adventurer, if you do so, [A sprite icon representing Pearl Dealer in Hypixel SkyBlock] Pearl Dealer will give you your own for free.
+
+## Next Steps
+[edit | edit source]
+
+At this point, Skill Progression separates out a lot. This guide will talk about each skill individually, but remember that it is somewhat important to keep a balance between your skills.
+
+### Combat
+[edit | edit source]
+
+#### Slayers
+[edit | edit source]
+
+See also: Tutorial:Slayer Guide
+
+Slayers involve fighting bosses of different Mob Types by talking to [A sprite icon representing Maddox the Slayer in Hypixel SkyBlock] Maddox the Slayer. As you progress in a slayer you will unlock armor and weapons to do the specific slayer more effectively. With your current Ender Armor and other gear, you should be able to comfortably complete Tier II in Zombie, Spider, and Wolf Slayer. Each tier makes the boss stronger and can also give it new abilities.
+
+##### Zombie Slayer
+[edit | edit source]
+
+Zombie Slayer is the simplest of the slayers. The Revenant Horror simply runs towards the player in the first two tiers. Tier III adds an enraged ability that increases the damage and speed considerably after 40 seconds for 12 seconds. Upon completion you will be rewarded with Revenant Flesh. For now, use it to craft a &#160;Zombie Ring, and &#160;Wand of Healing. As you progress in Zombie Slayer you will unlock greater Healing wands.
+
+##### Spider Slayer
+[edit | edit source]
+
+The first two tiers of Spider Slayer are pretty much the same as Zombie Slayer. At Tier 3 the Tarantula Broodfather will spawn egg sacs in the air above it. Use a Shortbow to take care of the eggs to make the boss vulnerable again.
+Upon death you will be rewarded with Tarantula Webs, for now use these to craft a &#160;Spider Ring and a &#160;Recluse Fang.
+
+##### Wolf Slayer
+[edit | edit source]
+
+The first tier is simple enough, but at tier two the Sven Packmaster will start dealing ✷&#160;True Damage, ignoring your &#xe008;&#160;Defense. Upon death you will be rewarded with Wolf Teeth.
+For now, craft a &#160;Red Claw Talisman, &#160;Maddox Batphone and &#160;Radiant Power Orb. 
+
+#### Further End Progression
+[edit | edit source]
+
+See also: Tutorial:Dragon Fights Guide
+
+One of the main features of &#xe067; The End is the Dragons, spawned in the &#xe067; Dragon's Nest with &#160;Summoning Eyes. There are 7 different types of Dragons, each with different amounts of health and different drops. &#160;Summoning Eyes are obtained as a guaranteed drop from [A sprite icon representing Special Zealot in Hypixel SkyBlock] Special Zealots, which have a 1/420 chance to spawn when killing [A sprite icon representing Zealot in Hypixel SkyBlock] Zealots. [Summoning Eye] &#160;8x&#160;Summoning Eyes are required to spawn a Dragon, but you should only place 3 of them. If you place 12th or better, you have a 9% chance of getting an &#160;Aspect of the Dragons. You could also try to get a full set of &#160;Dragon Armor which can be crafted from &#160;Dragon Fragments or obtained from Dragons. If you have started Dungeons already, &#160;Young, &#160;Unstable, &#160;Holy, or &#160;Superior Dragon Fragments can also be obtained from [A sprite icon representing Lost Adventurer in Hypixel SkyBlock] Lost Adventurers. &#160;Wise Dragon Armor is best for use with an &#160;Aspect of the Dragons, but any set is still good. The &#160;Aspect of the End is a sword that is useful for most aspects of the game at every stage, because of its Instant Transmission ability, so it should also be obtained.
+
+#### Dungeons
+[edit | edit source]
+
+This section needs more information. Please help expand it.
+
+See more stubs.
+
+See also: Tutorial:Catacombs Guide
+
+Dungeons unlock at &#160;Combat&#160;XV (15). They are randomly generated sets of rooms that have to be moved through. At the end of each floor, there is a boss.
+
+Dungeons are slightly different on Ironman profiles, due to not being able to purchase armor or weapons from the auction house. Using your &#160;Void Sword and &#160;Ender Armor, you can enter an Entrance run. During your first few Entrance runs, you should use the Mage class, using your Ultimate Ability, Thunderstorm, to kill [A sprite icon representing Lost Adventurer in Hypixel SkyBlock] Lost Adventurers. They drop &#160;Dragon Fragments that can be crafted into &#160;Dragon Armor, specifically, the &#160;Unstable Dragon Armor, &#160;Holy Dragon Armor, &#160;Young Dragon Armor, or &#160;Superior Dragon Armor. After obtaining a full set of one of these armor sets, You should begin to progress through dungeons. You will most likely reach at least Floor III before needing to upgrade either your armor or weapons.
+
+#### Crimson Isle
+[edit | edit source]
+
+This section needs more information. Please help expand it.
+
+See more stubs.
+
+The &#xe067; Crimson Isle is the next Combat island, unlocked at &#160;Combat&#160;XXII (22).
+
+### Farming
+[edit | edit source]
+
+See also: Tutorial:Farming Guide
+
+This section needs more information. Please help expand it.
+
+See more stubs.
+
+At SkyBlock Level 4, the &#xe067; The Garden is unlocked. This is your own personal farm where you can plant crops to harvest in the most efficient way possible. Work through the progression of Farming Armor by crafting your &#160;Farmhand Armor into &#160;Haymaker Armor, then &#160;Sprout Armor, then &#160;Tater Armor. Start with a &#160;Advanced Gardening Hoe or &#160;Advanced Gardening Axe, then buy the specialized Farming Tool for each crop you are farming from Skymart. Complete Jacob's Contests to earn &#160;Jacob's Tickets and upgrade these tools. Continue along the Armor progression, crafting &#160;Cropie Armor, &#160;Squash Armor, &#160;Fermento Armor, and finally &#160;Helianthus Armor.
+
+### Mining
+[edit | edit source]
+
+See also: Tutorial:Mining Guide
+
+Complete commissions until you reaching Heart of the Mountain level 4, which will grant you access to the &#xe067; Crystal Hollows. Talk to [A sprite icon representing Gwendolyn in Hypixel SkyBlock] Gwendolyn to obtain a Crystal Hollows Pass, after which you can enter via the minecart or through a portal on someone else's private island.
+
+In the hollows, try finding the &#xe067; Jungle where you need to kill [A sprite icon representing Sludge in Hypixel SkyBlock] Sludges to obtain &#160;Sludge Juice. After obtaining 200 Sludge Juice, look for [A sprite icon representing Odawa in Hypixel SkyBlock] Odawa to buy a &#160;Jungle Pickaxe. It will be your best pickaxe for a long time.
+
+Now, you should have full &#160;Glacite Armor and a Jungle Pickaxe. Forge a full set of &#160;Mithril Equipment in The Forge and reforge it to Royal using the &#160;Dwarven Treasure reforge stone. With these items and a decent amount of Mithril Powder, you should be able to instantly mine Hard Stone. Mine Hard Stone until you have enough to craft a full set of &#160;Flamebreaker Armor.
+
+Kill [A sprite icon representing Bal in Hypixel SkyBlock] Bal to obtain &#160;Yoggies, then craft your Flamebreaker Armor into &#160;Yog Armor. This armor set is special, as it has a universal Gemstone slot. You will need this later.
+
+Do 4 Crystal Nucleus runs to obtain 4 fine Topaz gemstones and apply them to each piece of your Yog Armor.
+
+### Foraging
+[edit | edit source]
+
+See also: Tutorial:Foraging Guide
+
+#### Moonglade Marsh
+[edit | edit source]
+
+After finishing the main quests in &#xe067; The Park, continue chopping Jungle Wood until you can make a &#160;Treecapitator. &#xe067; Galatea is the main area where you will be Foraging, and it can be unlocked at &#160;Foraging&#160;XII (12). First do the tutorial. Then, chop down Fig Trees with your &#160;Treecapitator until you can craft the &#160;Seriously Damaged Axe you got from [A sprite icon representing Swoop in Hypixel SkyBlock] Swoop into a &#160;Fig Hew. Start using this axe instead of your Treecapitator when in &#xe067; Galatea. Focus on completing Agatha's Contests, as they give lots of Heart of the Forest and &#160;Foraging XP. If you struggle to get the LEGENDARY bracket every time, you should focus on &#160;Lushlilac bushes, as they can give lots of points with little setup. Buy the &#160;Canopy Armor when you have enough money and continue completing Hina's Chapters. Eventually you will upgrade into a &#160;Figstone Splitter and &#160;Fig Armor.
+
+You should already have a &#160;David's Cloak, but you should also get &#160;Mangrove Grippers, &#160;Mangrove Locket and &#160;Moonglade Belt. Try to reach better David's Cloak Milestones, which can be viewed at [A sprite icon representing David Hunterborough in Hypixel SkyBlock] David Hunterborough.
+
+Start collecting the different Attribute Shards that boost &#160;Foraging. These are: &#160;Phanpyre Shard, &#160;Phanflare Shard, &#160;Birries Shard, &#160;Crow Shard, &#160;Sparrow Shard, &#160;Heron Shard, &#160;Bambuleaf Shard, &#160;Seagull Shard, &#160;Mochibear Shard, &#160;Bambloom Shard, &#160;Beaconmite Shard, &#160;Hummingbird Shard, &#160;Bullfrog Shard, &#160;Pandarai Shard and &#160;Gecko Shard.
+
+First Impression is the best Ultimate Enchantment to put on your Axe. It is a rare drop from Tree Gifts. Put at least First Impression II on your Figstone Splitter. You should also put Forest Pledge on your armor.
+
+&#160;Common Foraging Wisdom Boosters, &#160;Common Foraging Fortune Boosters and &#160;Common Sweep Boosters should be applied to your Axe, Armor, and Equipment, as they give stat boosts.
+
+Progress through [A sprite icon representing Agatha in Hypixel SkyBlock] Agatha's Milestones by claiming &#160;Agatha's Coupons from contests. Get a &#160;Frog Pet and upgrade it to LEGENDARY when you unlock the items to do so. Unlock the Fig and Mangrove Personal Best perks from [A sprite icon representing Agatha in Hypixel SkyBlock] Agatha's Shop as soon as you can, and try to max them both. This gives you a 20% &#xe023;&#160;Sweep boost in total, a very powerful buff. The Agatha's Power, Fig Fortune and Mangrove Fortune perks are also useful.
+
+#### Torrhus Canyon
+[edit | edit source]
+
+The next &#160;Foraging Island is the &#xe067; Torrhus Canyon, which unlocks at HOTF 4. The Helix Trees here have high ⧉&#160;Toughness, which makes them difficult to break efficiently if you have low &#xe023;&#160;Sweep. It is recommended to harvest some useful Attributes here, then return to &#xe067; Moonglade Marsh until you have at least 280&#160;&#xe023;&#160;Sweep. The most useful attributes from the &#xe067; Torrhus Canyon for the &#xe067; Moonglade Marsh are: &#160;Groundhog Shard, &#160;Treefrog Shard, &#160;Solar Shard, &#160;Ember Shard, &#160;Puck Shard, &#160;Pangolin Shard, &#160;Torrid Shard, &#160;Drybark Shard and &#160;Grizzly Bear Shard. Some of them will be hard to get, and most shouldn't be maxed at this stage.
+
+Once you choose to move to &#xe067; Torrhus Canyon, a similar strategy applies as in &#xe067; Moonglade Marsh, focus on [A sprite icon representing Miria in Hypixel SkyBlock] Miria's Contests. You will upgrade your armor to &#160;Helix Armor, your axe to &#160;Helix Chopper, and your equipment to &#160;Honeycomb Necklace, &#160;Veilshroom Bracelet and &#160;Torrhus Belt, though the equipment may take a while. Apply &#160;Uncommon Foraging Wisdom Booster Upgrades, &#160;Uncommon Foraging Fortune Booster Upgrades and &#160;Uncommon Sweep Booster Upgrades to your gear. Get Petalfall and Karma on your axe, and use &#160;Water Hyacinths on your armor to upgrade Forest Pledge to Tier 6. Focus on getting Foraging related attributes, as many of them are very strong.
+
+### Fishing
+[edit | edit source]
+
+See also: Tutorial:Fishing Guide
+
+This section needs more information. Please help expand it.
+
+See more stubs.
+
+Fishing in the early game often feels very slow due to low &#xe021;&#160;Sea Creature Chance and &#xe00c;&#160;Fishing Speed. It is recommended to put down some [Fishing Minion I] &#160;Fishing Minions and claim the items they generate to level up the &#160;Fishing skill. You can also donate fish to [A sprite icon representing Coral in Hypixel SkyBlock] Coral to get some easy XP. Most of your fishing should be done on the &#xe067; Backwater Bayou or the &#xe067; Lotus Atoll.
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Tutorial:Ironman_Guide?oldid=843305"
+
+Categories: 
+- Community Guides
+- Pages with broken file links
+
+Hidden categories: 
+- Pages using Speed
+- Pages using Mana
+- Pages using Mining Fortune
+- Pages using Breaking Power
+- Pages using Combat Wisdom
+- Pages using Damage
+- Pages using Crit Chance
+- Pages using True Damage
+- Pages using Defense
+- Pages using Sweep
+- Pages using Toughness
+- Pages using Sea Creature Chance
+- Pages using Fishing Speed
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Tutorial
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+2h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+
+- This page was last edited on 17 September 2026, at 13:00.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

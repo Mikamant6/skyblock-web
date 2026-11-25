@@ -1,0 +1,1072 @@
+Tutorial:Right-Click Mage Guide - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Tutorial:Right-Click Mage Guide
+
+From Hypixel SkyBlock Wiki
+
+(Redirected from Tutorial:Mage Guide)
+
+Jump to navigation
+Jump to search
+"Mage guide" redirects here.&#32;For the left-click variant, see Tutorial:Left-Click Mage Guide.
+
+- This tutorial is a guide.
+
+- This tutorial has been assembled by members of the community as a helpful resource or Tutorial, instructing players on SkyBlock, and thus is not official.
+
+- If you see missing, incorrect or out of date information, please help by contributing to the page.
+
+The Right-Click Mage is a subsect of the Mage class within Dungeons that focuses heavily on Abilities, &#xe003;&#160;Intelligence, and &#xe002;&#160;Ability Damage. They often depend on using their abilities to attack, hence the name Right-Click, as opposed to Left-Click Mages who use the Mage Staff ability to attack. This guide will refer to them purely as Mages for the sake of brevity.
+
+Unlike Berserks and Archers, Mages do not rely on &#xe00d;&#160;Strength or &#xe007;&#160;Crit Damage to increase their damage output: instead, they increase their &#xe003;&#160;Intelligence. This is important because &#xe002;&#160;Ability Damage scales with &#xe003;&#160;Intelligence.
+
+Mages often lack &#xe008;&#160;Defense and &#xe010;&#160;Effective Health, reducing their survivability: as a result, this guide will also suggest gear that grants high &#xe010;&#160;Effective Health and survivability while sacrificing &#xe003;&#160;Intelligence, which can be made up for using the Necrotic reforge in most cases.
+
+Before you read this guide, it is important to note Magical Power. Arguably the most important and often overlooked stat in the game, you should have around 300 between Floors 1-3, 550 by Floors 5 and 6, 700 by Floor 7, 950 by Master Mode F3, 1200 by Master Mode F5, and at least 1500 by Master Mode F7. You increase your Magical Power by having Accessories in your Accessory Bag, and harness it by using Accessory Powers. 
+
+Because Mage can be expensive or difficult to use early-game, it is advised to use the Berserk class until you have completion of The Catacombs - Floor IV. It is also highly advised to not rush entering the Catacombs.
+
+## Contents
+
+- 1 Recommended Weapons
+
+- 2 Recommended Armor Sets
+
+- 3 Recommended Equipment
+
+- 4 Recommended Utility Items
+
+- 5 Recommended Pets
+
+- 6 Recommended Modifiers
+
+- 6.1 Enchantments
+
+- 6.2 Reforges
+
+- 6.2.1 Weapons
+
+- 6.2.2 Armor
+
+- 6.3 Accessory Powers
+
+- 6.4 Attributes
+
+- 7 References
+
+## Recommended Weapons
+[edit | edit source]
+
+| Status
+| Slot
+| Name
+| Requirements
+| Notes
+
+| Early Game
+
+| [Dreadlord Sword] 
+
+| [Dreadlord Sword] &#160;Dreadlord Sword
+
+| &#160;Catacombs&#160;III (3)
+
+| The [Dreadlord Sword] &#160;Dreadlord Sword's Dreadlord ability, which shoots out Wither Skulls, will be very useful in very early floors up to Floor II. It is incredibly cheap and drops relatively frequently from [A sprite icon representing Crypt Dreadlord in Hypixel SkyBlock] Crypt Dreadlords.
+
+| Early Game
+Recommended
+
+| [Bonzo's Staff] 
+
+| [Bonzo's Staff] &#160;Bonzo's Staff
+
+| Floor I completion
+
+| The [Bonzo's Staff] &#160;Bonzo's Staff's Showtime ability, which shoots out balloons that explode on impact, is incredibly useful for clearing out mobs quickly. The balloons will deal knockback to the player, which can be useful as you can use it for mobility in Floor VII as teleportation abilities are disabled there.
+
+| Mid-Game
+Required
+
+| [Spirit Sceptre] 
+
+| [Spirit Sceptre] &#160;Spirit Sceptre
+
+| Floor IV completion
+
+| The [Spirit Sceptre] &#160;Spirit Sceptre grants high &#xe003;&#160;Intelligence, and its Guided Bat ability shoots a bat that follows your aim and explodes, dealing substantial AoE damage, making it extremely efficient for clearing. It is most recommended to complete Floor IV as soon as possible to obtain the [Spirit Sceptre] &#160;Spirit Sceptre.
+
+| Mid-Game
+Alternative
+
+| [Yeti Sword] 
+
+| [Yeti Sword] &#160;Yeti Sword
+
+| &#160;Catacombs&#160;XXII (22) (when dungeonised)
+
+| The [Yeti Sword] &#160;Yeti Sword grants substantially less &#xe003;&#160;Intelligence than most other entries listed: however, when paired with a [Baby Yeti Pet] &#160;Baby Yeti Pet, it gains +150&#160;&#xe050;&#160;Damage, +150&#160;&#xe003;&#160;Intelligence, and a 75% cooldown reduction. Its Terrain Toss ability throws terrain into the direction you are facing. The Yeti Sword is especially useful for killing minibosses and clearing, acting as a budget [Hyperion] &#160;Hyperion: however, while using a Yeti Sword, you are pet-locked to the [Baby Yeti Pet] &#160;Baby Yeti Pet.
+
+| Late-Game
+Alternative
+
+| [Midas Staff] [⚚ Midas Staff] 
+
+| [Midas Staff] &#160;Midas Staff
+
+| &#160;Catacombs&#160;XXV (25) (when dungeonised)
+
+| The [Midas Staff] &#160;Midas Staff is a powerful weapon: its Molten Wave ability casts a wave of gold blocks in the direction you are facing, making it very powerful for clearing and against minibosses. It is incredibly expensive and time-gated, being an exclusive item only obtainable during [A sprite icon representing Scorpius in Hypixel SkyBlock] Scorpius's Darker Auctions event and requiring 250,000,000 Coins coins to utilise to its fullest potential.
+
+| Late-Game
+Required
+
+| [Hyperion] 
+
+| [Hyperion] &#160;Hyperion
+
+| Floor VII completion
+
+| The [Hyperion] &#160;Hyperion is the definitive RCM weapon, granting substantial &#xe003;&#160;Intelligence and increased &#xe003;&#160;Intelligence per Catacombs level: when all Necron's Blade Scrolls are applied, its Wither Impact ability combines the functionalities of [Implosion] &#160;Implosion, [Wither Shield] &#160;Wither Shield, and [Shadow Warp] &#160;Shadow Warp. However, it is also the most expensive weapon on the list, with the [Necron's Handle] &#160;Necron's Handle being typically valued at over 500,000,000 Coins and each Necron's Blade Scroll being valued at over 180,000,000 Coins each.
+
+| Late-Game
+Alternative
+
+| [Astraea] 
+
+| [Astraea] &#160;Astraea
+
+| Floor VII completion
+
+| The [Astraea] &#160;Astraea is an alternative RCM weapon for mages who lack survivability, having the same Wither Impact ability as the [Hyperion] &#160;Hyperion but providing additional &#xe008;&#160;Defense rather than &#xe003;&#160;Intelligence.
+
+## Recommended Armor Sets
+[edit | edit source]
+
+| Status
+| Slot
+| Name
+| Requirements
+| Notes
+
+| Early-Game
+Required
+
+| [Wise Dragon Helmet] [Wise Dragon Chestplate] [Wise Dragon Leggings] [Wise Dragon Boots] 
+
+| [Wise Dragon Helmet] &#160;Wise Dragon Armor
+
+| &#160;Combat&#160;XVI (16)
+&#160;Catacombs&#160;XII (12) (when dungeonised)
+
+| [Wise Dragon Helmet] &#160;Wise Dragon Armor is useful for Mages who are just starting out. It grants +350&#160;&#xe003;&#160;Intelligence, as well as decent &#xe010;&#160;Effective Health, as well as reducing the Mana costs of abilities by 33%: however, you won't be able to use it to its fullest potential in the early-game, due to its relatively high dungeonising requirement.
+
+| Early -Game
+Required
+
+| [Dark Goggles] 
+
+| [Dark Goggles] &#160;Dark Goggles
+
+| 
+
+| [Dark Goggles] &#160;Dark Goggles will likely be your first true source of &#xe002;&#160;Ability Damage. This upgrades into the [Shadow Goggles] &#160;Shadow and [Wither Goggles] &#160;Wither Goggles, which you should swap out your helmet for due to its &#xe002;&#160;Ability Damage bonus.
+
+| Early-Game
+Alternative
+
+| [Zombie Soldier Chestplate] [Zombie Soldier Leggings] [Zombie Soldier Boots] 
+
+| [Zombie Soldier Helmet] &#160;Zombie Soldier Armor
+
+| &#160;Catacombs&#160;IX (9)
+
+| [Zombie Soldier Helmet] &#160;Zombie Soldier Armor lacks &#xe003;&#160;Intelligence, but it grants a decent amount of &#xe010;&#160;Health and &#xe008;&#160;Defense for earlier floors. When reforged to Necrotic, it can grant slightly more &#xe003;&#160;Intelligence than a full set of base [Wise Dragon Helmet] &#160;Wise Dragon Armor.
+
+| Early- Game
+Required
+
+| [Shadow Goggles] 
+
+| [Shadow Goggles] &#160;Shadow Goggles
+
+| Floor III completion
+
+| [Shadow Goggles] &#160;Shadow Goggles are purely a stronger version of [Dark Goggles] &#160;Dark Goggles, granting more &#xe003;&#160;Intelligence and &#xe002;&#160;Ability Damage. By this time, you should pair it with 3/4 pieces of dungeonised [Wise Dragon Helmet] &#160;Wise Dragon Armor, since you'll likely have the requirement by now: you will find that you significantly lack &#xe010;&#160;Effective Health, so players could consider using pieces of armor like [Zombie Soldier Helmet] &#160;Zombie Soldier Armor or find other ways to heal, like using the [Zombie Sword] &#160;Zombie or [Ornate Zombie Sword] &#160;Ornate Zombie Sword.
+
+| Mid-Game
+Recommended
+
+| [Necromancer Lord Chestplate] [Necromancer Lord Leggings] [Necromancer Lord Boots] 
+
+| [Necromancer Lord Helmet] &#160;Necromancer Lord Armor
+
+| Floor VI completion
+
+| [Necromancer Lord Helmet] &#160;Necromancer Lord Armor, while giving less &#xe003;&#160;Intelligence than [Wise Dragon Helmet] &#160;Wise Dragon Armor, gives substantially more &#xe010;&#160;Health and &#xe008;&#160;Defense, thus having much higher &#xe010;&#160;Effective Health. It is a good option for Mages who are struggling with survivability, and is still capable of having high &#xe003;&#160;Intelligence when reforged to Necrotic.
+
+| Late-Game
+Required
+
+| [Wither Goggles] 
+
+| [Wither Goggles] &#160;Wither Goggles
+
+| Floor VI completion
+
+| [Wither Goggles] &#160;Wither Goggles are the defining Mage helmet, granting substantial &#xe003;&#160;Intelligence and a significant +45&#160;&#xe002;&#160;Ability Damage. You will often use this in place of, for example, a [Storm's Helmet] &#160;Storm's Helmet or [Aurora Helmet] &#160;Aurora Helmet. It is also much cheaper when compared to a [Storm's Helmet] &#160;Storm's Helmet, and is the best setup for RCM when paired with 3/4 pieces of [Storm's Helmet] &#160;Storm's Armor.
+
+| Late-Game
+Required
+
+| [Storm's Chestplate] [Storm's Leggings] [Storm's Boots] 
+
+| [Storm's Helmet] &#160;Storm's Armor
+
+| Floor VII completion
+
+| [Storm's Helmet] &#160;Storm's Armor is the defining armor set for all Mages, granting a base 1050&#160;&#xe003;&#160;Intelligence when paired with [Wither Goggles] &#160;Wither Goggles. It grants a lot of &#xe003;&#160;Intelligence, though it lacks &#xe010;&#160;Effective Health. It is not recommended to pair [Maxor's Boots] &#160;Maxor's Boots with [Storm's Helmet] &#160;Storm's Armor, and you should tune your Tuning Points to &#xe022;&#160;Speed instead.
+
+## Recommended Equipment
+[edit | edit source]
+
+| Status
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| Recommended
+
+| [Balloon Snake] 
+
+| [Balloon Snake] &#160;Balloon Snake
+
+| Floor I completion
+
+| The [Balloon Snake] &#160;Balloon Snake grants decent &#xe003;&#160;Intelligence and Jump Boost II while equipped, allowing for better mobility.
+
+| Optional
+
+| [Rift Necklace] 
+
+| [Rift Necklace] &#160;Rift Necklace
+
+| [Supreme Timecharm] &#160;Supreme Timecharm secured
+
+| The [Rift Necklace] &#160;Rift Necklace, despite not being a dungeonised piece of equipment, possesses a high amount of &#xe010;&#160;Health and &#xe003;&#160;Intelligence for a decently low requirement. It is recommended to use it for the early game if you have progressed far enough in the Rift Dimension, but should be replaced once you obtain a [Bone Necklace] &#160;Bone Necklace.
+
+| Universal
+
+| [Implosion Belt] 
+
+| [Implosion Belt] &#160;Implosion Belt
+
+| Sulphur&#160;IX (9)
+
+| The [Implosion Belt] &#160;Implosion Belt is incredibly useful as it affects Implosion and Wither Impact, making it better than an [Adaptive Belt] &#160;Adaptive Belt for clearing and during blood rush. You can swap to an [Adaptive Belt] &#160;Adaptive Belt during the bossfight.
+
+| Universal
+
+| [Shadow Assassin Cloak] 
+
+| [Shadow Assassin Cloak] &#160;Shadow Assassin Cloak
+
+| Floor V completion
+
+| The [Shadow Assassin Cloak] &#160;Shadow Assassin Cloak may seem unassuming at first, but once upgraded and properly reforged, it can be very useful. Its perk, allowing you to deal +10% more damage within 5s of your last teleport, can be very useful as you will always have an [Aspect of the End] &#160;Aspect of the End or [Aspect of the Void] &#160;Void in your inventory: do note that teleportation is disabled in the bossfight of Floor VII.
+
+| Universal
+
+| [Gauntlet of Contagion] 
+
+| [Gauntlet of Contagion] &#160;Gauntlet of Contagion
+
+| &#160;Combat&#160;XXII (22)
+
+| The [Gauntlet of Contagion] &#160;Gauntlet of Contagion are one of the best Gloves while inside the Catacombs: It's ability to deal AOE damage makes it very strong during clear and Storm phase. Despite it's nerf, the [Gauntlet of Contagion] &#160;Gauntlet of Contagion remains optimal for clear.
+
+## Recommended Utility Items
+[edit | edit source]
+
+| Status
+| Slot
+| Name
+| Requirements
+| Notes
+
+| Early-Game
+Required
+
+| [Wand of Mending] 
+
+| [Wand of Mending] &#160;Wand of Mending
+
+| Zombie Slayer&#160;III (3)
+
+| The [Wand of Mending] &#160;Wand of Mending, [Wand of Restoration] &#160;Wand of Restoration, and [Wand of Atonement] &#160;Wand of Atonement are useful for healing in Dungeons early game, greatly increasing your &#xe010;&#160;Health regeneration per second. It is useful in a pinch, especially since Mage gear often lacks survivability.
+
+| [Wand of Restoration] 
+
+| [Wand of Restoration] &#160;Wand of Restoration
+
+| Zombie Slayer&#160;VI (6)
+
+| [Wand of Atonement] 
+
+| [Wand of Atonement] &#160;Wand of Atonement
+
+| Zombie Slayer&#160;VII (7)
+
+| Early-Game
+
+| [Ornate Zombie Sword] 
+
+| [Ornate Zombie Sword] &#160;Ornate Zombie Sword
+
+| &#160;Catacombs&#160;XVIII (18) (when dungeonised)
+
+| The [Ornate Zombie Sword] &#160;Ornate and [Florid Zombie Sword] &#160;Florid Zombie Sword are also useful for healing in Dungeons, similar to the aforementioned Wands: its Instant Heal ability allow you to quickly heal back to most of your &#xe010;&#160;Health when taking a lot of damage. It is also relatively cheap, with the [Florid Zombie Sword] &#160;Florid Zombie Sword costing ???&#160;coins.
+
+| [Florid Zombie Sword] 
+
+| [Florid Zombie Sword] &#160;Florid Zombie Sword
+
+| Universal
+
+| [Bonzo's Mask] 
+
+| [Bonzo's Mask] &#160;Bonzo's Mask
+
+| The Catacombs - Floor I completion
+
+| The [Bonzo's Mask] &#160;Bonzo's Mask is incredibly useful for preventing you from dying, with its Clownin' Around ability granting damage immunity and health replenishment on death. It is advised to have one of these for the Floor VI and VII bossfights.
+
+| Late-Game
+
+| [Spirit Mask] [⚚ Spirit Mask] 
+
+| [Spirit Mask] &#160;Spirit Mask
+
+| &#160;Catacombs&#160;XV (15)
+
+| The [Spirit Mask] &#160;Spirit Mask is incredibly useful especially when used in tandem with the [Bonzo's Mask] &#160;Bonzo's Mask, since you can use its Second Wind ability while the Clownin' Around ability is on cooldown. It is very cheap to craft the [Spirit Mask] &#160;Spirit Mask into its upgraded form, which heals you for 100 + 3% of your maximum &#xe010;&#160;Health. The [Spirit Mask] &#160;Spirit Mask is considered a stronger version of the [Bonzo's Mask] &#160;Bonzo's Mask.
+
+| Late-Game
+
+| [Wither Cloak Sword] 
+
+| [Wither Cloak Sword] &#160;Wither Cloak Sword
+
+| The Catacombs - Floor VII completion
+
+| The [Wither Cloak Sword] &#160;Wither Cloak Sword's Creeper Veil ability is useful for blocking damage. It is best used when trying to block attacks that have the capability to instantly kill you, like [A sprite icon representing Storm in Hypixel SkyBlock] Storm's Giga Lightning (This does not work in Master Mode). Creeper Veil is best used while "dooring" during blood rush.
+
+## Recommended Pets
+[edit | edit source]
+
+A good Pet is important for both clearing, survivability, and efficient Mage progression.
+
+| Status
+| Slot
+| Name
+| Requirements
+| Notes
+
+| Early-Game
+
+| [Sheep Pet] 
+
+| [Sheep Pet] &#160;Sheep Pet
+
+| Raw Mutton&#160;III (3)
+
+| The [Sheep Pet] &#160;Sheep Pet is a viable pet during the early game and midgame, and is still the best budget option for Mages who may not be able to afford a [Golden Dragon Pet] &#160;Golden Dragon Pet. Its Mana Saver ability reduces Mana costs by 20% across the board, enabling players to use their abilities to deal damage more efficiently, and its Dungeon Wizard ability increases your maximum &#xe003;&#160;Mana by 25%.
+
+| Mid-Game
+
+| [Crow Pet] 
+
+| [Crow Pet] &#160;Crow Pet
+
+| Moonflower&#160;IV (4)
+
+| The [Crow Pet] &#160;Crow Pet is a very useful pet, almost acting as a better version of the [Sheep Pet] &#160;Sheep Pet. Its Camouflage perk almost acts like a version of Refrigerate, granting increased &#xe008;&#160;Defense upon casting an ability, which is excellent for survivability: its other perks, Quick Hands and Insightful, reduces the cooldowns of abilities and grants a chance to not consume mana respectively. However, it is obtained from late-game &#160;Farming through The Garden, meaning it is not very accessible.
+
+| Mid-Game
+
+| [Blue Whale Pet] 
+
+| &#160;Blue Whale Pet
+
+| 
+
+| The &#160;Blue Whale Pet provides crucial bulk for Floor VI and VII. It is difficult to survive the high DPS bossfights with a Sheep or Crow; the LEGENDARY version provides massive amounts of &#xe010;&#160;Effective Health.
+
+| Late-Game
+
+| [Golden Dragon Pet] 
+
+| [Golden Dragon Pet] &#160;Golden Dragon Pet
+
+| 
+
+| Although the [Golden Dragon Pet] &#160;Golden Dragon Pet is mainly geared towards Berserks and Archers with its boosts towards &#xe00d;&#160;Strength and &#xe007;&#160;Crit Damage, its Legendary Treasure perk grants a +250%&#160;&#xe050;&#160;Damage increase, which affects magic damage. With 1,000,000,000 Coins coins stored in the bank, this pet allows Mages to achieve incredibly high &#xe050;&#160;Damage: its main drawback, of course, is its price.
+
+The Pet Item you want to put on your Pet is entirely up to you, but a few recommended ones are below.
+
+| Slot
+| Name
+| Requirements
+| Notes
+
+| [Textbook] 
+
+| [Textbook] &#160;Textbook
+
+| Lapis Lazuli&#160;X (10)
+
+| The [Textbook] &#160;Textbook increases your active Pet's &#xe003;&#160;Intelligence by +100%, making it incredibly useful in the early game.
+
+| [Spooky Cupcake] 
+
+| [Spooky Cupcake] &#160;Spooky Cupcake
+
+| 
+
+| The [Spooky Cupcake] &#160;Spooky Cupcake is currently the only &#xe022;&#160;Speed boosting pet item, and is best used on a [Golden Dragon Pet] &#160;Golden Dragon Pet.
+
+| [Hephaestus Relic] 
+
+| [Hephaestus Relic] &#160;Hephaestus Relic
+
+| 
+
+| The [Minos Relic] &#160;Minos and [Hephaestus Relic] &#160;Hephaestus Relic are incredibly useful for increasing all stats on your active pet by +33.3% and +50% respectively: in some cases, this may be worse than a [Textbook] &#160;Textbook for &#xe003;&#160;Intelligence, but it most importantly also affects &#xe002;&#160;Ability Damage.
+
+## Recommended Modifiers
+[edit | edit source]
+
+### Enchantments
+[edit | edit source]
+
+Given that high &#xe003;&#160;Intelligence and &#xe002;&#160;Ability Damage is crucial for Mages, it is important to select Enchantments that both work with ability damage instead of melee damage and increase both stats. It is best to put as many enchantments are you can on your weapons, and there are some you should use over others.
+
+| Enchantment
+| Notes
+
+| Weapons
+
+| Smite
+
+| Smite is very effective against &#xe084;&#160;Undead mobs, which make up the bulk of the Catacombs.
+You can still put Sharpness with Smite on the weapon that you use&#91;1&#93;.
+
+| Life Steal
+
+| While Drain is far superior for melee damage, it does not work on magic damage, meaning you should use Life Steal instead.
+
+| Armor
+
+| Mana Vampire
+
+| These 4 mutually exclusive enchants will be very useful as you will be using &#xe003;&#160;Mana very often as a Mage, meaning that you will be able to receive a lot of healing, &#xe008;&#160;Defense, &#xe00d;&#160;Strength, or &#xe00b;&#160;Ferocity.
+
+| Hardened Mana
+
+| Strong Mana
+
+| Ferocious Mana
+
+| Big Brain
+
+| Big Brain is good for getting as much &#xe003;&#160;Intelligence as you can, but its main glaring drawback is its large price, which comes naturally with being obtained from the Dark Auction.
+
+A good Ultimate Enchantment is also vital for decent survivability and efficient Mage progression.
+
+| Enchantment
+| Notes
+
+| Weapons
+
+| Swarm
+
+| Swarm greatly increases your damage depending on how many enemies are close to you, making it great for clearing.
+
+| Chimera
+
+| Chimera grants +100% of your active Pet's base stats on your weapon: paired with a pet granting high &#xe003;&#160;Intelligence or &#xe002;&#160;Ability Damage, like a [Crow Pet] &#160;Crow or [Sheep Pet] &#160;Sheep Pet, this can increase your damage output drastically. Unfortunately, it is also very expensive (costing billions), and is ineffective with the [Golden Dragon Pet] &#160;Golden Dragon Pet, making it worse than Swarm or Combo.
+
+| Ultimate Wise
+
+| Ultimate Wise is very commonly used on most Mage weapons to minimise the &#xe003;&#160;Mana costs of the abilities, which is very convenient as you'll mostly be using them for damage as RCM.
+
+| Armor
+
+| Refrigerate
+
+| Refrigerate should be applied onto your [Wither Goggles] &#160;Wither Goggles for slightly higher &#xe008;&#160;Defense, which translates to higher &#xe010;&#160;Effective Health and thus better survivability.
+
+| Wisdom
+
+| Wisdom is useful for increased &#xe003;&#160;Intelligence and maximum &#xe003;&#160;Intelligence, but late-game will be outclassed by Legion.
+
+| Legion
+
+| Legion is a useful Ultimate Enchantment for Armor, granting increased Combat Stats and &#xe01a;&#160;Magic Find per player near you, which is vital for stats like &#xe003;&#160;Intelligence and &#xe002;&#160;Ability Damage.
+
+### Reforges
+[edit | edit source]
+
+#### Weapons
+[edit | edit source]
+
+| Status
+| Slot
+| Name
+| Notes
+
+| Universal
+
+| 
+
+| Heroic
+
+| Heroic is the universal reforge for almost every Mage weapon, giving the most &#xe003;&#160;Intelligence out of any reforge.
+
+| Late-Game
+
+| [Midas Jewel] 
+
+| [Midas Jewel] &#160;Midas Jewel
+
+Gilded
+
+| Gilded is the best reforge for the [Midas Staff] &#160;Midas Staff, granting increased &#xe00d;&#160;Strength and &#xe050;&#160;Damage, but most importantly a +8&#160;&#xe002;&#160;Ability Damage.
+
+#### Armor
+[edit | edit source]
+
+| Status
+| Slot
+| Name
+| Notes
+
+| Early Game
+
+| 
+
+| Wise
+
+| Wise grants substantial &#xe003;&#160;Intelligence when starting out, making it a good early-game reforge to put on your Mage armor.
+
+| Universal
+
+| [Necromancer's Brooch] 
+
+| [Necromancer's Brooch] &#160;Necromancer's Brooch
+
+Necrotic
+
+| Necrotic grants the most &#xe003;&#160;Intelligence on most armor pieces, and can be used for both maximising your &#xe003;&#160;Intelligence when paired with an armor set that grants high &#xe003;&#160;Intelligence or supplementing &#xe003;&#160;Intelligence on an armor set that sacrifices it for &#xe010;&#160;Effective Health.
+
+| Universal
+
+| [Red Scarf] 
+
+| [Red Scarf] &#160;Red Scarf
+
+Loving
+
+| Loving is a reforge that should always be applied on the chestplate you use in your Mage setup: while it grants less &#xe003;&#160;Intelligence than Necrotic, it grants 5% more &#xe002;&#160;Ability Damage, which is an invaluable bonus that is entirely worth the tradeoff.
+
+### Accessory Powers
+[edit | edit source]
+
+Magical Power is arguably the most important stat in the game, and you should aim to have 1600 Magical Power by the time you enter Master Mode - Floor VII.
+
+| Status
+| Slot
+| Name
+| Notes
+
+| Early Game
+
+| [Ender Monocle] 
+
+| [Ender Monocle] &#160;Ender Monocle
+
+Sighted
+
+| The Sighted Power is both incredibly cheap and easy to obtain, and grants a lot of &#xe003;&#160;Intelligence as well as +3&#160;&#xe002;&#160;Ability Damage.
+
+| Late Game
+
+| [Luxurious Spool] 
+
+| [Luxurious Spool] &#160;Luxurious Spool
+
+Silky
+
+| The Silky Power is the best for Mages, heavily increasing your &#xe007;&#160;Crit Damage and granting &#xe022;&#160;Speed. It is less useful than Bizarre for RCM, but because accessory power cannot be changed mid-dungeon and Silky is better for LCM it should be used late game.
+
+| Late Game
+
+| [Eccentric Painting] 
+
+| [Eccentric Painting] &#160;Eccentric Painting
+
+Bizarre
+
+| The Bizarre Power is the best for RCM, heavily increasing your &#xe003;&#160;Intelligence and granting more &#xe002;&#160;Ability Damage than Sighted. It is incredibly expensive, only obtainable through the Dark Auction and costing ???&#160;coins to unlock from the Bazaar.
+
+### Attributes
+[edit | edit source]
+
+| Slot
+| Name
+| Notes
+
+| [Mist Shard] 
+
+| [Mist Shard] &#160;Mist Shard
+
+Fog Elemental
+
+| Grants +1-10&#160;&#xe003;&#160;Intelligence, maxing out at +50&#160;&#xe003;&#160;Intelligence with all Elemental Shards maxed out. It's essentially free &#xe003;&#160;Intelligence and is buffed by Echo of Elemental.
+
+| [Tide Shard] 
+
+| [Tide Shard] &#160;Tide Shard
+
+Water Elemental
+
+| [Cascade Shard] 
+
+| [Cascade Shard] &#160;Cascade Shard
+
+Torrent Elemental
+
+| [Cryo Shard] 
+
+| [Cryo Shard] &#160;Cryo Shard
+
+Frost Elemental
+
+| [Blizzard Shard] 
+
+| [Blizzard Shard] &#160;Blizzard Shard
+
+Snow Elemental
+
+| [Starborn Shard] 
+
+| [Starborn Shard] &#160;Starborn Shard
+
+Echo of Elemental
+
+| The Echo of Elemental attribute directly buffs all Elemental attributes by +20%, granting +60&#160;&#xe003;&#160;Intelligence instead of the regular +50&#160;&#xe003;&#160;Intelligence when both are maxed out. It is buffed by the Echo of Echoes attribute.
+
+| [Tiamat Shard] 
+
+| [Tiamat Shard] &#160;Tiamat Shard
+
+Echo of Echoes
+
+| The Echo of Echoes attribute directly buffs all Echo attributes by +50%, making Echo of Elemental grant +30% increases stats on Elemental attributes, allowing all Elemental attributes to grant +75&#160;&#xe003;&#160;Intelligence instead of its original +50&#160;&#xe003;&#160;Intelligence.
+
+| [Caiman Shard] 
+
+| [Caiman Shard] &#160;Caiman Shard
+
+Echo of Ruler
+
+| The Echo of Ruler attribute directly buffs all Ruler attributes by +20%: with Undead Ruler, Skeletal Ruler, and Humanoid Ruler maxed out, you can increase your damage against most mobs in the Catacombs by a wide margin.
+
+| [End Stone Protector Shard] 
+
+| [End Stone Protector Shard] &#160;End Stone Protector Shard
+
+Paramount Fortitude
+
+| The Paramount Fortitude attribute increases your &#xe008;&#160;Defense by +2%, making it very useful for survivability, especially with high &#xe008;&#160;Defense.
+
+| [Taurus Shard] 
+
+| [Taurus Shard] &#160;Taurus Shard
+
+Maximal Torment
+
+| The Maximal Torment attribute increases your &#xe003;&#160;Intelligence by +1%, making it very useful for increased damage, especially with high &#xe003;&#160;Intelligence.
+
+| [Power Dragon Shard] 
+
+| [Power Dragon Shard] &#160;Power Dragon Shard
+
+Elite
+
+| The Elite attribute increases damage against bosses and minibosses by +30%, making it invaluable not only for the boss phase, but also for more damage against stronger minibosses in higher floors of Master Mode like [A sprite icon representing Shadow Assassin in Hypixel SkyBlock] Shadow Assassins and [A sprite icon representing Frozen Adventurer in Hypixel SkyBlock] Frozen Adventurers.
+You can obtain [Power Dragon Shard] &#160;Power Dragon Shards incredibly easily without suffering through lots of floors of Master Mode - Floor VII by placing Huntraps in the &#xe067; Matriarch's Lair and fusing [Hellwisp Shard] &#160;Hellwisp Shards into [Power Dragon Shard] &#160;Power Dragon Shards.
+
+| [Shellwise Shard] 
+
+| [Shellwise Shard] &#160;Shellwise Shard
+
+Shell
+
+| The Shell attribute grants full knockback immunity, essentially being a free [Dwarf Turtle Shelmet] &#160;Dwarf Turtle Shelmet.
+
+| [Prince Shard] 
+
+| [Prince Shard] &#160;Prince Shard
+
+Reborn
+
+| The Reborn attribute boils down to free Dungeon Score. When maxed out, killing a [A sprite icon representing Prince in Hypixel SkyBlock] Prince grants a +100% chance to gain +1 Dungeon Score.
+
+| [Obsidian Defender Shard] 
+
+| [Obsidian Defender Shard] &#160;Obsidian Defender Shard
+
+Speed
+
+| The Speed attribute, as its name suggests, grants increased &#xe022;&#160;Speed, which is always useful for clearing.
+
+| [Mimic Shard] 
+
+| [Mimic Shard] &#160;Mimic Shard
+
+Faker
+
+| The Faker attribute increases the effects of all Dungeon Blessings on you by +10%, essentially meaning more damage and survivability.
+
+| [XYZ Shard] 
+
+| [XYZ Shard] &#160;XYZ Shard
+
+Mana Regeneration
+
+| The Mana Regenration attribute, as its name suggests, grants increased mana regen: this allows you to use your abilities more often.
+
+## References
+[edit | edit source]
+
+- ↑ https://hypixel.net/threads/august-14-skyblock-patch-notes.5971797/
+
+"Removed the conflictions between the "Sharpness" enchantment and mob-specific enchantments, such as "Smite"."
+
+Tutorial:Archer Guide
+
+Tutorial:Left-Click Mage Guide
+
+&#91;&#34;Tutorial:Navigation&#34;,&#34;Tutorial:Day Count&#34;,&#34;Tutorial:Autopet Guide&#34;&#93;&#91;&#34;Tutorial:Ultimate Guide&#34;,&#34;Tutorial:Tips and Tricks&#34;,&#34;Tutorial:Ironman Guide&#34;,&#34;Tutorial:Bingo Guide&#34;,&#34;Tutorial:Periodic Tasks&#34;&#93;&#91;&#34;Tutorial:Maxing Items&#34;,&#34;Tutorial:Ranged_Weapon_Guide&#34;,&#34;Tutorial:Melee_Weapon_Guide&#34;,&#34;Tutorial:Minion Farming&#34;,&#34;Tutorial:Reforging Guide&#34;,&#34;Tutorial:Armor Guide&#34;,&#34;Tutorial:Accessory Guide&#34;&#93;&#91;&#34;Tutorial:Mining Guide&#34;,&#34;Tutorial:Hunting Guide&#34;,&#34;Tutorial:Foraging Guide&#34;,&#34;Tutorial:Fishing Guide&#34;,&#34;Tutorial:Farming Guide&#34;,&#34;Tutorial:Alchemy Guide&#34;&#93;&#91;&#34;Tutorial:Gemstone Gauntlet's Ability&#34;,&#34;Tutorial:Killing Ghosts on a Budget&#34;,&#34;Tutorial:Dragon Fights Guide&#34;,&#34;Tutorial:How to Obtain a Summoning Eye&#34;,&#34;Tutorial:Kuudra Guide&#34;,&#34;Tutorial:Slayer_Guide&#34;&#93;&#91;&#34;Tutorial:Tank Guide&#34;,&#34;Tutorial:Left-Click_Mage_Guide&#34;,&#34;Tutorial:Right-Click Mage Guide&#34;,&#34;Tutorial:Mage Guide&#34;,&#34;Tutorial:Healer Guide&#34;,&#34;Tutorial:Berserk Guide&#34;,&#34;Tutorial:Archer Guide&#34;,&#34;Tutorial:Dungeon Puzzles&#34;,&#34;Tutorial:Master Mode Guide&#34;,&#34;Tutorial:Catacombs Guide&#34;,&#34;Tutorial:Ultimate Dungeon Guide&#34;&#93;&#91;&#34;Tutorial:Mushroom Farm&#34;,&#34;Tutorial:Sugar Cane Farm&#34;,&#34;Tutorial:Cocoa Beans Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;&#93;&#91;&#34;Tutorial:Timite Mining&#34;,&#34;Tutorial:Tick Thresholds&#34;,&#34;Tutorial:Heart of the Mountain Trees&#34;,&#34;Tutorial:Sapphire Crystal&#34;,&#34;Tutorial:6-ticking Ruby in the Magma Fields&#34;&#93;&#91;&#34;Tutorial:Lowballing&#34;,&#34;Tutorial:NPC Flipping&#34;,&#34;Tutorial:Bazaar Flipping&#34;,&#34;Tutorial:AH Flipping&#34;&#93; | v · d · eTutorials
+| 
+| How-To's | 
+
+- Autopet Guide
+
+- Day Count
+
+- Navigation
+
+| 
+| 
+| General Guides | 
+
+- Periodic Tasks
+
+- Bingo Guide
+
+- Ironman Guide
+
+- Tips and Tricks
+
+- Ultimate Guide
+
+| 
+| Progression Guides | 
+
+- Accessory Guide
+
+- Armor Guide
+
+- Reforging Guide
+
+- Minion Farming
+
+- Melee Weapon Guide
+
+- Ranged Weapon Guide
+
+- Maxing Items
+
+| 
+| Skill Guides | 
+
+- Alchemy Guide
+
+- Farming Guide
+
+- Fishing Guide
+
+- Foraging Guide
+
+- Hunting Guide
+
+- Mining Guide
+
+| 
+| Combat | 
+
+- Slayer Guide
+
+- Kuudra Guide
+
+- How to Obtain a Summoning Eye
+
+- Dragon Fights Guide
+
+- Killing Ghosts on a Budget
+
+- Gemstone Gauntlet Ability
+
+| 
+| Dungeon Guides | 
+
+- Ultimate Dungeon Guide
+
+- Catacombs Guide
+
+- Master Mode Guide
+
+- Dungeon Puzzles
+
+- Archer Guide
+
+- Berserk Guide
+
+- Healer Guide
+
+- Mage Guide (RCM Guide & LCM Guide)
+
+- Tank Guide
+
+| 
+| Farming | 
+
+- Wheat
+
+- Potato
+
+- Carrot
+
+- Nether Wart
+
+- Pumpkin
+
+- Melon
+
+- Cocoa Beans
+
+- Sugar Cane
+
+- Mushroom
+
+| 
+| Mining | 
+
+- 6-ticking Ruby in the Magma Fields
+
+- Nucleus Runs (Sapphire Crystal)
+
+- Heart of the Mountain Trees
+
+- Tick Thresholds
+
+- Timite Mining
+
+| 
+| Economy Guides | 
+
+- AH
+
+- Bazaar
+
+- NPC
+
+- Lowballing
+
+80 ms 4.7%
+(for generator) 80 ms 4.7%
+lower 60 ms 3.5%
+assert 60 ms 3.5%
+type 60 ms 3.5%
+gsub 60 ms 3.5%
+format 40 ms 2.3%
+_toNumber 40 ms 2.3%
+[others] 480 ms 27.9%
+-->
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Tutorial:Right-Click_Mage_Guide?oldid=868690"
+
+Categories: 
+- Community Guides
+- Pages containing missing tooltips
+- Tutorials
+- Classes
+- Dungeons
+
+Hidden categories: 
+- Pages using Intelligence
+- Pages using Ability Damage
+- Pages using Strength
+- Pages using Crit Damage
+- Pages using Defense
+- Pages using Effective Health
+- Pages using Damage
+- Pages using Health
+- Pages using Speed
+- Pages using Mana
+- Pages using Ferocity
+- Pages using Magic Find
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Tutorial
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+2h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+
+- This page was last edited on 6 November 2026, at 16:52.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

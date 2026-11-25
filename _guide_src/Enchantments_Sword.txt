@@ -1,0 +1,538 @@
+Enchantments/Sword - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Enchantments/Sword
+
+From Hypixel SkyBlock Wiki
+
+< Enchantments
+
+Jump to navigation
+Jump to search
+
+| Bane of Arthropods
+
+| Increases damage dealt to &#xe074;&#160;Arthropod mobs by X%.
+
+| I | II | III | IV | V | VI | VII
+| 5 | 10 | 15 | 20 | 30 | 40 | 50
+| Enchantment Table | Spider Slayer&#160;IV (4) | Experiments&#160;Ensnared Snail
+
+| Champion
+
+| Gain X% extra Combat XP. The 2nd hit on a mob grants +Y coins & +Z exp orbs.Upgrade by getting &#160;Combat XP. 
+Cannot be combined in an anvil.
+
+| I | II | III | IV | V | VI | VII | VIII | IX | X
+| 3
+1.4
+7 | 3.78
+1.8
+9 | 4.56
+2.2
+11 | 5.33
+2.6
+13 | 6.11
+3
+15 | 6.89
+3.4
+17 | 7.67
+3.8
+19 | 8.44
+4.2
+21 | 9.22
+4.6
+23 | 10
+5
+25
+| Community Center
+(4,000 Bits) | 50K
+XP | 100k
+XP | 250k
+XP | 500k
+XP | 1m
+XP | 1.5m
+XP | 2m
+XP | 2.5m
+XP | 3m
+XP
+
+| Cleave
+&#160;Ench Lvl: 4
+
+| Deals up to X% of your damage dealt to other monsters within Y blocks of the target.
+
+| I | II | III | IV | V | VI
+| 5
+3.5 | 10
+4 | 15
+4.5 | 20
+5 | 25
+5.5 | 30
+6
+| Enchantment Table | Experiments
+
+| Critical
+&#160;Ench Lvl: 9
+
+| Increases &#xe007;&#160;Crit Damage by X%.
+
+| I | II | III | IV | V | VI | VII
+| 10 | 20 | 30 | 40 | 50 | 70 | 100
+| Enchantment Table | Wolf Slayer&#160;IV (4) | Experiments
+
+| Cubism
+&#160;Ench Lvl: 3
+
+| Increases damage dealt to &#xe076;&#160;Cubic mobs by X%.
+
+| I | II | III | IV | V | VI
+| 5 | 10 | 15 | 20 | 30 | 40
+| Enchantment Table | Experiments
+
+| Drain
+&#160;Ench Lvl: 15
+
+| Regen +X&#160;&#xe028;&#160;Vitality every time you hit a mob.
+(0.25s cooldown)(A weapon with this enchantment cannot have Life Steal or Mana Steal)
+
+| I | II | III | IV | V | 
+| 0.5 | 1 | 1.5 | 2 | 2.5 | 3
+| Enchantment Table | Experiments | Experiments [A sprite icon representing Vargul the Unearthed in Hypixel SkyBlock] Vargul the Unearthed
+
+- [Dark Candy] &#160;200x&#160;Dark Candy
+- 10,000,000 Coins
+| Using Blood-Soaked reforge.
+
+| Ender Slayer
+&#160;Ench Lvl: 11
+
+| Increases damage dealt to &#xe078;&#160;Ender mobs by X%.
+
+| I | II | III | IV | V | VI | VII
+| 5 | 10 | 15 | 20 | 30 | 40 | 50
+| Enchantment Table | [A sprite icon representing Pearl Dealer in Hypixel SkyBlock] Pearl Dealer | Experiments&#160;End Stone Idol
+
+| Execute
+&#160;Ench Lvl: 14
+
+| Increases damage dealt by X% for each percent of health missing on your target.(A weapon with this enchantment cannot have Prosecute)
+
+| I | II | III | IV | V | VI
+| 0.2 | 0.4 | 0.6 | 0.8 | 1 | 1.25
+| Enchantment Table | Experiments
+
+| Experience
+
+| Grants a X% chance for mobs and ores to drop double experience.
+
+| I | II | III | IV | V
+| 12.5 | 25 | 37.5 | 50 | 62.5
+| Enchantment Table | [A sprite icon representing Joyful Viking in Hypixel SkyBlock] Joyful Viking | [A sprite icon representing Frozen Alex in Hypixel SkyBlock] Frozen Alex
+
+| Fire Aspect
+
+| Ignites your enemies for Xs, dealing Y% of your damage per second.
+
+| I | II | III
+| 3
+3 | 4
+6 | 4
+9
+| Enchantment Table | Blaze Slayer&#160;V (5)
+
+| First Strike
+&#160;Ench Lvl: 10
+
+| Increases the melee damage dealt by X% for the first hit on a mob.(A weapon with this Enchantment cannot have Triple-Strike)
+
+| I | II | III | IV | V
+| 25 | 50 | 75 | 100 | 125
+| Enchantment Table | Experiments
+
+| Giant Killer
+&#160;Ench Lvl: 8
+
+| Increases damage dealt by X% for each percent of extra Health that your target has above you, up to Y%.(A weapon with this Enchantment cannot have Titan Killer)
+
+| I | II | III | IV | V | VI | VII
+| 0.1
+5 | 0.2
+10 | 0.3
+15 | 0.4
+20 | 0.6
+30 | 0.9
+45 | 1.2
+65
+| Enchantment Table | ExperimentsDark Auction | ExperimentsDarker Auction
+
+| Gravity
+&#160;Ench Lvl: 16
+
+| Increases damage dealt to &#xe070;&#160;Airborne mobs by X%.
+
+| I | II | III | IV | V | VI
+| 5 | 10 | 15 | 20 | 30 | 40
+| Enchantment Table | [A sprite icon representing Pearl Dealer in Hypixel SkyBlock] Pearl Dealer
+
+| Impaling
+&#160;Ench Lvl: 12
+
+| Increases damage dealt to &#xe072;&#160;Aquatic mobs by X%.
+
+| I | II | III | IV | V
+| 5 | 10 | 15 | 20 | 30
+| Enchantment Table
+
+| Knockback
+
+| Increases knockback by X blocks.
+
+| I | II
+| 3 | 6
+| Enchantment Table
+
+| Lethality
+&#160;Ench Lvl: 14
+
+| Reduces the &#xe008;&#160;Defense of your target by X% for 4s each time you hit them with melee. Stacks up to 4 times.
+
+| I | II | III | IV | V | VI
+| 1.2 | 2.4 | 3.6 | 4.8 | 6 | 9
+| Enchantment Table | ExperimentsDungeon Post-Boss Chest on Catacombs Floor V+
+
+| Life Steal
+&#160;Ench Lvl: 5
+
+| Heal X &#xe010; every time you hit a mob.(A weapon with this Enchantment cannot have Drain or Mana Steal)
+
+| I | II | III | IV | V | 
+| 2.4 | 4.8 | 7.2 | 9.6 | 12 | 14.4
+| Enchantment Table | [A sprite icon representing Fear Mongerer in Hypixel SkyBlock] Fear Mongerer | Experiments | Using Blood-Soaked reforge.
+
+| Looting
+&#160;Ench Lvl: 3
+
+| Grants X&#160;&#xe01a;&#160;Magic Find.
+
+| I | II | III | IV | V | VI | VII
+| 2.5 | 5 | 7.5 | 10 | 15 | 20 | 25
+| Enchantment Table | [A sprite icon representing Einary in Hypixel SkyBlock] Einary | [A sprite icon representing Sphinx in Hypixel SkyBlock] Sphinx
+
+| Mana Steal
+&#160;Ench Lvl: 20
+
+| Regain X% of your mana on hit.(A weapon with this enchantment cannot have Life Steal or Drain)
+
+| I | II | III
+| 0.25 | 0.5 | 0.75
+| Enderman Slayer&#160;II (2)
+
+| Prosecute
+&#160;Ench Lvl: 25
+
+| Increases damage dealt by X% for each percent of health your target has.(A weapon with this enchantment cannot have Execute)
+
+| I | II | III | IV | V | VI
+| 0.1 | 0.2 | 0.3 | 0.4 | 0.7 | 1
+| Enchantment Table | Experiments
+
+| Pyroclasm
+&#160;Ench Lvl: 9
+
+| Increases damage dealt to &#xe07d;&#160;Magmatic mobs by X%.
+
+| I | II | III | IV | V | VI
+| 10 | 20 | 30 | 40 | 60 | 80
+| Enchantment Table | Drop from a [A sprite icon representing Magma Pillar in Hypixel SkyBlock] Magma Pillar
+
+| Scavenger
+&#160;Ench Lvl: 1
+
+| Scavenge +Y Coins per monster level on kill.
+
+| I | II | III | IV | V | VI
+| 0.3 | 0.6 | 0.9 | 1.2 | 1.5 | 1.8
+| Enchantment Table | [A sprite icon representing Einary in Hypixel SkyBlock] Einary | Experiments [A sprite icon representing Tomioka in Hypixel SkyBlock] Tomioka (Costs 15M Coins) | Experiments&#160;Golden Bounty
+
+| Sharpness
+
+| Increases melee damage dealt by X%.
+
+| I | II | III | IV | V | VI | VII
+| 5 | 10 | 15 | 20 | 30 | 40 | 50
+| Enchantment Table | ExperimentsDark Auction [A sprite icon representing Tomioka in Hypixel SkyBlock] Tomioka (Costs 10M Coins) | ExperimentsDarker Auction
+
+| Smite
+
+| Increases damage dealt to &#xe081;&#160;Skeletal, &#xe085;&#160;Wither and &#xe084;&#160;Undead mobs by X%.
+
+| I | II | III | IV | V | VI | VII
+| 5 | 10 | 15 | 20 | 30 | 40 | 50
+| Enchantment Table | Zombie Slayer&#160;IV (4) Tier&#160;III+ | Experiments&#160;Severed Hand
+
+| Smoldering
+&#160;Ench Lvl: 23
+
+| Increases damage dealt to &#xe07c;&#160;Infernal mobs by X%.
+
+| I | II | III | IV | V | VI
+| 5 | 10 | 15 | 20 | 30 | 40
+| [A sprite icon representing Smoldering Blaze in Hypixel SkyBlock] Smoldering Blaze [A sprite icon representing Millennia-Aged Blaze in Hypixel SkyBlock] Millennia-Aged Blaze
+
+| Tabasco
+
+| Grants +X weapon damage if you don't have a Dragon pet equipped.
+
+| II | III
+| 2 | 3
+| Chili Pepper&#160;IX (9)
+▦ Recipe
+
+[Chili Pepper] 16 [Kuudra Teeth] [Chili Pepper] 16
+[Kuudra Teeth] 
+[Kuudra Teeth] 
+
+| Combining Tabasco II Books
+
+| Thunderbolt
+&#160;Ench Lvl: 20
+
+| Every 3 hits on a monster, strike lightning, dealing X% of the hit's damage to up to 10 monsters within 2 blocks.(A weapon with this enchantment cannot have Thunderlord)
+
+| I | II | III | IV | V | VI | VII
+| 4 | 8 | 12 | 16 | 20 | 25 | 30
+| Enchantment Table | Experiments
+
+| Thunderlord
+&#160;Ench Lvl: 14
+
+| Every 3 hits on a monster, strike lightning, dealing X% of the hit's damage.(A weapon with this enchantment cannot have Thunderbolt)
+
+| I | II | III | IV | V | VI | VII
+| 8 | 16 | 24 | 32 | 40 | 50 | 60
+| Enchantment Table | Stormy-type Undeads from The Watcher on Catacombs Floor V+ | ExperimentsMaster Mode Floor VII
+
+| Titan Killer
+&#160;Ench Lvl: 28
+
+| Increases damage dealt by X% for every 100 defence your target has up to Y%.(A weapon with this enchantment cannot have Giant Killer)
+
+| I | II | III | IV | V | VI | VII
+| 2
+6 | 4
+12 | 6
+18 | 8
+24 | 10
+40 | 12
+60 | 14
+80
+| Enchantment Table | Experiments
+
+| Triple-Strike
+&#160;Ench Lvl: 19
+
+| Increases damage dealt by X% for the first three hits on a mob.(A weapon with this enchantment cannot have First Strike)
+
+| I | II | III | IV | V
+| 10 | 20 | 30 | 40 | 50
+| Enchantment Table | Experiments
+
+| Vampirism
+&#160;Ench Lvl: 15
+
+| Heal X&#xe010; every time you kill a mob.
+(0.5s cooldown.)
+
+| I | II | III | IV | V | VI | 
+| 5 | 10 | 15 | 20 | 25 | 30 | 35
+| Enchantment Table | Spooky Festival RewardTrick or Treat Chest | Using Blood-Soaked reforge.
+
+| Venomous
+&#160;Ench Lvl: 17
+
+| Reduces the target's walk &#xe022;&#160;Speed by X% and deals Y% of your damage per second per hit, stacking globally up to 40 hits. Lasts 5s.
+
+| I | II | III | IV | V | VI | VII
+| 2
+0.2 | 4
+0.4 | 6
+0.6 | 8
+0.8 | 12
+1.2 | 15
+1.6 | 20
+2
+| Enchantment Table | Experiments | Experiments&#160;Fateful Stinger
+
+| Vicious
+&#160;Ench Lvl: 26
+
+| Grants +X&#160;&#xe00b;&#160;Ferocity.
+
+| III | IV | V
+| 3 | 4 | 5
+| Dark Auction
+
+120 ms 8.8%
+_templateReplacements 60 ms 4.4%
+format 60 ms 4.4%
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::parseFormattedNumber 40 ms 2.9%
+40 ms 2.9%
+validateData 40 ms 2.9%
+type 40 ms 2.9%
+_getStatByTable 40 ms 2.9%
+new 20 ms 1.5%
+[others] 300 ms 22.1%
+-->
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Enchantments/Sword?oldid=879365"
+
+Category: 
+- Enchantments
+
+Hidden categories: 
+- Pages using Crit Damage
+- Pages using Vitality
+- Pages using Defense
+- Pages using Health
+- Pages using Magic Find
+- Pages using Speed
+- Pages using Ferocity
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Page
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+3h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+- View buckets
+
+- This page was last edited on 21 November 2026, at 08:03.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

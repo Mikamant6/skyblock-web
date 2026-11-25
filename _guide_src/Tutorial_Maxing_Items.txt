@@ -1,0 +1,513 @@
+Tutorial:Maxing Items - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Tutorial:Maxing Items
+
+From Hypixel SkyBlock Wiki
+
+Jump to navigation
+Jump to search
+
+- This tutorial is a guide.
+
+- This tutorial has been assembled by members of the community as a helpful resource or Tutorial, instructing players on SkyBlock, and thus is not official.
+
+- If you see missing, incorrect or out of date information, please help by contributing to the page.
+
+A "Maxed" Item is an item that uses full Hot Potato Books, T6 Enchantments, and Reforges. Hypermaxed Items use all the Potato Books, Hot Potato Books and Fuming Potato Book, T7 Enchantments, Recombobulated, The Art of War, all Gemstone Slots with Perfect Gemstone. Generally, only end-game items are maxed as it is very expensive. The Hex is a convenient system for doing this, with the requirement of Prosperous Museum Rank, or 100 Million Coins of Museum Networth.
+
+NOTE: The Telekinesis enchant has been removed and replaced with Auto-pickup.
+
+## Contents
+
+- 1 Combat
+
+- 1.1 Swords
+
+- 1.2 Bows
+
+- 1.3 Armor
+
+- 2 Mining
+
+- 2.1 Pickaxes/Drills
+
+- 3 Farming
+
+- 3.1 Hoes
+
+- 3.2 Armor
+
+- 4 Foraging
+
+- 4.1 Axes
+
+- 4.2 Armor
+
+- 5 Fishing
+
+- 5.1 Fishing Rod
+
+## Combat
+[edit | edit source]
+
+### Swords
+[edit | edit source]
+
+A maxed Sword consists of the following upgrades:
+
+- 10 Hot Potato Books, 5 Fuming Potato Books, The Art of War (Total: +30&#160;&#xe050;&#160;Damage, +35&#160;&#xe00d;&#160;Strength)
+
+- Cleave, Critical, Cubism, Champion, Dragon Hunter, Ender Slayer, Experience, Fire Aspect, First Strike or Triple-Strike, Giant Killer or Titan Killer, Impaling, Lethality, Life Steal or Drain, Looting, Luck, Prosecute or Execute, Scavenger, Sharpness, Bane of Arthropods, Smite, Thunderbolt or Thunderlord, Vampirism, Venomous, and Vicious Enchantments
+
+- It is generally recommended to opt for Giant Killer rather than Titan Killer, First Strike over Triple-Strike, Prosecute over Execute, Thunderlord over Thunderbolt, and Life Steal over Drain.
+
+- Players may choose to not use some of these depending on what the weapon is going to be used for. For example, if a sword is primarily going to be used for Zombie Slayer then enchants like Ender Slayer or Bane of Arthropods would not be worth it.
+
+- Any level of these enchantments may be used. Usually, only the normal level of enchantments (V for many enchantments) is used. Tier 6 Enchantments are extremely cheap on the Bazaar, and is recommended to apply Tier 6 Enchants after applying all the regular Enchants. Tier 7 are the final tier of Enchantments (excluding Champion, Expertise, Compact, and Cultivating), and are extremely expensive. It is only recommended to apply Tier 7 Enchants on permanent weapons such as Necron's Blades, Axe of the Shredded, Terminator, etc.
+
+- Ultimate Enchantments can also be used, although only one can be used per weapon. For swords, the options are Chimera, Combo, Soul Eater, Swarm, Fatal Tempo, Duplex, and Ultimate Wise. On Melee Weapons, Swarm (when on a budget) or Soul Eater are recommended. On Magic Weapons, Ultimate Wise is a must have.
+
+- On Magic Weapons, players should opt for Prosecute and Smite. This is because Mage aims to one-shot all mobs and Prosecute provide the highest first-hit damage. Smite because Sharpness does not buff Ability Damage and most mobs in Dungeons are considered Undead.
+
+- The community consensus is generally that the best sword reforges (for &#xe050;&#160;Damage) are Fabled, and Withered when above Catacombs 32. Other good reforges are Suspicious, Dirty, and much more.
+
+- The best reforge for Magic Weapons is Heroic.
+
+### Bows
+[edit | edit source]
+
+A maxed bow consists of the following upgrades:
+
+- 10 Hot Potato Books, 5 Fuming Potato Books (Total: +30&#160;&#xe050;&#160;Damage, +30&#160;&#xe00d;&#160;Strength) , Chance, Cubism, Dragon Hunter, Dragon Tracer, Flame, Impaling, Infinite Quiver, Piercing, Toxophilite, Overload, Power, Punch, and Snipe Enchantments.
+
+- Players may choose to not use some of these depending on what the weapon is going to be used for. For example, if a bow is primarily going to be used in Dungeons, Dragon Hunter is not necessary, unless if the player is running Master Mode Floor 7, where the last phase of the boss fight involves fighting Dragons.
+
+- Any level of these enchantments may be used. Usually, only the normal level of enchantments (V for many enchantments), or Tier 6's, is used unless the player has a large amount of spare Coins or enchanting an absolutely end-game weapon. An Exception for this rule is the Infinite Quiver X Enchantment, which can be cheaply combined from Infinite Quiver VI Books and proves to be a huge advantage, as it essentially works as the Vanilla Enchantment "Infinity".
+
+- Ultimate Enchantments can also be used, although only one can be used per weapon. For bows, the options are Rend, Soul Eater, Duplex, Fatal Tempo and Swarm. For bows, Duplex is usually the best choice. In some cases, such as when fighting Ender Dragon or End Stone Protector, Fatal Tempo can technically outperform Duplex, with using both being even better, but this option is unnecessarily expensive. Inside Dungeons, especially in later floors of Master Mode it is recommended to have both Soul Eater and Duplex.
+
+- The community consensus is generally that the best bow reforge (for &#xe050;&#160;Damage) is Spiritual or Precise. However, the best reforge can change depending on the player's preference and situation.
+
+### Armor
+[edit | edit source]
+
+A maxed armor piece consists of the following upgrades: 
+
+- 10 Hot Potato Books, 5 Fuming Potato Books (Total: +30&#160;&#xe008;&#160;Defense, +60&#160;&#xe010;&#160;Health)
+
+- Aqua Affinity, Big Brain, Protection or Blast Protection or Projectile Protection or Fire Protection, Counter-Strike, Smarty Pants, Depth Strider, Feather Falling, Growth, Rejuvenate or Respite, Respiration, Thorns, True Protection and Sugar Rush Enchantments.
+
+- It is generally recommended to opt for Rejuvenate rather than Respite, Protection over other Protection-type enchantments.
+
+- Players may choose to not use some of these depending on what the armor is going to be used for. For example, if an armor is primarily going to be used for the Trials of Fire, Fire Protection may be more useful than Protection.
+
+- Any level of these enchantments may be used. Usually, only the normal level of enchantments (V for many enchantments), and Tier 6's, is used unless the player has a large amount of spare Coins or is enchanting an absolutely permanent armor set.
+
+- Ultimate Enchantments can also be used, although only one can be used per armor piece. For armor, the options are Bank, Last Stand, Legion, No Pain No Gain, and Wisdom.
+
+- It is generally agreed on that Legion is the best armor Ultimate Enchantment, Wisdom for Mage.
+
+- The community consensus is generally that the best armor reforge for &#xe050;&#160;Damage is Ancient, the best reforge for &#xe008;&#160;Defense is Perfect, and the best reforge for &#xe010;&#160;Health is Giant. However, the best reforge can change depending on the player's preference and situation.
+
+- A Maxed &#xe050;&#160;Damage Set might look like: &#160;Ancient Necron's Armor (&#160;Recombobulated, 5 starred) Ultimate Enchantment on the armor piece is based on personal preference, but for Damage sets Last Stand is the most popular. (Hot & Fuming Potato Booked) Last Stand V, Growth VII, Protection VII
+
+- A Maxed &#xe008;&#160;Defense set might look like: &#160;Absolutely Perfect Armor - Tier XII (&#160;Recombobulated, 5 starred) (Hot & Fuming Potato Booked) Last Stand V, Growth VII, Protection VII
+
+- A Maxed &#xe010;&#160;Health / Tank set might look like: &#160;Giant Goldor's Armor (&#160;Recombobulated, 5 starred) (Hot & Fuming Potato Booked) Last Stand V, Growth VII, Protection VII
+
+## Mining
+[edit | edit source]
+
+### Pickaxes/Drills
+[edit | edit source]
+
+A maxed pickaxe or drill consists of the following upgrades:
+
+- Compact, Prismatic, Efficiency, Experience, Fortune, Silk Touch or Smelting Touch Enchantments.
+
+- Any level of these enchantments may be used. Usually, only the normal level of enchantments (V for many enchantments) is used unless the player has a large amount of spare Coins or enchanting an absolutely end-game weapon.
+
+- Silk Touch and Smelting Touch are usually not used on expensive pickaxes as the player may not want to get different drops (blocks usually drop the item that is wanted). However, they can be put on a cheaper pickaxe.
+
+- A Silex can be used on any pickaxe except a Stonk to upgrade the Efficiency level by 1, up to 10, although this is generally only recommended for endgame players due to the high price.
+
+- The best reforge can change depending on the player's preference and situation.
+
+- Heated is generally the best reforge for &#xe015;&#160;Mining Speed, as long as the player is mining in the Crystal Hollows or Dwarven Mines. Otherwise, Fleet is better for higher rarity drills, and Ambered is better for lower rarity pickaxes.
+
+- Auspicious is also commonly used for &#xe053;&#160;Mining Fortune
+
+- The (proven) Community Consensus is that Auspicious is the best, only to use Heated when the extra mining speed moves you on to the next tick.
+
+- A Maxed Drill might look like: (The reforge, however is based on personal preference but Auspicious is usually more popular and more widely used.) Auspicious Divan's Drill (Recombobulated) Compact X (Leveled up by Mining Ores, by default is level I), Efficiency X (Obtained with Silex), Experience IV, Fortune V, and Pristine V
+
+## Farming
+[edit | edit source]
+
+### Hoes
+[edit | edit source]
+
+A maxed Hoe consists of the following upgrades:
+
+- Harvesting, Cultivating, Dedication, Replenish, Delicate and the Turbo-Crop enchantment for the crop the user is farming. Any level of these enchantments may be used.
+
+- The best hoe reforge is Blessed.
+
+- 5 Farming for Dummies books can also be added for extra &#xe051;&#160;Farming Fortune.
+
+### Armor
+[edit | edit source]
+
+A maxed set of &#160;Farming Armor consists of the following upgrades on each piece:
+
+- Pesterminator VI (with &#160;A Beginner's Guide to Pesthunting)
+
+- Mossy Reforge
+
+- &#160;2&#160;Perfect Peridot Gemstones
+
+- &#160;Recombobulator 3000
+
+The best Farming Armor set is &#160;Helianthus Armor.
+
+## Foraging
+[edit | edit source]
+
+### Axes
+[edit | edit source]
+
+A maxed &#160;Foraging Axe consists of the following upgrades:
+
+- Efficiency V, First Impression V, Absorb X, Karma VI (with &#160;Forest's Favor), Petalfall V and Woodsplitter VI
+
+- Moonglade Reforge
+
+- &#160;2&#160;Perfect Citrine Gemstones
+
+- &#160;Wood Singularity
+
+- &#160;Recombobulator 3000
+
+- 5 Star Upgrades if it is a &#160;Fig Hew, &#160;Figstone Splitter or &#160;Helix Chopper
+
+The best Axe for &#xe067; Galatea is a &#160;Helix Chopper and the best Axe for &#xe067; The Park is a &#160;Treecapitator.
+
+### Armor
+[edit | edit source]
+
+A maxed set of &#160;Foraging Armor consists of the following upgrades on each piece:
+
+- Forest Pledge VI (with &#160;Water Hyacinth)
+
+- Groovy Reforge
+
+- &#160;2&#160;Perfect Citrine Gemstones
+
+- &#160;Recombobulator 3000
+
+The best Foraging Armor set is &#160;Helix Armor.
+
+## Fishing
+[edit | edit source]
+
+### Fishing Rod
+[edit | edit source]
+
+A maxed fishing rod (for fishing efficiency, not &#xe050;&#160;Damage to sea creatures) consists of the following upgrades:
+
+- Angler, Blessing, Caster, Expertise, Frail, Luck of the Sea, Lure, Magnet and Spiked Hook Enchantments
+
+- Any level of these enchantments may be used. Usually, only the normal level of enchantments (V for many enchantments) is used unless the player has a large amount of spare Coins or enchanting an absolutely end-game fishing rod.
+
+- The Treacherous or Lucky reforge. Both provide the same Sea Creature Chance, but Lucky provides &#xe01a;&#160;Magic Find for increased rare drops from Sea Creatures while Treacherous provides &#xe00d;&#160;Strength.
+
+&#91;&#34;Tutorial:Navigation&#34;,&#34;Tutorial:Day Count&#34;,&#34;Tutorial:Autopet Guide&#34;&#93;&#91;&#34;Tutorial:Ultimate Guide&#34;,&#34;Tutorial:Tips and Tricks&#34;,&#34;Tutorial:Ironman Guide&#34;,&#34;Tutorial:Bingo Guide&#34;,&#34;Tutorial:Periodic Tasks&#34;&#93;&#91;&#34;Tutorial:Maxing Items&#34;,&#34;Tutorial:Ranged_Weapon_Guide&#34;,&#34;Tutorial:Melee_Weapon_Guide&#34;,&#34;Tutorial:Minion Farming&#34;,&#34;Tutorial:Reforging Guide&#34;,&#34;Tutorial:Armor Guide&#34;,&#34;Tutorial:Accessory Guide&#34;&#93;&#91;&#34;Tutorial:Mining Guide&#34;,&#34;Tutorial:Hunting Guide&#34;,&#34;Tutorial:Foraging Guide&#34;,&#34;Tutorial:Fishing Guide&#34;,&#34;Tutorial:Farming Guide&#34;,&#34;Tutorial:Alchemy Guide&#34;&#93;&#91;&#34;Tutorial:Gemstone Gauntlet's Ability&#34;,&#34;Tutorial:Killing Ghosts on a Budget&#34;,&#34;Tutorial:Dragon Fights Guide&#34;,&#34;Tutorial:How to Obtain a Summoning Eye&#34;,&#34;Tutorial:Kuudra Guide&#34;,&#34;Tutorial:Slayer_Guide&#34;&#93;&#91;&#34;Tutorial:Tank Guide&#34;,&#34;Tutorial:Left-Click_Mage_Guide&#34;,&#34;Tutorial:Right-Click Mage Guide&#34;,&#34;Tutorial:Mage Guide&#34;,&#34;Tutorial:Healer Guide&#34;,&#34;Tutorial:Berserk Guide&#34;,&#34;Tutorial:Archer Guide&#34;,&#34;Tutorial:Dungeon Puzzles&#34;,&#34;Tutorial:Master Mode Guide&#34;,&#34;Tutorial:Catacombs Guide&#34;,&#34;Tutorial:Ultimate Dungeon Guide&#34;&#93;&#91;&#34;Tutorial:Mushroom Farm&#34;,&#34;Tutorial:Sugar Cane Farm&#34;,&#34;Tutorial:Cocoa Beans Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;&#93;&#91;&#34;Tutorial:Timite Mining&#34;,&#34;Tutorial:Tick Thresholds&#34;,&#34;Tutorial:Heart of the Mountain Trees&#34;,&#34;Tutorial:Sapphire Crystal&#34;,&#34;Tutorial:6-ticking Ruby in the Magma Fields&#34;&#93;&#91;&#34;Tutorial:Lowballing&#34;,&#34;Tutorial:NPC Flipping&#34;,&#34;Tutorial:Bazaar Flipping&#34;,&#34;Tutorial:AH Flipping&#34;&#93; | v · d · eTutorials
+| 
+| How-To's | 
+
+- Autopet Guide
+
+- Day Count
+
+- Navigation
+
+| 
+| 
+| General Guides | 
+
+- Periodic Tasks
+
+- Bingo Guide
+
+- Ironman Guide
+
+- Tips and Tricks
+
+- Ultimate Guide
+
+| 
+| Progression Guides | 
+
+- Accessory Guide
+
+- Armor Guide
+
+- Reforging Guide
+
+- Minion Farming
+
+- Melee Weapon Guide
+
+- Ranged Weapon Guide
+
+- Maxing Items
+
+| 
+| Skill Guides | 
+
+- Alchemy Guide
+
+- Farming Guide
+
+- Fishing Guide
+
+- Foraging Guide
+
+- Hunting Guide
+
+- Mining Guide
+
+| 
+| Combat | 
+
+- Slayer Guide
+
+- Kuudra Guide
+
+- How to Obtain a Summoning Eye
+
+- Dragon Fights Guide
+
+- Killing Ghosts on a Budget
+
+- Gemstone Gauntlet Ability
+
+| 
+| Dungeon Guides | 
+
+- Ultimate Dungeon Guide
+
+- Catacombs Guide
+
+- Master Mode Guide
+
+- Dungeon Puzzles
+
+- Archer Guide
+
+- Berserk Guide
+
+- Healer Guide
+
+- Mage Guide (RCM Guide & LCM Guide)
+
+- Tank Guide
+
+| 
+| Farming | 
+
+- Wheat
+
+- Potato
+
+- Carrot
+
+- Nether Wart
+
+- Pumpkin
+
+- Melon
+
+- Cocoa Beans
+
+- Sugar Cane
+
+- Mushroom
+
+| 
+| Mining | 
+
+- 6-ticking Ruby in the Magma Fields
+
+- Nucleus Runs (Sapphire Crystal)
+
+- Heart of the Mountain Trees
+
+- Tick Thresholds
+
+- Timite Mining
+
+| 
+| Economy Guides | 
+
+- AH
+
+- Bazaar
+
+- NPC
+
+- Lowballing
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Tutorial:Maxing_Items?oldid=885512"
+
+Categories: 
+- Community Guides
+- Tutorials
+
+Hidden categories: 
+- Pages using Damage
+- Pages using Strength
+- Pages using Defense
+- Pages using Health
+- Pages using Mining Speed
+- Pages using Mining Fortune
+- Pages using Farming Fortune
+- Pages using Magic Find
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Tutorial
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+3h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+
+- This page was last edited on 23 November 2026, at 09:34.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

@@ -1,0 +1,800 @@
+Reforging/Armor - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Reforging/Armor
+
+From Hypixel SkyBlock Wiki
+
+< Reforging
+
+Jump to navigation
+Jump to search
+
+### Basic
+[edit | edit source]
+
+These reforges can be applied to Armor pieces through the [A sprite icon representing Blacksmith in Hypixel SkyBlock] Blacksmith.
+
+| Reforge Prefix
+
+| COMMON
+
+| UNCOMMON
+
+| RARE
+
+| EPIC
+
+| LEGENDARY
+
+| MYTHIC
+
+| DIVINE
+
+| Clean | 5&#160;&#xe010;&#160;Health
+2&#160;&#xe02c;&#160;Crit Chance
+5&#160;&#xe008;&#160;Defense | 7&#160;&#xe010;&#160;Health
+4&#160;&#xe02c;&#160;Crit Chance
+7&#160;&#xe008;&#160;Defense | 10&#160;&#xe010;&#160;Health
+6&#160;&#xe02c;&#160;Crit Chance
+10&#160;&#xe008;&#160;Defense | 15&#160;&#xe010;&#160;Health
+8&#160;&#xe02c;&#160;Crit Chance
+15&#160;&#xe008;&#160;Defense | 20&#160;&#xe010;&#160;Health
+10&#160;&#xe02c;&#160;Crit Chance
+20&#160;&#xe008;&#160;Defense | 25&#160;&#xe010;&#160;Health
+12&#160;&#xe02c;&#160;Crit Chance
+25&#160;&#xe008;&#160;Defense | 30&#160;&#xe010;&#160;Health
+14&#160;&#xe02c;&#160;Crit Chance
+30&#160;&#xe008;&#160;Defense
+
+| Fierce | 2&#160;&#xe00d;&#160;Strength
+2&#160;&#xe02c;&#160;Crit Chance
+4&#160;&#xe007;&#160;Crit Damage | 4&#160;&#xe00d;&#160;Strength
+3&#160;&#xe02c;&#160;Crit Chance
+7&#160;&#xe007;&#160;Crit Damage | 6&#160;&#xe00d;&#160;Strength
+4&#160;&#xe02c;&#160;Crit Chance
+10&#160;&#xe007;&#160;Crit Damage | 8&#160;&#xe00d;&#160;Strength
+5&#160;&#xe02c;&#160;Crit Chance
+14&#160;&#xe007;&#160;Crit Damage | 10&#160;&#xe00d;&#160;Strength
+6&#160;&#xe02c;&#160;Crit Chance
+18&#160;&#xe007;&#160;Crit Damage | 12&#160;&#xe00d;&#160;Strength
+8&#160;&#xe02c;&#160;Crit Chance
+24&#160;&#xe007;&#160;Crit Damage | 14&#160;&#xe00d;&#160;Strength
+10&#160;&#xe02c;&#160;Crit Chance
+30&#160;&#xe007;&#160;Crit Damage
+
+| Heavy | -1&#160;&#xe022;&#160;Speed
+-1&#160;&#xe007;&#160;Crit Damage
+25&#160;&#xe008;&#160;Defense | -1&#160;&#xe022;&#160;Speed
+-2&#160;&#xe007;&#160;Crit Damage
+35&#160;&#xe008;&#160;Defense | -1&#160;&#xe022;&#160;Speed
+-2&#160;&#xe007;&#160;Crit Damage
+50&#160;&#xe008;&#160;Defense | -1&#160;&#xe022;&#160;Speed
+-3&#160;&#xe007;&#160;Crit Damage
+65&#160;&#xe008;&#160;Defense | -1&#160;&#xe022;&#160;Speed
+-5&#160;&#xe007;&#160;Crit Damage
+80&#160;&#xe008;&#160;Defense | -1&#160;&#xe022;&#160;Speed
+-7&#160;&#xe007;&#160;Crit Damage
+110&#160;&#xe008;&#160;Defense | -1&#160;&#xe022;&#160;Speed
+-9&#160;&#xe007;&#160;Crit Damage
+140&#160;&#xe008;&#160;Defense
+
+| Light | 1&#160;&#xe02c;&#160;Crit Chance
+1&#160;&#xe008;&#160;Defense
+1&#160;&#xe022;&#160;Speed
+5&#160;&#xe010;&#160;Health
+1&#160;&#xe001;&#160;Attack Speed
+1&#160;&#xe007;&#160;Crit Damage | 1&#160;&#xe02c;&#160;Crit Chance
+2&#160;&#xe008;&#160;Defense
+2&#160;&#xe022;&#160;Speed
+7&#160;&#xe010;&#160;Health
+2&#160;&#xe001;&#160;Attack Speed
+2&#160;&#xe007;&#160;Crit Damage | 2&#160;&#xe02c;&#160;Crit Chance
+3&#160;&#xe008;&#160;Defense
+3&#160;&#xe022;&#160;Speed
+10&#160;&#xe010;&#160;Health
+3&#160;&#xe001;&#160;Attack Speed
+3&#160;&#xe007;&#160;Crit Damage | 2&#160;&#xe02c;&#160;Crit Chance
+4&#160;&#xe008;&#160;Defense
+4&#160;&#xe022;&#160;Speed
+15&#160;&#xe010;&#160;Health
+4&#160;&#xe001;&#160;Attack Speed
+4&#160;&#xe007;&#160;Crit Damage | 3&#160;&#xe02c;&#160;Crit Chance
+5&#160;&#xe008;&#160;Defense
+5&#160;&#xe022;&#160;Speed
+20&#160;&#xe010;&#160;Health
+5&#160;&#xe001;&#160;Attack Speed
+5&#160;&#xe007;&#160;Crit Damage | 3&#160;&#xe02c;&#160;Crit Chance
+6&#160;&#xe008;&#160;Defense
+6&#160;&#xe022;&#160;Speed
+25&#160;&#xe010;&#160;Health
+6&#160;&#xe001;&#160;Attack Speed
+6&#160;&#xe007;&#160;Crit Damage | 3&#160;&#xe02c;&#160;Crit Chance
+7&#160;&#xe008;&#160;Defense
+7&#160;&#xe022;&#160;Speed
+35&#160;&#xe010;&#160;Health
+7&#160;&#xe001;&#160;Attack Speed
+7&#160;&#xe007;&#160;Crit Damage
+
+| Mythic | 2&#160;&#xe00d;&#160;Strength
+1&#160;&#xe02c;&#160;Crit Chance
+2&#160;&#xe008;&#160;Defense
+2&#160;&#xe022;&#160;Speed
+2&#160;&#xe010;&#160;Health
+20&#160;&#xe003;&#160;Intelligence | 4&#160;&#xe00d;&#160;Strength
+2&#160;&#xe02c;&#160;Crit Chance
+4&#160;&#xe008;&#160;Defense
+2&#160;&#xe022;&#160;Speed
+4&#160;&#xe010;&#160;Health
+25&#160;&#xe003;&#160;Intelligence | 6&#160;&#xe00d;&#160;Strength
+3&#160;&#xe02c;&#160;Crit Chance
+6&#160;&#xe008;&#160;Defense
+2&#160;&#xe022;&#160;Speed
+6&#160;&#xe010;&#160;Health
+30&#160;&#xe003;&#160;Intelligence | 8&#160;&#xe00d;&#160;Strength
+4&#160;&#xe02c;&#160;Crit Chance
+8&#160;&#xe008;&#160;Defense
+2&#160;&#xe022;&#160;Speed
+8&#160;&#xe010;&#160;Health
+40&#160;&#xe003;&#160;Intelligence | 10&#160;&#xe00d;&#160;Strength
+5&#160;&#xe02c;&#160;Crit Chance
+10&#160;&#xe008;&#160;Defense
+2&#160;&#xe022;&#160;Speed
+10&#160;&#xe010;&#160;Health
+50&#160;&#xe003;&#160;Intelligence | 12&#160;&#xe00d;&#160;Strength
+6&#160;&#xe02c;&#160;Crit Chance
+12&#160;&#xe008;&#160;Defense
+2&#160;&#xe022;&#160;Speed
+12&#160;&#xe010;&#160;Health
+60&#160;&#xe003;&#160;Intelligence | 14&#160;&#xe00d;&#160;Strength
+7&#160;&#xe02c;&#160;Crit Chance
+14&#160;&#xe008;&#160;Defense
+2&#160;&#xe022;&#160;Speed
+14&#160;&#xe010;&#160;Health
+70&#160;&#xe003;&#160;Intelligence
+
+| Pure | 2&#160;&#xe00d;&#160;Strength
+2&#160;&#xe022;&#160;Speed
+2&#160;&#xe02c;&#160;Crit Chance
+2&#160;&#xe008;&#160;Defense
+1&#160;&#xe003;&#160;Intelligence
+2&#160;&#xe010;&#160;Health
+1&#160;&#xe001;&#160;Attack Speed
+2&#160;&#xe007;&#160;Crit Damage | 3&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+4&#160;&#xe02c;&#160;Crit Chance
+3&#160;&#xe008;&#160;Defense
+3&#160;&#xe003;&#160;Intelligence
+3&#160;&#xe010;&#160;Health
+1&#160;&#xe001;&#160;Attack Speed
+3&#160;&#xe007;&#160;Crit Damage | 4&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+6&#160;&#xe02c;&#160;Crit Chance
+4&#160;&#xe008;&#160;Defense
+4&#160;&#xe003;&#160;Intelligence
+4&#160;&#xe010;&#160;Health
+2&#160;&#xe001;&#160;Attack Speed
+4&#160;&#xe007;&#160;Crit Damage | 6&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+8&#160;&#xe02c;&#160;Crit Chance
+6&#160;&#xe008;&#160;Defense
+6&#160;&#xe003;&#160;Intelligence
+6&#160;&#xe010;&#160;Health
+3&#160;&#xe001;&#160;Attack Speed
+6&#160;&#xe007;&#160;Crit Damage | 8&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+10&#160;&#xe02c;&#160;Crit Chance
+8&#160;&#xe008;&#160;Defense
+8&#160;&#xe003;&#160;Intelligence
+8&#160;&#xe010;&#160;Health
+4&#160;&#xe001;&#160;Attack Speed
+8&#160;&#xe007;&#160;Crit Damage | 10&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+12&#160;&#xe02c;&#160;Crit Chance
+10&#160;&#xe008;&#160;Defense
+10&#160;&#xe003;&#160;Intelligence
+10&#160;&#xe010;&#160;Health
+5&#160;&#xe001;&#160;Attack Speed
+10&#160;&#xe007;&#160;Crit Damage | 10&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+14&#160;&#xe02c;&#160;Crit Chance
+12&#160;&#xe008;&#160;Defense
+12&#160;&#xe003;&#160;Intelligence
+12&#160;&#xe010;&#160;Health
+6&#160;&#xe001;&#160;Attack Speed
+8&#160;&#xe007;&#160;Crit Damage
+
+| Smart | 20&#160;&#xe003;&#160;Intelligence
+4&#160;&#xe010;&#160;Health
+4&#160;&#xe008;&#160;Defense | 40&#160;&#xe003;&#160;Intelligence
+6&#160;&#xe010;&#160;Health
+6&#160;&#xe008;&#160;Defense | 60&#160;&#xe003;&#160;Intelligence
+9&#160;&#xe010;&#160;Health
+9&#160;&#xe008;&#160;Defense | 80&#160;&#xe003;&#160;Intelligence
+12&#160;&#xe010;&#160;Health
+12&#160;&#xe008;&#160;Defense | 100&#160;&#xe003;&#160;Intelligence
+15&#160;&#xe010;&#160;Health
+15&#160;&#xe008;&#160;Defense | 120&#160;&#xe003;&#160;Intelligence
+20&#160;&#xe010;&#160;Health
+20&#160;&#xe008;&#160;Defense | 140&#160;&#xe003;&#160;Intelligence
+25&#160;&#xe010;&#160;Health
+25&#160;&#xe008;&#160;Defense
+
+| Titanic | 10&#160;&#xe010;&#160;Health
+10&#160;&#xe008;&#160;Defense | 15&#160;&#xe010;&#160;Health
+15&#160;&#xe008;&#160;Defense | 20&#160;&#xe010;&#160;Health
+20&#160;&#xe008;&#160;Defense | 25&#160;&#xe010;&#160;Health
+25&#160;&#xe008;&#160;Defense | 35&#160;&#xe010;&#160;Health
+35&#160;&#xe008;&#160;Defense | 50&#160;&#xe010;&#160;Health
+50&#160;&#xe008;&#160;Defense | 65&#160;&#xe010;&#160;Health
+65&#160;&#xe008;&#160;Defense
+
+| Wise | 1&#160;&#xe022;&#160;Speed
+6&#160;&#xe010;&#160;Health
+25&#160;&#xe003;&#160;Intelligence | 1&#160;&#xe022;&#160;Speed
+8&#160;&#xe010;&#160;Health
+50&#160;&#xe003;&#160;Intelligence | 1&#160;&#xe022;&#160;Speed
+10&#160;&#xe010;&#160;Health
+75&#160;&#xe003;&#160;Intelligence | 2&#160;&#xe022;&#160;Speed
+12&#160;&#xe010;&#160;Health
+100&#160;&#xe003;&#160;Intelligence | 2&#160;&#xe022;&#160;Speed
+15&#160;&#xe010;&#160;Health
+125&#160;&#xe003;&#160;Intelligence | 3&#160;&#xe022;&#160;Speed
+20&#160;&#xe010;&#160;Health
+150&#160;&#xe003;&#160;Intelligence | 3&#160;&#xe022;&#160;Speed
+25&#160;&#xe010;&#160;Health
+175&#160;&#xe003;&#160;Intelligence
+
+### Advanced
+[edit | edit source]
+
+These reforges can only be applied to Armor pieces through Reforge Stones.
+
+| Reforge Prefix
+
+| Reforge Stone
+
+| Special Target
+
+| Passive Ability
+
+| COMMON
+
+| UNCOMMON
+
+| RARE
+
+| EPIC
+
+| LEGENDARY
+
+| MYTHIC
+
+| DIVINE
+
+| Perfect | [Diamond Atom] &#160;Diamond Atom | | Perfect Bonus
+Grants +2%  Defense.
+| 25&#160;&#xe008;&#160;Defense | 35&#160;&#xe008;&#160;Defense | 50&#160;&#xe008;&#160;Defense | 65&#160;&#xe008;&#160;Defense | 80&#160;&#xe008;&#160;Defense | 110&#160;&#xe008;&#160;Defense | 140&#160;&#xe008;&#160;Defense
+
+| Necrotic | [Necromancer's Brooch] &#160;Necromancer's Brooch | | | 30&#160;&#xe003;&#160;Intelligence | 60&#160;&#xe003;&#160;Intelligence | 90&#160;&#xe003;&#160;Intelligence | 120&#160;&#xe003;&#160;Intelligence | 150&#160;&#xe003;&#160;Intelligence | 200&#160;&#xe003;&#160;Intelligence | 250&#160;&#xe003;&#160;Intelligence
+
+| Ancient | [Precursor Gear] &#160;Precursor Gear | | Ancient Bonus
+Grants +1  Crit Damage per Catacombs skill you have.
+| 4&#160;&#xe00d;&#160;Strength
+3&#160;&#xe02c;&#160;Crit Chance
+7&#160;&#xe008;&#160;Defense
+7&#160;&#xe010;&#160;Health
+6&#160;&#xe003;&#160;Intelligence | 8&#160;&#xe00d;&#160;Strength
+5&#160;&#xe02c;&#160;Crit Chance
+7&#160;&#xe008;&#160;Defense
+7&#160;&#xe010;&#160;Health
+9&#160;&#xe003;&#160;Intelligence | 12&#160;&#xe00d;&#160;Strength
+7&#160;&#xe02c;&#160;Crit Chance
+7&#160;&#xe008;&#160;Defense
+7&#160;&#xe010;&#160;Health
+12&#160;&#xe003;&#160;Intelligence | 18&#160;&#xe00d;&#160;Strength
+9&#160;&#xe02c;&#160;Crit Chance
+7&#160;&#xe008;&#160;Defense
+7&#160;&#xe010;&#160;Health
+16&#160;&#xe003;&#160;Intelligence | 25&#160;&#xe00d;&#160;Strength
+12&#160;&#xe02c;&#160;Crit Chance
+7&#160;&#xe008;&#160;Defense
+7&#160;&#xe010;&#160;Health
+20&#160;&#xe003;&#160;Intelligence | 35&#160;&#xe00d;&#160;Strength
+15&#160;&#xe02c;&#160;Crit Chance
+7&#160;&#xe008;&#160;Defense
+7&#160;&#xe010;&#160;Health
+25&#160;&#xe003;&#160;Intelligence | 50&#160;&#xe00d;&#160;Strength
+20&#160;&#xe02c;&#160;Crit Chance
+7&#160;&#xe008;&#160;Defense
+7&#160;&#xe010;&#160;Health
+30&#160;&#xe003;&#160;Intelligence
+
+| Spiked | [Dragon Scale] &#160;Dragon Scale | | | 3&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+2&#160;&#xe02c;&#160;Crit Chance
+2&#160;&#xe008;&#160;Defense
+3&#160;&#xe003;&#160;Intelligence
+2&#160;&#xe010;&#160;Health
+1&#160;&#xe001;&#160;Attack Speed
+3&#160;&#xe007;&#160;Crit Damage | 4&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+4&#160;&#xe02c;&#160;Crit Chance
+3&#160;&#xe008;&#160;Defense
+4&#160;&#xe003;&#160;Intelligence
+3&#160;&#xe010;&#160;Health
+1&#160;&#xe001;&#160;Attack Speed
+4&#160;&#xe007;&#160;Crit Damage | 6&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+6&#160;&#xe02c;&#160;Crit Chance
+4&#160;&#xe008;&#160;Defense
+6&#160;&#xe003;&#160;Intelligence
+4&#160;&#xe010;&#160;Health
+2&#160;&#xe001;&#160;Attack Speed
+6&#160;&#xe007;&#160;Crit Damage | 8&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+8&#160;&#xe02c;&#160;Crit Chance
+6&#160;&#xe008;&#160;Defense
+8&#160;&#xe003;&#160;Intelligence
+6&#160;&#xe010;&#160;Health
+3&#160;&#xe001;&#160;Attack Speed
+8&#160;&#xe007;&#160;Crit Damage | 10&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+10&#160;&#xe02c;&#160;Crit Chance
+8&#160;&#xe008;&#160;Defense
+10&#160;&#xe003;&#160;Intelligence
+8&#160;&#xe010;&#160;Health
+4&#160;&#xe001;&#160;Attack Speed
+10&#160;&#xe007;&#160;Crit Damage | 12&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+12&#160;&#xe02c;&#160;Crit Chance
+10&#160;&#xe008;&#160;Defense
+12&#160;&#xe003;&#160;Intelligence
+10&#160;&#xe010;&#160;Health
+5&#160;&#xe001;&#160;Attack Speed
+12&#160;&#xe007;&#160;Crit Damage | 15&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+15&#160;&#xe02c;&#160;Crit Chance
+12&#160;&#xe008;&#160;Defense
+15&#160;&#xe003;&#160;Intelligence
+12&#160;&#xe010;&#160;Health
+6&#160;&#xe001;&#160;Attack Speed
+15&#160;&#xe007;&#160;Crit Damage
+
+| Renowned | [Dragon Horn] &#160;Dragon Horn | | Renowned Bonus
+Increases all Combat Stats by +1%.
+| 3&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+2&#160;&#xe02c;&#160;Crit Chance
+2&#160;&#xe008;&#160;Defense
+3&#160;&#xe003;&#160;Intelligence
+2&#160;&#xe010;&#160;Health
+1&#160;&#xe001;&#160;Attack Speed
+3&#160;&#xe007;&#160;Crit Damage | 4&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+4&#160;&#xe02c;&#160;Crit Chance
+3&#160;&#xe008;&#160;Defense
+4&#160;&#xe003;&#160;Intelligence
+3&#160;&#xe010;&#160;Health
+1&#160;&#xe001;&#160;Attack Speed
+4&#160;&#xe007;&#160;Crit Damage | 6&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+6&#160;&#xe02c;&#160;Crit Chance
+4&#160;&#xe008;&#160;Defense
+6&#160;&#xe003;&#160;Intelligence
+4&#160;&#xe010;&#160;Health
+2&#160;&#xe001;&#160;Attack Speed
+6&#160;&#xe007;&#160;Crit Damage | 8&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+8&#160;&#xe02c;&#160;Crit Chance
+6&#160;&#xe008;&#160;Defense
+8&#160;&#xe003;&#160;Intelligence
+6&#160;&#xe010;&#160;Health
+3&#160;&#xe001;&#160;Attack Speed
+8&#160;&#xe007;&#160;Crit Damage | 10&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+10&#160;&#xe02c;&#160;Crit Chance
+8&#160;&#xe008;&#160;Defense
+10&#160;&#xe003;&#160;Intelligence
+8&#160;&#xe010;&#160;Health
+4&#160;&#xe001;&#160;Attack Speed
+10&#160;&#xe007;&#160;Crit Damage | 12&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+12&#160;&#xe02c;&#160;Crit Chance
+10&#160;&#xe008;&#160;Defense
+12&#160;&#xe003;&#160;Intelligence
+10&#160;&#xe010;&#160;Health
+5&#160;&#xe001;&#160;Attack Speed
+12&#160;&#xe007;&#160;Crit Damage | 15&#160;&#xe00d;&#160;Strength
+1&#160;&#xe022;&#160;Speed
+15&#160;&#xe02c;&#160;Crit Chance
+12&#160;&#xe008;&#160;Defense
+15&#160;&#xe003;&#160;Intelligence
+12&#160;&#xe010;&#160;Health
+6&#160;&#xe001;&#160;Attack Speed
+15&#160;&#xe007;&#160;Crit Damage
+
+| Cubic | [Molten Cube] &#160;Molten Cube | | Cubic Bonus
+Take -2%  Damage from  Infernal mobs.
+| 5&#160;&#xe010;&#160;Health
+3&#160;&#xe00d;&#160;Strength | 7&#160;&#xe010;&#160;Health
+5&#160;&#xe00d;&#160;Strength | 10&#160;&#xe010;&#160;Health
+7&#160;&#xe00d;&#160;Strength | 15&#160;&#xe010;&#160;Health
+10&#160;&#xe00d;&#160;Strength | 20&#160;&#xe010;&#160;Health
+12&#160;&#xe00d;&#160;Strength | 25&#160;&#xe010;&#160;Health
+15&#160;&#xe00d;&#160;Strength | 30&#160;&#xe010;&#160;Health
+18&#160;&#xe00d;&#160;Strength
+
+| Hyper | [End Stone Geode] &#160;End Stone Geode | | Hyper Bonus
+Gain +5 Speed for 5s after using a Transmission ability.
+| 2&#160;&#xe00d;&#160;Strength
+2&#160;&#xe001;&#160;Attack Speed
+1&#160;&#xe022;&#160;Speed | 4&#160;&#xe00d;&#160;Strength
+3&#160;&#xe001;&#160;Attack Speed
+1&#160;&#xe022;&#160;Speed | 6&#160;&#xe00d;&#160;Strength
+4&#160;&#xe001;&#160;Attack Speed
+2&#160;&#xe022;&#160;Speed | 7&#160;&#xe00d;&#160;Strength
+5&#160;&#xe001;&#160;Attack Speed
+2&#160;&#xe022;&#160;Speed | 10&#160;&#xe00d;&#160;Strength
+6&#160;&#xe001;&#160;Attack Speed
+3&#160;&#xe022;&#160;Speed | 12&#160;&#xe00d;&#160;Strength
+7&#160;&#xe001;&#160;Attack Speed
+3&#160;&#xe022;&#160;Speed | 14&#160;&#xe00d;&#160;Strength
+8&#160;&#xe001;&#160;Attack Speed
+4&#160;&#xe022;&#160;Speed
+
+| Reinforced | [Rare Diamond] &#160;Rare Diamond | | | 25&#160;&#xe008;&#160;Defense | 35&#160;&#xe008;&#160;Defense | 50&#160;&#xe008;&#160;Defense | 65&#160;&#xe008;&#160;Defense | 80&#160;&#xe008;&#160;Defense | 110&#160;&#xe008;&#160;Defense | 140&#160;&#xe008;&#160;Defense
+
+| Loving | [Red Scarf] &#160;Red Scarf | Any Chestplate | Loving Bonus
+Grants 5%  Ability Damage.
+| 20&#160;&#xe003;&#160;Intelligence
+4&#160;&#xe010;&#160;Health
+4&#160;&#xe008;&#160;Defense | 40&#160;&#xe003;&#160;Intelligence
+5&#160;&#xe010;&#160;Health
+5&#160;&#xe008;&#160;Defense | 60&#160;&#xe003;&#160;Intelligence
+6&#160;&#xe010;&#160;Health
+6&#160;&#xe008;&#160;Defense | 80&#160;&#xe003;&#160;Intelligence
+8&#160;&#xe010;&#160;Health
+7&#160;&#xe008;&#160;Defense | 100&#160;&#xe003;&#160;Intelligence
+10&#160;&#xe010;&#160;Health
+10&#160;&#xe008;&#160;Defense | 120&#160;&#xe003;&#160;Intelligence
+14&#160;&#xe010;&#160;Health
+14&#160;&#xe008;&#160;Defense | 140&#160;&#xe003;&#160;Intelligence
+20&#160;&#xe010;&#160;Health
+20&#160;&#xe008;&#160;Defense
+
+| Ridiculous | [Red Nose] &#160;Red Nose | Any Helmet | Ridiculous Bonus SNEAK Fart, granting +30 Defense and +50 Mana for 5s, but inflicts -20%  Crit Chance for 20s.
+| 10&#160;&#xe010;&#160;Health
+1&#160;&#xe02c;&#160;Crit Chance
+10&#160;&#xe008;&#160;Defense | 15&#160;&#xe010;&#160;Health
+2&#160;&#xe02c;&#160;Crit Chance
+15&#160;&#xe008;&#160;Defense | 20&#160;&#xe010;&#160;Health
+3&#160;&#xe02c;&#160;Crit Chance
+20&#160;&#xe008;&#160;Defense | 25&#160;&#xe010;&#160;Health
+4&#160;&#xe02c;&#160;Crit Chance
+25&#160;&#xe008;&#160;Defense | 35&#160;&#xe010;&#160;Health
+5&#160;&#xe02c;&#160;Crit Chance
+35&#160;&#xe008;&#160;Defense | 50&#160;&#xe010;&#160;Health
+6&#160;&#xe02c;&#160;Crit Chance
+50&#160;&#xe008;&#160;Defense | 70&#160;&#xe010;&#160;Health
+7&#160;&#xe02c;&#160;Crit Chance
+70&#160;&#xe008;&#160;Defense
+
+| Empowered | [Sadan's Brooch] &#160;Sadan's Brooch | | Empowered Bonus
+Grants +10 Mending while in  Dungeons.
+| 10&#160;&#xe010;&#160;Health
+10&#160;&#xe008;&#160;Defense | 15&#160;&#xe010;&#160;Health
+15&#160;&#xe008;&#160;Defense | 20&#160;&#xe010;&#160;Health
+20&#160;&#xe008;&#160;Defense | 25&#160;&#xe010;&#160;Health
+25&#160;&#xe008;&#160;Defense | 35&#160;&#xe010;&#160;Health
+35&#160;&#xe008;&#160;Defense | 50&#160;&#xe010;&#160;Health
+50&#160;&#xe008;&#160;Defense | 70&#160;&#xe010;&#160;Health
+70&#160;&#xe008;&#160;Defense
+
+| Giant | [Giant Tooth] &#160;Giant Tooth | | | 50&#160;&#xe010;&#160;Health | 60&#160;&#xe010;&#160;Health | 80&#160;&#xe010;&#160;Health | 120&#160;&#xe010;&#160;Health | 180&#160;&#xe010;&#160;Health | 240&#160;&#xe010;&#160;Health | 300&#160;&#xe010;&#160;Health
+
+| Undead | [Premium Flesh] &#160;Premium Flesh | | Undead Bonus
+Take -2%  Damage from  Undead mobs.
+| 1&#160;&#xe00d;&#160;Strength
+8&#160;&#xe010;&#160;Health
+1&#160;&#xe001;&#160;Attack Speed
+6&#160;&#xe008;&#160;Defense | 2&#160;&#xe00d;&#160;Strength
+8&#160;&#xe010;&#160;Health
+2&#160;&#xe001;&#160;Attack Speed
+8&#160;&#xe008;&#160;Defense | 2&#160;&#xe00d;&#160;Strength
+12&#160;&#xe010;&#160;Health
+3&#160;&#xe001;&#160;Attack Speed
+12&#160;&#xe008;&#160;Defense | 3&#160;&#xe00d;&#160;Strength
+18&#160;&#xe010;&#160;Health
+4&#160;&#xe001;&#160;Attack Speed
+18&#160;&#xe008;&#160;Defense | 5&#160;&#xe00d;&#160;Strength
+25&#160;&#xe010;&#160;Health
+5&#160;&#xe001;&#160;Attack Speed
+25&#160;&#xe008;&#160;Defense | 7&#160;&#xe00d;&#160;Strength
+33&#160;&#xe010;&#160;Health
+6&#160;&#xe001;&#160;Attack Speed
+33&#160;&#xe008;&#160;Defense | 10&#160;&#xe00d;&#160;Strength
+45&#160;&#xe010;&#160;Health
+7&#160;&#xe001;&#160;Attack Speed
+45&#160;&#xe008;&#160;Defense
+
+| Submerged | [Deep Sea Orb] &#160;Deep Sea Orb | | | 0.5&#160;&#xe021;&#160;Sea Creature Chance
+2&#160;&#xe02c;&#160;Crit Chance
+1&#160;&#xe00c;&#160;Fishing Speed | 0.6&#160;&#xe021;&#160;Sea Creature Chance
+4&#160;&#xe02c;&#160;Crit Chance
+1&#160;&#xe00c;&#160;Fishing Speed | 0.7&#160;&#xe021;&#160;Sea Creature Chance
+6&#160;&#xe02c;&#160;Crit Chance
+2&#160;&#xe00c;&#160;Fishing Speed | 0.8&#160;&#xe021;&#160;Sea Creature Chance
+8&#160;&#xe02c;&#160;Crit Chance
+3&#160;&#xe00c;&#160;Fishing Speed | 0.9&#160;&#xe021;&#160;Sea Creature Chance
+10&#160;&#xe02c;&#160;Crit Chance
+4&#160;&#xe00c;&#160;Fishing Speed | 1&#160;&#xe021;&#160;Sea Creature Chance
+12&#160;&#xe02c;&#160;Crit Chance
+5&#160;&#xe00c;&#160;Fishing Speed | 1.1&#160;&#xe021;&#160;Sea Creature Chance
+14&#160;&#xe02c;&#160;Crit Chance
+6&#160;&#xe00c;&#160;Fishing Speed
+
+| Jaded | [Jaderald] &#160;Jaderald | | | 5&#160;&#xe015;&#160;Mining Speed
+5&#160;&#xe053;&#160;Mining Fortune | 12&#160;&#xe015;&#160;Mining Speed
+10&#160;&#xe053;&#160;Mining Fortune | 20&#160;&#xe015;&#160;Mining Speed
+15&#160;&#xe053;&#160;Mining Fortune | 30&#160;&#xe015;&#160;Mining Speed
+20&#160;&#xe053;&#160;Mining Fortune | 45&#160;&#xe015;&#160;Mining Speed
+25&#160;&#xe053;&#160;Mining Fortune | 60&#160;&#xe015;&#160;Mining Speed
+30&#160;&#xe053;&#160;Mining Fortune | 75&#160;&#xe015;&#160;Mining Speed
+35&#160;&#xe053;&#160;Mining Fortune
+
+| Bustling | [SkyMart Brochure] &#160;SkyMart Brochure | | | 1&#160;&#xe051;&#160;Farming Fortune | 2&#160;&#xe051;&#160;Farming Fortune | 4&#160;&#xe051;&#160;Farming Fortune | 6&#160;&#xe051;&#160;Farming Fortune | 8&#160;&#xe051;&#160;Farming Fortune | 10&#160;&#xe051;&#160;Farming Fortune | 12&#160;&#xe051;&#160;Farming Fortune
+
+| Mossy | [Overgrown Grass] &#160;Overgrown Grass | | | 3&#160;&#xe022;&#160;Speed
+5&#160;&#xe051;&#160;Farming Fortune | 3&#160;&#xe022;&#160;Speed
+10&#160;&#xe051;&#160;Farming Fortune | 5&#160;&#xe022;&#160;Speed
+15&#160;&#xe051;&#160;Farming Fortune | 5&#160;&#xe022;&#160;Speed
+20&#160;&#xe051;&#160;Farming Fortune | 7&#160;&#xe022;&#160;Speed
+25&#160;&#xe051;&#160;Farming Fortune | 7&#160;&#xe022;&#160;Speed
+30&#160;&#xe051;&#160;Farming Fortune | 10&#160;&#xe022;&#160;Speed
+35&#160;&#xe051;&#160;Farming Fortune
+
+| Mantid | [Mantid Claw] &#160;Mantid Claw | | Mantid Bonus
+Grants +0.25 Bonus Pest Chance per  Pest killed for 10 minutes. Caps at 5 Bonus Pest Chance.
+| 2&#160;&#xe051;&#160;Farming Fortune
+0.5&#160;&#xe019;&#160;Bonus Pest Chance | 4&#160;&#xe051;&#160;Farming Fortune
+0.5&#160;&#xe019;&#160;Bonus Pest Chance | 6&#160;&#xe051;&#160;Farming Fortune
+1&#160;&#xe019;&#160;Bonus Pest Chance | 8&#160;&#xe051;&#160;Farming Fortune
+1.5&#160;&#xe019;&#160;Bonus Pest Chance | 10&#160;&#xe051;&#160;Farming Fortune
+2&#160;&#xe019;&#160;Bonus Pest Chance | 12&#160;&#xe051;&#160;Farming Fortune
+2.5&#160;&#xe019;&#160;Bonus Pest Chance | 14&#160;&#xe051;&#160;Farming Fortune
+3&#160;&#xe019;&#160;Bonus Pest Chance
+
+| Festive | [Frozen Bauble] &#160;Frozen Bauble | | | 0.05&#160;&#xe021;&#160;Sea Creature Chance
+5&#160;&#xe003;&#160;Intelligence
+2&#160;&#xe00c;&#160;Fishing Speed | 0.05&#160;&#xe021;&#160;Sea Creature Chance
+10&#160;&#xe003;&#160;Intelligence
+3&#160;&#xe00c;&#160;Fishing Speed | 0.1&#160;&#xe021;&#160;Sea Creature Chance
+15&#160;&#xe003;&#160;Intelligence
+4&#160;&#xe00c;&#160;Fishing Speed | 0.15&#160;&#xe021;&#160;Sea Creature Chance
+20&#160;&#xe003;&#160;Intelligence
+6&#160;&#xe00c;&#160;Fishing Speed | 0.2&#160;&#xe021;&#160;Sea Creature Chance
+25&#160;&#xe003;&#160;Intelligence
+8&#160;&#xe00c;&#160;Fishing Speed | 0.25&#160;&#xe021;&#160;Sea Creature Chance
+30&#160;&#xe003;&#160;Intelligence
+10&#160;&#xe00c;&#160;Fishing Speed | 0.3&#160;&#xe021;&#160;Sea Creature Chance
+35&#160;&#xe003;&#160;Intelligence
+12&#160;&#xe00c;&#160;Fishing Speed
+
+| Groovy | [Mangrove Gem] &#160;Mangrove Gem | | | 2&#160;&#xe054;&#160;Foraging Fortune | 3&#160;&#xe054;&#160;Foraging Fortune | 4&#160;&#xe054;&#160;Foraging Fortune | 5&#160;&#xe054;&#160;Foraging Fortune | 6&#160;&#xe054;&#160;Foraging Fortune | 7&#160;&#xe054;&#160;Foraging Fortune | 8&#160;&#xe054;&#160;Foraging Fortune
+
+| Geometric | [Geometric Oddity] &#160;Geometric Oddity | [Froggles] &#160;Froggles, [Silver Froggles] &#160;Silver Froggles, [Golden Froggles] &#160;Golden Froggles, [Diamond Froggles] &#160;Diamond Froggles | Geometric Bonus
+Gain a +5% chance to catch a bonus Trophy while fishing in a Wormhole.
+| 0.5&#160;&#xe02a;&#160;Trophy Chance
+0.5&#160;&#xe00c;&#160;Fishing Speed | 1&#160;&#xe02a;&#160;Trophy Chance
+1&#160;&#xe00c;&#160;Fishing Speed | 1.5&#160;&#xe02a;&#160;Trophy Chance
+1.5&#160;&#xe00c;&#160;Fishing Speed | 2&#160;&#xe02a;&#160;Trophy Chance
+2&#160;&#xe00c;&#160;Fishing Speed | 3&#160;&#xe02a;&#160;Trophy Chance
+3&#160;&#xe00c;&#160;Fishing Speed | 4&#160;&#xe02a;&#160;Trophy Chance
+4&#160;&#xe00c;&#160;Fishing Speed | 5&#160;&#xe02a;&#160;Trophy Chance
+5&#160;&#xe00c;&#160;Fishing Speed
+
+| Calcified | [Calcified Heart] &#160;Calcified Heart | | Calcified Bonus
+Grants +25 Defense against Sea Creatures.
+| 2&#160;&#xe008;&#160;Defense
+0.5&#160;&#xe00c;&#160;Fishing Speed | 4&#160;&#xe008;&#160;Defense
+1&#160;&#xe00c;&#160;Fishing Speed | 6&#160;&#xe008;&#160;Defense
+1.5&#160;&#xe00c;&#160;Fishing Speed | 10&#160;&#xe008;&#160;Defense
+2.5&#160;&#xe00c;&#160;Fishing Speed | 14&#160;&#xe008;&#160;Defense
+3.5&#160;&#xe00c;&#160;Fishing Speed | 18&#160;&#xe008;&#160;Defense
+4.5&#160;&#xe00c;&#160;Fishing Speed | 22&#160;&#xe008;&#160;Defense
+5.5&#160;&#xe00c;&#160;Fishing Speed
+
+| Sunny | [Sunstone] &#160;Sunstone | | | 2&#160;&#xe022;&#160;Speed
+1&#160;☯&#160;Farming Wisdom | 3&#160;&#xe022;&#160;Speed
+2&#160;☯&#160;Farming Wisdom | 4&#160;&#xe022;&#160;Speed
+3&#160;☯&#160;Farming Wisdom | 6&#160;&#xe022;&#160;Speed
+4&#160;☯&#160;Farming Wisdom | 8&#160;&#xe022;&#160;Speed
+5&#160;☯&#160;Farming Wisdom | 10&#160;&#xe022;&#160;Speed
+6&#160;☯&#160;Farming Wisdom | 12&#160;&#xe022;&#160;Speed
+7&#160;☯&#160;Farming Wisdom
+
+| Candied | [Candy Corn] &#160;Candy Corn | | Candied Bonus
+Mobs are 1% more likely to drop candy during the Spooky Festival.
+| 1&#160;&#xe010;&#160;Health
+1&#160;&#xe008;&#160;Defense | 2&#160;&#xe010;&#160;Health
+1&#160;&#xe008;&#160;Defense | 4&#160;&#xe010;&#160;Health
+2&#160;&#xe008;&#160;Defense | 6&#160;&#xe010;&#160;Health
+3&#160;&#xe008;&#160;Defense | 8&#160;&#xe010;&#160;Health
+4&#160;&#xe008;&#160;Defense | 10&#160;&#xe010;&#160;Health
+5&#160;&#xe008;&#160;Defense | 12&#160;&#xe010;&#160;Health
+6&#160;&#xe008;&#160;Defense
+
+| Dimensional | [Titanium Tesseract] &#160;Titanium Tesseract | | Dimensional Bonus
+Titanium drops +10 ᠅ Mithril Powder when mined.
+| 1&#160;☯&#160;Mining Wisdom
+10&#160;&#xe015;&#160;Mining Speed | 1&#160;☯&#160;Mining Wisdom
+15&#160;&#xe015;&#160;Mining Speed | 1&#160;☯&#160;Mining Wisdom
+20&#160;&#xe015;&#160;Mining Speed | 2&#160;☯&#160;Mining Wisdom
+30&#160;&#xe015;&#160;Mining Speed | 2&#160;☯&#160;Mining Wisdom
+40&#160;&#xe015;&#160;Mining Speed | 3&#160;☯&#160;Mining Wisdom
+50&#160;&#xe015;&#160;Mining Speed | 4&#160;☯&#160;Mining Wisdom
+60&#160;&#xe015;&#160;Mining Speed
+
+| Greater Spook | [Boo Stone] &#160;Boo Stone | [Great Spook Helmet] &#160;Great Spook Armor | | 1&#160;&#xe00a;&#160;Fear | 2&#160;&#xe00a;&#160;Fear | 3&#160;&#xe00a;&#160;Fear | 4&#160;&#xe00a;&#160;Fear | 5&#160;&#xe00a;&#160;Fear | 6&#160;&#xe00a;&#160;Fear | 7&#160;&#xe00a;&#160;Fear
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Reforging/Armor?oldid=856100"
+
+Hidden categories: 
+- Pages using Health
+- Pages using Crit Chance
+- Pages using Defense
+- Pages using Strength
+- Pages using Crit Damage
+- Pages using Speed
+- Pages using Attack Speed
+- Pages using Intelligence
+- Pages using Sea Creature Chance
+- Pages using Fishing Speed
+- Pages using Mining Speed
+- Pages using Mining Fortune
+- Pages using Farming Fortune
+- Pages using Bonus Pest Chance
+- Pages using Foraging Fortune
+- Pages using Trophy Chance
+- Pages using Farming Wisdom
+- Pages using Mining Wisdom
+- Pages using Fear
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Page
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+3h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+- View buckets
+
+- This page was last edited on 10 October 2026, at 14:56.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

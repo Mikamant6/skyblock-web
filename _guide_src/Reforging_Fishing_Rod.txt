@@ -1,0 +1,270 @@
+Reforging/Fishing Rod - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Reforging/Fishing Rod
+
+From Hypixel SkyBlock Wiki
+
+< Reforging
+
+Jump to navigation
+Jump to search
+
+#### Basic
+[edit | edit source]
+
+Fishing Rods can have the same basic reforges as Swords can.
+
+#### Advanced
+[edit | edit source]
+
+These reforges can only be applied to Fishing Rods through Reforge Stones.
+
+| Reforge Prefix
+
+| Reforge Stone
+
+| Passive Ability
+
+| COMMON
+
+| UNCOMMON
+
+| RARE
+
+| EPIC
+
+| LEGENDARY
+
+| MYTHIC
+
+| DIVINE
+
+| Salty | [Salt Cube] &#160;Salt Cube | Salty Bonus
+This gives x2 stats while on  Jerry's Workshop.
+| 0.5&#160;&#xe021;&#160;Sea Creature Chance | 1&#160;&#xe021;&#160;Sea Creature Chance | 1.5&#160;&#xe021;&#160;Sea Creature Chance | 2&#160;&#xe021;&#160;Sea Creature Chance | 3&#160;&#xe021;&#160;Sea Creature Chance | 4&#160;&#xe021;&#160;Sea Creature Chance | 5&#160;&#xe021;&#160;Sea Creature Chance
+
+| Treacherous | [Rusty Anchor] &#160;Rusty Anchor | Treacherous Bonus
+Earn +20% Ice Essence from TREASURE catches.
+| 0.5&#160;&#xe021;&#160;Sea Creature Chance
+0.1&#160;&#xe025;&#160;Treasure Chance
+5&#160;&#xe00d;&#160;Strength | 1&#160;&#xe021;&#160;Sea Creature Chance
+0.2&#160;&#xe025;&#160;Treasure Chance
+10&#160;&#xe00d;&#160;Strength | 1.5&#160;&#xe021;&#160;Sea Creature Chance
+0.3&#160;&#xe025;&#160;Treasure Chance
+15&#160;&#xe00d;&#160;Strength | 2&#160;&#xe021;&#160;Sea Creature Chance
+0.4&#160;&#xe025;&#160;Treasure Chance
+20&#160;&#xe00d;&#160;Strength | 2.5&#160;&#xe021;&#160;Sea Creature Chance
+0.6&#160;&#xe025;&#160;Treasure Chance
+25&#160;&#xe00d;&#160;Strength | 3.5&#160;&#xe021;&#160;Sea Creature Chance
+0.8&#160;&#xe025;&#160;Treasure Chance
+30&#160;&#xe00d;&#160;Strength | 5.5&#160;&#xe021;&#160;Sea Creature Chance
+1&#160;&#xe025;&#160;Treasure Chance
+35&#160;&#xe00d;&#160;Strength
+
+| Stiff | [Hardened Wood] &#160;Hardened Wood | Stiff Bonus
+Sea Creatures killed with this Fishing Rod drop +1 Chum.
+| 1&#160;&#xe021;&#160;Sea Creature Chance
+2&#160;&#xe00d;&#160;Strength | 2&#160;&#xe021;&#160;Sea Creature Chance
+4&#160;&#xe00d;&#160;Strength | 2&#160;&#xe021;&#160;Sea Creature Chance
+6&#160;&#xe00d;&#160;Strength | 3&#160;&#xe021;&#160;Sea Creature Chance
+8&#160;&#xe00d;&#160;Strength | 5&#160;&#xe021;&#160;Sea Creature Chance
+10&#160;&#xe00d;&#160;Strength | 7&#160;&#xe021;&#160;Sea Creature Chance
+12&#160;&#xe00d;&#160;Strength | 9&#160;&#xe021;&#160;Sea Creature Chance
+14&#160;&#xe00d;&#160;Strength
+
+| Lucky | [Lucky Dice] &#160;Lucky Dice | Lucky Bonus
+Treasure catches are 7% more likely to be OUTSTANDING.
+| 0.1&#160;&#xe025;&#160;Treasure Chance
+1&#160;&#xe00c;&#160;Fishing Speed | 0.2&#160;&#xe025;&#160;Treasure Chance
+2&#160;&#xe00c;&#160;Fishing Speed | 0.3&#160;&#xe025;&#160;Treasure Chance
+3&#160;&#xe00c;&#160;Fishing Speed | 0.4&#160;&#xe025;&#160;Treasure Chance
+4&#160;&#xe00c;&#160;Fishing Speed | 0.5&#160;&#xe025;&#160;Treasure Chance
+5&#160;&#xe00c;&#160;Fishing Speed | 0.6&#160;&#xe025;&#160;Treasure Chance
+6&#160;&#xe00c;&#160;Fishing Speed | 0.7&#160;&#xe025;&#160;Treasure Chance
+7&#160;&#xe00c;&#160;Fishing Speed
+
+| Pitchin' | [Pitchin' Koi] &#160;Pitchin' Koi | | 1&#160;&#xe021;&#160;Sea Creature Chance
+1&#160;&#xe00c;&#160;Fishing Speed | 1&#160;&#xe021;&#160;Sea Creature Chance
+2&#160;&#xe00c;&#160;Fishing Speed | 2&#160;&#xe021;&#160;Sea Creature Chance
+4&#160;&#xe00c;&#160;Fishing Speed | 3&#160;&#xe021;&#160;Sea Creature Chance
+6&#160;&#xe00c;&#160;Fishing Speed | 4&#160;&#xe021;&#160;Sea Creature Chance
+8&#160;&#xe00c;&#160;Fishing Speed | 5&#160;&#xe021;&#160;Sea Creature Chance
+10&#160;&#xe00c;&#160;Fishing Speed | 6&#160;&#xe021;&#160;Sea Creature Chance
+12&#160;&#xe00c;&#160;Fishing Speed
+
+| Chomp | [Kuudra Mandible] &#160;Kuudra Mandible | Chomp Bonus
+Each unique Lava Sea Creature killed with this rod in your inventory reduces their  Health when fished by 1%. Capped at -20% health. Current Reduction: -0% ❤
+| 5&#160;&#xe00d;&#160;Strength
+5&#160;&#xe02c;&#160;Crit Chance
+2&#160;&#xe00c;&#160;Fishing Speed | 10&#160;&#xe00d;&#160;Strength
+10&#160;&#xe02c;&#160;Crit Chance
+3&#160;&#xe00c;&#160;Fishing Speed | 17&#160;&#xe00d;&#160;Strength
+17&#160;&#xe02c;&#160;Crit Chance
+5&#160;&#xe00c;&#160;Fishing Speed | 25&#160;&#xe00d;&#160;Strength
+25&#160;&#xe02c;&#160;Crit Chance
+7&#160;&#xe00c;&#160;Fishing Speed | 35&#160;&#xe00d;&#160;Strength
+35&#160;&#xe02c;&#160;Crit Chance
+9&#160;&#xe00c;&#160;Fishing Speed | 50&#160;&#xe00d;&#160;Strength
+50&#160;&#xe02c;&#160;Crit Chance
+11&#160;&#xe00c;&#160;Fishing Speed | 70&#160;&#xe00d;&#160;Strength
+70&#160;&#xe02c;&#160;Crit Chance
+13&#160;&#xe00c;&#160;Fishing Speed
+
+| Trashy | [Overflowing Trash Can] &#160;Overflowing Trash Can | Trashy Bonus
+Grants +1 Treasure Chance while in the  Backwater Bayou.
+| 0.5&#160;&#xe021;&#160;Sea Creature Chance
+1&#160;&#xe00c;&#160;Fishing Speed | 1&#160;&#xe021;&#160;Sea Creature Chance
+2&#160;&#xe00c;&#160;Fishing Speed | 1.5&#160;&#xe021;&#160;Sea Creature Chance
+3&#160;&#xe00c;&#160;Fishing Speed | 2&#160;&#xe021;&#160;Sea Creature Chance
+4&#160;&#xe00c;&#160;Fishing Speed | 3&#160;&#xe021;&#160;Sea Creature Chance
+6&#160;&#xe00c;&#160;Fishing Speed | 4&#160;&#xe021;&#160;Sea Creature Chance
+8&#160;&#xe00c;&#160;Fishing Speed | 5&#160;&#xe021;&#160;Sea Creature Chance
+10&#160;&#xe00c;&#160;Fishing Speed
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Reforging/Fishing_Rod?oldid=856090"
+
+Hidden categories: 
+- Pages using Sea Creature Chance
+- Pages using Treasure Chance
+- Pages using Strength
+- Pages using Fishing Speed
+- Pages using Crit Chance
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Page
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+3h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+- View buckets
+
+- This page was last edited on 10 October 2026, at 14:38.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

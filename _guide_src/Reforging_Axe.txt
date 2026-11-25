@@ -1,0 +1,262 @@
+Reforging/Axe - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Reforging/Axe
+
+From Hypixel SkyBlock Wiki
+
+< Reforging
+
+Jump to navigation
+Jump to search
+
+#### Basic
+[edit | edit source]
+
+These reforges can be applied to Axes through the [A sprite icon representing Blacksmith in Hypixel SkyBlock] Blacksmith.
+
+| Reforge Prefix
+
+| COMMON
+
+| UNCOMMON
+
+| RARE
+
+| EPIC
+
+| LEGENDARY
+
+| MYTHIC
+
+| DIVINE
+
+| Double-Bit | 1&#160;&#xe054;&#160;Foraging Fortune
+1&#160;&#xe022;&#160;Speed | 2&#160;&#xe054;&#160;Foraging Fortune
+2&#160;&#xe022;&#160;Speed | 3&#160;&#xe054;&#160;Foraging Fortune
+3&#160;&#xe022;&#160;Speed | 4&#160;&#xe054;&#160;Foraging Fortune
+5&#160;&#xe022;&#160;Speed | 5&#160;&#xe054;&#160;Foraging Fortune
+7&#160;&#xe022;&#160;Speed | 6&#160;&#xe054;&#160;Foraging Fortune
+9&#160;&#xe022;&#160;Speed | 6&#160;&#xe054;&#160;Foraging Fortune
+9&#160;&#xe022;&#160;Speed
+
+| Lumberjack's | 1&#160;&#xe022;&#160;Speed | 2&#160;&#xe022;&#160;Speed | 3&#160;&#xe022;&#160;Speed | 5&#160;&#xe022;&#160;Speed | 7&#160;&#xe022;&#160;Speed | 9&#160;&#xe022;&#160;Speed | 11&#160;&#xe022;&#160;Speed
+
+| Great | 2&#160;&#xe00d;&#160;Strength
+2&#160;&#xe007;&#160;Crit Damage
+1&#160;&#xe022;&#160;Speed | 4&#160;&#xe00d;&#160;Strength
+4&#160;&#xe007;&#160;Crit Damage
+2&#160;&#xe022;&#160;Speed | 6&#160;&#xe00d;&#160;Strength
+6&#160;&#xe007;&#160;Crit Damage
+3&#160;&#xe022;&#160;Speed | 9&#160;&#xe00d;&#160;Strength
+9&#160;&#xe007;&#160;Crit Damage
+4&#160;&#xe022;&#160;Speed | 12&#160;&#xe00d;&#160;Strength
+12&#160;&#xe007;&#160;Crit Damage
+5&#160;&#xe022;&#160;Speed | 16&#160;&#xe00d;&#160;Strength
+16&#160;&#xe007;&#160;Crit Damage
+7&#160;&#xe022;&#160;Speed | 20&#160;&#xe00d;&#160;Strength
+20&#160;&#xe007;&#160;Crit Damage
+9&#160;&#xe022;&#160;Speed
+
+| Rugged | 3&#160;&#xe007;&#160;Crit Damage
+4&#160;&#xe00d;&#160;Strength | 5&#160;&#xe007;&#160;Crit Damage
+6&#160;&#xe00d;&#160;Strength | 8&#160;&#xe007;&#160;Crit Damage
+9&#160;&#xe00d;&#160;Strength | 12&#160;&#xe007;&#160;Crit Damage
+13&#160;&#xe00d;&#160;Strength | 16&#160;&#xe007;&#160;Crit Damage
+18&#160;&#xe00d;&#160;Strength | 22&#160;&#xe007;&#160;Crit Damage
+24&#160;&#xe00d;&#160;Strength | 28&#160;&#xe007;&#160;Crit Damage
+30&#160;&#xe00d;&#160;Strength
+
+| Lush | 1&#160;&#xe054;&#160;Foraging Fortune
+3&#160;&#xe022;&#160;Speed | 1&#160;&#xe054;&#160;Foraging Fortune
+4&#160;&#xe022;&#160;Speed | 2&#160;&#xe054;&#160;Foraging Fortune
+5&#160;&#xe022;&#160;Speed | 2&#160;&#xe054;&#160;Foraging Fortune
+7&#160;&#xe022;&#160;Speed | 3&#160;&#xe054;&#160;Foraging Fortune
+10&#160;&#xe022;&#160;Speed | 5&#160;&#xe054;&#160;Foraging Fortune
+15&#160;&#xe022;&#160;Speed | 7&#160;&#xe054;&#160;Foraging Fortune
+20&#160;&#xe022;&#160;Speed
+
+#### Advanced
+[edit | edit source]
+
+These reforges can only be applied to Axes through Reforge Stones.
+
+| Reforge Prefix
+
+| Reforge Stone
+
+| Passive Ability
+
+| COMMON
+
+| UNCOMMON
+
+| RARE
+
+| EPIC
+
+| LEGENDARY
+
+| MYTHIC
+
+| DIVINE
+
+| Moil | [Moil Log] &#160;Moil Log | | 1&#160;&#xe054;&#160;Foraging Fortune | 2&#160;&#xe054;&#160;Foraging Fortune | 3&#160;&#xe054;&#160;Foraging Fortune | 4&#160;&#xe054;&#160;Foraging Fortune | 6&#160;&#xe054;&#160;Foraging Fortune | 8&#160;&#xe054;&#160;Foraging Fortune | 10&#160;&#xe054;&#160;Foraging Fortune
+
+| Toil | [Rotting Branch] &#160;Rotting Branch | | 1&#160;☯&#160;Foraging Wisdom | 2&#160;☯&#160;Foraging Wisdom | 3&#160;☯&#160;Foraging Wisdom | 4&#160;☯&#160;Foraging Wisdom | 6&#160;☯&#160;Foraging Wisdom | 8&#160;☯&#160;Foraging Wisdom | 10&#160;☯&#160;Foraging Wisdom
+
+| Moonglade | [Moonglade Jewel] &#160;Moonglade Jewel | | 4&#160;&#xe054;&#160;Foraging Fortune
+1&#160;☯&#160;Foraging Wisdom | 6&#160;&#xe054;&#160;Foraging Fortune
+2&#160;☯&#160;Foraging Wisdom | 8&#160;&#xe054;&#160;Foraging Fortune
+3&#160;☯&#160;Foraging Wisdom | 10&#160;&#xe054;&#160;Foraging Fortune
+4&#160;☯&#160;Foraging Wisdom | 12&#160;&#xe054;&#160;Foraging Fortune
+5&#160;☯&#160;Foraging Wisdom | 15&#160;&#xe054;&#160;Foraging Fortune
+6&#160;☯&#160;Foraging Wisdom | 18&#160;&#xe054;&#160;Foraging Fortune
+7&#160;☯&#160;Foraging Wisdom
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Reforging/Axe?oldid=860721"
+
+Hidden categories: 
+- Pages using Foraging Fortune
+- Pages using Speed
+- Pages using Strength
+- Pages using Crit Damage
+- Pages using Foraging Wisdom
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Page
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+3h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+- View buckets
+
+- This page was last edited on 19 October 2026, at 11:07.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

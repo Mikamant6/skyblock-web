@@ -1,0 +1,5721 @@
+Tutorial:Fishing Guide - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Tutorial:Fishing Guide
+
+From Hypixel SkyBlock Wiki
+
+Jump to navigation
+Jump to search
+
+- This tutorial is a guide.
+
+- This tutorial has been assembled by members of the community as a helpful resource or Tutorial, instructing players on SkyBlock, and thus is not official.
+
+- If you see missing, incorrect or out of date information, please help by contributing to the page.
+
+This guide tailors to multiple different aspects of &#160;Fishing. It aims to provide a useful line of progression for your &#160;Fishing gear and understand how the math behind the more complicated systems work.
+
+## Contents
+
+- 1 Basic Information
+
+- 1.1 Fishing Stats
+
+- 1.2 Important Formulae
+
+- 1.3 Fishing Bait
+
+- 1.4 Rod Parts
+
+- 1.5 Hotspots
+
+- 1.6 Weather
+
+- 2 Leveling Up Fishing
+
+- 2.1 Fishing 0-19
+
+- 2.2 Fishing 19-27
+
+- 2.3 Fishing 27-50
+
+- 3 Recommended Progression
+
+- 3.1 Fishing Rod Progression
+
+- 3.1.1 Water
+
+- 3.1.2 Lava
+
+- 3.2 Armor Progression
+
+- 3.3 Equipment Progression
+
+- 3.4 Bait Progression
+
+- 3.5 Rod Part Progression
+
+- 4 Fishing Reforges
+
+- 4.1 Fishing Rod
+
+- 4.2 Armor
+
+- 5 Fishing Pets
+
+- 5.1 General Fishing
+
+- 5.2 Event Fishing
+
+- 5.3 Treasure Fishing
+
+- 5.4 Trophy Fishing
+
+- 6 Fishing Accessories
+
+- 7 Fishing Attributes
+
+- 7.1 Core Attributes
+
+- 7.2 Treasure Fishing
+
+- 7.3 Trophy Fishing
+
+- 7.4 Galatea Diving
+
+- 7.5 Hunting
+
+- 7.6 Tracking
+
+- 7.7 Echo
+
+- 7.8 Optional
+
+- 8 Maximising Stats
+
+- 8.1 Maximising Magic Find
+
+- 8.2 Maximising Tracking
+
+- 8.3 Maximising Double Hook Chance
+
+- 9 Trophy Frogs Guide
+
+- 9.1 Tiers of Trophy Frogs
+
+- 9.2 Types of Trophy Frogs
+
+- 9.3 Gear Progression
+
+- 9.4 Trophy Frog Collecting Attributes
+
+- 10 Trophy Fishing Guide
+
+- 10.1 Tiers of Trophy Fish
+
+- 10.2 Types of Trophy Fish
+
+- 10.3 Gear Progression
+
+- 10.4 Trophy Fishing Attributes
+
+- 10.5 Trophy Fishing Tips
+
+- 11 Additional Tips
+
+- 12 Credits
+
+- 13 References
+
+- 14 Navigation
+
+## Basic Information
+[edit | edit source]
+
+### Fishing Stats
+[edit | edit source]
+
+There are 6 core Fishing Stats: &#xe00c;&#160;Fishing Speed, &#xe021;&#160;Sea Creature Chance, &#xe025;&#160;Treasure Chance, &#xe009;&#160;Double Hook Chance, &#xe02a;&#160;Trophy Chance, and ☯&#160;Fishing Wisdom. Additionally, there are 2 vital Misc Stats, and 2 vital Hunting Stat: &#xe01a;&#160;Magic Find, which increases your chance for rare drops, &#xe077;&#160;Tracking, which increases the chances of catching &#xe077;&#160;Elusive Sea Creatures, &#xe05b;&#160;Hunting Fortune, which increases the chances of getting additional Shards, and ❣&#160;Charm Chance, which increases the chances of Charming mobs you kill.
+
+| Stat
+
+| Description
+
+| Cap
+
+| Formula
+
+| Fishing Stats
+
+| &#xe00c;&#160;Fishing Speed
+
+| &#xe00c;&#160;Fishing Speed decreases the time before the event of "catching a fish", which refers to when the indicator reaches your fishing rod and you are allowed to reel. Contrary to popular belief, &#xe00c;&#160;Fishing Speed does not increase directly the speed at which you fish: instead, the closer your &#xe00c;&#160;Fishing Speed is to your &#xe00c;&#160;Fishing Speed cap, the faster you will fish.
+
+- For example, to reach maximum speed on the &#xe067; Backwater Bayou, you will need 200&#160;&#xe00c;&#160;Fishing Speed to hit the cap and reduce the time taken to catch a fish to 0 ticks.
+
+- However, since the maximum &#xe00c;&#160;Fishing Speed on the &#xe067; Crimson Isle is 350&#160;&#xe00c;, you will need 350&#160;&#xe00c;&#160;Fishing Speed to reach maximum speed compared to the 200&#160;&#xe00c;&#160;Fishing Speed you'd need on the &#xe067; Backwater Bayou.
+
+Several islands have different &#xe00c;&#160;Fishing Speed caps. The lower the cap, the less &#xe00c;&#160;Fishing Speed you'll need to achieve the highest speed possible and reduce the time taken to catch a fish to 0 ticks.
+
+| 
+
+- 300&#160;&#xe00c; (Global)
+
+- 200&#160;&#xe00c; (Bayou)
+
+- 250&#160;&#xe00c; ( Atoll)
+
+- 350&#160;&#xe00c; ( Crimson Isle)
+
+| Ticks=BaseTicks−(FishingSpeedFishingSpeedCap×BaseTicks)
+
+| &#xe021;&#160;Sea Creature Chance
+
+| &#xe021;&#160;Sea Creature Chance increases the chances of catching a Sea Creature. For every 1% &#xe021;&#160;Sea Creature Chance you have, you are 1% more likely to fish up a Sea Creature, up to 100%&#160;&#xe021;. You have a base 20%&#160;&#xe021;&#160;Sea Creature Chance.
+&#xe021;&#160;Sea Creature Chance is scarce, with most sources of &#xe021;&#160;Sea Creature Chance granting very little to prevent you from reaching 100%&#160;&#xe021; too early. However, [A sprite icon representing Marina in Hypixel SkyBlock] Mayor Marina's Luck of the Sea 2.0 perk grants a global +15%&#160;&#xe021;&#160;Sea Creature Chance.
+
+| 100%&#160;&#xe021;
+
+| 
+
+| &#xe025;&#160;Treasure Chance
+
+| &#xe025;&#160;Treasure Chance increases the chances of rolling Treasure.
+Assuming the player does not catch a Sea Creature, when rolling for items, the chance for a &#160;Treasure Dye - which is exempt from all formulas - is rolled first; then, Treasure is rolled; then, the type of Treasure - either GOOD, GREAT, or OUTSTANDING.
+
+| 100%&#160;&#xe025;
+
+| When not rolling for a &#160;Treasure Dye:
+[More Info Needed]
+
+| &#xe009;&#160;Double Hook Chance
+
+| &#xe009;&#160;Double Hook Chance increases the chances of catching 2 Sea Creatures in one catch.
+&#xe009;&#160;Double Hook Chance is very difficult to come across, with most of its sources requiring lots of effort or being very expensive. However, [A sprite icon representing Marina in Hypixel SkyBlock] Mayor Marina's Double Trouble perk grants 1%&#160;&#xe009;&#160;Double Hook Chance for every 10%&#160;&#xe021;&#160;Sea Creature Chance.
+
+| 100%&#160;&#xe009;
+
+| 
+
+| &#xe02a;&#160;Trophy Chance
+
+| &#xe02a;&#160;Trophy Chance acts as a multiplicative increase for the chance of rolling each individual Trophy on the &#xe067; Crimson Isle or &#xe067; Lotus Atoll when conditions are met.
+The game will attempt to roll for the highest tier possible, being Diamond, followed by Gold, Silver, and Bronze. If no Trophies are caught, Sea Creatures and items are rolled for instead.
+
+| 150&#160;&#xe02a;
+
+| CatchChance=BaseChance×(1+TrophyChance100)
+
+| ☯&#160;Fishing Wisdom
+
+| ☯&#160;Fishing Wisdom increases the amount of &#160;Fishing&#160;XP gained. For every 1%&#160;☯, you gain 1% more &#160;Fishing&#160;XP.
+
+| 
+
+| FishingXPGained=BaseFishingXP×(1+FishingWisdom100)
+
+| Misc Stats
+
+| &#xe01a;&#160;Magic Find
+
+| &#xe01a;&#160;Magic Find is a vital stat that increases the chances of dropping items that have a base drop chance of ≤5%.
+Having high &#xe01a;&#160;Magic Find is incredibly important, as some of the most important and valuable items from fishing have exceedingly low drop chances. 
+
+| 
+
+| 
+
+- Item: BaseChance×(1+(MagicFind100))
+
+- Pet: BaseChance×(1+(PetLuck+MagicFind100))
+
+| &#xe077;&#160;Tracking
+
+| &#xe077;&#160;Tracking is a vital stat that increases the chances of catching &#xe077;&#160;Elusive mobs: this includes LEGENDARY and MYTHIC Sea Creatures, which generally have the best loot.
+Having high &#xe077;&#160;Tracking is incredibly important, especially when paired with high &#xe01a;&#160;Magic Find, as some of the best items drop from the rarest mobs.
+
+| 
+
+| FinalChance=BaseChance×(1+Tracking100)
+
+| Hunting Stats
+
+| &#xe05b;&#160;Hunting Fortune
+
+| &#xe05b;&#160;Hunting Fortune increases the amount of Shards you gain from hunting or Charming mobs.
+
+| 
+
+| 
+
+| ❣&#160;Charm Chance
+
+| ❣&#160;Charm Chance is the chance to charm mobs you kill: charmed mobs will always drop an Attribute Shard. Shards contribute to your profits, and a lot of Attributes are vital to your fishing stats and progression.
+
+| 100%&#160;❣
+
+| 
+
+### Important Formulae
+[edit | edit source]
+
+Several important formulae dictate many systems in regards to fishing. To most players, this information is irrelevant, but you may be interested in the more technical side of things.
+
+Show/Hide Catch Time
+
+Maximum time to catch an item:
+
+MaxValue=400−(200×LureEnchantLevel&#x25;)
+
+Where LureEnchantLevel represents the level of Lure you have on your fishing rod; at Lure VI, LureEnchantLevel would be 30% and be substituted in the formula for 0.3.
+
+Number of ticks:
+
+BaseTicks=random(200,MaxValue)
+
+FinalTicks=BaseTicks−(FishingSpeed+BaitFishingSpeedFishingSpeedCap)×BaseTicks)
+
+Where FinalTicks = 1 if Flash procs.
+
+Number of seconds between catching an item and being able to reel:
+Seconds=FinalTicks20
+
+After the event of 'catching an item', there will be a random duration between 1-4s before the player is allowed to reel. This averages at 2.5s. Flash always grants the lowest duration.
+
+Average time until you are allowed to reel:
+
+AverageCatchTime(Seconds)=Seconds+(2.5−(2.5×QuickBiteEnchantLevel&#x25;))
+
+Where QuickBiteEnchantLevel represents the level of Quick Bite you have on your fishing rod; at Quick Bite V, QuickBiteEnchantLevel would be 25% and be substituted in the formula for 0.25. Flash is not accounted for in this formula.
+
+Show/Hide Loot Drop Chances
+
+There are different methods to calculate the drop chances of an item, depending on its type and its base drop chance.
+
+LootChance=BaseChance×(1+LootingEnchantLevel&#x25;+LuckEnchantLevel&#x25;)
+
+Where LootingEnchantLevel represents the level of Looting you have on your weapon; at Looting V, LootingEnchantLevel would be 75% and be substituted in the formula for 0.75.
+Similarly, LuckEnchantLevel represents the level of Luck you have on your weapon; at Luck VII, LuckEnchantLevel would be 35% and be substituted in the formula for 0.35.
+If the desired item is not a piece of Armor, LuckEnchantLevel&#x25; is set to 0.
+
+If the desired item has a drop chance of ≤5%:
+Loot=Amount×(LootChance×(1+MagicFind+PetLuck100))
+
+If the desired item is not a Pet, PetLuck is set to 0.
+If the desired item has a drop chance of ≥5%, it will not be affected by &#xe01a;&#160;Magic Find. Modifiers, such as Looting, may push the drop chances of items above 5% and cause it to not be affected by &#xe01a;&#160;Magic Find.
+
+If the desired item has a drop chance of ≥5%:
+
+Loot=Amount×LootChance
+
+Show/Hide Sea Creature Weights
+
+Each Sea Creature has its own Weight. A sea creature's Weight can be viewed in the Sea Creature Guide, accessible through /scg, or on their respective article.
+
+WeightTotalWeight=Chance
+ChancePerCatch=Chance×SeaCreatureChance+DoubleHookChance100
+
+### Fishing Bait
+[edit | edit source]
+
+Main page: Fishing Bait
+
+Bait is an integral part of Fishing, granting certain stats and bonuses and being consumed on cast. They can be stored in Bait Sacks.
+
+Bait Guide
+[Book] 
+[Spooky Bait] [Carrot Bait] [Fish Bait] [Corrupted Bait] [Light Bait] [Dark Bait] [Minnow Bait] 
+[Spiked Bait] [Glowy Chum Bait] [Wooden Bait] [Worm Bait] [Hot Bait] [Shark Bait] [Ice Bait] 
+[Blessed Bait] [Golden Bait] [Treasure Bait] [Hotspot Bait] [Whale Bait] [Frozen Bait] 
+
+[Barrier] [Redstone Torch] 
+
+### Rod Parts
+[edit | edit source]
+
+Main page: Rod Parts
+
+Rod Parts are a core system in Fishing, allowing you to add Hooks, which increases the chances of catching specific Sea Creatures or items; Lines, which grant stat bonuses; and Sinkers, which grant miscellaneous abilities. They can be applied at [A sprite icon representing Roddy in Hypixel SkyBlock] Roddy in the &#xe067; Backwater Bayou: &#160;1&#160;Torn Cloth is required to obtain his Abiphone Contact.
+
+Rod Part Guide
+[Knowledge Book] 
+
+[Common Hook] [Speedy Line] [Prismarine Sinker] 
+
+[Barrier] 
+
+Hook
+[Common Hook] 
+[Common Hook] [Puddle Jumper Hook] [Spooky Hook] [Hotspot Hook] [Treasure Hook] 
+
+[Arrow] [Barrier] 
+
+Line
+[Speedy Line] 
+[Speedy Line] [Trophy Line] [Shredded Line] [Titan Line] 
+
+[Arrow] [Barrier] 
+
+Sinker
+[Prismarine Sinker] 
+[Prismarine Sinker] [Icy Sinker] [Festive Sinker] [Sponge Sinker] [Chum Sinker] [Junk Sinker] [Stingy Sinker] 
+[Lotus Sinker] [Hotspot Sinker] 
+
+[Arrow] [Barrier] 
+
+### Hotspots
+[edit | edit source]
+
+Main page: Fishing Hotspots
+
+Hotspots are temporary rings that appear in water and lava on certain islands. After speaking to [A sprite icon representing Hattie in Hypixel SkyBlock] Hattie in the &#xe067; Backwater Bayou, you gain the ability to fish in Hotspots.
+
+Fishing in a Hotspot grants the player one of the following stats:
+
+- +15&#160;&#xe00c;&#160;Fishing Speed
+
+- +5&#160;&#xe021;&#160;Sea Creature Chance
+
+- +2&#160;&#xe009;&#160;Double Hook Chance
+
+- +5&#160;&#xe02a;&#160;Trophy Chance
+
+- Exclusive to the &#xe067; Lotus Atoll and &#xe067; Crimson Isle
+
+- +1&#160;&#xe025;&#160;Treasure Chance
+
+Stats granted from Fishing Hotspots are doubled if a &#160;Hotspot Sinker is applied to the player's Fishing Rod.
+
+The Hotspot in the &#xe067; Hotspot Haven grants the Chance to catch Giant Water Bug Shard effect, replacing all GREAT CATCHES and OUTSTANDING CATCHES with varying quantities of &#160;Giant Water Bug Shards: this is affected by &#xe05b;&#160;Hunting Fortune.
+
+Additionally, several Sea Creatures are exclusive to Hotspots. Hotspot Sea Creatures have a base chance of 15%&#32;(1&#160;in&#160;6.67) to replace a regular Sea Creature catch. A list is below:
+
+| Sea Creature
+
+| Mob Type
+
+| Fishing Skill
+
+| Base Weight
+
+| Base Chance
+
+| Categories
+
+| 
+
+| Frog Man (COMMON)
+
+| &#xe072;&#160;Aquatic, &#xe071;&#160;Animal, &#xe07b;&#160;Humanoid
+
+| &#160;Fishing&#160;V (5)
+
+| 5000
+
+| 50%&#32;(1&#160;in&#160;2)
+
+| Environment: Water
+Island: Any
+Special: Hotspot
+
+| 
+
+| Inkling (UNCOMMON)
+
+| &#xe072;&#160;Aquatic, &#xe071;&#160;Animal
+
+| &#160;Fishing&#160;VII (7)
+
+| 2875
+
+| 28.75%&#32;(1&#160;in&#160;3.48)
+
+| 
+
+| Snapping Turtle (RARE)
+
+| &#xe072;&#160;Aquatic, &#xe071;&#160;Animal
+
+| &#160;Fishing&#160;X (10)
+
+| 1500
+
+| 15%&#32;(1&#160;in&#160;6.67)
+
+| 
+
+| Manta Ray (EPIC)
+
+| &#xe072;&#160;Aquatic, &#xe071;&#160;Animal
+
+| &#160;Fishing&#160;XIX (19)
+
+| 500
+
+| 5%&#32;(1&#160;in&#160;20)
+
+| 
+
+| Blue Ringed Octopus (LEGENDARY)
+
+| &#xe072;&#160;Aquatic, &#xe071;&#160;Animal, &#xe077;&#160;Elusive
+
+| &#160;Fishing&#160;XXXV (35)
+
+| 100
+
+| 1%&#32;(1&#160;in&#160;100)
+
+| 
+
+| Wiki Tiki (MYTHIC)
+
+| &#xe072;&#160;Aquatic, &#xe075;&#160;Construct, &#xe077;&#160;Elusive
+
+| &#160;Fishing&#160;XL (40)
+
+| 25
+
+| 0.25%&#32;(1&#160;in&#160;400)
+
+| 
+
+| Fried Chicken (COMMON)
+
+| &#xe07d;&#160;Magmatic, &#xe071;&#160;Animal
+
+| &#160;Fishing&#160;XIV (14)
+
+| 5000
+
+| 50%&#32;(1&#160;in&#160;2)
+
+| Environment: Lava
+Island: &#xe067; Crimson Isle
+Special: Hotspot
+
+| 
+
+| Volcanic Snail (UNCOMMON)
+
+| &#xe07d;&#160;Magmatic, &#xe071;&#160;Animal
+
+| &#160;Fishing&#160;XVII (17)
+
+| 2875
+
+| 28.75%&#32;(1&#160;in&#160;3.48)
+
+| 
+
+| Fireproof Witch (RARE)
+
+| &#xe07d;&#160;Magmatic, &#xe07b;&#160;Humanoid, &#xe073;&#160;Arcane
+
+| &#160;Fishing&#160;XXII (22)
+
+| 1500
+
+| 15%&#32;(1&#160;in&#160;6.67)
+
+| 
+
+| Magma Pillar (EPIC)
+
+| &#xe07d;&#160;Magmatic, &#xe076;&#160;Cubic
+
+| &#160;Fishing&#160;XXXI (31)
+
+| 500
+
+| 5%&#32;(1&#160;in&#160;20)
+
+| 
+
+| Fiery Scuttler (LEGENDARY)
+
+| &#xe07d;&#160;Magmatic, &#xe071;&#160;Animal, &#xe077;&#160;Elusive
+
+| &#160;Fishing&#160;XXXVII (37)
+
+| 100
+
+| 1%&#32;(1&#160;in&#160;100)
+
+| 
+
+| Ragnarok (MYTHIC)
+
+| &#xe07d;&#160;Magmatic, &#xe081;&#160;Skeletal, &#xe077;&#160;Elusive
+
+| &#160;Fishing&#160;XLVII (47)
+
+| 25
+
+| 0.25%&#32;(1&#160;in&#160;400)
+
+### Weather
+[edit | edit source]
+
+Main page: Weather
+
+Weather is a system in SkyBlock that occurs in specific intervals, granting island-wide effects. Some types of Weather grant fishing-oriented benefits, even outside Fishing islands.
+
+Mild Weather conditions start every 60 minutes and last for 20 minutes. Every 3rd Mild Weather condition will instead be EXTREME.
+
+All Weather conditions grant stat boosts, and EXTREME weather conditions have an additional bonus effect. Mild Weather grants effects in the &#xe067; Spider's Den and &#xe067; Lotus Atoll as well.
+
+[A sprite icon representing Professor Wynd in Hypixel SkyBlock] Professor Wynd, who is found in the &#xe067; Weather Station, can also alert the player of up to 4 types of upcoming weather when added as an Abiphone Contact. &#160;1&#160;Weather Wand is required to unlock [A sprite icon representing Professor Wynd in Hypixel SkyBlock] Professor Wynd's contact.
+
+| Island
+
+| Weather
+
+| Base Effect
+
+| Bonus
+
+| Type
+
+| &#xe067; Spider's Den
+
+| &#xe09a;&#160;Rain
+
+| +25&#160;&#xe00c;&#160;Fishing Speed
++5&#160;☯&#160;Combat Wisdom
++2.5&#160;&#xe021;&#160;Sea Creature Chance
+
+| [A sprite icon representing Rain Slime in Hypixel SkyBlock] Rain Slimes spawn around the &#xe067; Spider's Den
+
+| Mild
+
+| &#xe100;&#160;Thunderstorm
+
+| +50&#160;&#xe00c;&#160;Fishing Speed
++10&#160;☯&#160;Combat Wisdom
++5&#160;&#xe021;&#160;Sea Creature Chance
+
+| [A sprite icon representing Rain Slime in Hypixel SkyBlock] Rain Slimes & [A sprite icon representing Toxic Rain Slime in Hypixel SkyBlock] Toxic Rain Slimes spawn around the &#xe067; Spider's Den
+
+| EXTREME
+
+| &#xe067; Backwater Bayou
+
+| &#xe09d;&#160;Smog
+
+| +25&#160;&#xe00c;&#160;Fishing Speed
++1&#160;&#xe025;&#160;Treasure Chance
++2.5&#160;&#xe021;&#160;Sea Creature Chance
+
+| 
+
+| Mild
+
+| &#xe090;&#160;Acid Rain
+
+| +50&#160;&#xe00c;&#160;Fishing Speed
++2.5&#160;&#xe025;&#160;Treasure Chance
++5&#160;&#xe021;&#160;Sea Creature Chance
+
+| Gain a +20% chance to catch 2 pieces of Junk at once
+
+| EXTREME
+
+| &#xe067; Crimson Isle
+
+| &#xe091;&#160;Ashfall
+
+| +25&#160;&#xe00c;&#160;Fishing Speed
++2.5&#160;&#xe02a;&#160;Trophy Chance
++5&#160;☯&#160;Combat Wisdom
+
+| 
+
+| Mild
+
+| &#xe097;&#160;Hellstorm
+
+| +50&#160;&#xe00c;&#160;Fishing Speed
++5&#160;&#xe02a;&#160;Trophy Chance
++10&#160;☯&#160;Combat Wisdom
+
+| Trophy Fish are 5% more likely to be GOLD or DIAMOND
+
+| EXTREME
+
+| &#xe067; Moonglade Marsh
+
+| &#xe099;&#160;Moonfall
+
+| +25&#160;&#xe00c;&#160;Fishing Speed
++10&#160;&#xe054;&#160;Foraging Fortune
++2.5&#160;&#xe021;&#160;Sea Creature Chance
+
+| 
+
+| Mild
+
+| &#xe100;&#160;Thunderstorm
+
+| +50&#160;&#xe00c;&#160;Fishing Speed
++25&#160;&#xe054;&#160;Foraging Fortune
++5&#160;&#xe021;&#160;Sea Creature Chance
+
+| +10% Forest Whispers from all sources
+
+| EXTREME
+
+| &#xe067; Lotus Atoll
+
+| &#xe101;&#160;Tropical Rain
+
+| +25&#160;&#xe00c;&#160;Fishing Speed
++2.5&#160;&#xe02a;&#160;Trophy Chance
++2.5&#160;&#xe021;&#160;Sea Creature Chance
+
+| [Wetlands Frog] &#160;Wetlands Frog can be fished up
+
+| Mild
+
+| &#xe093;&#160;Blossoming
+
+| +50&#160;&#xe00c;&#160;Fishing Speed
++5&#160;&#xe02a;&#160;Trophy Chance
++5&#160;&#xe021;&#160;Sea Creature Chance
+
+| [Wetlands Frog] &#160;Wetlands Frog can be fished up
+Trophy Frogs are 5% more likely to be GOLD or DIAMOND
+
+| EXTREME
+
+| &#xe067; Dwarven Mines
+
+| &#xe094;&#160;Breeze
+
+| +100&#160;&#xe015;&#160;Mining Speed
++25&#160;&#xe053;&#160;Mining Fortune
++25&#160;&#xe00c;&#160;Fishing Speed
+
+| 
+
+| Mild
+
+| &#xe098;&#160;Mist
+
+| +250&#160;&#xe015;&#160;Mining Speed
++50&#160;&#xe053;&#160;Mining Fortune
++50&#160;&#xe00c;&#160;Fishing Speed
+
+| +10% Mithril Powder from all sources
+
+| EXTREME
+
+| &#xe067; Crystal Hollows
+
+| &#xe094;&#160;Breeze
+
+| +100&#160;&#xe015;&#160;Mining Speed
++25&#160;&#xe053;&#160;Mining Fortune
++25&#160;&#xe00c;&#160;Fishing Speed
+
+| 
+
+| Mild
+
+| &#xe09c;&#160;Rockfall
+
+| +250&#160;&#xe015;&#160;Mining Speed
++50&#160;&#xe053;&#160;Mining Fortune
++50&#160;&#xe00c;&#160;Fishing Speed
+
+| +10% Gemstone Powder from all sources
+
+| EXTREME
+
+| &#xe067; Glacite Tunnels
+
+| &#xe094;&#160;Breeze
+
+| +100&#160;&#xe015;&#160;Mining Speed
++25&#160;&#xe053;&#160;Mining Fortune
++25&#160;&#xe00c;&#160;Fishing Speed
+
+| 
+
+| Mild
+
+| &#xe09e;&#160;Snowstorm
+
+| +250&#160;&#xe015;&#160;Mining Speed
++50&#160;&#xe053;&#160;Mining Fortune
++50&#160;&#xe00c;&#160;Fishing Speed
+
+| +10% Glacite Powder from all sources
+
+| EXTREME
+
+| &#xe067; Jerry's Workshop
+
+| &#xe094;&#160;Breeze
+
+| +25&#160;&#xe00c;&#160;Fishing Speed
++5&#160;&#xe021;&#160;Sea Creature Chance
++2.5&#160;&#xe025;&#160;Treasure Chance
+
+| 
+
+| Mild
+
+| &#xe092;&#160;Blizzard
+
+| +50&#160;&#xe00c;&#160;Fishing Speed
++10&#160;&#xe021;&#160;Sea Creature Chance
++5&#160;&#xe025;&#160;Treasure Chance
+
+| +10% Ice Essence from all sources
+
+| EXTREME
+
+Several modifiers also provide additional effects during Weather:
+
+| Slot
+| Item
+| Additional Effect
+
+| [Blizzard in a Bottle Mixin] 
+
+| &#160;Blizzard in a Bottle Mixin
+
+| +10% to base Weather stats
+
+| [Spinosaurus Pet] 
+
+| &#160;Spinosaurus Pet
+
+| 50% boost to base pet stats during any Weather
+
+| [Umberella] 
+
+| &#160;Umberella
+
+| x2 item effect during any Weather
+
+The &#160;Blizzard in a Bottle Mixin, although time-locked, is exceptionally useful and provides a huge boost to the stats granted by Weather. There is virtually no reason to leave a +10% boost to free stats on the table unless you are ♲&#160;Ironman or lack the funds to upkeep it.
+
+## Leveling Up Fishing
+[edit | edit source]
+
+&#160;Fishing is notoriously one of the most tedious skills to level up, mainly early on prior to &#160;Fishing&#160;XXVII (27) at which you unlock the &#160;Magma Rod and some of your first Lava Sea Creatures.
+
+### Fishing 0-19
+[edit | edit source]
+
+The best methods for leveling up &#160;Fishing prior to &#160;Fishing&#160;XVII (17) and unlocking the &#160;Starter Lava Rod, or &#160;Fishing&#160;XIX (19) and the &#160;Topaz Rod, are:
+
+- The Fish Family: Filling out The Fish Family at [A sprite icon representing Coral in Hypixel SkyBlock] Coral. If you have the budget, only 20 'the Fish' items are required to reach &#160;Fishing&#160;XIX (19), and 27 for &#160;Fishing&#160;XX (20).
+
+- Atoll Fishing: Sea Creatures from the &#xe067; Lotus Atoll yield higher amounts of &#160;Fishing&#160;XP. While they have higher &#xe010;&#160;Health and deal more &#xe050;&#160;Damage, it is not very noticeable if you have good survivability.
+
+- Bayou Fishing: The &#xe067; Backwater Bayou is where you will primarily be fishing for the most part in the early game, and its Sea Creatures grant both useful items and decent XP: as a result, this will be your main active source of &#160;Fishing&#160;XP in the early game, with other sources being mostly passive.
+
+- &#160;Fishing Minions and &#160;Lily Pad Minions: Both minions grant easy passive XP: it is recommended to place a &#160;Super Compactor 3000, &#160;Enchanted Lava Bucket, and &#160;Minion Expander, alongside &#160;Large Storage for more storage.
+
+- &#160;Lily Pad Minions are better for &#160;Fishing&#160;XP, while &#160;Fishing Minions are better for collecting mass quantities of fishing drops. &#160;Clay Minions are the worst out of the three.
+
+- Chumming: If you are with another player, you can deposit &#160;Chum into their &#160;Empty Chum Bucket for quick XP: this requires a &#160;Luminous Bracelet, which grants +10&#160;&#160;Fishing&#160;XP when depositing &#160;Chum in someone else's bucket.
+
+- Using /gfs Chum 64 is an easy way to semi-automate this process: mods exist that allow you to bind this command to a keypress, but by pressing the ↑ key after opening the chat, you can quickly issue the same command again, provided you have not sent any other messages or ran any other commands.
+
+- Opening Cans of Worms: Opening &#160;Can of Worms allows you to convert coins to XP, rewarding +500&#160;&#160;Fishing&#160;XP every 3.5 cans, +1,000&#160;&#160;Fishing&#160;XP every 7 cans, and +2,000&#160;&#160;Fishing&#160;XP every 14 cans. While expensive and slow, this method is good if you are in the very early stages and want to unlock [A sprite icon representing Stridersurfer in Hypixel SkyBlock] Stridersurfers as soon as possible.
+
+### Fishing 19-27
+[edit | edit source]
+
+The stretch between &#160;Fishing&#160;XX (20), when you unlock the &#160;Rod of Legends and a multitude of Rod Parts, and &#160;Fishing&#160;XXVII (27) is notorious for being slow and tedious. However, there is still an efficient way to reach high levels quickly:
+
+- Stridersurfer Fishing: Lava fishing in the &#xe067; Moonglade Marsh next to [A sprite icon representing Sawyer in Hypixel SkyBlock] Sawyer is popular as the [A sprite icon representing Stridersurfer in Hypixel SkyBlock] Stridersurfers you spawn grant high amounts of XP. This spot is often crowded and contested, though you may be able to fish here in a group.
+
+- Note that it is perfectly viable to fish Stridersurfers with a &#160;Starter Lava Rod if you do not have a &#160;Topaz Rod or &#160;Magma Rod.
+
+Additionally, there are three other methods of unlocking &#160;Fishing&#160;XXVII (27), though they may yield less &#160;Fishing&#160;XP:
+
+- Magma Core Fishing: At Heart of the Mountain&#160;VI (6), when you have unlocked both the &#160;Topaz Rod and the Subterranean Fisher perk (requiring 945,621&#32;᠅&#8201;Gemstone Powder to max) fishing in the &#xe067; Magma Fields for &#160;Magma Cores is superior.
+
+- Bayou Fishing: Fishing in the water pool around &#160;48,&#8239;75,&#8239;28 to &#160;55,&#8239;75,&#8239;20 in the &#xe067; Backwater Bayou is the second-best method for XP at this stage: due to the way it is structured, mobs will automatically fall off the edge and accumulate underneath you, where someone else will likely kill the mobs for you.
+
+- Bayou Hotspot Fishing: Fishing in &#xe067; Backwater Bayou hotspots is generally the third-best method for XP at this stage.
+
+### Fishing 27-50
+[edit | edit source]
+
+Once you have achieved &#160;Fishing&#160;XXVII (27), levelling up &#160;Fishing will be vastly faster. However, killing [A sprite icon representing Stridersurfer in Hypixel SkyBlock] Stridersurfers remains the best option if you cannot kill Sea Creatures on the &#xe067; Crimson Isle quickly and efficiently.
+
+- Crimson Isle Fishing: Fishing in the &#xe067; Crimson Isle is the best way to gain &#160;Fishing&#160;XP at this stage.
+
+- A &#160;Hyperion with &#160;Wither Impact is the best and most efficient weapon. Once you reach &#160;Fishing&#160;XLVII (47), a &#160;Flaming Flay is better for a select few mobs, such as [A sprite icon representing Wiki Tiki in Hypixel SkyBlock] Wiki Tikis, [A sprite icon representing Titanoboa in Hypixel SkyBlock] Titanoboas, or [A sprite icon representing Ragnarok in Hypixel SkyBlock] Ragnaroks. A &#160;Midas Staff is a useful alternative to a fully-scrolled &#160;Hyperion, though it lacks the healing capabilities of the latter.
+
+- A &#160;Soul Whip, or any sword with high damage and clearing capabilities, such as a &#160;Giant's Sword or &#160;Dark Claymore, may suffice, though it is less efficient.
+
+- Due to specific mobs having high resistance to magic damage - such as the &#160;Hyperion or &#160;Midas Staff - a &#160;Soul Whip or &#160;Flaming Flay is recommended for mobs such as [A sprite icon representing Ragnarok in Hypixel SkyBlock] Ragnarok, [A sprite icon representing Wiki Tiki in Hypixel SkyBlock] Wiki Tikis, [A sprite icon representing Titanoboa in Hypixel SkyBlock] Titanoboas, and [A sprite icon representing Nutcracker in Hypixel SkyBlock] Nutcrackers.
+
+- Without a &#160;Hyperion or &#160;Flaming Flay, lava fishing is marginally worse than [A sprite icon representing Stridersurfer in Hypixel SkyBlock] Stridersurfer fishing.
+
+In order to be able to catch [A sprite icon representing Thunder in Hypixel SkyBlock] Thunder and [A sprite icon representing Lord Jawbus in Hypixel SkyBlock] Lord Jawbus, you must have unlocked Novice Trophy Hunter and Adept Trophy Hunter respectively.
+
+## Recommended Progression
+[edit | edit source]
+
+### Fishing Rod Progression
+[edit | edit source]
+
+#### Water
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| [Fishing Rod (Item)] 
+
+| &#160;Fishing Rod
+
+| 
+
+| A basic, vanilla &#160;Fishing Rod. Outside of a negligible +5&#160;&#xe00c;&#160;Fishing Speed and +1%&#160;&#xe021;&#160;Sea Creature Chance, this is what you will be stuck with until &#160;Fishing&#160;V (5), when you gain access to better Fishing Rods and Rod Parts.
+
+| [Challenging Rod] 
+
+| &#160;Challenging Rod
+
+| &#160;Fishing&#160;V (5)
+
+| The &#160;Challenging Rod is a sizable upgrade from the base &#160;Fishing Rod. It grants +35&#160;&#xe00c;&#160;Fishing Speed, alongside +2&#160;&#xe021;&#160;Sea Creature Chance and +0.5%&#160;&#xe025;&#160;Treasure Chance: while nowhere near enough to reach the &#xe00c;&#160;Fishing Speed cap on 200&#160;&#xe00c; on the &#xe067; Backwater Bayou, where you will be fishing most of the time, it is still a substantial increase in stats.
+
+| [Rod of Champions] 
+
+| &#160;Rod of Champions
+
+| &#160;Fishing&#160;XV (15)
+Lily Pad&#160;VII (7)
+
+| The &#160;Rod of Champions grants +50&#160;&#xe00c;&#160;Fishing Speed and +4%&#160;&#xe021;&#160;Sea Creature Chance, alongside gaining an &#160;Aquamarine Gemstone Slot. Despite losing its +0.5%&#160;&#xe025;&#160;Treasure Chance, this decrease is negligible and its massive stat increase entirely makes up for it.
+It is recommended to place down &#160;Lily Pad Minions and grind out Exploding Lily Pads in the &#xe067; Lotus Atoll to obtain &#160;Enchanted Lily Pads quickly for both this and the &#160;Rod of Legends.
+
+| [Rod of Legends] 
+
+| &#160;Rod of Legends
+
+| &#160;Fishing&#160;XX (20)
+Lily Pad&#160;IX (9)
+
+| The &#160;Rod of Legends grants +65&#160;&#xe00c;&#160;Fishing Speed and +6%&#160;&#xe021;&#160;Sea Creature Chance, which - when paired with your armor - will allow you to get closer to the &#xe00c;&#160;Fishing Speed cap.
+
+| [Rod of the Sea] 
+
+| &#160;Rod of the Sea
+
+| &#160;Fishing&#160;XXIV (24)
+
+| The &#160;Rod of the Sea grants a staggering +80&#160;&#xe00c;&#160;Fishing Speed and +8%&#160;&#xe021;&#160;Sea Creature Chance. Despite being event-locked - requiring &#160;4&#160;Great White Shark Tooth - it is the strongest water rod and is entirely worth it as a purchase.
+
+| [Giant Fishing Rod] 
+
+| &#160;Giant Fishing Rod
+
+| 
+
+| The &#160;Giant Fishing Rod is the most expensive Fishing Rod in the game, granting a substantial +10%&#160;&#xe009;&#160;Double Hook Chance at the cost of having no other base stats, no base &#xe050;&#160;Damage, and lacking a Gemstone Slot. While its high &#xe009;&#160;Double Hook Chance makes it worth it, do note that the functionality of this item is subject to change and you may lose billions from purchasing this item if it loses its &#xe009;&#160;Double Hook Chance.
+
+#### Lava
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| [Starter Lava Rod] 
+
+| &#160;Starter Lava Rod
+
+| &#160;Fishing&#160;X (10)
+
+| The &#160;Starter Lava Rod is given for free by [A sprite icon representing Odger in Hypixel SkyBlock] Odger, granting a minimal +10&#160;&#xe00c;&#160;Fishing Speed and +5%&#160;&#xe02a;&#160;Trophy Chance. Do note that it is not worth it to spend lots of money on a &#160;Starter Lava Rod, as it does not upgrade into the &#160;Magma Rod.
+Additionally, a &#160;Starter Lava Rod without any Enchantments is required to fish up &#160;Vanille Trophy Fish.
+
+| [Topaz Rod] 
+
+| &#160;Topaz Rod
+
+| &#160;Fishing&#160;XIX (19)
+Heart of the Mountain&#160;V (5)
+
+| The &#160;Topaz Rod, despite being entirely optional and not necessary for progression, is useful if you are struggling to reach the requirements for a &#160;Magma Rod. It has higher &#xe00c;&#160;Fishing Speed than a &#160;Magma Rod, but has less &#xe021;&#160;Sea Creature Chance and has no &#xe02a;&#160;Trophy Chance.
+
+| [Magma Rod] 
+
+| &#160;Magma Rod
+
+| &#160;Fishing&#160;XXVII (27)
+Magmafish&#160;IV (4)
+
+| The &#160;Magma Rod grants +40&#160;&#xe00c;&#160;Fishing Speed, +8%&#160;&#xe021;&#160;Sea Creature Chance, and +15&#160;&#xe02a;&#160;Trophy Chance, alongside gaining an &#160;Aquamarine Gemstone Slot. Progressing through &#160;Fishing will become substantially faster once you obtain this rod.
+
+| [Inferno Rod] 
+
+| &#160;Inferno Rod
+
+| &#160;Fishing&#160;XXX (30)
+Magmafish&#160;VIII (8)
+
+| The &#160;Inferno Rod grants +50&#160;&#xe00c;&#160;Fishing Speed, +10%&#160;&#xe021;&#160;Sea Creature Chance, and +20&#160;&#xe02a;&#160;Trophy Chance, alongside gaining an &#160;Aquamarine Gemstone Slot. There is nothing inherently groundbreaking about this rod: however, it is still a substantial upgrade in terms of stats, and will be useful for both regular fishing and Trophy Fishing.
+
+| [Hellfire Rod] 
+
+| &#160;Hellfire Rod
+
+| &#160;Fishing&#160;XXXV (35)
+Magmafish&#160;XII (12)
+
+| The &#160;Hellfire Rod is both the best and most expensive lava rod in the game, granting +60&#160;&#xe00c;&#160;Fishing Speed, +14%&#160;&#xe021;&#160;Sea Creature Chance, and +25&#160;&#xe02a;&#160;Trophy Chance, alongside gaining two &#160;Aquamarine Gemstone Slot. It requires &#160;Diamond Magmafish to craft, which are very time-consuming and expensive to get.
+Note that this rod, alongside its predecessors, can be upgraded with &#160;Crimson Essence unlike water rods. However, getting a &#160;Hellfire Rod to 10 stars is incredibly costly: if you have a large budget, it is worth it.
+
+### Armor Progression
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| [Angler Helmet] [Angler Chestplate] [Angler Leggings] [Angler Boots] 
+
+| &#160;Angler Armor
+
+| 
+
+| &#160;Angler Armor is generally the first set of fishing armor you will use, granting +4%&#160;&#xe021;&#160;Sea Creature Chance (+1%&#160;&#xe021; per piece) and a damage reduction tiered bonus against Sea Creatures.
+A set of &#160;Angler Armor can be purchased from the [A sprite icon representing Fishing Merchant in Hypixel SkyBlock] Fishing Merchant for a total of 400 coins. Each piece costs 100 coins.
+
+| [Backwater Helmet] [Backwater Chestplate] [Backwater Leggings] [Backwater Boots] 
+
+| &#160;Backwater Armor
+
+| &#160;Fishing&#160;V (5)
+
+| &#160;Backwater Armor is a decent upgrade from &#160;Angler Armor, granting a total of +8%&#160;&#xe021;&#160;Sea Creature Chance and +0.4%&#160;&#xe025;&#160;Treasure Chance (+2%&#160;&#xe021;&#160;Sea Creature Chance and +0.1%&#160;&#xe025; per piece). Rather than granting a damage reduction tiered bonus, it grants a damage bonus against Sea Creatures.
+A set of &#160;Backwater Armor can be purchased from [A sprite icon representing Junker Joel in Hypixel SkyBlock] Junker Joel for its corresponding piece of &#160;Angler Armor and &#160;4&#160;Rusty Coin.
+
+| [Salmon Helmet] [Salmon Chestplate] [Salmon Leggings] [Salmon Boots] 
+
+| &#160;Salmon Armor
+
+| &#160;Fishing&#160;XIII (13)
+Raw Salmon&#160;VI (6)
+
+| &#160;Salmon Armor grants +6%&#160;&#xe021;&#160;Sea Creature Chance (+1.5%&#160;&#xe021; per piece) in total, and has a single &#160;Aquamarine Gemstone Slot on each piece, allowing the player to gain a marginal amount of &#xe00c;&#160;Fishing Speed. A set of &#160;Salmon Armor can be crafted using &#160;24&#160;Enchanted Raw Salmon.
+This set is optional, considering &#160;Sponge Armor is not much harder to get: additionally, &#160;Fishing is relatively easy to level up in the early-game. If you are ♲&#160;Ironman, you likely will not have access to the &#xe067; Glacite Tunnels yet, meaning the Gemstone Slot is largely irrelevant.
+
+| [Sponge Helmet] [Sponge Chestplate] [Sponge Leggings] [Sponge Boots] 
+
+| &#160;Sponge Armor
+
+| &#160;Fishing&#160;XVII (17)
+Sponge&#160;IX (9)
+
+| &#160;Sponge Armor grants high &#xe008;&#160;Defense and +8%&#160;&#xe021;&#160;Sea Creature Chance (+2%&#160;&#xe021; per piece). Its full set bonus doubles your &#xe008;&#160;Defense while in water: additionally, it upgrades into &#160;Shark Scale Armor.
+A set of &#160;Sponge Armor can be crafted with &#160;24&#160;Enchanted Wet Sponge.
+
+| [Diver's Mask] [Diver's Shirt] [Diver's Trunks] [Diver's Boots] 
+
+| &#160;Diver's Armor
+
+| &#160;Fishing&#160;XX (20)
+
+| &#160;Diver's Armor is a useful armor set for catching Treasure and for exploring the &#xe067; Murkwater Loch. Its Deep Sea Diver tiered bonus grants up to +1.5%&#160;&#xe025;&#160;Treasure Chance while underwater, similar to &#160;Sponge Armor's Absorb full set bonus. Do note that its One With The Fish full set bonus doesn't work on &#xe067; Galatea.
+&#160;Diver's Armor can be crafted using &#160;32&#160;Enchanted Sea Lumies, &#160;128&#160;Gill Membrane, and a full set of &#160;Snorkeling Armor.
+
+| [Abyssal Helmet] [Abyssal Chestplate] [Abyssal Leggings] [Abyssal Boots] 
+
+| &#160;Abyssal Armor
+
+| &#160;Fishing&#160;XXII (22)
+
+| &#160;Abyssal Armor is the upgraded form of &#160;Diver's Armor. It grants up to +2.5%&#160;&#xe025;&#160;Treasure Chance while underwater, but has the same &#xe021;&#160;Sea Creature Chance as its predecessor.
+&#160;Diver's Armor can be crafted using &#160;8&#160;Emperor's Skull, &#160;128&#160;Enchanted Sea Lumies, &#160;1,024&#160;Gill Membrane, and a full set of &#160;Diver's Armor.
+Players may be inclined to use a &#160;LEGENDARY&#160;Flying Fish Pet to increase the stats of both &#160;Diver's and &#160;Abyssal Armor, though doing so still results in less &#xe021;&#160;Sea Creature Chance than &#160;Shark Scale Armor. However, both &#160;Diver's and &#160;Abyssal Armor are superior for &#xe010;&#160;Effective Health, &#xe025;&#160;Treasure Chance, and diving.
+
+| [Shark Scale Helmet] [Shark Scale Chestplate] [Shark Scale Leggings] [Shark Scale Boots] 
+
+| &#160;Shark Scale Armor
+
+| &#160;Fishing&#160;XXIV (24)
+
+| &#160;Shark Scale Armor is the upgraded form of &#160;Sponge Armor, granting a substantial +10%&#160;&#xe021;&#160;Sea Creature Chance (+2.5%&#160;&#xe021; per piece). It retains the full set bonus of &#160;Sponge Armor, but also gains the Festival Fisher tiered bonus, which grants up to a +25% chance to catch Sharks during the Fishing Festival.
+A set of Shark Scale Armor can be crafted with &#160;8&#160;Enchanted Shark Fin and a set of &#160;Sponge Armor. Due to its high rarity, &#160;Shark Scale Armor will likely be the best fishing armor set until you obtain a set of &#160;Lava Sea Creature Armor, which provides significantly better stats at the cost of a lower rarity.
+Do note that, if you have the budget, &#160;recombing and applying Submerged to Shark Scale Armor is better than &#160;Lava Sea Creature Armor, granting more &#xe021;&#160;Sea Creature Chance.
+
+| [Taurus Helmet] 
+
+| &#160;Taurus Helmet
+
+| &#160;Fishing&#160;XXXV (35)
+
+| &#160;Lava Sea Creature Armor, despite having a lower rarity than &#160;Shark Scale Armor - which results in lower Reforge stats - grants +12%&#160;&#xe021;&#160;Sea Creature Chance (+3%&#160;&#xe021; per piece), more than &#160;Shark Scale Armor, and both high &#xe010;&#160;Effective Health, &#xe00d;&#160;Strength, and &#xe007;&#160;Crit Damage.
+Each piece of &#160;Lava Sea Creature Armor has a different &#160;Fishing level requirement and drops from a separate mob. Each piece also grants a 5% damage reduction from and 1.1x&#160;&#xe050;&#160;Damage multiplier against &#xe07d;&#160;Magmatic mobs, aside from &#160;Slug Boots.
+Note that, when recombed, &#160;Shark Scale Armor outclasses &#160;Lava Sea Creature Armor: if you have a high budget or plan on keeping a set of &#160;Shark Scale Armor for Fishing Festivals, you can skip &#160;Lava Sea Creature Armor. However, unlike &#160;Shark Scale Armor, &#160;Lava Sea Creature Armor can be upgraded with &#160;Crimson Essence.
+
+| [Flaming Chestplate] 
+
+| &#160;Flaming Chestplate
+
+| &#160;Fishing&#160;XXXIII (33)
+
+| [Moogma Leggings] 
+
+| &#160;Moogma Leggings
+
+| &#160;Fishing&#160;XXVIII (28)
+
+| [Slug Boots] 
+
+| &#160;Slug Boots
+
+| &#160;Fishing&#160;XXVII (27)
+
+| [Thunder Helmet] [Thunder Chestplate] [Thunder Leggings] [Thunder Boots] [Thunderbolt Necklace] 
+
+| &#160;Thunder Armor
+
+| &#160;Fishing&#160;XXXVI (36)
+
+| &#160;Thunder Armor is a substantial and cheap upgrade from &#160;Lava Sea Creature Armor. Not only does it give a staggering +17.5%&#160;&#xe021;&#160;Sea Creature Chance (+4%&#160;&#xe021; per piece, +1.5%&#160;&#xe021; on the &#160;Thunderbolt Necklace), but it also grants higher damage reduction and a higher &#xe050;&#160;Damage multiplier against &#xe07d;&#160;Magmatic mobs (the &#160;Thunderbolt Necklace has the same buffs as a piece of &#160;Lava Sea Creature Armor).
+&#160;Thunder Armor's Static Charge tiered bonus allows you to gain 1 static charge every 30s. Hitting a mob will cause a discharge, adding +10% &#xe050;&#160;Damage to that hit for every charge collected, up to 2 charges.
+&#160;Thunder Armor is crafted with &#160;4&#160;Thunder Fragments, and the &#160;Thunderbolt Necklace is crafted with &#160;4&#160;Thunder Fragments.
+
+| [Magma Lord Helmet] [Magma Lord Chestplate] [Magma Lord Leggings] [Magma Lord Boots] [Magma Lord Necklace] 
+
+| &#160;Magma Lord Armor
+
+| &#160;Fishing&#160;XLV (45)
+
+| &#160;Magma Lord Armor is the quintessential upgrade from &#160;Thunder Armor. It grants a substantial +20.5%&#160;&#xe021;&#160;Sea Creature Chance (+4.5%&#160;&#xe021; per piece, +2.5%&#160;&#xe021; on the &#160;Magma Lord Necklace), alongside three bonuses:
+
+- Fireproof is a 2-piece tiered bonus that grants immunity to lava on the &#xe067; Crimson Isle.
+
+- Lord's Blessing grants +1%&#160;&#xe021; / +1.5%&#160;&#xe021;&#160;Sea Creature Chance and +20&#160;&#xe01a; / +30&#160;&#xe01a;&#160;Magic Find on &#xe07d;&#160;Magmatic mobs.
+
+- Each piece reduces damage taken from &#xe07d;&#160;Magmatic mobs by 15% and increased &#xe050;&#160;Damage dealt by 1.3x.
+
+&#160;Magma Lord Armor is crafted with &#160;24&#160;Magma Lord Fragments, and the &#160;Magma Lord Necklace is crafted with &#160;5&#160;Magma Lord Fragments.
+
+| [Frozen Blaze Helmet] [Frozen Blaze Chestplate] [Frozen Blaze Leggings] [Frozen Blaze Boots] 
+
+| &#160;Frozen Blaze Armor
+
+| &#160;Combat&#160;XXII (22)
+Ice&#160;IX (9)
+
+| &#160;Frozen Blaze Armor is useful for both Bestiary and loot-sharing in groups, and killing low-level Sea Creatures so that you don't have to clear them out manually. For a guide on how to reach max &#xe00c;&#160;Fishing Speed and +100%&#160;&#xe021;&#160;Sea Creature Chance, see the following reference.&#91;1&#93;
+A lot of money-making methods that involve Frozen Blaze Armor focus on Shards from huntable Sea Creatures, so a &#160;David's Cloak and &#160;Safari Belt can substitute your fishing equipment at the cost of stats.
+
+Note that Frozen Blaze Armor is infamous for being used by trolls to grief other players and prevent loot share, meaning it is seen by some as dishonourable. As a result, it is better to use Frozen Blaze Armor while fishing in a group.
+
+| [Tiki Mask] 
+
+| &#160;Tiki Mask
+
+| &#160;Fishing&#160;XL (40)
+
+| The &#160;Tiki Mask is best if you plan on fishing in Hotspots, due to granting +10&#160;&#xe00c;&#160;Fishing Speed, +4%&#160;&#xe021;&#160;Sea Creature Chance, +2%&#160;&#xe009;&#160;Double Hook Chance, and +2%&#160;&#xe025;&#160;Treasure Chance while fishing in a Hotspot. However, it is exceedingly rare, with only a 0.1% chance to drop from a [A sprite icon representing Wiki Tiki in Hypixel SkyBlock] Wiki Tiki.
+A &#160;Magma Lord Helmet is comparable, if not better, on the &#xe067; Crimson Isle due to the &#xe01a;&#160;Magic Find, &#xe021;&#160;Sea Creature Chance, extra &#xe010;&#160;Effective Health, and increased DpS. It is also cheaper if you do not intend to 10-star it.
+
+### Equipment Progression
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| [Angler Necklace] [Angler Cloak] [Angler Belt] [Angler Bracelet] 
+
+| &#160;Angler Equipment
+
+| 
+
+| &#160;Angler Equipment serves as the equipment counterpart to &#160;Angler Armor, granting +4&#160;&#xe00c;&#160;Fishing Speed and +2%&#160;&#xe021;&#160;Sea Creature Chance (+1&#160;&#xe00c; and +0.5%&#160;&#xe021;&#160;Sea Creature Chance per piece.)
+
+| [Backwater Necklace] [Backwater Cloak] [Backwater Belt] [Backwater Gloves] 
+
+| &#160;Backwater Equipment
+
+| &#160;Fishing&#160;V (5)
+
+| &#160;Backwater Equipment serves as the equipment counterpart to &#160;Backwater Armor, granting +8&#160;&#xe00c;&#160;Fishing Speed, +4%&#160;&#xe021;&#160;Sea Creature Chance, and +0.4%&#160;&#xe025;&#160;Treasure Chance (+2&#160;&#xe00c;, +1%&#160;&#xe021;&#160;Sea Creature Chance, and +0.1%&#160;&#xe025; per piece.)
+You should use a &#160;Backwater Necklace until you obtain a &#160;Thunderbolt Necklace.
+
+| [Ichthyic Cloak] [Ichthyic Belt] [Ichthyic Gloves] 
+
+| &#160;Ichthyic Set
+
+| 
+
+| The &#160;Ichthyic Set grants +18&#160;&#xe00c;&#160;Fishing Speed: however, this is not enough to make up for its lack of &#xe021;&#160;Sea Creature Chance. Paired with its low rarity, you are better off sticking with &#160;Backwater Equipment until you obtain the &#160;Finwave Set.
+Note that the &#160;Ichthyic Set, alongside its upgrades, can be upgraded with &#160;Crimson Essence.
+
+| [Finwave Cloak] [Finwave Belt] [Finwave Gloves] 
+
+| &#160;Finwave Set
+
+| 
+
+| The &#160;Finwave Set grants +30&#160;&#xe00c;&#160;Fishing Speed - alongside a negligible +3&#160;&#xe011;&#160;Health Regen - and can be further upgraded into a &#160;Gillsplash Set.
+
+| [Gillsplash Cloak] [Gillsplash Belt] [Gillsplash Gloves] 
+
+| &#160;Gillsplash Set
+
+| 
+
+| The &#160;Gillsplash Set grants a substantial +42&#160;&#xe00c;&#160;Fishing Speed and +6&#160;&#xe011;&#160;Health Regen. It is extremely expensive, especially to max out all the stars.
+
+| [Thunderbolt Necklace] 
+
+| &#160;Thunderbolt Necklace
+
+| &#160;Fishing&#160;XXXVI (36)
+
+| The &#160;Thunderbolt Necklace is part of the &#160;Thunder Armor set, granting +1.5%&#160;&#xe021;&#160;Sea Creature Chance and granting a 5% damage reduction and 1.3x damage multiplier against &#xe07d;&#160;Magmatic mobs.
+
+| [Magma Lord Necklace] 
+
+| &#160;Magma Lord Necklace
+
+| &#160;Fishing&#160;XLV (45)
+
+| The &#160;Magma Lord Necklace is the best-in-slot Necklace for fishing, granting a base +2.5%&#160;&#xe021;&#160;Sea Creature Chance and an additional +1.5%&#160;&#xe021; when worn with &#160;Magma Lord Armor due to its Lord's Blessing tiered bonus, alongside the aforementioned damage reduction and multiplier against &#xe07d;&#160;Magmatic mobs - which is buffed to 15% less damage taken, and 1.3x more damage dealt.
+
+The optimal equipment setup is as follows:
+
+| Water
+
+| Necklace
+
+| [Magma Lord Necklace] 
+
+| &#160;Magma Lord Necklace
+
+| The &#160;Magma Lord Necklace is best-in-slot, due to its &#xe021;&#160;Sea Creature Chance and its &#xe01a;&#160;Magic Find against &#xe07d;&#160;Magmatic mobs: additionally, its high rarity allows you to maximise the bonuses of Snowy.
+
+| Cloak
+
+| [David's Cloak] 
+
+| &#160;David's Cloak
+
+| A &#160;MYTHIC&#160;David's Cloak reforged to Snowy is best-in-slot, due to its &#xe05b;&#160;Hunting Fortune and its MYTHIC rarity, allowing you to maximise the bonuses of Snowy.
+
+| Belt
+
+| [Safari Belt (Mythic)] 
+
+| &#160;Safari Belt
+
+| A &#160;MYTHIC&#160;Safari Belt is best-in-slot, due to its MYTHIC rarity, allowing you to maximise the bonuses of Bloodshot.
+Cocooning contributes a lot to your profits and rates, but maxing your Cocoon Chance is very expensive.
+
+| [Backwater Belt] 
+
+| &#160;Backwater Belt
+
+| If your &#160;Safari Belt is not maxed, or you lack the funds for a &#160;The Primordial, a &#160;Backwater Belt will suffice for the reasons outlined below.
+
+| Gloves
+
+| [Backwater Gloves] 
+
+| &#160;Backwater Gloves
+
+| Despite being UNCOMMON, the &#160;Backwater Gloves are surprisingly best-in-slot. It grants up to +1.4%&#160;&#xe021;&#160;Sea Creature Chance with Snowy applies, and its Swamp Soldier tiered bonus increases damage dealt to Sea Creatures by 5%.
+
+| Lava
+
+| Necklace
+
+| [Magma Lord Necklace] 
+
+| &#160;Magma Lord Necklace
+
+| The &#160;Magma Lord Necklace is best-in-slot, due to the amount of &#xe021;&#160;Sea Creature Chance and &#xe01a;&#160;Magic Find it grants, alongside the damage reduction from and damage bonus against &#xe07d;&#160;Magmatic mobs.
+
+| Cloak
+
+| [David's Cloak] 
+
+| &#160;David's Cloak
+
+| A &#160;MYTHIC&#160;David's Cloak reforged to Snowy is best-in-slot, due to both its &#xe01a;&#160;Magic Find and its MYTHIC rarity, allowing you to maximise the bonuses of Snowy.
+
+| Belt
+
+| [Safari Belt (Mythic)] 
+
+| &#160;Safari Belt
+
+| A &#160;MYTHIC&#160;Safari Belt reforged to Bloodshot is best-in-slot, due to its MYTHIC rarity, allowing you to maximise the bonuses of Bloodshot.
+Cocooning contributes a lot to your profits and rates, but maxing your Cocoon Chance is very expensive.
+
+| [Implosion Belt] 
+
+| &#160;Implosion Belt
+
+| An &#160;Implosion Belt reforged to Bloodshot is best-in-slot if you use a &#160;Hyperion with &#160;Wither Impact applied to it, as it increases all explosion damage dealt by +25%.
+
+| Gloves
+
+| [Backwater Gloves] 
+
+| &#160;Backwater Gloves
+
+| Despite being UNCOMMON, the &#160;Backwater Gloves are surprisingly best-in-slot. It grants up to +1.4%&#160;&#xe021;&#160;Sea Creature Chance with Snowy applies, and its Swamp Soldier tiered bonus increases damage dealt to Sea Creatures by 5%.
+
+| [Manticore Claw] 
+
+| &#160;Manticore Claw
+
+| A &#160;Manticore Claw is best-in-slot if you are using a &#160;Hyperion with Chimera applied, as it copies an additional 10% of your active pet's Combat stats.
+
+The reason why the &#160;Gillsplash Set is not recommended in lava is because, despite its high rarity and &#xe00c;&#160;Fishing Speed, it is already very easy to max out your &#xe00c;&#160;Fishing Speed, and it grants no &#xe021;&#160;Sea Creature Chance - meaning that a &#160;Backwater Equipment reforged to Snowy yields higher &#xe021;&#160;Sea Creature Chance. However, you may wish to use a &#160;Gillsplash Gloves if you are using a &#160;Giant Fishing Rod, as it lacks &#xe00c;&#160;Fishing Speed.
+
+### Bait Progression
+[edit | edit source]
+
+Unlike most other parts of fishing progression, Bait does not improve linearly. Instead, you use certain types of Bait depending on your stage in the game.
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| [Fish Bait] 
+
+| &#160;Fish Bait
+
+| Raw Salmon&#160;V (5)
+
+| &#160;Fish Bait grants +45&#160;&#xe00c;&#160;Fishing Speed. Use Fish Bait if you are missing ≥26&#160;&#xe00c;&#160;Fishing Speed from the maximum &#xe00c;&#160;Fishing Speed cap on the island you are on.
+
+| [Glowy Chum Bait] 
+
+| &#160;Glowy Chum Bait
+
+| 
+
+| &#160;Glowy Chum Bait grants +25&#160;&#xe00c;&#160;Fishing Speed and +3%&#160;&#xe021;&#160;Sea Creature Chance, alongside granting +2 &#160;Chums upon killing Sea Creatures caught with this bait. Use Glowy Chum Bait if you are missing ≥26&#160;&#xe00c;&#160;Fishing Speed from the maximum &#xe00c;&#160;Fishing Speed cap on the island you are on and lacking in &#xe021;&#160;Sea Creature Chance.
+
+| [Minnow Bait] 
+
+| &#160;Minnow Bait
+
+| Raw Salmon&#160;I (1)
+
+| &#160;Minnow Bait grants +25&#160;&#xe00c;&#160;Fishing Speed. Use Minnow Bait if you are missing ≤25&#160;&#xe00c;&#160;Fishing Speed from the maximum &#xe00c;&#160;Fishing Speed cap on the island you are on, and have +100%&#160;&#xe021;&#160;Sea Creature Chance: this is due to Minnow Bait being cheaper than &#160;Glowy Chum Bait.
+
+| [Spiked Bait] 
+
+| &#160;Spiked Bait
+
+| Pufferfish&#160;V (5)
+
+| &#160;Spiked Bait grants +6%&#160;&#xe021;&#160;Sea Creature Chance. Use Spiked Bait if you have the maximum &#xe00c;&#160;Fishing Speed and are lacking in &#xe021;&#160;Sea Creature Chance.
+
+| [Whale Bait] 
+
+| &#160;Whale Bait
+
+| Lily Pad&#160;VI (6)
+
+| &#160;Whale Bait grants +30&#160;&#xe00c;&#160;Fishing Speed and multiplies the chances of catching Sea Creatures with a weight of ≤400 by 1.25x. Use Whale Bait instead of &#160;Glowy Chum Bait provided you have the Sea Creatures it targets unlocked: once you have max &#xe00c;&#160;Fishing Speed and 100%&#160;&#xe021;&#160;Sea Creature Chance, Whale Bait becomes best-in-slot.
+Note that Whale Bait is preferable over &#160;Frozen Bait while on &#xe067; Jerry's Workshop: it is not worth sacrificing the extra weight towards [A sprite icon representing Yeti in Hypixel SkyBlock] Yetis and [A sprite icon representing Reindrake in Hypixel SkyBlock] Reindrakes for the stats &#160;Frozen Bait provides.
+
+Additionally, certain baits are better if you are targeting specific mobs.
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| [Hotspot Bait] 
+
+| &#160;Hotspot Bait
+
+| 
+
+| &#160;Hotspot Bait is best-in-slot for targeting Hotspot-exclusive Sea Creatures, granting a +20% chance to catch Hotspot Sea Creatures while in a Hotspot.
+
+| [Shark Bait] 
+
+| &#160;Shark Bait
+
+| 
+
+| &#160;Shark Bait is best-in-slot during the Fishing Festival, granting a +20% chance to catch Sharks.
+
+| [Spooky Bait] 
+
+| &#160;Spooky Bait
+
+| Pumpkin&#160;IV (4)
+
+| &#160;Spooky Bait is best-in-slot during the Spooky Festival, granting both +25&#160;&#xe00c;&#160;Fishing Speed and +15% chance to catch &#xe082;&#160;Spooky Sea Creatures.
+
+| [Wooden Bait] 
+
+| &#160;Wooden Bait
+
+| 
+
+| &#160;Wooden Bait is useful for obtaining specific Attribute Shards: it ensures that your next  GOOD CATCH is a Rare Fish Shard. If you plan on fishing for Shards actively instead of waiting for Huntraps to fill, Wooden Bait proves to be very useful.
+
+### Rod Part Progression
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| [Junk Sinker] 
+
+| &#160;Junk Sinker
+
+| &#160;Fishing&#160;V (5)
+
+| The &#160;Junk Sinker grants +10&#160;&#xe025;&#160;Treasure Chance on the &#xe067; Backwater Bayou and replaces all Treasure catches with Junk. You will be using this Sinker whenever you are on the Bayou, as a lot of important items are locked behind &#160;Rusty Coins, &#160;Busted Belt Buckles, and &#160;Old Leather Boots.
+
+| [Speedy Line] 
+
+| &#160;Speedy Line
+
+| &#160;Fishing&#160;V (5)
+
+| The &#160;Speedy Line grants +10&#160;&#xe00c;&#160;Fishing Speed, making it incredibly useful: due to there being a very small variety of Lines in the game, you will likely be using a &#160;Speedy Line until you obtain a &#160;Titan Line much later in progression.
+
+| [Stingy Sinker] 
+
+| &#160;Stingy Sinker
+
+| &#160;Fishing&#160;V (5)
+
+| The &#160;Stingy Sinker grants a 10% chance to not consume Bait. It is useful for leveling up &#160;Fishing due to its bait conservation.
+
+| [Trophy Line] 
+
+| &#160;Trophy Line
+
+| &#160;Fishing&#160;XX (20)
+Lotus&#160;IX (9)
+
+| The &#160;Trophy Line grants +5&#160;&#xe02a;&#160;Trophy Chance. &#xe02a;&#160;Trophy Chance adds up when going for rare Trophy Fish and Trophy Frogs, especially rare varieties that will take a long time to obtain.
+
+| [Hotspot Hook] 
+
+| &#160;Hotspot Hook
+
+| &#160;Fishing&#160;XX (20)
+
+| The &#160;Hotspot Hook increases the chances of catching Hotspot Sea Creatures while fishing in a Hotspot by 20%. Hotspot Sea Creatures have some of the most important drops in the game, making this Hook important.
+
+| [Prismarine Sinker] 
+
+| &#160;Prismarine Sinker
+
+| &#160;Fishing&#160;V (5)
+Prismarine Shard&#160;IV (4)
+
+| The &#160;Prismarine Sinker is best-in-slot for both profit and Autopet rules: by setting your Autopet rules to On gain Collection: Prismarine Crystals and On gain collection: Prismarine Shard, you can swap to a &#160;LEGENDARY&#160;Squid Pet for XP, a &#160;Golden Dragon Pet for &#xe01a;&#160;Magic Find, or any pet you are levelling up.
+If you are on ♲&#160;Ironman, the Prismarine Sinker is also useful for crafting &#160;Whale Bait, which you should always be using.
+
+| [Titan Line] 
+
+| &#160;Titan Line
+
+| &#160;Fishing&#160;XXX (30)
+
+| The &#160;Titan Line grants a substantial +2&#160;&#xe009;&#160;Double Hook Chance. At this point in the game, you will need as much &#xe009;&#160;Double Hook Chance you can get your hands on for optimal rates, and is very useful when paired with a &#160;Hotspot Sinker in a &#xe009;&#160;Double Hook Chance Hotspot.
+
+## Fishing Reforges
+[edit | edit source]
+
+This section needs more information. Please help expand it.
+
+See more stubs.
+
+### Fishing Rod
+[edit | edit source]
+
+There are several Reforges exclusive to Fishing Rods. Knowing which to use, and which are less useful, is very important.
+
+| Slot
+
+| Name
+
+| Stats by Rarity
+
+| Reforge Bonus
+
+| Notes
+
+| [Pitchin' Koi] 
+
+| &#160;Pitchin' Koi
+
+Pitchin'
+
+| 
+
+- +1/2/4/6/8/10 &#xe00c;
+
+- +1/1/2/3/4/5 &#xe021;
+
+| 
+
+| Pitchin' is best-in-slot in terms of maintaining both &#xe00c;&#160;Fishing Speed and &#xe021;&#160;Sea Creature Chance. While other reforges edge it out for one of the two given stats, this is a good reforge for both.
+
+| [Lucky Dice] 
+
+| &#160;Lucky Dice
+
+Lucky
+
+| 
+
+- +1/2/3/4/5/6 &#xe00c;
+
+- +0.1/0.2/0.3/0.4/0.5/0.6 &#xe025;
+
+| Treasure catches are 7% more likely to be  OUTSTANDING.
+
+| Lucky is useful for Treasure fishing, due to its high &#xe025;&#160;Treasure Chance and increasing the chance for  OUTSTANDING catches.
+
+| [Rusty Anchor] 
+
+| &#160;Rusty Anchor
+
+Treacherous
+
+| 
+
+- +0.5/1/1.5/2/2.5/3.5 &#xe021;
+
+- +0.1/0.2/0.3/0.4/0.6/0.8 &#xe025;
+
+- +5/10/15/20/25/30 &#xe00d;
+
+| Gain +20% &#160;Ice Essence from Treasure catches.
+
+| Treacherous is best-in-slot for &#xe025;&#160;Treasure Chance outside of the &#xe067; Backwater Bayou, granting up to +4.3&#160;&#xe025;&#160;Treasure Chance when paired with a MYTHIC Fishing Rod and Luck of the Sea VII.
+
+| [Kuudra Mandible] 
+
+| &#160;Kuudra Mandible
+
+Chomp
+
+| 
+
+- +2/3/5/7/9/11 &#xe00c;
+
+- +5/10/17/25/35/50 &#xe00d;
+
+- +5/10/17/25/35/50 &#xe007;
+
+| Each unique Lava Sea Creature killed with the applied Fishing Rod in your inventory reduces the &#xe010;&#160;Health of Lava Sea Creatures by 1%, up to -20%.
+
+| Chomp is best-in-slot for Trophy Fishing and collecting Trophy Frogs as it grants the most &#xe00c;&#160;Fishing Speed out of any reforge. Despite requiring a lengthy quest to obtain&#91;2&#93;, it is relatively cheap on the Bazaar if you have a standard profile.
+Note that this reforge interferes with the Jawbus Destroyer challenge from the &#160;Pandora's Box.
+
+| [Overflowing Trash Can] 
+
+| &#160;Overflowing Trash Can
+
+Trashy
+
+| 
+
+- +1/2/3/4/6/8 &#xe00c;
+
+- +0.5/1/1.5/2/3/4 &#xe021;
+
+| Grants +1&#160;&#xe025;&#160;Treasure Chance while in the &#xe067; Backwater Bayou.
+
+| Trashy is best-in-slot for Treasure fishing in the &#xe067; Backwater Bayou due to its reforge bonus when paired with a &#160;Challenging Rod with Luck of the Sea VII, granting up to +5&#160;&#xe025;&#160;Treasure Chance. It is also a decent early-game reforge, as you likely will not have any other option at this stage.
+
+### Armor
+[edit | edit source]
+
+A handful of Armor Reforges are designed for fishing: each serves their own purpose.
+
+| Slot
+
+| Name
+
+| Stats by Rarity
+
+| Reforge Bonus
+
+| Notes
+
+| [Calcified Heart] 
+
+| &#160;Calcified Heart
+
+Calcified
+
+| 
+
+- +0.5/1/1.5/2.5/3.5/4.5 &#xe00c;
+
+- +2/4/6/10/14/18 &#xe008;
+
+| 
+
+| Calcified is the first reforge you will likely have access to, as it is obtained very early into progression and grants useful &#xe00c;&#160;Fishing Speed and survivability against Sea Creatures. It is a good budget option if you cannot afford Submerged or Festive.
+
+| [Deep Sea Orb] 
+
+| &#160;Deep Sea Orb
+
+Submerged
+
+| 
+
+- +1/1/2/3/4/5 &#xe00c;
+
+- +0.5/0.6/0.7/0.8/0.9/1 &#xe021;
+
+- +2/4/6/8/10/12 &#xe02c;
+
+| 
+
+| Submerged is best-in-slot for &#xe021;&#160;Sea Creature Chance, and grants decent &#xe00c;&#160;Fishing Speed - though it pales in comparison to the &#xe00c;&#160;Fishing Speed granted by Festive.
+&#160;Deep Sea Orbs are relatively expensive and difficult to obtain, having a 1% drop chance from [A sprite icon representing Phantom Fisher in Hypixel SkyBlock] Phantom Fishers and [A sprite icon representing Grim Reaper in Hypixel SkyBlock] Grim Reapers, as well as a 0.1% chance to drop from [A sprite icon representing Werewolf in Hypixel SkyBlock] Werewolves.
+
+| [Frozen Bauble] 
+
+| &#160;Frozen Bauble
+
+Festive
+
+| 
+
+- +2/3/4/6/8/10 &#xe00c;
+
+- +0.05/0.05/0.1/0.15/0.2/0.25 &#xe021;
+
+- +5/10/15/20/25/30 &#xe003;
+
+| 
+
+| Festive is best-in-slot for &#xe00c;&#160;Fishing Speed, though it lacks &#xe021;&#160;Sea Creature Chance. It is useful if you already have 100%&#160;&#xe021;&#160;Sea Creature Chance and are trying to max out your &#xe00c;&#160;Fishing Speed, especially when reaching the &#xe00c;&#160;Fishing Speed cap of 350&#160;&#xe00c; on the &#xe067; Crimson Isle.
+&#160;Frozen Baubles are relatively expensive to obtain, requiring &#160;64&#160;Hunk of Ice and &#160;32&#160;Hunk of Blue Ice. These can be obtained through fishing on &#xe067; Jerry's Workshop through killing [A sprite icon representing Frosty in Hypixel SkyBlock] Frostys and [A sprite icon representing Yeti in Hypixel SkyBlock] Yetis respectively or through the Treasure loot pool.
+
+## Fishing Pets
+[edit | edit source]
+
+There are a multitude of Pets that are important in &#160;Fishing. Each pet serves a different niche.
+
+### General Fishing
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Rarity
+
+| Perks
+
+| [Dolphin Pet] 
+
+| &#160;Dolphin Pet
+
+| LEGENDARY
+
+| Pod Tactics
+
+Grants +0.1-10&#160;&#xe00c;&#160;Fishing Speed for each player within 30 blocks, up to 5 players.
+
+| Echolocation
+
+Grants +0.1-10%&#160;&#xe021;&#160;Sea Creature Chance.
+
+| [Ammonite Pet] 
+
+| &#160;Ammonite Pet
+
+| LEGENDARY
+
+| Heart of the Sea
+
+Grants +0.01-1%&#160;&#xe021;&#160;Sea Creature Chance as a base stat on the pet for every Heart of the Mountain level you have.
+
+| Expert Cave Fisher
+
+Grants +0.01-0.5%&#160;&#xe009;&#160;Double Hook Chance while in the &#xe067; Crystal Hollows.
+
+| Gift of the Ammonite
+
+Every &#160;Mining and &#160;Fishing level grants +0.01-0.5&#160;&#xe00c;&#160;Fishing Speed, +0.02-2&#160;&#xe022;&#160;Speed, and +0.02-2&#160;&#xe008;&#160;Defense. 
+
+| [Squid Pet] 
+
+| &#160;Squid Pet
+
+| LEGENDARY
+
+| Fishing Wisdom Boost
+
+Grants +0.3-30&#160;☯&#160;Fishing Wisdom.
+
+An EPIC &#160;Dolphin Pet paired with a &#160;Washed-Up Souvenir will be best for &#xe021;&#160;Sea Creature Chance until you obtain an &#160;Ammonite Pet, which is best when paired with a &#160;Hephaestus Souvenir. You'll be able to swap to a &#160;Ammonite Pet upon reaching the following requirements depending on how many players you fish with due to Pod Tactics:
+
+- 4 players: &#160;Mining&#160;LX (60), &#160;Fishing&#160;XLI (41)
+
+- 3 players: &#160;Mining&#160;L (50), &#160;Fishing&#160;XXXI (31)
+
+- 2 players: &#160;Mining&#160;XL (40), &#160;Fishing&#160;XXI (21)
+
+- 1 players: &#160;Mining&#160;XXI (21), &#160;Fishing&#160;XX (20)
+
+- Alone: &#160;Fishing&#160;XXI (21)&#91;3&#93;
+
+The &#160;LEGENDARY&#160;Squid Pet is best-in-slot for levelling up &#160;Fishing. It is recommended to swap to a &#160;Squid Pet right before you kill your targeted Sea Creature with a pet rule.
+
+If you are struggling to reach maximum &#xe00c;&#160;Fishing Speed, a &#160;Flying Fish Pet is useful because it grants high amounts of &#xe00c;&#160;Fishing Speed from its Quick Reel perk. An &#160;Edible Seaweed can be applied to a &#160;Flying Fish Pet to grant an additional +10&#160;&#xe00c;&#160;Fishing Speed.
+
+| [Flying Fish Pet] 
+
+| &#160;Flying Fish Pet
+
+| MYTHIC
+
+| Quick Reel
+
+Grants +0.8-80&#160;&#xe00c;&#160;Fishing Speed.
+
+| Lava Bender
+
+Grants +1-100&#160;&#xe00d;&#160;Strength and +1-100&#160;&#xe008;&#160;Defense when near water or lava.
+
+| Magmatic Diver
+
+Increases the stats of &#160;Diver's Armor, &#160;Abyssal Armor, and &#160;Magma Lord Armor by 0.2-20%.
+
+| Rapid Decay
+
+Flash procs 0.5-50% more often.
+
+- Using an Autopet rule to swap to a &#160;Flying Fish Pet on casting a rod, and then manually swapping to a &#160;Dolphin Pet or &#160;Ammonite Pet for stats, or a &#160;Precursor Drone Pet or &#160;Hermit Crab Pet, allows you to use the buffs of both pets.
+
+- Then, you can use a pet rule to swap to a &#160;Squid Pet, &#160;Golden Dragon Pet, or whichever pet you are levelling, right before you kill your targeted Sea Creature.
+
+This works because &#xe00c;&#160;Fishing Speed only applies when your bobber first touches water or lava, and &#xe021;&#160;Sea Creature Chance, &#xe077;&#160;Tracking, and pet perks only apply when you reel.
+
+Additionally, the &#160;Parrot Pet is useful for extending the duration of Mixins, including &#160;Blizzard in a Bottle Mixins and &#160;Hotspot Tonic Mixins, and the &#160;God Potion.
+
+| [Parrot Pet] 
+
+| &#160;Parrot Pet
+
+| LEGENDARY
+
+| Repeat
+
+Boosts the duration of Potions by +5.35-40%.
+
+| Parrot Feather Infusion
+
+When summoned or in your Pets menu, boost the duration of consumed &#160;God Potions by +0.2-20%.
+
+### Event Fishing
+[edit | edit source]
+
+Specific events have best-in-slot pets for each activity.
+
+| Slot
+
+| Name
+
+| Rarity
+
+| Perks
+
+| [Baby Yeti Pet] 
+
+| &#160;Baby Yeti Pet
+
+| MYTHIC
+
+| Cold Breeze
+
+Increases Combat Stats and Fishing Stats by +0.2-20% while on &#xe067; Jerry's Workshop.
+
+| Frosty Familiarity
+
+Grants +0.1-10&#160;&#xe01a;&#160;Magic Find against Winter Sea Creatures.
+
+| Family Gathering
+
+Grants +0.1-10&#160;&#xe077;&#160;Tracking against Winter Sea Creatures.
+
+| [Bat Pet] 
+
+| &#160;Bat Pet
+
+| MYTHIC
+
+| Fruity Diet
+
+Increases this pet's stats by 100% while on &#xe067; The Farming Islands.
+
+| Candied Claws
+
+Sea Creatures have a 2.5-25% chance to drop &#160;Green Candy during the Spooky Festival.
+
+| Sonar
+
+Grants a +20% chance to catch &#xe082;&#160;Spooky Sea Creatures during the Spooky Festival.
+
+| Twin Fangs
+
+Grants +0.5-5&#160;&#xe009;&#160;Double Hook Chance towards &#xe082;&#160;Spooky Sea Creatures.
+
+| [Megalodon Pet] 
+
+| &#160;Megalodon Pet
+
+| LEGENDARY
+
+| Blood Scent
+
+Grants +0.1-10&#160;&#xe01a;&#160;Magic Find on Sharks.
+
+| Enhanced Scales
+
+Doubles the pet's base stats during the Fishing Festival.
+
+| Feeding Frenzy
+
+Grants a +10.1-20% chance to catch Sharks during the Fishing Festival.
+
+| [Reindeer Pet] 
+
+| &#160;Reindeer Pet
+
+| LEGENDARY
+
+| Infused
+
+Grants +0.75-75&#160;&#xe00c;&#160;Fishing Speed and +5&#160;&#xe025;&#160;Treasure Chance while on &#xe067; Jerry's Workshop.
+
+The &#160;Baby Yeti Pet is superior for catching Winter Sea Creatures, whereas the &#160;Reindeer Pet is superior for treasure fishing on &#xe067; Jerry's Workshop.
+
+### Treasure Fishing
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Rarity
+
+| Perks
+
+| [Hermit Crab Pet] 
+
+| &#160;Hermit Crab Pet
+
+| MYTHIC
+
+| Comfort Zone
+
+Grants +0.4-40&#160;&#xe00c;&#160;Fishing Speed for 30s upon catching Treasure.
+
+| Seafloor Scalper
+
+Treasure catches are 0.1-10% more likely to be GREAT or OUTSTANDING.
+
+| Crab Rave
+
+Grants +0-0.2%&#160;&#xe025;&#160;Treasure Chance for each player with a &#160;Hermit Crab Pet within 30 blocks, up to 5 players.
+
+| [Seal Pet] 
+
+| &#160;Seal Pet
+
+| LEGENDARY
+
+| Amphibious
+
+Increases base stats by 1-100% during the Year of the Seal.&#91;4&#93;
+
+Note that the &#160;MYTHIC&#160;Hermit Crab Pet is largely irrelevant for Treasure fishing outside of Pet Score, as it increases the chances of Hotspot Sea Creatures being caught.
+
+### Trophy Fishing
+[edit | edit source]
+
+There are several pets designed for obtaining Trophy Fish and Trophy Frogs.
+
+| Slot
+
+| Name
+
+| Rarity
+
+| Perks
+
+| [Frog Pet] 
+
+| &#160;Frog Pet
+
+| MYTHIC
+
+| Home Sweet Home
+
+Increases the chances of catching Gold and Diamond Trophy Frogs by 0.1-10%.
+
+| [Spinosaurus Pet] 
+
+| &#160;Spinosaurus Pet
+
+| LEGENDARY
+
+| Pursuit
+
+Increases the chances of catching Gold and Diamond Trophy Fish by 0.1-10%.
+
+| Adaptive Predator
+
+Increases this pet's base stats by +0.5-50% during any Weather.
+
+| [Slug Pet] 
+
+| &#160;Slug Pet
+
+| EPIC
+
+| Slow and Steady
+
+While in the &#xe067; Crimson Isle, &#160;Slugfish take 0.5-50% less time to catch.
+
+The &#160;Barrel of Riches grants a +10% chance to catch Gold Trophies, and the &#160;Lotus Crown grants a +10% chance to catch Diamond Trophies.
+
+## Fishing Accessories
+[edit | edit source]
+
+Not only do Accessories provide a multitude of stats and bonuses, but they also provide Accessory Power, which boost stats given from Accessory Powers and grant Tuning Points. A list of all Fishing-related accessories are below.
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Description
+
+| [Fish Affinity Talisman] 
+
+| &#160;Fish Affinity Talisman
+
+| 
+
+| The &#160;Fish Affinity Talisman grants +10&#160;&#xe00c;&#160;Fishing Speed and has a 30% chance to drop from a [A sprite icon representing Water Hydra in Hypixel SkyBlock] Water Hydra. Paired with its high drop chance and low price, this accessory is a must-have.
+
+| [Sea Creature Talisman] 
+
+| &#160;Sea Creature Talisman
+
+| Sponge&#160;II (2)
+
+| The &#160;Sea Creature Talisman, &#160;Ring, and &#160;Artifact grant +0.1%&#160;&#xe021; / +0.2%&#160;&#xe021; / +0.3%&#160;&#xe021;&#160;Sea Creature Chance, alongside a 5%/10%/15% damage reduction from Sea Creatures. Due to its cheap price, it is highly recommended to get this accessory early on.
+
+| [Sea Creature Ring] 
+
+| &#160;Sea Creature Ring
+
+| Sponge&#160;VI (6)
+
+| [Sea Creature Artifact] 
+
+| &#160;Sea Creature Artifact
+
+| Sponge&#160;VIII (8)
+
+| [Chumming Talisman] 
+
+| &#160;Chumming Talisman
+
+| 
+
+| The &#160;Chumming Talisman grants +1&#160;&#xe00c;&#160;Fishing Speed and +1&#160;☯&#160;Fishing Wisdom. It is purchased from [A sprite icon representing Moby in Hypixel SkyBlock] Moby for &#160;32&#160;Full Chum Buckets, which is both extremely cheap and easy to obtain, even without the Bazaar.
+
+| [Applicant's Statement] 
+
+| &#160;Applicant's Statement
+
+| Novice Frog Collector
+
+| The &#160;Applicant's Statement, &#160;Student's Studies, &#160;Master's Thesis, and &#160;PhD's Grimoire grant +1%&#160;&#xe02a; / +2%&#160;&#xe02a; / +3%&#160;&#xe02a; / +4%&#160;&#xe02a;&#160;Trophy Chance. Unlike most other accessories, it is a reward from catching higher tiers of Trophy Frogs.
+All tiers of this accessory line are Soulbound, meaning they cannot be traded.
+
+| [Student's Studies] 
+
+| &#160;Student's Studies
+
+| Adept Frog Collector
+
+| [Master's Thesis] 
+
+| &#160;Master's Thesis
+
+| Expert Frog Collector
+
+| [PhD's Grimoire] 
+
+| &#160;PhD's Grimoire
+
+| Master Frog Collector
+
+| [Odger's Bronze Tooth] 
+
+| &#160;Odger's Bronze Tooth
+
+| Novice Trophy Fisher
+
+| &#160;Odger's Bronze, &#160;Silver, &#160;Gold, and &#160;Diamond Tooth grant +0.5%&#160;&#xe021; / +1%&#160;&#xe021; / +1.5%&#160;&#xe021; / +2%&#160;&#xe021;&#160;Sea Creature Chance and +1%&#160;&#xe02a; / +2%&#160;&#xe02a; / +3%&#160;&#xe02a; / +4%&#160;&#xe02a;&#160;Trophy Chance. Unlike most other accessories, it is a reward from catching higher tiers of Trophy Fish, with &#160;Odger's Diamond Tooth being infamous for being extremely hard to obtain - requiring having caught all tiers of Trophy Fish, including DIAMOND.
+Additionally, all tiers of Odger's Tooth are Soulbound, meaning they cannot be traded.
+
+| [Odger's Silver Tooth] 
+
+| &#160;Odger's Silver Tooth
+
+| Adept Trophy Fisher
+
+| [Odger's Gold Tooth] 
+
+| &#160;Odger's Gold Tooth
+
+| Expert Trophy Fisher
+
+| [Odger's Diamond Tooth] 
+
+| &#160;Odger's Diamond Tooth
+
+| Master Trophy Fisher
+
+| [Emperor's Talisman] 
+
+| &#160;Emperor's Talisman
+
+| 
+
+| The &#160;Emperor's Talisman, &#160;Ring, and &#160;Artifact grant +0.5%&#160;&#xe021; / +1%&#160;&#xe021; / +1.5%&#160;&#xe021;&#160;Sea Creature Chance. Requiring exponentially increasing quantities of &#160;Emperor's Skulls, this accessory is very expensive.
+
+| [Emperor's Ring] 
+
+| &#160;Emperor's Ring
+
+| 
+
+| [Emperor's Artifact] 
+
+| &#160;Emperor's Artifact
+
+| 
+
+| [Junk Talisman] 
+
+| &#160;Junk Talisman
+
+| 
+
+| The &#160;Junk Talisman, &#160;Ring, and &#160;Artifact grant +2.5%&#160;&#xe025; / +5%&#160;&#xe025; / +7.5%&#160;&#xe025;&#160;Treasure Chance while on the &#xe067; Backwater Bayou. It does not require much: a total of &#160;32&#160;Rusty Coins, &#160;8&#160;Busted Belt Buckles, and &#160;1&#160;Old Leather Boot.
+
+| [Junk Ring] 
+
+| &#160;Junk Ring
+
+| 
+
+| [Junk Artifact] 
+
+| &#160;Junk Artifact
+
+| 
+
+| [Bait Ring] 
+
+| &#160;Bait Ring
+
+| Ink Sac&#160;IX (9)
+
+| The &#160;Bait Ring and &#160;Spiked Atrocity grant a +5% and +10% chance to not consume Fishing Bait respectively.
+
+| [Spiked Atrocity] 
+
+| &#160;Spiked Atrocity
+
+| 
+
+| [Agarimoo Talisman] 
+
+| &#160;Agarimoo Talisman
+
+| 
+
+| The &#160;Agarimoo Talisman, &#160;Ring, and &#160;Artifact grant +1&#160;&#xe00c; / +2&#160;&#xe00c; / +3%&#160;&#xe00c;&#160;Fishing Speed: the &#160;Agarimoo Ring also grants +1&#160;☯&#160;Fishing Wisdom, and the &#160;Agarimoo Artifact grants an additional +1&#160;☯&#160;Farming Wisdom.
+Despite requiring you to progress through the Rift and obtain an &#160;Empty Chumcap Bucket, it is relatively easy to obtain the &#160;Agarimoo Tongues necessary to craft the accessory, alongside its very cheap price.
+
+| [Agarimoo Ring] 
+
+| &#160;Agarimoo Ring
+
+| 
+
+| [Agarimoo Artifact] 
+
+| &#160;Agarimoo Artifact
+
+| 
+
+| [Seal Talisman] 
+
+| &#160;Seal Talisman
+
+| 
+
+| The &#160;Seal Talisman and &#160;Ring grant +0.5%&#160;&#xe021; / +1%&#160;&#xe021;&#160;Sea Creature Chance and +0.1%&#160;&#xe025; / +0.2%&#160;&#xe025;&#160;Treasure Chance respectively. Being obtained from the Year of the Seal, obtaining these is both tedious and expensive, but the &#xe025;&#160;Treasure Chance is worth it.
+
+| [Seal Ring] 
+
+| &#160;Seal Ring
+
+| 
+
+| [Raggedy Shark Tooth Necklace] 
+
+| &#160;Raggedy Shark Tooth Necklace
+
+| 
+
+| The &#160;Raggedy, &#160;Dull, &#160;Honed, &#160;Sharp, and &#160;Razor-sharp Shark Tooth Necklace each grant a +5%/+10%/+15%/+20%/+25% chance to obtain Shark Teeth during a Fishing Festival, alongside increased amounts of &#xe00d;&#160;Strength.
+The Razor-sharp Shark Tooth Necklace is both relatively cheap for its value and one of the easiest LEGENDARY accessories to obtain, making it very useful if you're trying to get items like &#160;Great White Tooth Meal.
+
+| [Dull Shark Tooth Necklace] 
+
+| &#160;Dull Shark Tooth Necklace
+
+| 
+
+| [Honed Shark Tooth Necklace] 
+
+| &#160;Honed Shark Tooth Necklace
+
+| 
+
+| [Sharp Shark Tooth Necklace] 
+
+| &#160;Sharp Shark Tooth Necklace
+
+| 
+
+| [Razor-sharp Shark Tooth Necklace] 
+
+| &#160;Razor-sharp Shark Tooth Necklace
+
+| 
+
+| [Relic of Power] 
+
+| &#160;Relic of Power
+
+| Heart of the Mountain&#160;X (10)
+
+| The &#160;Relic of Power has an &#160;Aquamarine slot, allowing you to place an Aquamarine Gemstone, granting half stats. You gain +2.5&#160;&#xe00c;&#160;Fishing Speed with a &#160;Perfect Aquamarine Gemstone placed in the Relic of Power.
+
+| [Speed Relic] 
+
+| &#160;Speed Relic
+
+| 
+
+| The &#160;Speed Relic grants +1&#160;&#xe00c;&#160;Fishing Speed. Being crafted with &#160;Cane Knots, only obtainable while &#160;Sugar Cane is in-season during the Harvest Feast, this accessory is very time-locked.
+
+| [Magic 8 Ball] 
+
+| &#160;Magic 8 Ball
+
+| 
+
+| The &#160;Magic 8 Ball has a chance to grant +25&#160;&#xe00c;&#160;Fishing Speed and +1&#160;☯&#160;Fishing Wisdom, making it a very substantial - but random - increase in stats. Being obtained from the Dark Auction, it is usually very expensive.
+
+| [Lighter Blue™ Abicase] 
+
+| &#160;Lighter Blue™ Abicase
+
+| 
+
+| The &#160;Lighter Blue™ Abicase grants +1.5&#160;☯&#160;Fishing Wisdom and is purchased for 17,000 Bits. Only one Abicase takes effect in your &#160;Accessory Bag at a time.
+
+## Fishing Attributes
+[edit | edit source]
+
+### Core Attributes
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Rarity
+
+| Description
+
+| Obtainment Method
+
+| [Verdant Shard] 
+
+| &#160;Verdant Shard
+
+Forest Fishing
+
+| COMMON
+
+| Grants +3-30&#160;&#xe00c;&#160;Fishing Speed while on Foraging Islands.
+
+| Hunt [A sprite icon representing Verdant in Hypixel SkyBlock] Verdant in the &#xe067; Murkwater Loch with a Fishing Net.
+
+| [Bogged Shard] 
+
+| &#160;Bogged Shard
+
+Creature Fisher
+
+| COMMON
+
+| Grants +0.5-5&#160;&#xe021;&#160;Sea Creature Chance.
+
+| Hunt [A sprite icon representing Bogged in Hypixel SkyBlock] Bogged with a Black Hole or Salt.
+
+| [Coralot Shard] 
+
+| &#160;Coralot Shard
+
+Bucket Lover
+
+| COMMON
+
+| You have a +5-50% chance to gain extra &#160;Chums.
+
+| Hunt [A sprite icon representing Coralot in Hypixel SkyBlock] Coralot in the &#xe067; Moonglade Marsh and &#xe067; Murkwater Loch with a Fishing Net.
+
+| [Inkling Shard] 
+
+| &#160;Inkling Shard
+
+Fisherman
+
+| COMMON
+
+| Grants a +1-10% chance to not consume Fishing Baits.
+
+| Hunt [A sprite icon representing Inkling in Hypixel SkyBlock] Inklings with a Black Hole or Salt.
+
+| [Timil Shard] 
+
+| &#160;Timil Shard
+
+Lake Fishing
+
+| COMMON
+
+| Grants +3-30&#160;&#xe00c;&#160;Fishing Speed while on Fishing Islands.
+
+| Hunt [A sprite icon representing Timil in Hypixel SkyBlock] Timils in the &#xe067; Critter Safari with a &#160;Critter Capsule.
+
+| [Cavernfish Shard] 
+
+| &#160;Cavernfish Shard
+
+Cave Fishing
+
+| COMMON
+
+| Grants +3-30&#160;&#xe00c;&#160;Fishing Speed while on Mining Islands.
+
+| Hunt [A sprite icon representing Cavernfish in Hypixel SkyBlock] Cavernfish in the &#xe067; Critter Safari with a &#160;Critter Capsule.
+
+| [Magma Slug Shard] 
+
+| &#160;Magma Slug Shard
+
+Infection
+
+| UNCOMMON
+
+| Increases the chances of catching X Corrupted X Sea Creatures by +0.2-20%.
+
+| Hunt [A sprite icon representing Magma Slug in Hypixel SkyBlock] Magma Slugs in the &#xe067; Crimson Isle with a Black Hole or Salt.
+
+| [Stridersurfer Shard] 
+
+| &#160;Stridersurfer Shard
+
+Magmatic Ruler
+
+| UNCOMMON
+
+| You deal +3-30% more damage to &#xe07d;&#160;Magmatic mobs.
+
+| Hunt [A sprite icon representing Stridersurfer in Hypixel SkyBlock] Stridersurfers in the &#xe067; Stride-Ember Fissure with a Black Hole or Salt.
+
+| [Sepialot Shard] 
+
+| &#160;Sepialot Shard
+
+Bucket Greed
+
+| UNCOMMON
+
+| You gain +1-10% more Coins when depositing &#160;Chum into any Bucket.
+
+| Hunt [A sprite icon representing Sepialot in Hypixel SkyBlock] Sepialot in the &#xe067; Torrhus Springs with a Fishing Net or a Lasso.
+
+| [Lava Flame Shard] 
+
+| &#160;Lava Flame Shard
+
+Blazing Fortune
+
+| RARE
+
+| Grants +1-10&#160;&#xe01a;&#160;Magic Find on &#xe07d;&#160;Magmatic mobs.
+
+| 
+
+- Hunt [A sprite icon representing Lava Flame in Hypixel SkyBlock] Lava Flame in the &#xe067; Crimson Isle with a Black Hole or a Salt.
+
+- Obtained from Kuudra.
+
+| [Giant Water Bug Shard] 
+
+| &#160;Giant Water Bug Shard
+
+Aquatic Fortune
+
+| RARE
+
+| Grants +0.5-5&#160;&#xe01a;&#160;Magic Find on &#xe072;&#160;Aquatic mobs.
+
+| 
+Fish up &#160;Giant Water Bug Shard in the &#xe067; Hotspot Haven.
+
+| [Water Hydra Shard] 
+
+| &#160;Water Hydra Shard
+
+Fishing Speed
+
+| EPIC
+
+| Grants +3-30&#160;&#xe00c;&#160;Fishing Speed.
+
+| Charm [A sprite icon representing Water Hydra in Hypixel SkyBlock] Water Hydra.
+
+| [Loch Emperor Shard] 
+
+| &#160;Loch Emperor Shard
+
+Fishing Wisdom
+
+| EPIC
+
+| Grants +0.5-5&#160;☯&#160;Fishing Wisdom.
+
+| Charm [A sprite icon representing The Loch Emperor in Hypixel SkyBlock] The Loch Emperor.
+
+| [Giant Isopod Shard] 
+
+| &#160;Giant Isopod Shard
+
+Fisher's Fortune
+
+| EPIC
+
+| Grants +1-10&#160;&#xe01a;&#160;Magic Find while on Fishing Islands.
+
+| Hunt [A sprite icon representing Giant Isopod in Hypixel SkyBlock] Giant Isopod in the &#xe067; Torrhus Springs with a Salt.
+
+| [Cinderbat Shard] 
+
+| &#160;Cinderbat Shard
+
+Magic Find
+
+| LEGENDARY
+
+| Grants +0.5-5&#160;&#xe01a;&#160;Magic Find.
+
+| Hunt [A sprite icon representing Cinderbat in Hypixel SkyBlock] Cinderbats with a Lasso.
+
+| [Nessie Shard] 
+
+| &#160;Nessie Shard
+
+Loch Hook
+
+| LEGENDARY
+
+| Grants +0.5-5&#160;&#xe009;&#160;Double Hook Chance while on Foraging Islands.
+
+| Charm [A sprite icon representing Nessie in Hypixel SkyBlock] Nessie.
+
+| [Lord Jawbus Shard] 
+
+| &#160;Lord Jawbus Shard
+
+Crimson Hook
+
+| LEGENDARY
+
+| Grants +0.5-5&#160;&#xe009;&#160;Double Hook Chance while on Combat Islands.
+
+| 
+
+- Charm [A sprite icon representing Lord Jawbus in Hypixel SkyBlock] Lord Jawbus.
+
+- Obtained from Kuudra.
+
+| [Titanoboa Shard] 
+
+| &#160;Titanoboa Shard
+
+Bayou Hook
+
+| LEGENDARY
+
+| Grants +0.5-5&#160;&#xe009;&#160;Double Hook Chance while on Fishing Islands.
+
+| Charm [A sprite icon representing Titanoboa in Hypixel SkyBlock] Titanoboa.
+
+### Treasure Fishing
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Rarity
+
+| Description
+
+| Obtainment Method
+
+| [Cod Shard] 
+
+| &#160;Cod Shard
+
+Cheapstake
+
+| COMMON
+
+| Gain +1-10% more Coins from Treasure.
+
+| Hunt [A sprite icon representing Cod in Hypixel SkyBlock] Cod in the &#xe067; Murkwater Loch with a Fishing Net.
+
+| [Salmon Shard] 
+
+| &#160;Salmon Shard
+
+Lost and Found
+
+| UNCOMMON
+
+| Grants a +0.1-1% chance to catch a &#160;Wet Book when fishing a Treasure.
+
+| Hunt [A sprite icon representing Salmon in Hypixel SkyBlock] Salmon in the &#xe067; Murkwater Loch with a Fishing Net.
+
+| [Osedax Shard] 
+
+| &#160;Osedax Shard
+
+Flexible Fisher
+
+| UNCOMMON
+
+| Increases the chances of catching &#160;Flexbones in the &#xe067; Tomb Floodway by +2.5-25%.
+
+| Purchased in [A sprite icon representing Sanger in Hypixel SkyBlock] Sanger's shop.
+
+| [Litterbug Shard] 
+
+| &#160;Litterbug Shard
+
+Buckle Fisher
+
+| UNCOMMON
+
+| Junk catches are +1-10% more likely to be a GREAT.
+
+| 
+
+- Hunt [A sprite icon representing Litterbug in Hypixel SkyBlock] Litterbug in the &#xe067; Critter Safari.
+
+- Obtained from Floor Drops in the Haunted zone of the &#xe067; Critter Safari.
+
+| [Cheeky Tiki Shard] 
+
+| &#160;Cheeky Tiki Shard
+
+Bayou Treasure
+
+| UNCOMMON
+
+| Grants +0.1-1&#160;&#xe025;&#160;Treasure Chance while on the &#xe067; Backwater Bayou.
+
+| Hunt [A sprite icon representing Cheeky Tiki in Hypixel SkyBlock] Cheeky Tiki in the &#xe067; Torrhus Canyon with a Black Hole or Salt.
+
+| [Maggot Shard] 
+
+| &#160;Maggot Shard
+
+Boot Fisher
+
+| RARE
+
+| Junk catches are +1-10% more likely to be an OUTSTANDING.
+
+| Fuse Trash Lover Family with Bug Family and UNCOMMON or higher.
+
+| [Moray Eel Shard] 
+
+| &#160;Moray Eel Shard
+
+Lucky Rod
+
+| EPIC
+
+| Grants a +1-10% chance to catch Shards from Treasure.
+
+| Fuse &#160;Eel Shard with &#160;Eel Shard.
+
+| [Blue Crab Shard] 
+
+| &#160;Blue Crab Shard
+
+Outstanding Fisher
+
+| EPIC
+
+| Treasure catches are +1-10% more likely to be an OUTSTANDING.
+
+| Fuse Crustacean Family and RARE or higher with Treasure Fish Family and RARE or higher.
+
+| [Ghost Crab Shard] 
+
+| &#160;Ghost Crab Shard
+
+Treasure Fisher
+
+| LEGENDARY
+
+| Grants +0.1-1&#160;&#xe025;&#160;Treasure Chance.
+
+| Fuse &#160;Blue Crab Shard with Poltergeist Family and RARE or higher.
+
+### Trophy Fishing
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Rarity
+
+| Description
+
+| Obtainment Method
+
+| [Lotusfish Shard] 
+
+| &#160;Lotusfish Shard
+
+Lotus Trophy
+
+| COMMON
+
+| Grants +1-10&#160;&#xe02a;&#160;Trophy Chance while on the &#xe067; Lotus Atoll.
+
+| Hunt [A sprite icon representing Lotusfish in Hypixel SkyBlock] Lotusfish in the &#xe067; Lotus Atoll with a Fishing Net.
+
+| [Goldfin Shard] 
+
+| &#160;Goldfin Shard
+
+Gold Bait
+
+| UNCOMMON
+
+| Reduces the cooldown of &#160;Golden Fish by +30s-5m.
+
+| Fuse &#160;Golden Ghoul Shard with Water category.
+
+| [Lotum Shard] 
+
+| &#160;Lotum Shard
+
+Lily Tracker
+
+| UNCOMMON
+
+| Grants +1-10&#160;&#xe077;&#160;Tracking on Exploding Lily Pads.
+
+| Hunt [A sprite icon representing Lotum in Hypixel SkyBlock] Lotum in the &#xe067; Lotus Atoll.
+
+| [Flipflopper Shard] 
+
+| &#160;Flipflopper Shard
+
+Golden Frog
+
+| UNCOMMON
+
+| Trophy Frogs are +0.5-5% more likely to be GOLD.
+
+| Hunt [A sprite icon representing Flipflopper in Hypixel SkyBlock] Flipflopper in the &#xe067; Lotus Atoll with a Fishing Net.
+
+| [Tewtil Shard] 
+
+| &#160;Tewtil Shard
+
+Lily Puncher
+
+| UNCOMMON
+
+| Punching Exploding Lily Pads applies +5-50% more force.
+
+| Hunt [A sprite icon representing Tewtil in Hypixel SkyBlock] Tewtil in the &#xe067; Lotus Atoll with a Fishing Net.
+
+| [Seashine Shard] 
+
+| &#160;Seashine Shard
+
+Diamond Frog
+
+| RARE
+
+| Trophy Frogs are +0.5-5% more likely to be Diamond.
+
+| Hunt [A sprite icon representing Seashine in Hypixel SkyBlock] Seashine in the &#xe067; Lotus Atoll with a Fishing Net.
+
+| [Fire Eel Shard] 
+
+| &#160;Fire Eel Shard
+
+Trophy Hunter
+
+| EPIC
+
+| Grants +2-20&#160;&#xe02a;&#160;Trophy Chance.
+
+| 
+
+- Hunt [A sprite icon representing Fire Eel in Hypixel SkyBlock] Fire Eel in the &#xe067; Crimson Isle with a Black Hole or Salt.
+
+- Fuse &#160;Eel Shard with &#160;Moray Eel Shard.
+
+- Fuse &#160;Moray Eel Shard with &#160;Firefox Shard or &#160;Firefly Shard.
+
+- Obtained from Kuudra.
+
+### Galatea Diving
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Rarity
+
+| Description
+
+| Obtainment Method
+
+| [Timil Shard] 
+
+| &#160;Timil Shard
+
+Torrhus Diver
+
+| COMMON
+
+| Grants +0.5-5&#160;&#xe01b;&#160;Pressure Resistance while on the &#xe067; Torrhus Canyon.
+
+| Hunt [A sprite icon representing Timil in Hypixel SkyBlock] Timil in &#xe067; Torrhus Canyon with a Fishing Net.
+
+| [Lumisquid Shard] 
+
+| &#160;Lumisquid Shard
+
+Extreme Pressure
+
+| RARE
+
+| Grants +1-10&#160;&#xe01b;&#160;Pressure Resistance.
+
+| Hunt [A sprite icon representing Lumisquid in Hypixel SkyBlock] Lumisquid in the &#xe067; Squid Cave with a Fishing Net.
+
+| [Joydive Shard] 
+
+| &#160;Joydive Shard
+
+Deep Diving
+
+| RARE
+
+| Grants +1-10&#160;&#xe01d;&#160;Respiration.
+
+| Hunt [A sprite icon representing Joydive in Hypixel SkyBlock] Joydive in the &#xe067; Murkwater Loch with a Fishing Net.
+
+### Hunting
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Rarity
+
+| Description
+
+| Obtainment Method
+
+| [Newt Shard] 
+
+| &#160;Newt Shard
+
+Decent Karma
+
+| COMMON
+
+| Grants +2-20&#160;&#xe05b;&#160;Hunting Fortune towards COMMON Attributes.
+
+| Fuse Axolotl Family with Water Category.
+
+| [Salamander Shard] 
+
+| &#160;Salamander Shard
+
+Good Karma
+
+| UNCOMMON
+
+| Grants +2-20&#160;&#xe05b;&#160;Hunting Fortune towards UNCOMMON Attributes.
+
+| Fuse &#160;Newt Shard with Water Category.
+
+| [Lizard King Shard] 
+
+| &#160;Lizard King Shard
+
+Great Karma
+
+| RARE
+
+| Grants +1-10&#160;&#xe05b;&#160;Hunting Fortune towards RARE Attributes.
+
+| Fuse Lizard Family with Water Category and UNCOMMON or higher.
+
+| [Leviathan Shard] 
+
+| &#160;Leviathan Shard
+
+Excellent Karma
+
+| EPIC
+
+| Grants +1-10&#160;&#xe05b;&#160;Hunting Fortune towards EPIC Attributes.
+
+| Fuse Lizard Family with Water Category and RARE or higher.
+
+| [Fenlord Shard] 
+
+| &#160;Fenlord Shard
+
+Berry Mogul
+
+| EPIC
+
+| Your Salts last +1-10% longer.&#91;5&#93;
+
+| Fuse &#160;Bullfrog Shard with Forest Category and RARE or higher.
+
+| [Naga Shard] 
+
+| &#160;Naga Shard
+
+Charmed
+
+| LEGENDARY
+
+| Grants +0.05-0.5&#160;❣&#160;Charm Chance.
+
+| Fuse &#160;Sea Serpent Shard with Water Category and EPIC or higher.
+
+| [Megalith Shard] 
+
+| &#160;Megalith Shard
+
+Hunter's Karma
+
+| LEGENDARY
+
+| Grants +1-10&#160;&#xe05b;&#160;Hunting Fortune.
+
+| Fuse &#160;Tortoise Shard with Water Category and EPIC or higher.
+
+### Tracking
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Rarity
+
+| Description
+
+| Obtainment Method
+
+| [Lotum Shard] 
+
+| &#160;Lotum Shard
+
+Lily Tracker
+
+| UNCOMMON
+
+| Grants +1-10&#160;&#xe077;&#160;Tracking on Exploding Lily Pads.
+
+| Hunt [A sprite icon representing Lotum in Hypixel SkyBlock] Lotum in the &#xe067; Lotus Atoll.
+
+| [Water Snake Shard] 
+
+| &#160;Water Snake Shard
+
+Titanoboa Tracker
+
+| UNCOMMON
+
+| Grants +1-10&#160;&#xe077;&#160;Tracking towards [A sprite icon representing Titanoboa in Hypixel SkyBlock] Titanoboa.
+
+| Hunt [A sprite icon representing Water Snake in Hypixel SkyBlock] Water Snake in the &#xe067; Spring Depths with a &#160;Turbo Fishing Net or better.
+
+| [Shuddersquid Shard] 
+
+| &#160;Shuddersquid Shard
+
+Yeti Tracker
+
+| UNCOMMON
+
+| Grants +0.5-5&#160;&#xe077;&#160;Tracking towards [A sprite icon representing Yeti in Hypixel SkyBlock] Yeti.
+
+| Hunt [A sprite icon representing Shuddersquid in Hypixel SkyBlock] Shuddersquid in the &#xe067; Critter Safari.
+
+| [Sneaky Tiki Shard] 
+
+| &#160;Sneaky Tiki Shard
+
+Tiki Tracker
+
+| UNCOMMON
+
+| Grants +0.5-5&#160;&#xe077;&#160;Tracking towards [A sprite icon representing Wiki Tiki in Hypixel SkyBlock] Wiki Tiki.
+
+| Hunt [A sprite icon representing Sneaky Tiki in Hypixel SkyBlock] Sneaky Tiki in the &#xe067; Torrhus Canyon with a Black Hole or Salt.
+
+| [Badger Shard] 
+
+| &#160;Badger Shard
+
+Battle Tracker
+
+| RARE
+
+| Grants +0.5-5&#160;&#xe077;&#160;Tracking while on Combat Islands, including the &#xe067; Crimson Isle.
+
+| Purchased from [A sprite icon representing Sanger in Hypixel SkyBlock] Sanger.
+
+| [Nozzlenose Shard] 
+
+| &#160;Nozzlenose Shard
+
+Underwater Tracker
+
+| RARE
+
+| Grants +0.5-5&#160;&#xe077;&#160;Tracking while on Fishing Islands. Does not include the &#xe067; Crimson Isle.
+
+| Hunt [A sprite icon representing Nozzlenose in Hypixel SkyBlock] Nozzlenose in the &#xe067; Critter Safari.
+
+| [Fluffling Shard] 
+
+| &#160;Fluffling Shard
+
+Foraging Tracker
+
+| RARE
+
+| Grants +0.5-5&#160;&#xe077;&#160;Tracking while on Foraging Islands.
+
+| Hunt [A sprite icon representing Fluffling in Hypixel SkyBlock] Fluffling in the &#xe067; Critter Safari.
+
+| [Dodo Shard] 
+
+| &#160;Dodo Shard
+
+Tracking
+
+| LEGENDARY
+
+| Grants +0.5-5&#160;&#xe077;&#160;Tracking.
+
+| Fuse &#160;Condor Shard with LEGENDARY or higher.
+
+### Echo
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Rarity
+
+| Description
+
+| Obtainment Method
+
+| [Goldolot Shard] 
+
+| &#160;Goldolot Shard
+
+Echo of Buckets
+
+| RARE
+
+| Your Bucket attributes are +2-20% stronger.
+
+| Hunt [A sprite icon representing Goldolot in Hypixel SkyBlock] Goldolot in the &#xe067; Torrhus Springs with a Fishing Net or a Lasso.
+
+| [Caiman Shard] 
+
+| &#160;Caiman Shard
+
+Echo of Ruler
+
+| EPIC
+
+| Your Ruler attributes are +2-20% stronger.
+
+| Fuse &#160;Alligator Shard with Combat Category and RARE or higher.
+
+| [Sea Serpent Shard] 
+
+| &#160;Sea Serpent Shard
+
+Echo of Hunter
+
+| EPIC
+
+| Your Hunter attributes are +2-20% stronger.
+
+| Fuse &#160;Moray Eel Shard with Water Category and RARE or higher.
+
+| [Tiamat Shard] 
+
+| &#160;Tiamat Shard
+
+Echo of Echoes
+
+| LEGENDARY
+
+| Your Echo attributes are +2-20% stronger.
+
+| Fuse &#160;Caiman Shard with Combat Category and EPIC or higher.
+
+| [Wyvern Shard] 
+
+| &#160;Wyvern Shard
+
+Echo of Wisdom
+
+| LEGENDARY
+
+| Your Wisdom attributes are +2-20% stronger.
+
+| Fuse &#160;Komodo Dragon Shard with Forest Category and EPIC or higher.
+
+| [Doomspiral Shard] 
+
+| &#160;Doomspiral Shard
+
+Echo of Tracking
+
+| LEGENDARY
+
+| Your Tracker attributes are +2-20% stronger.
+
+| Hunt [A sprite icon representing Doomspiral in Hypixel SkyBlock] Doomspiral in the &#xe067; Critter Safari.
+
+### Optional
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Rarity
+
+| Description
+
+| Obtainment Method
+
+| [Cuboa Shard] 
+
+| &#160;Cuboa Shard
+
+Echo of Box
+
+| UNCOMMON
+
+| Your Box attributes are +2-20% stronger.
+
+| Fuse Shulker Family with Reptile Family.
+
+| [Glacite Walker Shard] 
+
+| &#160;Glacite Walker Shard
+
+Essence of Ice
+
+| RARE
+
+| Gain +1–10% more &#160;Ice Essence.
+
+| Hunt [A sprite icon representing Glacite Walker in Hypixel SkyBlock] Glacite Walker in the &#xe067; Great Ice Wall with a Black Hole or Salt.
+
+| [Hideonsack Shard] 
+
+| &#160;Hideonsack Shard
+
+Sack Size
+
+| EPIC
+
+| Your Sacks can hold +1-10% more items.
+
+NOTE: This attribute is mostly used for increasing the capacity of the &#160;Bait Sack. Due to the &#160;Large Bait Sack holding up to 20,160 Baits of each type, alongside the ability to further increase its capacity with &#160;Pocket Sack-in-a-Sacks, this attribute is optional and serves as convenience. The same applies to &#160;Cuboa Shard (Echo of Boxes).
+
+| Fusing RARE or higher and Shulker Family with EPIC or higher.
+
+| [Komodo Dragon Shard] 
+
+| &#160;Komodo Dragon Shard
+
+Echo of Essence
+
+| EPIC
+
+| Your Essence attributes are +2–20% stronger.
+
+NOTE: This attribute, and Essence of Ice, increase the rate at which you gain &#160;Ice Essence, which can be spent at [A sprite icon representing Frozen Alex in Hypixel SkyBlock] Frozen Alex. You will need quite a lot of &#160;Ice Essence, especially to max out Drake Piper, which increases the chances of catching [A sprite icon representing Reindrake in Hypixel SkyBlock] Reindrakes by +10%.
+
+| Fusing &#160;Iguana Shard Family with Forest Category and RARE or higher.
+
+## Maximising Stats
+[edit | edit source]
+
+### Maximising Magic Find
+[edit | edit source]
+
+&#xe01a;&#160;Magic Find increases the drop chances and quantities of items from mobs: as a result, to maximise your profits, high &#xe01a;&#160;Magic Find is naturally imperative.
+
+While &#xe01a;&#160;Magic Find has historically been tied to quick, last-minute swapping, all sources of unconditional &#xe01a;&#160;Magic Find act as a "set-and-forget" system where you will have its effects active at all times.
+
+Sources of &#xe01a;&#160;Magic Find are either unconditional or conditional.
+
+- Most unconditional, or global, sources appear in the /stats menu;
+
+- All unconditional sources do not appear in this menu.
+
+Multipliers on &#xe01a;&#160;Magic Find (&#xe01a;&#160;MF) only apply to sources that appear in the /stats menu. All other sources remain unaffected and will instead be added as a flat amount.
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| Unconditional
+
+| [Looting] 
+
+| Looting
+
+| 
+
+| Looting is an Enchantment that grants up to +25&#160;&#xe01a;&#160;Magic Find at Looting VII. Looting I–V are obtainable through the &#160;Enchantment Table, whereas Looting VI is purchasable from [A sprite icon representing Einary in Hypixel SkyBlock] Einary, and Looting VII is obtainable as a drop from [A sprite icon representing Sphinx in Hypixel SkyBlock] Sphinxes.
+Note that Looting VII dropping from [A sprite icon representing Sphinx in Hypixel SkyBlock] Sphinxes is temporary, and a new obtainment method will be implemented in the future.
+
+| [Diamond] 
+
+| Pet Score
+
+| 
+
+| Pet Score is a metric that grants &#xe01a;&#160;Magic Find, increasing with your unique pets and their rarity: unique pets award +1-6 Pet Score depending on their rarity, and Pets at [Lvl 100] grant +1 Pet Score.
+Note that SPECIAL and VERY SPECIAL Pets (i.e. the &#160;Phoenix Pet do not count towards Pet Score.
+
+| [Stone Sword] 
+
+| &#160;Combat Skill
+
+| 
+
+| Each &#160;Combat level grants increasing amounts of &#xe01a;&#160;Magic Find:
+
+- &#160;Combat&#160;1-10 grants +0.1&#160;&#xe01a;&#160;Magic Find per level;
+
+- &#160;Combat&#160;11-20 grants +0.2&#160;&#xe01a;&#160;Magic Find per level;
+
+- &#160;Combat&#160;21-30 grants +0.3&#160;&#xe01a;&#160;Magic Find per level;
+
+- &#160;Combat&#160;31-40 grants +0.4&#160;&#xe01a;&#160;Magic Find per level;
+
+- &#160;Combat&#160;41-60 grants +0.5&#160;&#xe01a;&#160;Magic Find per level.
+
+| [Stick] 
+
+| Magic Find Upgrade
+
+| 
+
+| The Magic Find Upgrade grants +1-5&#160;&#xe01a;&#160;Magic Find, requiring a cumulative 31 real-life days to max out.
+
+| [Cinderbat Shard] 
+
+| &#160;Cinderbat Shard
+
+Magic Find
+
+| 
+
+| Grants +0.5-5&#160;&#xe01a;&#160;Magic Find.
+
+Obtained by:
+
+- Hunting [A sprite icon representing Cinderbat in Hypixel SkyBlock] Cinderbats on the &#xe067; Crimson Isle with a Black Hole, Lasso, or Salt.
+
+- Obtained from Kuudra.
+
+| [Anguish Artifact] 
+
+| &#160;Anguish Artifact
+
+| 
+
+| The &#160;Anguish Artifact grants a flat +1.5&#160;&#xe01a;&#160;Magic Find. While you must kill lots of [A sprite icon representing Ghost in Hypixel SkyBlock] Ghosts for the &#160;64&#160;Sorrow required, you can easily get the &#160;64&#160;Plasma from killing [A sprite icon representing Mithril Grubber in Hypixel SkyBlock] Mithril Grubbers in the &#xe067; Abandoned Quarry.
+
+| [Beastslayer's Codex] 
+
+| &#160;Beastslayer's Codex
+
+| 
+
+| The &#160;Beastslayer's Codex grants a flat +1&#160;&#xe01a;&#160;Magic Find and +2&#160;&#xe077;&#160;Tracking at MYTHIC. Requiring 300 Bestiary milestones to reach MYTHIC, this Accessory looks daunting to max out, but it does not require much effort and you will rack up lots of Bestiary milestones over time.
+The LEGENDARY Beastslayer's Codex grants +1&#160;&#xe077;&#160;Tracking and no &#xe01a;&#160;Magic Find.
+
+| [Pulse Heirloom] 
+
+| &#160;Pulse Heirloom
+
+| 
+
+| The &#160;Pulse Heirloom, at LEGENDARY and 5,000,000 charges, grants +1&#160;&#xe01a;&#160;Magic Find. This requires &#160;100&#160;Thunder in a Bottle, &#160;10&#160;Storm in a Bottle, or &#160;1&#160;Hurricane in a Bottle to max out.
+
+| [Booster Cookie] 
+
+| &#160;Booster Cookie
+
+| 
+
+| The &#160;Booster Cookie is the quintessential passive buff, granting +10&#160;&#xe01a;&#160;Magic Find alongside countless other buffs. You gain a free Booster Cookie per Minecraft account, and an additional free Booster Cookie per SkyBlock profile for completing the Security Quest.
+
+| [God Potion] 
+
+| &#160;God Potion
+
+| 
+
+| The &#160;God Potion grants Magic Find&#160;IV, which grants a decent +10&#160;&#xe01a;&#160;Magic Find, alongside countless other mandatory buffs.
+
+| [Celestial Mason Jar] 
+
+| &#160;Celestial Mason Jar
+
+| 
+
+| The &#160;Celestial Mason Jar is obtained by crafting &#160;Feast Flasks, which are obtained from donating Seasoning to the &#xe067; Communal Stew during the Harvest Feast. It grants +1&#160;&#xe01a;&#160;Magic Find, alongside a substantial +5&#160;&#xe077;&#160;Tracking and +3&#160;☯&#160;Global Wisdom.
+Up to &#160;8&#160;Feast Flask can be obtained during a Harvest Feast, and up to 10 with the Leftovers Carnival perk maxed out: this increases to 16 and 18 respectively during a Grand Feast.
+
+| [Century Cake of the Next Dungeon Floor] 
+
+| &#160;Century Cake of the Next Dungeon Floor
+
+| 
+
+| Interacting with this Century Cake grants +1&#160;&#xe01a;&#160;Magic Find for 48h.
+
+| [Beacon I] 
+
+| &#160;Beacon I
+
+| Heart of the Mountain&#160;I (1)
+
+| The &#160;Beacon can be set to grant +0.5-3&#160;&#xe01a;&#160;Magic Find. However, since you can only set the Beacon to grant one stat at a time, this means sacrificing +0.5-2.5&#160;&#xe077;&#160;Tracking.
+
+| [Beacon II] 
+
+| &#160;Beacon II
+
+| Heart of the Mountain&#160;II (2)
+
+| [Beacon III] 
+
+| &#160;Beacon III
+
+| Heart of the Mountain&#160;III (3)
+
+| [Beacon IV] 
+
+| &#160;Beacon IV
+
+| Heart of the Mountain&#160;IV (4)
+
+| [Beacon V] 
+
+| &#160;Beacon V
+
+| Heart of the Mountain&#160;V (5)
+
+| [Extremely Real Shuriken] 
+
+| &#160;Extremely Real Shuriken
+
+| 
+
+| An Extremely Real Shuriken can be thrown at mobs to tag them, granting +5%&#160;&#xe01a;&#160;Magic Find when a tagged mob is killed. It has a cooldown of 1s.
+
+| [Divine Gift] 
+
+| &#160;Divine Gift
+
+| 
+
+| Up to &#160;5&#160;Divine Gift can be consumed to grant up to +5&#160;&#xe01a;&#160;Magic Find.
+
+| [Diana's Bookshelf] 
+
+| &#160;Diana's Bookshelf
+
+| 
+
+| A Diana's Bookshelf can be consumed to grant +1&#160;&#xe01a;&#160;Magic Find and +1&#160;&#xe077;&#160;Tracking upon obtaining &#160;6&#160;Enchanted Book&#160;(Chimera I).
+
+| [Necron's Ladder] 
+
+| &#160;Necron's Ladder
+
+| 
+
+| A Necron's Ladder can be consumed to grant +1&#160;&#xe01a;&#160;Magic Find upon obtaining &#160;6&#160;Necron's Handle.
+
+| [Aatrox Head] 
+
+| [A sprite icon representing Aatrox in Hypixel SkyBlock] Mayor Aatrox
+
+Pathfinder
+
+| 
+
+| [A sprite icon representing Aatrox in Hypixel SkyBlock] Mayor Aatrox's Pathfinder perk grants +20&#160;&#xe01a;&#160;Magic Find globally, doubled on Slayer bosses.
+
+| [Jerry Head] 
+
+| [A sprite icon representing Candidate Jerry in Hypixel SkyBlock] Mayor Jerry
+
+Statspocalypse
+
+| 
+
+| [A sprite icon representing Candidate Jerry in Hypixel SkyBlock] Mayor Jerry's Statspocalypse perk increases all Combat and Miscellaneous Stats by +10%, which includes &#xe01a;&#160;Magic Find.
+
+| Conditional
+
+| [Bestiary Icon] 
+
+| Bestiary
+
+| 
+
+| The Bestiary tracks every mob in SkyBlock that you have encountered: Bestiary credit is awarded whenever you contribute to killing a mob. Levelling up a Bestiary awards +3-75&#160;&#xe01a;&#160;Magic Find towards that specific mob.
+
+| [Magma Lord Helmet] [Magma Lord Chestplate] [Magma Lord Leggings] [Magma Lord Boots] [Magma Lord Necklace] 
+
+| &#160;Magma Lord Armor
+
+| &#160;Fishing&#160;XLV (45)
+
+| &#160;Magma Lord Armor's Lord's Blessing tiered bonus, including the &#160;Magma Lord Necklace, grants +2.5-10&#160;&#xe01a;&#160;Magic Find towards Lava Sea Creatures.
+Note that this only applies to Sea Creatures on the &#xe067; Crimson Isle, not &#xe07d;&#160;Magmatic mobs.
+
+| [Lava Flame Shard] 
+
+| &#160;Lava Flame Shard
+
+Magmatic Fortune
+
+| 
+
+| Grants +0.5-5&#160;&#xe01a;&#160;Magic Find towards &#xe07d;&#160;Magmatic mobs.
+
+Obtained by:
+
+- Charming [A sprite icon representing Lava Flame in Hypixel SkyBlock] Lava Flames on the &#xe067; Crimson Isle with a Salt.
+
+- Obtained from Kuudra.
+
+| [Billygoat Shard] 
+
+| &#160;Billygoat Shard
+
+Frozen Fortune
+
+| 
+
+| Grants +0.5-5&#160;&#xe01a;&#160;Magic Find towards &#xe079;&#160;Frozen mobs.
+
+Obtained by:
+
+- Capturing [A sprite icon representing Billygoat in Hypixel SkyBlock] Billygoats on the &#xe067; Critter Safari with a &#160;Critter Capsule.
+
+| [Giant Water Bug Shard] 
+
+| &#160;Giant Water Bug Shard
+
+Aquatic Fortune
+
+| &#160;Hunting&#160;X (10)
+
+| Grants +0.5-5&#160;&#xe01a;&#160;Magic Find towards &#xe072;&#160;Aquatic mobs.
+
+Obtained by:
+
+- Fishing in the Fishing Hotspot labelled Chance of Giant Water Bug Shard in the &#xe067; Hotspot Haven.
+
+| [Silkbreeze Shard] 
+
+| &#160;Silkbreeze Shard
+
+Forager's Fortune
+
+| &#160;Hunting&#160;XV (15)
+
+| Grants +0.5-5&#160;&#xe01a;&#160;Magic Find on Foraging Islands.
+
+Obtained by:
+
+- Charming [A sprite icon representing Lava Flame in Hypixel SkyBlock] Lava Flames on the &#xe067; Crimson Isle with a Salt.
+
+- Due to being &#xe077;&#160;Elusive, a &#160;Silkbreeze Shard is guaranteed to drop.
+
+| [Giant Isopod Shard] 
+
+| &#160;Giant Isopod Shard
+
+Fisher's Fortune
+
+| &#160;Hunting&#160;XV (15)
+
+| Grants +0.5-5&#160;&#xe01a;&#160;Magic Find on Fishing Islands.
+
+Obtained by:
+
+- Charming [A sprite icon representing Giant Isopod in Hypixel SkyBlock] Giant Isopods on the &#xe067; Crimson Isle.
+
+- Due to being &#xe077;&#160;Elusive, a &#160;Giant Isopod Shard is guaranteed to drop.
+
+| [Baby Yeti Pet] [Baby Yeti Pet] 
+
+| &#160;Baby Yeti Pet
+
+| 
+
+| The LEGENDARY and MYTHIC &#160;Baby Yeti Pet's Frosty Familiarity perk grants +0.1-10&#160;&#xe01a;&#160;Magic Find against Winter Sea Creatures.
+Note that this only applies to Sea Creatures on &#xe067; Jerry's Workshop, not &#xe079;&#160;Frozen mobs. Additionally, the MYTHIC &#160;Baby Yeti Pet's Family Gathering perk grants +0.1-10&#160;&#xe077;&#160;Tracking while on &#xe067; Jerry's Workshop.
+
+| [Megalodon Pet] [Megalodon Pet] 
+
+| &#160;Megalodon Pet
+
+| 
+
+| The EPIC and LEGENDARY &#160;Megalodon Pet's Blood Scent perk grants +0.1-10&#160;&#xe01a;&#160;Magic Find against Sharks. Additionally, the LEGENDARY &#160;Megalodon Pet's Feeding Frenzy perk grants a +10.1-20% chance to catch Sharks.
+
+| [Ghast Tear] 
+
+| [A sprite icon representing Doug in Hypixel SkyBlock] Doug
+
+Denture Collector
+
+| 
+
+| The Denture Collector perk grants +1-3&#160;&#xe01a;&#160;Magic Find towards Sharks.
+
+| [Shark Tooth Heirloom] 
+
+| &#160;Shark Tooth Heirloom
+
+| 
+
+| The &#160;Shark Tooth Heirloom grants +5&#160;&#xe01a;&#160;Magic Find towards Sharks.
+
+| [Odger's Diamond Tooth] 
+
+| &#160;Odger's Diamond Tooth
+
+| Master Trophy Fisher
+
+| Grants +4&#160;&#xe01a;&#160;Magic Find on &#xe07d;&#160;Magmatic mobs.
+
+### Maximising Tracking
+[edit | edit source]
+
+Unlike &#xe01a;&#160;Magic Find, most sources of &#xe077;&#160;Tracking are set-and-forget: once you have a source of &#xe077;&#160;Tracking, you will never need to adjust it outside of consuming a Mixin, powering a &#160;Beacon, or consuming a Century Cake. Most &#xe077;&#160;Tracking comes from Accessories and Attributes.
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| 
+
+| Enderman Slayer&#160;IX (9)
+
+| Upon unlocking Enderman Slayer&#160;IX (9), you gain a permanent +5&#160;&#xe077;&#160;Tracking.
+
+| [Diana's Bookshelf] 
+
+| &#160;Diana's Bookshelf
+
+| 
+
+| &#160;Diana's Bookshelf counts the number of &#160;Enchanted Book&#160;(Chimera I) the player drops. Upon dropping &#160;6&#160;Enchanted Book, the player permanently gains +1&#160;&#xe077;&#160;Tracking, +1&#160;&#xe01a;&#160;Magic Find, and +1&#160;☯&#160;Taming Wisdom.
+
+| [Future Calories Talisman] 
+
+| &#160;Future Calories Talisman
+
+| 
+
+| The &#160;Future Calories Talisman grants +0.5&#160;&#xe077;&#160;Tracking&#91;6&#93;: due to requiring a &#160;Pre-Digestion Fish, you will need to purchase a &#160;Tasty Cat Food, worth millions of Motes or hundreds of millions of Coins, and feed it to a [A sprite icon representing Siamese Lynx in Hypixel SkyBlock] Siamese Lynx, meaning this accessory is valued at upwards of ???&#160;Coins.
+
+| [Beacon I] 
+
+| &#160;Beacon I
+
+| Heart of the Mountain&#160;I (1)
+
+| The &#160;Beacon can be set to grant +0.5-2.5&#160;&#xe077;&#160;Tracking. However, since you can only set the Beacon to grant one stat at a time, this means sacrificing +1-5&#160;&#xe01a;&#160;Magic Find.
+
+| [Beacon II] 
+
+| &#160;Beacon II
+
+| Heart of the Mountain&#160;II (2)
+
+| [Beacon III] 
+
+| &#160;Beacon III
+
+| Heart of the Mountain&#160;III (3)
+
+| [Beacon IV] 
+
+| &#160;Beacon IV
+
+| Heart of the Mountain&#160;IV (4)
+
+| [Beacon V] 
+
+| &#160;Beacon V
+
+| Heart of the Mountain&#160;V (5)
+
+| [Brain Food] 
+
+| &#160;Brain Food
+
+| 
+
+| &#160;Brain Food can be consumed up to 5 times, granting +1-5&#160;&#xe077;&#160;Tracking. It has a 0.25% chance to drop from an [A sprite icon representing Sphinx in Hypixel SkyBlock] Exalted Sphinx and a 0.5% chance to drop from an [A sprite icon representing Sphinx in Hypixel SkyBlock] Empyrean Sphinx.
+
+| [Beastslayer's Codex] [Beastslayer's Codex] 
+
+| &#160;Beastslayer's Codex
+
+| 
+
+| The &#160;Beastslayer's Codex grants a flat +2&#160;&#xe077;&#160;Tracking and +1&#160;&#xe01a;&#160;Magic Find at MYTHIC. Requiring 300 Bestiary milestones to reach MYTHIC, this Accessory looks daunting to max out, but it does not require much effort and you will rack up lots of Bestiary milestones over time.
+The LEGENDARY Beastslayer's Codex grants +1&#160;&#xe077;&#160;Tracking.
+
+| [Celestial Mason Jar] 
+
+| &#160;Celestial Mason Jar
+
+| 
+
+| The &#160;Celestial Mason Jar is obtained from crafting &#160;Feast Flasks, obtained from donating Seasoning to the &#xe067; Communal Stew. It grants +5&#160;&#xe077;&#160;Tracking, alongside +3&#160;&#xe01a;&#160;Magic Find and +3&#160;☯&#160;Global Wisdom. If you have a Cookie Buff active, you can consume it directly for the duration of brewing it with [God Potion] &#160;3x&#160;God Potions.
+
+| [Diana Head] 
+
+| Huntress' Intuition
+
+| 
+
+| [A sprite icon representing Diana in Hypixel SkyBlock] Diana has a chance to pick Huntress' Intuition as one of her perks, which grants +10&#160;&#xe077;&#160;Tracking to all players across all islands. This also activates if [A sprite icon representing Candidate Jerry in Hypixel SkyBlock] Mayor Jerry has [A sprite icon representing Diana in Hypixel SkyBlock] Diana selected during Perkpocalypse.
+
+| [Jerry Head] 
+
+| Statspocalypse
+
+| 
+
+| [A sprite icon representing Candidate Jerry in Hypixel SkyBlock] Mayor Jerry's Statspocalypse perk grants all players +10%&#160;&#xe077;&#160;Tracking due to increasing all Combat and Misc Stats by +10%.
+
+| [Blaze Pet] [Blaze Pet] 
+
+| &#160;Blaze Pet
+
+| Blaze Rod&#160;VI (6)
+
+| The EPIC and LEGENDARY &#160;Blaze Pet's Nether Embodiment perk grants +10%&#160;&#xe077;&#160;Tracking while on the &#xe067; Crimson Isle, due to increasing all Combat and Misc Stats by +10%.
+
+| [Hephaestus' Century Cake] 
+
+| &#160;Hephaestus' Century Cake
+
+| 
+
+| A &#160;Hephaestus' Century Cake can be placed on your Private Island. Eating it grants +1&#160;&#xe077;&#160;Tracking for 48h.
+
+| Slot
+
+| Name
+
+| Rarity
+
+| Description
+
+| Obtainment Method
+
+| [Dodo Shard] 
+
+| &#160;Dodo Shard
+
+Tracking
+
+| LEGENDARY
+
+| Grants +0.5-5&#160;&#xe077;&#160;Tracking.
+
+| Fuse &#160;Condor Shard with LEGENDARY or higher.
+
+| [Lotum Shard] 
+
+| &#160;Lotum Shard
+
+Lily Tracker
+
+| UNCOMMON
+
+| Grants +1-10&#160;&#xe077;&#160;Tracking on Exploding Lily Pads.
+
+| Hunt [A sprite icon representing Lotum in Hypixel SkyBlock] Lotum in the &#xe067; Lotus Atoll.
+
+| [Water Snake Shard] 
+
+| &#160;Water Snake Shard
+
+Titanoboa Tracker
+
+| UNCOMMON
+
+| Grants +1-10&#160;&#xe077;&#160;Tracking towards [A sprite icon representing Titanoboa in Hypixel SkyBlock] Titanoboa.
+
+| Hunt [A sprite icon representing Water Snake in Hypixel SkyBlock] Water Snake in the &#xe067; Spring Depths with a &#160;Turbo Fishing Net or better.
+
+| [Shuddersquid Shard] 
+
+| &#160;Shuddersquid Shard
+
+Yeti Tracker
+
+| UNCOMMON
+
+| Grants +0.5-5&#160;&#xe077;&#160;Tracking towards [A sprite icon representing Yeti in Hypixel SkyBlock] Yeti.
+
+| Hunt [A sprite icon representing Shuddersquid in Hypixel SkyBlock] Shuddersquid in the &#xe067; Critter Safari.
+
+| [Sneaky Tiki Shard] 
+
+| &#160;Sneaky Tiki Shard
+
+Tiki Tracker
+
+| UNCOMMON
+
+| Grants +0.5-5&#160;&#xe077;&#160;Tracking towards [A sprite icon representing Wiki Tiki in Hypixel SkyBlock] Wiki Tiki.
+
+| Hunt [A sprite icon representing Sneaky Tiki in Hypixel SkyBlock] Sneaky Tiki in the &#xe067; Torrhus Canyon with a Black Hole or Salt.
+
+| [Badger Shard] 
+
+| &#160;Badger Shard
+
+Battle Tracker
+
+| RARE
+
+| Grants +0.5-5&#160;&#xe077;&#160;Tracking while on Combat Islands, including the &#xe067; Crimson Isle.
+
+| Purchased from [A sprite icon representing Sanger in Hypixel SkyBlock] Sanger in the &#xe067; Torrhus Canyon.
+
+| [Nozzlenose Shard] 
+
+| &#160;Nozzlenose Shard
+
+Underwater Tracker
+
+| RARE
+
+| Grants +0.5-5&#160;&#xe077;&#160;Tracking while on Fishing Islands. Does not include the &#xe067; Crimson Isle.
+
+| Hunt [A sprite icon representing Nozzlenose in Hypixel SkyBlock] Nozzlenose in the &#xe067; Critter Safari.
+
+| [Fluffling Shard] 
+
+| &#160;Fluffling Shard
+
+Foraging Tracker
+
+| RARE
+
+| Grants +0.5-5&#160;&#xe077;&#160;Tracking while on Foraging Islands.
+
+| Hunt [A sprite icon representing Fluffling in Hypixel SkyBlock] Fluffling in the &#xe067; Critter Safari.
+
+| [Tiamat Shard] 
+
+| &#160;Tiamat Shard
+
+Echo of Echoes
+
+| LEGENDARY
+
+| Your Echo attributes are +2-20% stronger.
+
+| Fuse &#160;Caiman Shard with Combat Category and EPIC or higher.
+
+| [Doomspiral Shard] 
+
+| &#160;Doomspiral Shard
+
+Echo of Tracking
+
+| LEGENDARY
+
+| Your Tracker attributes are +2-20% stronger.
+
+| Hunt [A sprite icon representing Doomspiral in Hypixel SkyBlock] Doomspiral in the &#xe067; Critter Safari.
+
+### Maximising Double Hook Chance
+[edit | edit source]
+
+Maximising &#xe009;&#160;Double Hook Chance is very important, as it vastly improves your profits. However, putting everything into &#xe009;&#160;Double Hook Chance comes at the detriment of other important stats, like &#xe00c;&#160;Fishing Speed and &#xe021;&#160;Sea Creature Chance.
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| [Giant Fishing Rod] 
+
+| &#160;Giant Fishing Rod
+
+| 
+
+| The &#160;Giant Fishing Rod grants the most &#xe009;&#160;Double Hook Chance in the game out of any one item, at +10%&#160;&#xe009;. However, it lacks any &#xe00c;&#160;Fishing Speed or &#xe021;&#160;Sea Creature Chance.
+
+| [Tiki Mask] 
+
+| &#160;Tiki Mask
+
+| &#160;Fishing&#160;XL (40)
+
+| The &#160;Tiki Mask grants +2%&#160;&#xe009;&#160;Double Hook Chance while fishing in a Hotspot, being the best option if you primarily fish in Hotspots.
+
+| [Ammonite Pet] 
+
+| &#160;Ammonite Pet
+
+| Heart of the Mountain&#160;IV (4)
+
+| The &#160;Ammonite Pet's Expert Cave Fisher perk grants +0.01-0.5&#160;&#xe009;&#160;Double Hook Chance for every &#160;Heart of the Mountain level while in the &#xe067; Crystal Hollows, up to +5%&#160;&#xe009;&#160;Double Hook Chance at Heart of the Mountain&#160;X (10).
+
+| [Baby Yeti Pet] [Baby Yeti Pet] [Baby Yeti Pet] 
+
+| &#160;Baby Yeti Pet
+
+| 
+
+| The EPIC, LEGENDARY, and MYTHIC &#160;Baby Yeti Pet's Cold Breeze perk increases your &#xe009;&#160;Double Hook Chance by +0.2-20% due to increasing all Combat and Fishing Stats by +0.2-20% while on &#xe067; Jerry's Workshop.
+
+| [Burnt Texts] 
+
+| &#160;Burnt Texts
+
+| 
+
+| The &#160;Burnt Texts grants +5%&#160;&#xe009;&#160;Double Hook Chance, at the cost of -50&#160;&#xe00c;&#160;Fishing Speed, a fair trade-off for such a significant amount of &#xe009;&#160;Double Hook Chance.
+
+| [Hotspot Sinker] 
+
+| &#160;Hotspot Sinker
+
+| &#160;Fishing&#160;XX (20)
+
+| The &#160;Hotspot Sinker increases the bonuses of Hotspots by 100%, effectively doubling their bonuses. When fishing in a &#xe009;&#160;Double Hook Chance Hotspot, this is doubled from +2%&#160;&#xe009; to +4%&#160;&#xe009;.
+
+| [Titan Line] 
+
+| &#160;Titan Line
+
+| &#160;Fishing&#160;XXX (30)
+
+| The &#160;Titan Line grants +2%&#160;&#xe009;&#160;Double Hook Chance. Being crafted with a &#160;Titanoboa Shed and a &#160;Bayou Water Orb, this Line is extremely expensive, but also entirely worth it.
+
+| [Marina Head] 
+
+| Double Trouble
+
+| 
+
+| [A sprite icon representing Marina in Hypixel SkyBlock] Mayor Marina's Double Trouble perk grants +0.1%&#160;&#xe009;&#160;Double Hook Chance for every 1%&#160;&#xe021;&#160;Sea Creature Chance the player has, up to +16.7%&#160;&#xe009; with a hypothetical maximum &#xe021;&#160;Sea Creature Chance of +166.68%&#160;&#xe021;.
+
+| Slot
+
+| Name
+
+| Rarity
+
+| Description
+
+| Obtainment Method
+
+| [Nessie Shard] 
+
+| &#160;Nessie Shard
+
+Loch Hook
+
+| LEGENDARY
+
+| Grants +0.5-5&#160;&#xe009;&#160;Double Hook Chance while on Foraging Islands.
+
+| Guaranteed due to [A sprite icon representing Nessie in Hypixel SkyBlock] Nessie being Elusive.
+
+| [Lord Jawbus Shard] 
+
+| &#160;Lord Jawbus Shard
+
+Crimson Hook
+
+| LEGENDARY
+
+| Grants +0.5-5&#160;&#xe009;&#160;Double Hook Chance while on Combat Islands.
+
+| 
+
+- Guaranteed due to [A sprite icon representing Lord Jawbus in Hypixel SkyBlock] Lord Jawbus being Elusive.
+
+- Obtained from Kuudra.
+
+| [Titanoboa Shard] 
+
+| &#160;Titanoboa Shard
+
+Bayou Hook
+
+| LEGENDARY
+
+| Grants +0.5-5&#160;&#xe009;&#160;Double Hook Chance while on Fishing Islands.
+
+| Guaranteed due to [A sprite icon representing Titanoboa in Hypixel SkyBlock] Titanoboa being Elusive.
+
+## Trophy Frogs Guide
+[edit | edit source]
+
+Main pages: Lotus Atoll and Trophy Frogs
+
+### Tiers of Trophy Frogs
+[edit | edit source]
+
+Trophy Frogs are special items that can be caught on the &#xe067; Lotus Atoll while fishing. A total of 12 unique Trophy Frogs exist, each coming in 4 tiers: Bronze, Silver, Gold, and Diamond. In total, there are 48 Trophy Frogs.
+
+While it is best to complete the &#xe067; Lotus Atoll after completion of Trophy Fish, due to collecting Trophy Frogs granting little in regards to progression, this guide assumes you are completing Trophy Frogs without having accessed the &#xe067; Crimson Isle.
+
+### Types of Trophy Frogs
+[edit | edit source]
+
+Each type of Trophy Frog has certain requirements.
+
+| Slot
+
+| Name
+
+| Rarity
+
+| Requirement
+
+| Catch Chance
+
+| Pity
+
+| GOLD
+
+| DIAMOND
+
+| [Trophy Frogs] 
+
+| Common Frog
+
+| COMMON
+
+| Caught everywhere.
+
+| 25%&#32;(1&#160;in&#160;4)
+
+| 100
+
+| 600
+
+| [Trophy Frogs] 
+
+| Exploding Frog
+
+| UNCOMMON
+
+| Obtained by combining Lily Pads together until they get so big they EXPLODE!
+
+| 100%&#32;(1&#160;in&#160;1)
+
+| 50
+
+| 300
+
+| [Trophy Frogs] 
+
+| Leap Frog
+
+| UNCOMMON
+
+| Caught while midair.
+
+| 20%&#32;(1&#160;in&#160;5)
+
+| 100
+
+| 600
+
+| [Trophy Frogs] 
+
+| Wetlands Frog
+
+| UNCOMMON
+
+| Caught during rain.
+
+| 15%&#32;(1&#160;in&#160;6.67)
+
+| 100
+
+| 600
+
+| [Trophy Frogs] 
+
+| Reality Hopper
+
+| UNCOMMON
+
+| Caught in Wormholes on the &#xe067; Lotus Atoll.
+
+| 10%&#32;(1&#160;in&#160;10)
+
+| 100
+
+| 600
+
+| [Trophy Frogs] 
+
+| Blessed Frog
+
+| RARE
+
+| Caught while having an active Blessing from throwing a &#160;Frogcoin into the waters of the &#xe067; Lotus Eater's Cave.
+
+| 10%&#32;(1&#160;in&#160;10)
+
+| 100
+
+| 600
+
+| [Trophy Frogs] 
+
+| Bullfrog
+
+| RARE
+
+| Caught while wearing a &#160;Red Sweater.
+
+| 5%&#32;(1&#160;in&#160;20)
+
+| 100
+
+| 600
+
+| [Trophy Frogs] 
+
+| Sea Frog
+
+| RARE
+
+| Caught while underwater.
+
+| 5%&#32;(1&#160;in&#160;20)
+
+| 100
+
+| 600
+
+| [Trophy Frogs] 
+
+| Cave Frog
+
+| EPIC
+
+| Found in the &#xe067; Lotus Eater's Cave.
+
+| 2%&#32;(1&#160;in&#160;50)
+
+| 100
+
+| 600
+
+| [Trophy Frogs] 
+
+| Highlands Frog
+
+| EPIC
+
+| Found in the &#xe067; Lotus Highlands.
+
+| 2%&#32;(1&#160;in&#160;50)
+
+| 100
+
+| 600
+
+| [Trophy Frogs] 
+
+| Tree Frog
+
+| EPIC
+
+| Caught while standing on leaves.
+
+| 2%&#32;(1&#160;in&#160;50)
+
+| 100
+
+| 600
+
+| [Trophy Frogs] 
+
+| Puddle Jumper
+
+| LEGENDARY
+
+| Caught when flying around the &#xe067; Lotus Atoll.
+
+While the description is intentionally vague and humorous, the Puddle Jumper drops from the [A sprite icon representing Puddle Jumper in Hypixel SkyBlock] Puddle Jumper Sea Creature.
+
+| 100%&#32;(1&#160;in&#160;1)
+
+| 50
+
+| 300
+
+List of Conditions
+
+| 
+
+| Rain + Wormholes + &#160;Red Sweater
+
+| &#xe067; Lotus Eater's Cave
+
+| &#xe067; Lotus Highlands
+
+| Frog
+
+| Underwater
+
+| On a leaf
+
+| Midair
+
+| Underwater
+
+| On a leaf
+
+| Midair
+
+| [Trophy Frogs] 
+
+| Common Frog
+
+| ✔ Yes
+
+| ✔ Yes
+
+| ✔ Yes
+
+| ✔ Yes
+
+| ✔ Yes
+
+| ✔ Yes
+
+| [Trophy Frogs] 
+
+| Wetlands Frog
+
+| ✔ Yes
+
+| ✔ Yes
+
+| ✔ Yes
+
+| ✔ Yes
+
+| ✔ Yes
+
+| ✔ Yes
+
+| [Trophy Frogs] 
+
+| Bullfrog
+
+| ✔ Yes
+
+| ✔ Yes
+
+| ✔ Yes
+
+| ✔ Yes
+
+| ✔ Yes
+
+| ✔ Yes
+
+| [Trophy Frogs] 
+
+| Reality Hopper
+
+| ✔ Yes
+
+| ✔ Yes
+
+| ✔ Yes
+
+| ✕ No
+
+| ✕ No
+
+| ✕ No
+
+| [Trophy Frogs] 
+
+| Blessed Frog
+
+| ✔ Yes
+
+| ✔ Yes
+
+| ✔ Yes
+
+| ✕ No
+
+| ✕ No
+
+| ✕ No
+
+| [Trophy Frogs] 
+
+| Cave Frog
+
+| ✔ Yes
+
+| ✔ Yes
+
+| ✔ Yes
+
+| ✕ No
+
+| ✕ No
+
+| ✕ No
+
+| [Trophy Frogs] 
+
+| Highlands Frog
+
+| ✕ No
+
+| ✕ No
+
+| ✕ No
+
+| ✔ Yes
+
+| ✔ Yes
+
+| ✔ Yes
+
+| [Trophy Frogs] 
+
+| Sea Frog
+
+| ✔ Yes
+
+| ✕ No
+
+| ✕ No
+
+| ✔ Yes
+
+| ✕ No
+
+| ✕ No
+
+| [Trophy Frogs] 
+
+| Tree Frog
+
+| ✕ No
+
+| ✔ Yes
+
+| ✕ No
+
+| ✕ No
+
+| ✔ Yes
+
+| ✕ No
+
+| [Trophy Frogs] 
+
+| Leap Frog
+
+| ✕ No
+
+| ✕ No
+
+| ✔ Yes
+
+| ✕ No
+
+| ✕ No
+
+| ✔ Yes
+
+| [Trophy Frogs] 
+
+| Exploding Frog
+
+| Caught separately
+
+| [Trophy Frogs] 
+
+| Puddle Jumper
+
+### Gear Progression
+[edit | edit source]
+
+There is very little Trophy fishing-oriented gear unlocked around when you start out in the &#xe067; Lotus Atoll: as a result, you should use the best set of fishing armor you have. It is recommended to max out Trophy Fish before completing the &#xe067; Lotus Atoll, as it rewards little value for making Trophy fishing easier.
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| Equipment
+
+| [Prismarine Necklace] 
+
+| &#160;Prismarine Necklace
+
+| Prismarine Shard&#160;VII (7)
+
+| The Fisherman Set, consisting of the &#160;Prismarine Necklace, &#160;Tropical Cloak, &#160;Sponge Belt, and &#160;Clay Bracelet, grants a total of +8&#160;&#xe00c;&#160;Fishing Speed (+2&#160;&#xe00c; per piece) and +4%&#160;&#xe02a;&#160;Trophy Chance (+1%&#160;&#xe02a; per piece). It is recommended to use the Fisherman Set if you can reach 350&#160;&#xe00c;&#160;Fishing Speed while on the &#xe067; Crimson Isle: otherwise, use the &#160;Prismarine Necklace and as many pieces of the &#160;Gillsplash Set, or its predecessors, as necessary to reach the cap.
+It is best to reforge the Fisherman Set to Snowy, as it grants the most &#xe00c;&#160;Fishing Speed. 
+
+| [Tropical Cloak] 
+
+| &#160;Tropical Cloak
+
+| Tropical Fish&#160;VII (7)
+
+| [Sponge Belt] 
+
+| &#160;Sponge Belt
+
+| Sponge&#160;VII (7)
+
+| [Clay Bracelet] 
+
+| &#160;Clay Bracelet
+
+| Clay Ball&#160;VII (7)
+
+| Pets
+
+| [Frog Pet] 
+
+| &#160;Frog Pet
+
+| 
+
+| The &#160;MYTHIC&#160;Frog Pet's Home Sweet Home ability increases the chances of catching Gold and Diamond Trophy Frogs by 0.2-10%. Additionally, it gains a base +5%&#160;&#xe02a;&#160;Trophy Chance.
+
+| [Spinosaurus Pet] 
+
+| &#160;Spinosaurus Pet
+
+| Heart of the Mountain&#160;VII (7)
+
+| The &#160;Spinosaurus Pet grants a substantial +50&#160;&#xe00c;&#160;Fishing Speed and +5%&#160;&#xe02a;&#160;Trophy Chance. Additionally, its Pursuit perk increases the chances of catching Gold and Diamond Trophies by +10%. You can manually swap to a Spinosaurus Pet once the bobber hits the water.
+It is recommended to have a &#160;Barrel of Riches or &#160;Lotus Crown if you are targeting Gold or Diamond Trophy Fish respectively.
+
+| [Flying Fish Pet] [Flying Fish Pet] 
+
+| &#160;Flying Fish Pet
+
+| 
+
+| The &#160;Flying Fish Pet's Quick Reel perk grants a high amount of &#xe00c;&#160;Fishing Speed, up to +80&#160;&#xe00c; at LEGENDARY and MYTHIC. Additionally, its Rapid Decay perk increases the chances of activating Flash by +0.5-50%. You can swap to a Flying Fish Pet with a pet rule before you cast your rod.
+It is recommended to have &#160;Edible Seaweed applied to your Flying Fish Pet if you cannot reach 350&#160;&#xe00c;&#160;Fishing Speed, and a &#160;Barrel of Riches or &#160;Lotus Crown if you can and are targeting Gold or Diamond Trophy Fish.
+
+| Pet Items
+
+| [Barrel of Riches] 
+
+| &#160;Barrel of Riches
+
+| 
+
+| The &#160;Barrel of Riches and &#160;Lotus Crown increases the chances of Trophies being Gold and Diamond by +10% respectively, making them best-in-slot for targeting higher tiers.
+
+| [Lotus Crown] 
+
+| &#160;Lotus Crown
+
+| 
+
+| Rod Modifiers
+
+| [Piscary] [Piscary] 
+
+| Piscary
+
+| 
+
+| Piscary grants increased amounts of &#xe00c;&#160;Fishing Speed, up to +6&#160;&#xe00c;&#160;Fishing Speed.
+
+| [Lure] [Lure] 
+
+| Lure
+
+| 
+
+| Lure shortens the maximum time it takes to catch something by 30% at Lure VI.
+
+| [Caster] [Caster] 
+
+| Caster
+
+| 
+
+| Caster grants a chance to not consume Bait, up to 30% at Caster VI.
+
+| [Quick Bite] 
+
+| Quick Bite
+
+| 
+
+| Quick Bite makes fish swim faster towards your bobber, reducing the time between catching an item and being able to reel, up to 25% at Quick Bite V.
+
+| [Wet Book] 
+
+| &#160;Wet Book
+
+| 
+
+| &#160;Wet Books can be applied to a Fishing Rod to grant +1&#160;&#xe00c;&#160;Fishing Speed, up to +5&#160;&#xe00c;&#160;Fishing Speed at [Wet Book] &#160;5x&#160;Wet Books applied. They have a chance to be a GREAT CATCH while the Lost and Found Attribute is active.
+
+| [Trophy Line] 
+
+| &#160;Trophy Line
+
+| &#160;Fishing&#160;XX (20)
+Lotus&#160;IX (9)
+
+| The &#160;Trophy Line grants +5%&#160;&#xe02a;&#160;Trophy Chance, making it best-in-slot. A &#160;Speedy Line should be used if you are less than 10&#160;&#xe00c;&#160;Fishing Speed away from the cap.
+
+| [Stingy Sinker] 
+
+| &#160;Stingy Sinker
+
+| &#160;Fishing&#160;V (5)
+
+| A &#160;Stingy Sinker is preferable due to its bait-saving properties: &#160;Obfuscated-2 and &#160;Obfuscated-3 require its predecessors to be used as bait to catch, meaning the Stingy Sinker will save you a lot of time and effort.
+
+| Bait
+
+| [Fish Bait] 
+
+| &#160;Fish Bait
+
+| Raw Salmon&#160;VI (6)
+
+| &#160;Fish Bait should be used if you are under 335&#160;&#xe00c;&#160;Fishing Speed.
+
+| Miscellaneous
+
+| [Glowing Mush Mixin] 
+
+| &#160;Glowing Mush Mixin
+
+| 
+
+| The &#160;Glowing Mush Mixin grants +30&#160;&#xe00c;&#160;Fishing Speed if you are not already under the effect of a &#160;Mushed Glowy Tonic. Since you will naturally always have a &#160;God Potion active, this Mixin is a must-have.
+
+### Trophy Frog Collecting Attributes
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Rarity
+
+| Description
+
+| Obtainment Method
+
+| [Inkling Shard] 
+
+| &#160;Inkling Shard
+
+Fisherman
+
+| COMMON
+
+| Fisherman grants a +1-10% chance to not consume Bait.
+
+| Hunt [A sprite icon representing Inkling in Hypixel SkyBlock] Inkling with a Black Hole or Salt.
+
+| [Lotusfish Shard] 
+
+| &#160;Lotusfish Shard
+
+Lotus Trophy
+
+| COMMON
+
+| Lotus Trophy grants +1-10%&#160;&#xe02a;&#160;Trophy Chance on the &#xe067; Lotus Atoll.
+
+| Hunt [A sprite icon representing Lotusfish in Hypixel SkyBlock] Lotusfish with a Fishing Net.
+
+| [Lotum Shard] 
+
+| &#160;Lotum Shard
+
+Lily Tracker
+
+| UNCOMMON
+
+| Lily Tracker grants +1-10&#160;&#xe077;&#160;Tracking on Exploding Lily Pads.
+
+| Hunt [A sprite icon representing Lotum in Hypixel SkyBlock] Lotum.
+
+| [Flipflopper Shard] 
+
+| &#160;Flipflopper Shard
+
+Golden Frog
+
+| UNCOMMON
+
+| Golden Frog increases the chance for Trophy Frogs to be Gold by +0.5-5%.
+
+| Hunt [A sprite icon representing Flipflopper in Hypixel SkyBlock] Flipflopper with a Fishing Net.
+
+| [Tewtil Shard] 
+
+| &#160;Tewtil Shard
+
+Lily Puncher
+
+| UNCOMMON
+
+| Lily Puncher applies +5-50% more force to Exploding Lily Pads.
+
+| Hunt [A sprite icon representing Tewtil in Hypixel SkyBlock] Tewtil by feeding it 3 Trophy Frogs.
+
+| [Flipflopper Shard] 
+
+| &#160;Flipflopper Shard
+
+Golden Frog
+
+| UNCOMMON
+
+| Golden Frog increases the chance for Trophy Frogs to be Gold by +0.5-5%.
+
+| Hunt [A sprite icon representing Flipflopper in Hypixel SkyBlock] Flipflopper with a Fishing Net.
+
+| [Seashine Shard] 
+
+| &#160;Seashine Shard
+
+Diamond Frog
+
+| RARE
+
+| Diamond Frog increases the chance for Trophy Frogs to be Diamond by +0.5-5%.
+
+| Hunt [A sprite icon representing Seashine in Hypixel SkyBlock] Seashine with a Fishing Net.
+
+| [Fire Eel Shard] 
+
+| &#160;Fire Eel Shard
+
+Trophy Hunter
+
+| EPIC
+
+| Trophy Hunter grants +2-20%&#160;&#xe02a;&#160;Trophy Chance.
+
+| 
+
+- Hunt [A sprite icon representing Fire Eel in Hypixel SkyBlock] Fire Eel with a Black Hole or Salt.
+
+- Fusing &#160;Eel Shard with &#160;Moray Eel Shard.
+
+- Fusing &#160;Moray Eel Shard with &#160;Firefox Shard or &#160;Firefly Shard.
+
+- Obtained from Kuudra.
+
+| [Water Hydra Shard] 
+
+| &#160;Water Hydra Shard
+
+Fishing Speed
+
+| EPIC
+
+| Fishing Speed grants +3-30&#160;&#xe00c;&#160;Fishing Speed.
+
+| Hunt [A sprite icon representing Water Hydra in Hypixel SkyBlock] Water Hydra with a Black Hole or Salt.
+
+## Trophy Fishing Guide
+[edit | edit source]
+
+Main pages: Odger and Trophy Fish
+
+### Tiers of Trophy Fish
+[edit | edit source]
+
+Trophy Fish are special items that can be caught on the &#xe067; Crimson Isle while lava fishing. A total of 18 unique Trophy Fish exist, each coming in 4 tiers: Bronze, Silver, Gold, and Diamond. In total, there are 72 Trophy Fish.
+
+It is recommended to start Trophy Fishing at &#160;Fishing&#160;XXXVI (36) to unlock &#160;Bronze Hunter Armor, and eventually &#160;Silver Hunter Armor at &#160;Fishing&#160;XLV (45). Alternatively, you can begin Trophy Fishing at &#160;Fishing&#160;X (10), but preferably between &#160;Fishing&#160;XXIV (24) and &#160;Fishing&#160;XXVII (27): this is to prevent Sea Creatures from being fished up.
+
+The game rolls for the rarest Trophy Fish first, proceeding down each tier. As a result, if any Trophy Fish is rarer than the specific Trophy Fish you are targeting, it may adversely affect your rates.
+
+A Pity system exists for Trophy Fish. After 100 or 600 catches of any specific Trophy Fish, you are guaranteed to catch a Gold or Diamond Trophy Fish.
+
+### Types of Trophy Fish
+[edit | edit source]
+
+Each type of Trophy Fish has certain requirements.
+
+| Slot
+
+| Name
+
+| Rarity
+
+| Requirement
+
+| Catch Chance
+
+| Pity
+
+| GOLD
+
+| DIAMOND
+
+| [Trophy Fishing] 
+
+| Blobfish
+
+| COMMON
+
+| Caught everywhere.
+
+| 25%&#32;(1&#160;in&#160;4)
+
+| 100
+
+| 600
+
+| [Trophy Fishing] 
+
+| Gusher
+
+| COMMON
+
+| Caught in the &#xe067; Blazing Volcano 10m-15m after a &#xe067; Blazing Volcano eruption.
+
+| 20%&#32;(1&#160;in&#160;5)
+
+| 100
+
+| 600
+
+| [Trophy Fishing] 
+
+| Obfuscated-1
+
+| COMMON
+
+| 
+
+- Caught with &#160;Corrupted Bait.
+
+- Note that &#160;Corrupted Bait reduces your &#xe00c;&#160;Fishing Speed by -50%.
+
+- Drops from X Corrupted X Sea Creatures.
+
+| 25%&#32;(1&#160;in&#160;4)
+
+| 100
+
+| 600
+
+| [Trophy Fishing] 
+
+| Steaming-Hot Flounder
+
+| COMMON
+
+| Caught in the &#xe067; Blazing Volcano in your bobber is within 2 blocks of a geyser, marked by white particles.
+
+| 20%&#32;(1&#160;in&#160;5)
+
+| 100
+
+| 600
+
+| [Trophy Fishing] 
+
+| Sulphur Skitter
+
+| COMMON
+
+| Caught if the player is within 4 blocks of &#160;Sulphur Ore.
+
+| 30%&#32;(1&#160;in&#160;3.33)
+
+| 100
+
+| 600
+
+| [Trophy Fishing] 
+
+| Flyfish
+
+| UNCOMMON
+
+| Caught in the &#xe067; Blazing Volcano if the bobber is at least 8 blocks below the player.
+
+| 8%&#32;(1&#160;in&#160;12.5)
+
+| 100
+
+| 600
+
+| [Trophy Fishing] 
+
+| Obfuscated-2
+
+| UNCOMMON
+
+| Caught when using &#160;Obfuscated-1 as Bait.
+
+| 20%&#32;(1&#160;in&#160;5)
+
+| 100
+
+| 600
+
+| [Trophy Fishing] 
+
+| Slugfish
+
+| UNCOMMON
+
+| Caught if your bobber has been active for at least 20s.
+
+- The &#160;Slug Pet's Slow and Steady perk halves this duration at [Lvl 100].
+
+- You may wish to lower your &#xe00c;&#160;Fishing Speed so that you will not catch anything until you are eligibile for Slugfish.
+
+| 15%&#32;(1&#160;in&#160;6.67)
+
+| 100
+
+| 600
+
+| [Trophy Fishing] 
+
+| Lavahorse
+
+| RARE
+
+| Caught everywhere.
+
+| 4%&#32;(1&#160;in&#160;25)
+
+| 100
+
+| 600
+
+| [Trophy Fishing] 
+
+| Mana Ray
+
+| RARE
+
+| Caught if you have at least 1200&#160;&#xe003;&#160;Mana.
+
+| Mana1000
+
+| 100
+
+| 600
+
+| [Trophy Fishing] 
+
+| Lavahorse
+
+| RARE
+
+| Caught everywhere.
+
+| 4%&#32;(1&#160;in&#160;25)
+
+| 100
+
+| 600
+
+| [Trophy Fishing] 
+
+| Obfuscated-3
+
+| RARE
+
+| Caught when using &#160;Obfuscated-2 as Bait.
+
+| 10%&#32;(1&#160;in&#160;10)
+
+| 100
+
+| 600
+
+| [Trophy Fishing] 
+
+| Vanille
+
+| RARE
+
+| Caught while using a &#160;Starter Lava Rod without any Enchantments.
+
+- You can still apply Reforges, Gemstones, Rod Parts, and &#160;Wet Books to be eligible for Vanille.
+
+| 8%&#32;(1&#160;in&#160;12.5)
+
+| 100
+
+| 600
+
+| [Trophy Fishing] 
+
+| Volcanic Stonefish
+
+| RARE
+
+| Caught in the &#xe067; Blazing Volcano.
+
+| 4%&#32;(1&#160;in&#160;25)
+
+| 100
+
+| 600
+
+| [Trophy Fishing] 
+
+| Karate Fish
+
+| EPIC
+
+| Caught in the &#xe067; Dojo.
+
+| 2%&#32;(1&#160;in&#160;50)
+
+| 100
+
+| 600
+
+| [Trophy Fishing] 
+
+| Moldfin
+
+| EPIC
+
+| Caught in the &#xe067; Mystic Marsh and &#xe067; Scarleton.
+
+| 2%&#32;(1&#160;in&#160;50)
+
+| 100
+
+| 600
+
+| [Trophy Fishing] 
+
+| Skeleton Fish
+
+| EPIC
+
+| Caught in the &#xe067; Burning Desert and &#xe067; Dragontail.
+
+- The Chilled to the Bone perk, purchased from [A sprite icon representing Researcher Beryl in Hypixel SkyBlock] Researcher Beryl, increases the chances of catching Skeleton Fish by +2-20%, costing &#160;11,000&#160;Fossil Essence to max out.
+
+| 2%&#32;(1&#160;in&#160;50)
+
+| 100
+
+| 600
+
+| [Trophy Fishing] 
+
+| Soul Fish
+
+| EPIC
+
+| Caught in the &#xe067; Stronghold.
+
+| 2%&#32;(1&#160;in&#160;50)
+
+| 100
+
+| 600
+
+| [Trophy Fishing] 
+
+| Golden Fish
+
+| LEGENDARY
+
+| Golden Fish has a chance to surface after 8m of continuous fishing, which can be seen in the tablist. The chance to surface increases linearly, from 0% to 100% after 4m of eligibility.
+
+- To catch a Golden Fish, hook it with your rod until it detaches and the following dialogue appears:
+The Golden Fish escapes your hook but looks weakened.
+Hook it repeatedly until the following dialogue appears:
+The Golden Fish is weak!
+Upon this dialogue appearing, the Golden Fish can be caught.
+
+- The Gold Bait Attribute, obtained from syphoning the &#160;Goldfin Shard, reduces the cooldown of Golden Fish by 30-300s.
+
+- If a Golden Fish spawns, do not ignore it unless you have all tiers of Golden Fish unlocked.
+
+| Varies
+
+| 100
+
+| 600
+
+| Note that you can catch both &#160;Karate Fish and &#160;Moldfin in a lava pool near the &#xe067; Dojo, around &#160;-246,&#8239;108,&#8239;-636.
+
+| 
+
+### Gear Progression
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| Armor
+
+| [Bronze Hunter Helmet] [Bronze Hunter Chestplate] [Bronze Hunter Leggings] [Bronze Hunter Boots] 
+
+| &#160;Bronze Hunter Armor
+
+| Novice Trophy Fisher
+
+| &#160;Bronze Hunter Armor has 2 tiered bonuses: Peace Treaty, which prevents you from catching or taking damage from Sea Creatures, and Odger's Blessing, which grants +3&#160;&#xe02a; / +4&#160;&#xe02a; / +5&#160;&#xe02a;&#160;Trophy Chance. Additionally, its Star Fisher full set bonus grants +0.2&#160;&#xe00c;&#160;Fishing Speed per ✪ Upgrade Star on this set.
+It is best to reforge Bronze Hunter Armor and its upgrades to Festive, as it grants the most &#xe00c;&#160;Fishing Speed. Make sure to add as many ✪ Upgrade Stars as possible on both this set and its upgrades: both due to the stats given and the Star Fisher full set bonus. All upgrades, from &#160;Recombobulator 3000s, &#160;Aquamarine Gemstones, to ✪ Upgrade Stars, are entirely worth it.
+
+| [Silver Hunter Helmet] [Silver Hunter Chestplate] [Silver Hunter Leggings] [Silver Hunter Boots] 
+
+| &#160;Silver Hunter Armor
+
+| Adept Trophy Fisher
+
+| &#160;Silver Hunter Armor's Odger's Blessing tiered bonus is buffed to +5&#160;&#xe02a; / +7.5&#160;&#xe02a; / +10&#160;&#xe02a;&#160;Trophy Chance, and Star Fisher is buffed to +0.4&#160;&#xe00c;&#160;Fishing Speed per ✪ Upgrade Star on this set.
+
+| [Gold Hunter Helmet] [Gold Hunter Chestplate] [Gold Hunter Leggings] [Gold Hunter Boots] 
+
+| &#160;Gold Hunter Armor
+
+| Expert Trophy Fisher
+
+| &#160;Gold Hunter Armor's Odger's Blessing tiered bonus is buffed to +10&#160;&#xe02a; / +15&#160;&#xe02a; / +20&#160;&#xe02a;&#160;Trophy Chance, and Star Fisher is buffed to +0.7&#160;&#xe00c;&#160;Fishing Speed per ✪ Upgrade Star on this set.
+
+| [Diamond Hunter Helmet] [Diamond Hunter Chestplate] [Diamond Hunter Leggings] [Diamond Hunter Boots] 
+
+| &#160;Diamond Hunter Armor
+
+| Master Trophy Fisher
+
+| &#160;Diamond Hunter Armor's Odger's Blessing tiered bonus is buffed to +20&#160;&#xe02a; / +25&#160;&#xe02a; / +30&#160;&#xe02a;&#160;Trophy Chance, and Star Fisher is buffed to +1&#160;&#xe00c;&#160;Fishing Speed per ✪ Upgrade Star on this set.
+
+| Equipment
+
+| [Prismarine Necklace] 
+
+| &#160;Prismarine Necklace
+
+| Prismarine Shard&#160;VII (7)
+
+| The Fisherman Set, consisting of the &#160;Prismarine Necklace, &#160;Tropical Cloak, &#160;Sponge Belt, and &#160;Clay Bracelet, grants a total of +8&#160;&#xe00c;&#160;Fishing Speed (+2&#160;&#xe00c; per piece) and +4%&#160;&#xe02a;&#160;Trophy Chance (+1%&#160;&#xe02a; per piece). It is recommended to use the Fisherman Set if you can reach 350&#160;&#xe00c;&#160;Fishing Speed while on the &#xe067; Crimson Isle: otherwise, use the &#160;Prismarine Necklace and as many pieces of the &#160;Gillsplash Set, or its predecessors, as necessary to reach the cap.
+It is best to reforge the Fisherman Set to Snowy, as it grants the most &#xe00c;&#160;Fishing Speed. 
+
+| [Tropical Cloak] 
+
+| &#160;Tropical Cloak
+
+| Tropical Fish&#160;VII (7)
+
+| [Sponge Belt] 
+
+| &#160;Sponge Belt
+
+| Sponge&#160;VII (7)
+
+| [Clay Bracelet] 
+
+| &#160;Clay Bracelet
+
+| Clay Ball&#160;VII (7)
+
+| Pets
+
+| [Spinosaurus Pet] 
+
+| &#160;Spinosaurus Pet
+
+| Heart of the Mountain&#160;VII (7)
+
+| The &#160;Spinosaurus Pet grants a substantial +50&#160;&#xe00c;&#160;Fishing Speed and +5%&#160;&#xe02a;&#160;Trophy Chance. Additionally, its Pursuit perk increases the chances of catching Gold and Diamond Trophies by +10%. You can manually swap to a Spinosaurus Pet once the bobber hits the water.
+It is recommended to have a &#160;Barrel of Riches or &#160;Lotus Crown if you are targeting Gold or Diamond Trophy Fish respectively.
+
+| [Flying Fish Pet] [Flying Fish Pet] 
+
+| &#160;Flying Fish Pet
+
+| 
+
+| The &#160;Flying Fish Pet's Quick Reel perk grants a high amount of &#xe00c;&#160;Fishing Speed, up to +80&#160;&#xe00c; at LEGENDARY and MYTHIC. Additionally, its Rapid Decay perk increases the chances of activating Flash by +0.5-50%. You can swap to a Flying Fish Pet with a pet rule before you cast your rod.
+It is recommended to have &#160;Edible Seaweed applied to your Flying Fish Pet if you cannot reach 350&#160;&#xe00c;&#160;Fishing Speed, and a &#160;Barrel of Riches or &#160;Lotus Crown if you can and are targeting Gold or Diamond Trophy Fish.
+
+| [Kuudra Pet] [Kuudra Pet] [Kuudra Pet] [Kuudra Pet] 
+
+| &#160;Kuudra Pet
+
+| Kuudra&#160;I (1)
+
+| The UNCOMMON and RARE &#160;Kuudra Pet's Trophy Bait perk grants +15%&#160;&#xe02a;&#160;Trophy Chance, buffed to +20%&#160;&#xe02a; at EPIC and LEGENDARY.
+
+| [Slug Pet] [Slug Pet] 
+
+| &#160;Slug Pet
+
+| 
+
+| The &#160;Slug Pet reduces the time taken to catch &#160;Slugfish by 0.5%-50%, making it best-in-slot for targeting that specific Trophy Fish.
+
+| Pet Items
+
+| [Minos Relic] 
+
+| &#160;Minos Relic
+
+| 
+
+| The &#160;Minos and &#160;Hephaestus Relic increases all pet stats by 33.3% and 50% respectively, making them best-in-slot on the &#160;Spinosaurus Pet for &#xe02a;&#160;Trophy Chance.
+
+| [Hephaestus Relic] 
+
+| &#160;Hephaestus Relic
+
+| 
+
+| [Barrel of Riches] 
+
+| &#160;Barrel of Riches
+
+| 
+
+| The &#160;Barrel of Riches and &#160;Lotus Crown increases the chances of Trophies being Gold and Diamond by +10% respectively, making them best-in-slot for targeting higher tiers.
+
+| [Lotus Crown] 
+
+| &#160;Lotus Crown
+
+| 
+
+| Rod Modifiers
+
+| [Kuudra Mandible] 
+
+| &#160;Kuudra Mandible
+
+Chomp
+
+| 
+
+| The Chomp reforge, obtained from applying the &#160;Kuudra Mandible to a Fishing Rod, grants +9&#160;&#xe00c;&#160;Fishing Speed at LEGENDARY. Despite requiring a lengthy quest to obtain naturally, it is very cheap on the Bazaar.
+
+| [Charm] [Charm] [Chain of the End Times] 
+
+| Charm
+
+| 
+
+| Charm increases the chances of catching Gold and Diamond Trophies, up to 12% by applying a &#160;Chain of the End Times to a Fishing Rod with Charm VI. This is arguably the most important enchantment for Trophy Fishing.
+
+| [Piscary] [Piscary] [Troubled Bubble] 
+
+| Piscary
+
+| 
+
+| Piscary grants increased amounts of &#xe00c;&#160;Fishing Speed, up to +7&#160;&#xe00c;&#160;Fishing Speed by applying a &#160;Troubled Bubble to a Fishing Rod with Piscary VI.
+
+| [Lure] [Lure] 
+
+| Lure
+
+| 
+
+| Lure shortens the maximum time it takes to catch something by 30% at Lure VI.
+
+| [Caster] [Caster] 
+
+| Caster
+
+| 
+
+| Caster grants a chance to not consume Bait, up to 30% at Caster VI.
+
+| [Quick Bite] 
+
+| Quick Bite
+
+| 
+
+| Quick Bite makes fish swim faster towards your bobber, reducing the time between catching an item and being able to reel, up to 25% at Quick Bite V.
+
+| [Wet Book] 
+
+| &#160;Wet Book
+
+| 
+
+| &#160;Wet Books can be applied to a Fishing Rod to grant +1&#160;&#xe00c;&#160;Fishing Speed, up to +5&#160;&#xe00c;&#160;Fishing Speed at [Wet Book] &#160;5x&#160;Wet Books applied. They have a chance to be a GREAT CATCH while the Lost and Found Attribute is active.
+
+| [Trophy Line] 
+
+| &#160;Trophy Line
+
+| &#160;Fishing&#160;XX (20)
+Lotus&#160;IX (9)
+
+| The &#160;Trophy Line grants +5%&#160;&#xe02a;&#160;Trophy Chance, making it best-in-slot. A &#160;Speedy Line should be used if you are less than 10&#160;&#xe00c;&#160;Fishing Speed away from the cap.
+
+| [Stingy Sinker] 
+
+| &#160;Stingy Sinker
+
+| &#160;Fishing&#160;V (5)
+
+| A &#160;Stingy Sinker is preferable due to its bait-saving properties: &#160;Obfuscated-2 and &#160;Obfuscated-3 require its predecessors to be used as bait to catch, meaning the Stingy Sinker will save you a lot of time and effort.
+
+| Bait
+
+| [Fish Bait] 
+
+| &#160;Fish Bait
+
+| Raw Salmon&#160;VI (6)
+
+| &#160;Fish Bait should be used if you are under 335&#160;&#xe00c;&#160;Fishing Speed.
+
+| [Hot Bait] 
+
+| &#160;Hot Bait
+
+| Magmafish&#160;II (2)
+
+| &#160;Hot Bait should be used if you have at least 335&#160;&#xe00c;&#160;Fishing Speed. Its +5%&#160;&#xe02a;&#160;Trophy Chance make it best-in-slot for most situations.
+
+| [Corrupted Bait] 
+
+| &#160;Corrupted Bait
+
+| Magmafish&#160;V (5)
+
+| &#160;Corrupted Bait, despite reducing your &#xe00c;&#160;Fishing Speed by 50%, is mandatory to catch &#160;Obfuscated-1.
+
+| Miscellaneous
+
+| [Glowing Mush Mixin] 
+
+| &#160;Glowing Mush Mixin
+
+| 
+
+| The &#160;Glowing Mush Mixin grants +30&#160;&#xe00c;&#160;Fishing Speed if you are not already under the effect of a &#160;Mushed Glowy Tonic. Since you will naturally always have a &#160;God Potion active, this Mixin is a must-have.
+
+| [Umberella] 
+
+| &#160;Umberella
+
+| Umber&#160;IX (9)
+
+| The &#160;Umberella grants +5%&#160;&#xe02a;&#160;Trophy Chance when deployed, making it very useful during Trophy Fishing. Since there is no rain on the &#xe067; Crimson Isle, the Umberella's perk of doubling its &#xe02a;&#160;Trophy Chance in rain is irrelevant.
+
+| [Marigold#Shop] 
+
+| Midas Lure
+
+| 
+
+| Midas Lure increases the chances of catching Gold Trophies by +2-20%, costing [Gold Essence] &#160;11,000x&#160;Gold Essence to max out.
+
+| [Gemma#Shop] 
+
+| Radiant Fisher
+
+| 
+
+| Radiant Fisher increases the chances of catching Diamond Trophies by +2-20%, costing [Diamond Essence] &#160;11,000x&#160;Diamond Essence to max out.
+
+### Trophy Fishing Attributes
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Rarity
+
+| Description
+
+| Obtainment Method
+
+| [Inkling Shard] 
+
+| &#160;Inkling Shard
+
+Fisherman
+
+| COMMON
+
+| Fisherman grants a +1-10% chance to not consume Bait.
+
+| Hunt [A sprite icon representing Inkling in Hypixel SkyBlock] Inkling with a Black Hole or Salt.
+
+| [Goldfin Shard] 
+
+| &#160;Goldfin Shard
+
+Gold Bait
+
+| UNCOMMON
+
+| Gold Bait reduces the cooldown of &#160;Golden Fish by 30-300s.
+
+| Fusing &#160;Golden Ghoul Shard with Water category.
+
+| [Fire Eel Shard] 
+
+| &#160;Fire Eel Shard
+
+Trophy Hunter
+
+| EPIC
+
+| Trophy Hunter grants +2-20%&#160;&#xe02a;&#160;Trophy Chance.
+
+| 
+
+- Hunt [A sprite icon representing Fire Eel in Hypixel SkyBlock] Fire Eel with a Black Hole or Salt.
+
+- Fusing &#160;Eel Shard with &#160;Moray Eel Shard.
+
+- Fusing &#160;Moray Eel Shard with &#160;Firefox Shard or &#160;Firefly Shard.
+
+- Obtained from Kuudra.
+
+| [Water Hydra Shard] 
+
+| &#160;Water Hydra Shard
+
+Fishing Speed
+
+| EPIC
+
+| Fishing Speed grants +3-30&#160;&#xe00c;&#160;Fishing Speed.
+
+| Hunt [A sprite icon representing Water Hydra in Hypixel SkyBlock] Water Hydra with a Black Hole or Salt.
+
+### Trophy Fishing Tips
+[edit | edit source]
+
+Here are some additional tips that will make Trophy fishing slightly easier.
+
+- If you intend to use a clean &#160;Starter Lava Rod to roll for &#160;Vanille, you can also target &#160;Slugfish at the same time.
+
+- Holding a Fishing Rod with high &#xe00c;&#160;Fishing Speed - like a &#160;Hellfire Rod or a &#160;Rod of the Sea, the latter of which does not work in lava but has higher &#xe00c;&#160;Fishing Speed - and quickly swapping to a &#160;Starter Lava Rod and casting before your &#xe00c;&#160;Fishing Speed is updated means you can get 350&#160;&#xe00c;&#160;Fishing Speed for a short duration.
+
+- Having between ~110-118&#160;&#xe00c;&#160;Fishing Speed is optimal for targeting &#160;Slugfish, as it typically gives you catches at around 10s with a &#160;Slug Pet. You may wish to intentionally lower your &#xe00c;&#160;Fishing Speed to achieve this. Ways to decrease your &#xe00c;&#160;Fishing Speed include:
+
+- Disabling the &#160;Glowing Mush Mixin
+
+- Equipping a &#160;Burnt Texts
+
+- Using &#160;Corrupted Bait
+
+- Do not stack &#160;Slugfish with &#160;Volcanic Stonefish: instead, it is best to stack &#160;Slugfish with an EPIC Trophy Fish - preferably &#160;Soul Fish as it is the most isolated one.
+
+- You can target &#160;Golden Fish while fishing normally, as it is independent of other Trophy Fish and works on a timer system.
+
+- Attempt &#160;Obfuscated-1, &#160;Obfuscated-2, and &#160;Obfuscated-3 last.
+
+## Additional Tips
+[edit | edit source]
+
+- There are several ways to increase the chances of catching specific Sea Creatures of certain categories.
+
+| Slot
+
+| Source
+
+| Increase
+
+| Total
+
+| Hotspot
+
+| [Hotspot Hook] 
+
+| &#160;Hotspot Hook
+
+| +20%
+
+| 70%&#91;7&#93;
+
+| [Hermit Crab Pet] 
+
+| &#160;MYTHIC&#160;Hermit Crab Pet
+
+Hotspot Hazard
+
+| +20%
+
+| [Hotspot Bait] 
+
+| &#160;Hotspot Bait
+
+| +20%
+
+| [Hotspot Tonic Mixin] 
+
+| &#160;Hotspot Tonic Mixin
+
+| +10%
+
+| Fishing Festival
+
+| [Shark Scale Helmet] [Shark Scale Chestplate] [Shark Scale Leggings] [Shark Scale Boots] 
+
+| &#160;Shark Scale Armor
+
+| +20%
+
+| 65%&#91;8&#93;
+
+| [Megalodon Pet] 
+
+| &#160;LEGENDARY&#160;Megalodon Pet
+
+Feeding Frenzy
+
+| +20%
+
+| [Shark Bait] 
+
+| &#160;Shark Bait
+
+| +20%
+
+| [Doug] 
+
+| Shark Sonar Carnival Perk
+
+| +5%
+
+| Spooky Festival
+
+| [Spooky Hook] 
+
+| &#160;Spooky Hook
+
+| +60%
+
+| 70%&#91;9&#93;
+
+| [Bat Pet] 
+
+| &#160;MYTHIC&#160;Bat Pet
+
+Sonar
+
+| +20%
+
+| [Spooky Bait] 
+
+| &#160;Spooky Bait
+
+| +15%
+
+| [Grim Reaper Head] 
+
+| Spooky Savant Carnival Perk
+
+| +5%
+
+- Some notes about Dyes, which are extremely rare, cosmetic items that can be applied to your Armor.
+
+- You can drop Dyes from cocooned mobs.
+
+- You can drop Dyes if your targeted mob is killed by &#xe00b;&#160;Ferocity, Venomous, or Fire Aspect.
+
+- Both [A sprite icon representing Bayou Sludge in Hypixel SkyBlock] Bayou Sludges and [A sprite icon representing Bayou Sludgling in Hypixel SkyBlock] Bayou Sludglings can drop Dyes.
+
+- It is recommended to set your &#160;Beacon to &#xe077;&#160;Tracking rather than &#xe01a;&#160;Magic Find, though both are equally useful.
+
+However, there is one last tip that this guide has to share with you:
+
+- Not following this guide.
+"What?!" you might be thinking. "Not following this guide? So what was the point of writing all this?"
+And the point of it was to provide some structure and recommend some tips and progression if you wish to get into &#160;Fishing, are struggling with it, or want to know where to go next. But this guide details with some very complicated tech and some very intricate strategies, and &#160;Fishing by itself is a skill with lots of intricate and niche tech tied into it!
+Not everyone has to be hyper-optimised. I certainly am not hyper-optimised in the slightest. While not necessarily the most efficient, the fun in SkyBlock is playing at your own pace. Don't feel that you are constrained by what this guide tells you to do. Certainly hold it into consideration, though, but don't hold yourself strictly to its standard.
+Yes, the end goal should be hyper-optimisation and being hypermaxed. But don't stress out about it, and don't rush it. Appreciate the depth of the ocean, but enjoy the swim.
+Thanks for reading this guide!
+- Whami <3
+
+## Credits
+[edit | edit source]
+
+- Whami: Writing & research
+
+- jessbre, TheUltimateNon, Metaapod, Sykkiicc, qtLuna: Consulting, having more experience, and being great advisors
+
+- Casters Discord Server: Has many useful guides, many of which were the basis and backbone of this guide itself!
+
+- Hypixel Forums: Additional tips that were nice to have&#160;:)
+
+## References
+[edit | edit source]
+
+- ↑ 
+
+- &#160;4&#160;Recombobulator 3000s on Frozen Blaze Armor and Gillsplash Equipment
+
+- Submerged (&#160;Deep Sea Orb) on Frozen Blaze Armor (+20&#160;&#xe00c; / +4%&#160;&#xe021;)
+
+- Bobbin' Time V on Frozen Blaze Armor with 5 active bobbers (+5% Fishing Stats)
+
+- Snowy (&#160;Terry's Snowglobe) on Gillsplash Equipment (+12&#160;&#xe00c; / +4%&#160;&#xe021;)
+
+- &#160;Sea Creature Chance Enrichments on all LEGENDARY and MYTHIC Accessories (+19.8%&#160;&#xe021;)
+
+- Either:
+
+- &#160;Ammonite Pet (+15%&#160;&#xe021; at HotM&#160;X (10) / +55&#160;&#xe00c; at &#160;Mining&#160;LX (60) and &#160;Fishing&#160;L (50))
+
+- &#160;MYTHIC&#160;Flying Fish Pet (+80&#160;&#xe00c;)
+
+- &#160;Beacon V set to &#xe021;&#160;Sea Creature Chance (+5%&#160;&#xe021;)
+
+- With either:
+
+- &#160;Edible Seaweed (+10&#160;&#xe00c;)
+
+- &#160;Hephaestus Souvenir (+10%&#160;&#xe021;)
+
+- Note that if you are using &#160;Burnt Texts (+5&#160;&#xe009; / -50&#160;&#xe00c;) without manual swapping, you may not be able to reach max &#xe00c;&#160;Fishing Speed.
+
+- ↑ See &#160;Kuudra Follower Armor and &#160;Kuudra Follower Relic.
+
+- ↑ Credit to TheUltimateNon for finding out these values.
+
+- ↑ The &#160;Seal Pet grants +1%&#160;&#xe025;&#160;Treasure Chance as a base stat.
+
+- ↑ This attribute is useful for extending the duration of &#160;Oceandys and &#160;Brine Tonics.
+
+- ↑ This used to give +1&#160;☯&#160;Fishing Wisdom outside the Rift. Never forget what they took from us.
+
+- ↑ You have a base 15% chance to catch Hotspot Sea Creatures, totalling to 85%
+
+- ↑ You have a base 15% chance to catch Sharks, totalling to 85%
+
+- ↑ You have a base 15% chance to catch &#xe082;&#160;Spooky Sea Creatures, totalling to 75%
+
+## Navigation
+[edit | edit source]
+
+&#91;&#34;Tutorial:Navigation&#34;,&#34;Tutorial:Day Count&#34;,&#34;Tutorial:Autopet Guide&#34;&#93;&#91;&#34;Tutorial:Ultimate Guide&#34;,&#34;Tutorial:Tips and Tricks&#34;,&#34;Tutorial:Ironman Guide&#34;,&#34;Tutorial:Bingo Guide&#34;,&#34;Tutorial:Periodic Tasks&#34;&#93;&#91;&#34;Tutorial:Maxing Items&#34;,&#34;Tutorial:Ranged_Weapon_Guide&#34;,&#34;Tutorial:Melee_Weapon_Guide&#34;,&#34;Tutorial:Minion Farming&#34;,&#34;Tutorial:Reforging Guide&#34;,&#34;Tutorial:Armor Guide&#34;,&#34;Tutorial:Accessory Guide&#34;&#93;&#91;&#34;Tutorial:Mining Guide&#34;,&#34;Tutorial:Hunting Guide&#34;,&#34;Tutorial:Foraging Guide&#34;,&#34;Tutorial:Fishing Guide&#34;,&#34;Tutorial:Farming Guide&#34;,&#34;Tutorial:Alchemy Guide&#34;&#93;&#91;&#34;Tutorial:Gemstone Gauntlet's Ability&#34;,&#34;Tutorial:Killing Ghosts on a Budget&#34;,&#34;Tutorial:Dragon Fights Guide&#34;,&#34;Tutorial:How to Obtain a Summoning Eye&#34;,&#34;Tutorial:Kuudra Guide&#34;,&#34;Tutorial:Slayer_Guide&#34;&#93;&#91;&#34;Tutorial:Tank Guide&#34;,&#34;Tutorial:Left-Click_Mage_Guide&#34;,&#34;Tutorial:Right-Click Mage Guide&#34;,&#34;Tutorial:Mage Guide&#34;,&#34;Tutorial:Healer Guide&#34;,&#34;Tutorial:Berserk Guide&#34;,&#34;Tutorial:Archer Guide&#34;,&#34;Tutorial:Dungeon Puzzles&#34;,&#34;Tutorial:Master Mode Guide&#34;,&#34;Tutorial:Catacombs Guide&#34;,&#34;Tutorial:Ultimate Dungeon Guide&#34;&#93;&#91;&#34;Tutorial:Mushroom Farm&#34;,&#34;Tutorial:Sugar Cane Farm&#34;,&#34;Tutorial:Cocoa Beans Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;&#93;&#91;&#34;Tutorial:Timite Mining&#34;,&#34;Tutorial:Tick Thresholds&#34;,&#34;Tutorial:Heart of the Mountain Trees&#34;,&#34;Tutorial:Sapphire Crystal&#34;,&#34;Tutorial:6-ticking Ruby in the Magma Fields&#34;&#93;&#91;&#34;Tutorial:Lowballing&#34;,&#34;Tutorial:NPC Flipping&#34;,&#34;Tutorial:Bazaar Flipping&#34;,&#34;Tutorial:AH Flipping&#34;&#93; | v · d · eTutorials
+| 
+| How-To's | 
+
+- Autopet Guide
+
+- Day Count
+
+- Navigation
+
+| 
+| 
+| General Guides | 
+
+- Periodic Tasks
+
+- Bingo Guide
+
+- Ironman Guide
+
+- Tips and Tricks
+
+- Ultimate Guide
+
+| 
+| Progression Guides | 
+
+- Accessory Guide
+
+- Armor Guide
+
+- Reforging Guide
+
+- Minion Farming
+
+- Melee Weapon Guide
+
+- Ranged Weapon Guide
+
+- Maxing Items
+
+| 
+| Skill Guides | 
+
+- Alchemy Guide
+
+- Farming Guide
+
+- Fishing Guide
+
+- Foraging Guide
+
+- Hunting Guide
+
+- Mining Guide
+
+| 
+| Combat | 
+
+- Slayer Guide
+
+- Kuudra Guide
+
+- How to Obtain a Summoning Eye
+
+- Dragon Fights Guide
+
+- Killing Ghosts on a Budget
+
+- Gemstone Gauntlet Ability
+
+| 
+| Dungeon Guides | 
+
+- Ultimate Dungeon Guide
+
+- Catacombs Guide
+
+- Master Mode Guide
+
+- Dungeon Puzzles
+
+- Archer Guide
+
+- Berserk Guide
+
+- Healer Guide
+
+- Mage Guide (RCM Guide & LCM Guide)
+
+- Tank Guide
+
+| 
+| Farming | 
+
+- Wheat
+
+- Potato
+
+- Carrot
+
+- Nether Wart
+
+- Pumpkin
+
+- Melon
+
+- Cocoa Beans
+
+- Sugar Cane
+
+- Mushroom
+
+| 
+| Mining | 
+
+- 6-ticking Ruby in the Magma Fields
+
+- Nucleus Runs (Sapphire Crystal)
+
+- Heart of the Mountain Trees
+
+- Tick Thresholds
+
+- Timite Mining
+
+| 
+| Economy Guides | 
+
+- AH
+
+- Bazaar
+
+- NPC
+
+- Lowballing
+
+220 ms 5.5%
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::callParserFunction 200 ms 5.0%
+init 120 ms 3.0%
+100 ms 2.5%
+init 100 ms 2.5%
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::parseFormattedNumber 100 ms 2.5%
+validateData 80 ms 2.0%
+[others] 1460 ms 36.7%
+-->
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Tutorial:Fishing_Guide?oldid=878547"
+
+Categories: 
+- Community Guides
+- Pages with UIs
+- Unknown Zone Referenced
+- Pages containing missing tooltips
+- Tutorials
+
+Hidden categories: 
+- Pages using Fishing Speed
+- Pages using Sea Creature Chance
+- Pages using Double Hook Chance
+- Pages using Treasure Chance
+- Pages using Fishing Wisdom
+- Pages using Trophy Chance
+- Pages using Magic Find
+- Pages using Tracking
+- Pages using Hunting Fortune
+- Pages using Charm Chance
+- Pages with Collapsible Section
+- Pages using Combat Wisdom
+- Pages using Foraging Fortune
+- Pages using Mining Speed
+- Pages using Mining Fortune
+- Pages using Health
+- Pages using Damage
+- Pages using Defense
+- Pages using Effective Health
+- Pages using Strength
+- Pages using Crit Damage
+- Pages using Health Regen
+- Pages using Crit Chance
+- Pages using Intelligence
+- Pages using Speed
+- Pages using Farming Wisdom
+- Pages using Pressure Resistance
+- Pages using Respiration
+- Pages using Global Wisdom
+- Pages using Taming Wisdom
+- Pages using Mana
+- Pages using Ferocity
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Tutorial
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+2h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+
+- This page was last edited on 19 November 2026, at 21:35.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

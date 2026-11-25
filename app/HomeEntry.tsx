@@ -31,15 +31,8 @@ export default function HomeEntry() {
   return (
     <>
       <header className={styles.header}>
-        {/* Titelbild der Startseite: leuchtender Sumpfwald bei Nacht (blendet unten in den Hintergrund aus) */}
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img
-          className={styles.banner}
-          src="/themes/home-swamp.jpg"
-          alt="A glowing blocky swamp forest at night under a square moon"
-          width={1800}
-          height={734}
-        />
+        {/* Titelbild der Startseite (rein dekorativ, blendet unten aus); das Bild haengt vom Design ab */}
+        <div className={styles.banner} aria-hidden="true" />
         <h1 className={styles.title}>
           FlawlessSB <span className={styles.beta}>Beta</span>
         </h1>

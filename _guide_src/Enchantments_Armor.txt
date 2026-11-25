@@ -1,0 +1,596 @@
+Enchantments/Armor - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Enchantments/Armor
+
+From Hypixel SkyBlock Wiki
+
+< Enchantments
+
+Jump to navigation
+Jump to search
+
+| Aqua Affinity
+
+| Affects:Helmet
+
+Increases your underwater mining rate.
+(Returns normal level of mining rate.)
+
+| I
+
+| Enchantment Table
+
+| Big Brain
+&#160;Ench Lvl: 21
+
+| Affects:Helmet
+
+Grants +X&#160;&#xe003;&#160;Intelligence.
+(An armor piece with this enchantment cannot have Small Brain)
+
+| III | IV | V
+| 15 | 20 | 25
+| Darker Auction
+
+| Blast Protection
+
+| Affects:All
+
+Grants +X&#160;&#xe008;&#160;Defense against explosions.
+(An armor piece with this enchantment cannot have Protection, Fire Protection or Projectile Protection)
+
+| I | II | III | IV | V | VI | VII
+| 30 | 60 | 90 | 120 | 150 | 180 | 210
+| Enchantment Table | Experiments
+
+| Counter-Strike
+&#160;Ench Lvl: 22
+
+| Affects:Chestplate
+
+Gain +X&#160;&#xe008;&#160;Defense for 7s on your first hit from an enemy.
+
+| III | IV | V
+| 6 | 8 | 10
+| Unobtainable | Dark Auction when Scorpius is mayor
+
+| Depth Strider
+
+| Affects:Boots
+
+Reduces how much you are slowed in the water by X%.
+
+| I | II | III
+| 33 | 67 | 100
+| Enchantment Table
+
+| Feather Falling
+
+| Affects:Boots
+
+Increases how high you can fall before taking fall damage by X and reduces fall damage by Y%.
+
+| I | II | III | IV | V | VI | VII | VIII | IX | X
+| 1
+5 | 2
+10 | 3
+15 | 4
+20 | 5
+25 | 6
+30 | 7
+35 | 8
+40 | 9
+45 | 10
+50
+| Enchantment Table | Dungeon Loot Chest | Combining Feather Falling VI Books
+
+| Fire Protection
+
+| Affects:All
+
+Grants +X&#160;&#xe027;&#160;True Defense against fire and lava.(An armor piece with this enchantment cannot have Protection, Blast Protection or Projectile Protection)
+
+| I | II | III | IV | V | VI | VII
+| 2 | 4 | 6 | 8 | 10 | 12 | 14
+| Enchantment Table | Experiments
+
+| Forest Pledge
+&#160;Ench Lvl: 12
+
+| Affects:All
+
+Grants +X&#160;&#xe054;&#160;Foraging Fortune.
+
+| III | IV | V | VI
+| 6 | 8 | 10 | 12
+| [A sprite icon representing Agatha in Hypixel SkyBlock] Agatha | Combining Books
+
+| Great Spook
+
+| Affects:Great Spook Armor
+
+Grants +1 &#xe00a;&#160;Fear on Great Spook Armor.
+
+| I
+
+| [A sprite icon representing Tyashoi Alchemist in Hypixel SkyBlock] Tyashoi Alchemist
+
+| Growth
+&#160;Ench Lvl: 5
+
+| Affects:All
+
+Grants +X &#xe010;&#160;Health.
+
+| I | II | III | IV | V | VI | VII
+| 15 | 30 | 45 | 60 | 75 | 90 | 105
+| Enchantment Table | ExperimentsDark Auction | ExperimentsDarker Auction
+
+| Hardened Vitality
+&#160;Ench Lvl: 22
+
+| Affects:All
+
+Convert X% of &#xe028;&#160;Vitality used as &#xe008;&#160;Defense for 10s. (Max 25 &#xe008;&#160;Defense).(An armor piece with this Enchantment cannot have Strong Vitality, Vivacious Vitality or Vampiric Vitality)
+
+| I | II | III | IV | V | VI | VII | VIII | IX | X
+| 4 | 8 | 12 | 16 | 20 | 24 | 28 | 32 | 36 | 40
+| [A sprite icon representing Kuudra in Hypixel SkyBlock] Kuudra / Combining Books
+
+| Hecatomb
+
+| Affects:Helmet
+
+Gain +X% Catacombs XP & +Y% Class XP, doubled from S+ runs. Grants +Z&#160;&#xe010; per 10 Catacombs levels.Upgrade by doing 2-100 S runs in Dungeons. Cannot be combined in an anvil.
+
+| I | II | III | IV | V | VI | VII | VIII | IX | X
+| 0.28
+0.56
+2.6 | 0.36
+0.72
+3.2 | 0.44
+0.88
+3.8 | 0.52
+1.04
+4.4 | 0.6
+1.2
+5 | 0.68
+1.36
+5.6 | 0.76
+1.52
+6.2 | 0.84
+1.68
+6.8 | 0.92
+1.84
+7.4 | 1
+2
+8
+| Community Center
+(6,000 Bits) | 2 S runs | 5 S runs | 10 S runs | 20 S runs | 30 S runs | 40 S runs | 60 S runs | 80 S runs | 100 S runs
+
+| Ice Cold
+&#160;Ench Lvl: 30
+
+| Affects:All
+
+Grants +X&#160;&#xe006;&#160;Cold Resistance.
+
+| I | II | III | IV | V
+| 1 | 2 | 3 | 4 | 5
+| Frozen Corpses | Combining Books
+
+| Pesterminator
+&#160;Ench Lvl: 10
+
+| Affects:All
+
+Grants +X&#160;&#xe051;&#160;Farming Fortune and +Y&#160;&#xe019;&#160;Bonus Pest Chance which increases your chance to spawn bonus &#xe07f;&#160;Pest on The Garden.
+
+| I | II | III | IV | V | VI
+| 2
+1 | 4
+2 | 6
+3 | 8
+4 | 10
+5 | 12
+6
+| 7% chance from killing &#160;Beetles | Combining Books | &#160;A Beginner's Guide to Pesthunting
+
+| Projectile Protection
+
+| Affects:All
+
+Grants +X&#160;&#xe008;&#160;Defense against projectiles.(An armor piece with this enchantment cannot have Protection, Blast Protection or Fire Protection)
+
+| I | II | III | IV | V | VI | VII
+| 7 | 14 | 21 | 28 | 35 | 42 | 49
+| Enchantment Table | Experiments
+
+| Protection
+
+| Affects:All
+
+Grants +X&#160;&#xe008;&#160;Defense.(An armor piece with this enchantment cannot have Blast Protection, Fire Protection or Projectile Protection)
+
+| I | II | III | IV | V | VI | VII
+| 4 | 8 | 12 | 16 | 20 | 25 | 30
+| Enchantment Table | Experiments [A sprite icon representing Tomioka in Hypixel SkyBlock] TomiokaDark Auction | ExperimentsDarker Auction
+
+| Reflection
+&#160;Ench Lvl: 24
+
+| Affects:Chestplate
+
+Grants +X&#160;&#xe003;&#160;Intelligence.
+Grants +Y&#160;&#xe027;&#160;True Defense.
+When damaged by an arrow, deal Zx your &#xe003;&#160;Intelligence to its shooter.(An armor piece with this enchantment cannot have Thorns)
+
+| I | II | III | IV | V
+| 2
+1
+2 | 4
+2
+5 | 6
+3
+10 | 8
+4
+20 | 10
+5
+30
+| Rift Mirrorverse | Combining Books
+
+| Rejuvenate
+&#160;Ench Lvl: 10
+
+| Affects:All
+
+Grants +X&#160;&#xe011;&#160;Health Regen.(An armor piece with this enchantment cannot have Respite)
+
+| I | II | III | IV | V
+| 1 | 2 | 3 | 4 | 5
+| Dungeons Loot Chest
+
+| Respiration
+
+| Affects:Helmet
+
+Grants +X&#160;&#xe01d;&#160;Respiration, which increases the amount of time you can stay under water.
+
+| I | II | III | IV
+| 15 | 30 | 45 | 60
+| Enchantment Table | [A sprite icon representing Nemo in Hypixel SkyBlock] Nemo
+
+| Respite
+&#160;Ench Lvl: 23
+
+| Affects:All
+
+Grants +X&#160;&#xe011;&#160;Health Regen while out of combat.(An armor piece with this enchantment cannot have Rejuvenate)
+
+| I | II | III | IV | V
+| 3 | 6 | 9 | 12 | 15
+| Experiments
+
+| Scuba
+&#160;Ench Lvl: 5
+
+| Affects:All
+
+Grants +X&#160;&#xe01b;&#160;Pressure Resistance.
+
+| I | II | III | IV | V | VI
+| 1 | 2 | 3 | 4 | 5 | 6
+| (Ⅳ) Crafting
+▦ Recipe
+
+[Paper] [Paper] 
+[Paper] [Enchanted Sea Lumies] 
+
+| Combining Books | &#160;Vibrant Coral
+
+| Small Brain
+&#160;Ench Lvl: 21
+
+| Affects:Helmet
+
+Grants -X&#160;&#xe003;&#160;Intelligence and +Y&#160;&#xe027;&#160;True Defense.
+(An armor piece with this enchantment cannot have Big Brain)
+
+| III | IV | V
+| 15
+1 | 20
+2 | 25
+3
+| Raffle of the Century
+
+| Smarty Pants
+&#160;Ench Lvl: 21
+
+| Affects:Leggings
+
+Grants +X&#160;&#xe003;&#160;Intelligence.
+
+| I | II | III | IV | V
+| 5 | 10 | 15 | 20 | 25
+| Enderman Slayer&#160;V (5)
+
+| Stealth
+
+| Affects:Boots
+
+Causes timid creatures that normally flee to remain still.
+
+| I | II | III | IV | V | VI
+| 10 | 20 | 30 | 40 | 50 | 60
+| Killing Chillshots and ChillbladesCrafting
+▦ Recipe
+
+[Paper] [Paper] 
+[Paper] [Mangcore] 
+
+| Strong Vitality
+&#160;Ench Lvl: 22
+
+| Affects:All
+
+Convert X% of &#xe028;&#160;Vitality used as &#xe00d;&#160;Strength for 10s. (Max 15 &#xe00d;&#160;Strength).(An armor piece with this Enchantment cannot have Hardened Vitality, Vivacious Vitality or Vampiric Vitality)
+
+| I | II | III | IV | V | VI | VII | VIII | IX | X
+| 2 | 4 | 6 | 8 | 10 | 12 | 14 | 16 | 18 | 20
+| [A sprite icon representing Kuudra in Hypixel SkyBlock] Kuudra / Combining Books
+
+| Sugar Rush
+&#160;Ench Lvl: 7
+
+| Affects:Boots
+
+Grants +X &#xe022;&#160;Speed.
+
+| I | II | III
+| 2 | 4 | 6
+| [A sprite icon representing Fear Mongerer in Hypixel SkyBlock] Fear Mongerer | Combining Books
+
+| Thorns
+
+| Affects:All
+
+Grants a 50% chance to rebound X% of damage dealt back at the attacker.
+
+| I | II | III | IV
+| 3 | 6 | 9 | 12
+| Enchantment Table | &#160;Prickly Creeper
+
+| Tidal
+&#160;Ench Lvl: 13
+
+| Affects:Leggings
+
+Increases your &#xe008;&#160;Defense by +X% against Sea Creatures.
+
+| I | II | III
+| 5 | 10 | 15
+| [A sprite icon representing Lukas the Aquarist in Hypixel SkyBlock] Lukas the Aquarist | Combining Books
+
+| Transylvanian
+
+| Affects:Helmet
+
+Heal X&#160;&#xe010;/s per enemy within 10 blocks, up to Y&#160;&#xe010;/s.
+
+| IV | V
+| 2
+20 | 3
+30
+| (Ⅳ) Crafting
+▦ Recipe
+
+[Paper] 8 [Paper] 8
+[Paper] 8 [Hemoglass] 8
+
+| Combining Transylvanian IV Books
+
+| True Protection
+&#160;Ench Lvl: 15
+
+| Affects:Chestplate
+
+Grants +5&#160;&#xe027;&#160;True Defense.
+
+| I
+
+| [A sprite icon representing Old Shaman Nyko in Hypixel SkyBlock] Old Shaman Nyko (Costs 900k Coins for Level I)
+
+| Vampiric Vitality
+&#160;Ench Lvl: 22
+
+| Affects:All
+
+Heal for X&#160;&#xe010; per &#xe028;&#160;Vitality used.(An armor piece with this Enchantment cannot have Hardened Vitality, Strong Vitality or Vivacious Vitality)
+
+| I | II | III | IV | V | VI | VII | VIII | IX | X
+| 0.55 | 0.6 | 0.65 | 0.7 | 0.75 | 0.8 | 0.85 | 0.9 | 0.95 | 1
+| [A sprite icon representing Kuudra in Hypixel SkyBlock] Kuudra / Combining Books
+
+| Vivacious Vitality
+&#160;Ench Lvl: 22
+
+| Affects:All
+
+Convert X% of &#xe028;&#160;Vitality used as &#xe001;&#160;Attack Speed for 10s. (Max 5 &#xe001;&#160;Attack Speed).(An armor piece with this Enchantment cannot have Hardened Vitality, Strong Vitality or Vampiric Vitality)
+
+| I | II | III | IV | V | VI | VII | VIII | IX | X
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+| [A sprite icon representing Kuudra in Hypixel SkyBlock] Kuudra / Combining Books
+
+100 ms 6.8%
+type 60 ms 4.1%
+new 40 ms 2.7%
+merge 40 ms 2.7%
+createMultiAliases 40 ms 2.7%
+_replace 40 ms 2.7%
+replaceStrings 40 ms 2.7%
+(for generator) 40 ms 2.7%
+[others] 300 ms 20.5%
+-->
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Enchantments/Armor?oldid=843357"
+
+Category: 
+- Enchantments
+
+Hidden categories: 
+- Pages using Intelligence
+- Pages using Defense
+- Pages using True Defense
+- Pages using Foraging Fortune
+- Pages using Fear
+- Pages using Health
+- Pages using Vitality
+- Pages using Cold Resistance
+- Pages using Farming Fortune
+- Pages using Bonus Pest Chance
+- Pages using Health Regen
+- Pages using Respiration
+- Pages using Pressure Resistance
+- Pages using Strength
+- Pages using Speed
+- Pages using Attack Speed
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Page
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+3h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+- View buckets
+
+- This page was last edited on 17 September 2026, at 15:44.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

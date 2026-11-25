@@ -1,0 +1,490 @@
+Reforging/Sword - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Reforging/Sword
+
+From Hypixel SkyBlock Wiki
+
+< Reforging
+
+Jump to navigation
+Jump to search
+
+### Basic
+[edit | edit source]
+
+These reforges can be applied to Swords through the [A sprite icon representing Blacksmith in Hypixel SkyBlock] Blacksmith. Fishing Rods also use this pool of basic reforges.
+
+| Reforge Prefix
+
+| COMMON
+
+| UNCOMMON
+
+| RARE
+
+| EPIC
+
+| LEGENDARY
+
+| MYTHIC
+
+| DIVINE
+
+| Gentle | 8&#160;&#xe001;&#160;Attack Speed
+3&#160;&#xe00d;&#160;Strength | 10&#160;&#xe001;&#160;Attack Speed
+5&#160;&#xe00d;&#160;Strength | 15&#160;&#xe001;&#160;Attack Speed
+7&#160;&#xe00d;&#160;Strength | 20&#160;&#xe001;&#160;Attack Speed
+10&#160;&#xe00d;&#160;Strength | 25&#160;&#xe001;&#160;Attack Speed
+15&#160;&#xe00d;&#160;Strength | 30&#160;&#xe001;&#160;Attack Speed
+20&#160;&#xe00d;&#160;Strength | 35&#160;&#xe001;&#160;Attack Speed
+25&#160;&#xe00d;&#160;Strength
+
+| Odd | -5&#160;&#xe003;&#160;Intelligence
+12&#160;&#xe02c;&#160;Crit Chance
+10&#160;&#xe007;&#160;Crit Damage | -10&#160;&#xe003;&#160;Intelligence
+15&#160;&#xe02c;&#160;Crit Chance
+15&#160;&#xe007;&#160;Crit Damage | -18&#160;&#xe003;&#160;Intelligence
+15&#160;&#xe02c;&#160;Crit Chance
+15&#160;&#xe007;&#160;Crit Damage | -32&#160;&#xe003;&#160;Intelligence
+20&#160;&#xe02c;&#160;Crit Chance
+22&#160;&#xe007;&#160;Crit Damage | -50&#160;&#xe003;&#160;Intelligence
+25&#160;&#xe02c;&#160;Crit Chance
+30&#160;&#xe007;&#160;Crit Damage | -75&#160;&#xe003;&#160;Intelligence
+30&#160;&#xe02c;&#160;Crit Chance
+40&#160;&#xe007;&#160;Crit Damage | -100&#160;&#xe003;&#160;Intelligence
+35&#160;&#xe02c;&#160;Crit Chance
+50&#160;&#xe007;&#160;Crit Damage
+
+| Fast | 10&#160;&#xe001;&#160;Attack Speed | 20&#160;&#xe001;&#160;Attack Speed | 30&#160;&#xe001;&#160;Attack Speed | 40&#160;&#xe001;&#160;Attack Speed | 50&#160;&#xe001;&#160;Attack Speed | 60&#160;&#xe001;&#160;Attack Speed | 70&#160;&#xe001;&#160;Attack Speed
+
+| Fair | 2&#160;&#xe00d;&#160;Strength
+2&#160;&#xe02c;&#160;Crit Chance
+2&#160;&#xe003;&#160;Intelligence
+2&#160;&#xe001;&#160;Attack Speed
+2&#160;&#xe007;&#160;Crit Damage | 3&#160;&#xe00d;&#160;Strength
+3&#160;&#xe02c;&#160;Crit Chance
+3&#160;&#xe003;&#160;Intelligence
+3&#160;&#xe001;&#160;Attack Speed
+3&#160;&#xe007;&#160;Crit Damage | 4&#160;&#xe00d;&#160;Strength
+4&#160;&#xe02c;&#160;Crit Chance
+4&#160;&#xe003;&#160;Intelligence
+4&#160;&#xe001;&#160;Attack Speed
+4&#160;&#xe007;&#160;Crit Damage | 7&#160;&#xe00d;&#160;Strength
+7&#160;&#xe02c;&#160;Crit Chance
+7&#160;&#xe003;&#160;Intelligence
+7&#160;&#xe001;&#160;Attack Speed
+7&#160;&#xe007;&#160;Crit Damage | 10&#160;&#xe00d;&#160;Strength
+10&#160;&#xe02c;&#160;Crit Chance
+10&#160;&#xe003;&#160;Intelligence
+10&#160;&#xe001;&#160;Attack Speed
+10&#160;&#xe007;&#160;Crit Damage | 12&#160;&#xe00d;&#160;Strength
+12&#160;&#xe02c;&#160;Crit Chance
+12&#160;&#xe003;&#160;Intelligence
+12&#160;&#xe001;&#160;Attack Speed
+12&#160;&#xe007;&#160;Crit Damage | 14&#160;&#xe00d;&#160;Strength
+14&#160;&#xe02c;&#160;Crit Chance
+14&#160;&#xe003;&#160;Intelligence
+14&#160;&#xe001;&#160;Attack Speed
+14&#160;&#xe007;&#160;Crit Damage
+
+| Epic | 15&#160;&#xe00d;&#160;Strength
+1&#160;&#xe001;&#160;Attack Speed
+10&#160;&#xe007;&#160;Crit Damage | 20&#160;&#xe00d;&#160;Strength
+2&#160;&#xe001;&#160;Attack Speed
+15&#160;&#xe007;&#160;Crit Damage | 25&#160;&#xe00d;&#160;Strength
+4&#160;&#xe001;&#160;Attack Speed
+20&#160;&#xe007;&#160;Crit Damage | 32&#160;&#xe00d;&#160;Strength
+7&#160;&#xe001;&#160;Attack Speed
+27&#160;&#xe007;&#160;Crit Damage | 40&#160;&#xe00d;&#160;Strength
+10&#160;&#xe001;&#160;Attack Speed
+35&#160;&#xe007;&#160;Crit Damage | 50&#160;&#xe00d;&#160;Strength
+15&#160;&#xe001;&#160;Attack Speed
+45&#160;&#xe007;&#160;Crit Damage | 60&#160;&#xe00d;&#160;Strength
+20&#160;&#xe001;&#160;Attack Speed
+55&#160;&#xe007;&#160;Crit Damage
+
+| Sharp | 10&#160;&#xe02c;&#160;Crit Chance
+20&#160;&#xe007;&#160;Crit Damage | 12&#160;&#xe02c;&#160;Crit Chance
+30&#160;&#xe007;&#160;Crit Damage | 14&#160;&#xe02c;&#160;Crit Chance
+40&#160;&#xe007;&#160;Crit Damage | 17&#160;&#xe02c;&#160;Crit Chance
+55&#160;&#xe007;&#160;Crit Damage | 20&#160;&#xe02c;&#160;Crit Chance
+75&#160;&#xe007;&#160;Crit Damage | 25&#160;&#xe02c;&#160;Crit Chance
+90&#160;&#xe007;&#160;Crit Damage | 30&#160;&#xe02c;&#160;Crit Chance
+105&#160;&#xe007;&#160;Crit Damage
+
+| Heroic | 15&#160;&#xe00d;&#160;Strength
+1&#160;&#xe001;&#160;Attack Speed
+40&#160;&#xe003;&#160;Intelligence | 20&#160;&#xe00d;&#160;Strength
+2&#160;&#xe001;&#160;Attack Speed
+50&#160;&#xe003;&#160;Intelligence | 25&#160;&#xe00d;&#160;Strength
+2&#160;&#xe001;&#160;Attack Speed
+65&#160;&#xe003;&#160;Intelligence | 32&#160;&#xe00d;&#160;Strength
+3&#160;&#xe001;&#160;Attack Speed
+80&#160;&#xe003;&#160;Intelligence | 40&#160;&#xe00d;&#160;Strength
+5&#160;&#xe001;&#160;Attack Speed
+100&#160;&#xe003;&#160;Intelligence | 50&#160;&#xe00d;&#160;Strength
+7&#160;&#xe001;&#160;Attack Speed
+125&#160;&#xe003;&#160;Intelligence | 60&#160;&#xe00d;&#160;Strength
+9&#160;&#xe001;&#160;Attack Speed
+150&#160;&#xe003;&#160;Intelligence
+
+| Spicy | 2&#160;&#xe00d;&#160;Strength
+25&#160;&#xe007;&#160;Crit Damage
+1&#160;&#xe001;&#160;Attack Speed
+1&#160;&#xe02c;&#160;Crit Chance | 3&#160;&#xe00d;&#160;Strength
+35&#160;&#xe007;&#160;Crit Damage
+2&#160;&#xe001;&#160;Attack Speed
+1&#160;&#xe02c;&#160;Crit Chance | 4&#160;&#xe00d;&#160;Strength
+45&#160;&#xe007;&#160;Crit Damage
+4&#160;&#xe001;&#160;Attack Speed
+1&#160;&#xe02c;&#160;Crit Chance | 7&#160;&#xe00d;&#160;Strength
+60&#160;&#xe007;&#160;Crit Damage
+7&#160;&#xe001;&#160;Attack Speed
+1&#160;&#xe02c;&#160;Crit Chance | 10&#160;&#xe00d;&#160;Strength
+80&#160;&#xe007;&#160;Crit Damage
+10&#160;&#xe001;&#160;Attack Speed
+1&#160;&#xe02c;&#160;Crit Chance | 12&#160;&#xe00d;&#160;Strength
+100&#160;&#xe007;&#160;Crit Damage
+15&#160;&#xe001;&#160;Attack Speed
+1&#160;&#xe02c;&#160;Crit Chance | 14&#160;&#xe00d;&#160;Strength
+120&#160;&#xe007;&#160;Crit Damage
+20&#160;&#xe001;&#160;Attack Speed
+1&#160;&#xe02c;&#160;Crit Chance
+
+| Legendary | 3&#160;&#xe00d;&#160;Strength
+5&#160;&#xe02c;&#160;Crit Chance
+5&#160;&#xe003;&#160;Intelligence
+2&#160;&#xe001;&#160;Attack Speed
+5&#160;&#xe007;&#160;Crit Damage | 7&#160;&#xe00d;&#160;Strength
+7&#160;&#xe02c;&#160;Crit Chance
+8&#160;&#xe003;&#160;Intelligence
+3&#160;&#xe001;&#160;Attack Speed
+10&#160;&#xe007;&#160;Crit Damage | 12&#160;&#xe00d;&#160;Strength
+9&#160;&#xe02c;&#160;Crit Chance
+12&#160;&#xe003;&#160;Intelligence
+5&#160;&#xe001;&#160;Attack Speed
+15&#160;&#xe007;&#160;Crit Damage | 18&#160;&#xe00d;&#160;Strength
+12&#160;&#xe02c;&#160;Crit Chance
+18&#160;&#xe003;&#160;Intelligence
+7&#160;&#xe001;&#160;Attack Speed
+22&#160;&#xe007;&#160;Crit Damage | 25&#160;&#xe00d;&#160;Strength
+15&#160;&#xe02c;&#160;Crit Chance
+25&#160;&#xe003;&#160;Intelligence
+10&#160;&#xe001;&#160;Attack Speed
+28&#160;&#xe007;&#160;Crit Damage | 32&#160;&#xe00d;&#160;Strength
+18&#160;&#xe02c;&#160;Crit Chance
+35&#160;&#xe003;&#160;Intelligence
+15&#160;&#xe001;&#160;Attack Speed
+36&#160;&#xe007;&#160;Crit Damage | 39&#160;&#xe00d;&#160;Strength
+21&#160;&#xe02c;&#160;Crit Chance
+45&#160;&#xe003;&#160;Intelligence
+20&#160;&#xe001;&#160;Attack Speed
+44&#160;&#xe007;&#160;Crit Damage
+
+### Advanced
+[edit | edit source]
+
+These reforges can only be applied to Swords through Reforge Stones.
+
+| Reforge Prefix
+
+| Reforge Stone
+
+| Special Target
+
+| Passive Ability
+
+| COMMON
+
+| UNCOMMON
+
+| RARE
+
+| EPIC
+
+| LEGENDARY
+
+| MYTHIC
+
+| DIVINE
+
+| Dirty | [Dirt Bottle] &#160;Dirt Bottle | | | 2&#160;&#xe00d;&#160;Strength
+2&#160;&#xe001;&#160;Attack Speed
+2&#160;&#xe00b;&#160;Ferocity | 4&#160;&#xe00d;&#160;Strength
+3&#160;&#xe001;&#160;Attack Speed
+3&#160;&#xe00b;&#160;Ferocity | 6&#160;&#xe00d;&#160;Strength
+5&#160;&#xe001;&#160;Attack Speed
+6&#160;&#xe00b;&#160;Ferocity | 10&#160;&#xe00d;&#160;Strength
+10&#160;&#xe001;&#160;Attack Speed
+9&#160;&#xe00b;&#160;Ferocity | 12&#160;&#xe00d;&#160;Strength
+15&#160;&#xe001;&#160;Attack Speed
+12&#160;&#xe00b;&#160;Ferocity | 15&#160;&#xe00d;&#160;Strength
+20&#160;&#xe001;&#160;Attack Speed
+15&#160;&#xe00b;&#160;Ferocity | 20&#160;&#xe00d;&#160;Strength
+25&#160;&#xe001;&#160;Attack Speed
+18&#160;&#xe00b;&#160;Ferocity
+
+| Fabled | [Dragon Claw] &#160;Dragon Claw | | Fabled Bonus
+ Crits have a chance to deal up to 15% more  damage.
+| 15&#160;&#xe007;&#160;Crit Damage
+30&#160;&#xe00d;&#160;Strength | 20&#160;&#xe007;&#160;Crit Damage
+35&#160;&#xe00d;&#160;Strength | 25&#160;&#xe007;&#160;Crit Damage
+40&#160;&#xe00d;&#160;Strength | 32&#160;&#xe007;&#160;Crit Damage
+50&#160;&#xe00d;&#160;Strength | 40&#160;&#xe007;&#160;Crit Damage
+60&#160;&#xe00d;&#160;Strength | 50&#160;&#xe007;&#160;Crit Damage
+75&#160;&#xe00d;&#160;Strength | 65&#160;&#xe007;&#160;Crit Damage
+90&#160;&#xe00d;&#160;Strength
+
+| Suspicious | [Suspicious Vial] &#160;Suspicious Vial | | | 5&#160;&#xe050;&#160;Damage
+1&#160;&#xe02c;&#160;Crit Chance
+30&#160;&#xe007;&#160;Crit Damage | 7&#160;&#xe050;&#160;Damage
+2&#160;&#xe02c;&#160;Crit Chance
+40&#160;&#xe007;&#160;Crit Damage | 9&#160;&#xe050;&#160;Damage
+3&#160;&#xe02c;&#160;Crit Chance
+50&#160;&#xe007;&#160;Crit Damage | 11&#160;&#xe050;&#160;Damage
+5&#160;&#xe02c;&#160;Crit Chance
+65&#160;&#xe007;&#160;Crit Damage | 13&#160;&#xe050;&#160;Damage
+7&#160;&#xe02c;&#160;Crit Chance
+85&#160;&#xe007;&#160;Crit Damage | 15&#160;&#xe050;&#160;Damage
+10&#160;&#xe02c;&#160;Crit Chance
+110&#160;&#xe007;&#160;Crit Damage | 17&#160;&#xe050;&#160;Damage
+13&#160;&#xe02c;&#160;Crit Chance
+140&#160;&#xe007;&#160;Crit Damage
+
+| Gilded | [Midas Jewel] &#160;Midas Jewel | [Midas' Sword] &#160;Midas' Sword, [Midas Staff] &#160;Midas Staff | Byron's Compassion (Gilded) Killing a mob has a rare chance to grant Coins to a nearby player.
+| | | | | 8&#160;&#xe002;&#160;Ability Damage
+75&#160;&#xe00d;&#160;Strength
+75&#160;&#xe050;&#160;Damage | 10&#160;&#xe002;&#160;Ability Damage
+90&#160;&#xe00d;&#160;Strength
+90&#160;&#xe050;&#160;Damage | 
+
+| Warped | [Warped Stone] &#160;Warped Stone | [Aspect of the End] &#160;Aspect of the End, [Aspect of the Void] &#160;Aspect of the Void | | 165&#160;&#xe050;&#160;Damage
+165&#160;&#xe00d;&#160;Strength | 165&#160;&#xe050;&#160;Damage
+165&#160;&#xe00d;&#160;Strength | 165&#160;&#xe050;&#160;Damage
+65&#160;&#xe003;&#160;Intelligence
+165&#160;&#xe00d;&#160;Strength | 165&#160;&#xe050;&#160;Damage
+100&#160;&#xe003;&#160;Intelligence
+165&#160;&#xe00d;&#160;Strength | 165&#160;&#xe050;&#160;Damage
+150&#160;&#xe003;&#160;Intelligence
+165&#160;&#xe00d;&#160;Strength | 165&#160;&#xe050;&#160;Damage
+150&#160;&#xe003;&#160;Intelligence
+165&#160;&#xe00d;&#160;Strength | 
+
+| Withered | [Wither Blood] &#160;Wither Blood | | Withered Bonus
+Grants +1  Strength per Catacombs skill level you have.
+| 60&#160;&#xe00d;&#160;Strength | 75&#160;&#xe00d;&#160;Strength | 90&#160;&#xe00d;&#160;Strength | 110&#160;&#xe00d;&#160;Strength | 135&#160;&#xe00d;&#160;Strength | 170&#160;&#xe00d;&#160;Strength | 220&#160;&#xe00d;&#160;Strength
+
+| Bulky | [Bulky Stone] &#160;Bulky Stone | | | 4&#160;&#xe010;&#160;Health
+2&#160;&#xe008;&#160;Defense | 6&#160;&#xe010;&#160;Health
+3&#160;&#xe008;&#160;Defense | 9&#160;&#xe010;&#160;Health
+5&#160;&#xe008;&#160;Defense | 12&#160;&#xe010;&#160;Health
+8&#160;&#xe008;&#160;Defense | 15&#160;&#xe010;&#160;Health
+13&#160;&#xe008;&#160;Defense | 20&#160;&#xe010;&#160;Health
+21&#160;&#xe008;&#160;Defense | 25&#160;&#xe010;&#160;Health
+30&#160;&#xe008;&#160;Defense
+
+| Fanged | [Full-Jaw Fanging Kit] &#160;Full-Jaw Fanging Kit | | Fanged Bonus
+Every 7th melee hit on a mob deals +100%  damage.
+| 30&#160;&#xe00d;&#160;Strength
+1&#160;&#xe028;&#160;Vitality
+2&#160;&#xe001;&#160;Attack Speed
+3&#160;&#xe02c;&#160;Crit Chance | 35&#160;&#xe00d;&#160;Strength
+1&#160;&#xe028;&#160;Vitality
+3&#160;&#xe001;&#160;Attack Speed
+4&#160;&#xe02c;&#160;Crit Chance | 40&#160;&#xe00d;&#160;Strength
+2&#160;&#xe028;&#160;Vitality
+4&#160;&#xe001;&#160;Attack Speed
+5&#160;&#xe02c;&#160;Crit Chance | 50&#160;&#xe00d;&#160;Strength
+3&#160;&#xe028;&#160;Vitality
+6&#160;&#xe001;&#160;Attack Speed
+7&#160;&#xe02c;&#160;Crit Chance | 60&#160;&#xe00d;&#160;Strength
+4&#160;&#xe028;&#160;Vitality
+9&#160;&#xe001;&#160;Attack Speed
+8&#160;&#xe02c;&#160;Crit Chance | 65&#160;&#xe00d;&#160;Strength
+5&#160;&#xe028;&#160;Vitality
+10&#160;&#xe001;&#160;Attack Speed
+10&#160;&#xe02c;&#160;Crit Chance | 75&#160;&#xe00d;&#160;Strength
+12&#160;&#xe028;&#160;Vitality
+12&#160;&#xe001;&#160;Attack Speed
+12&#160;&#xe02c;&#160;Crit Chance
+
+| Coldfused | [Entropy Suppressor] &#160;Entropy Suppressor | [Twilight Dagger] &#160;Twilight Dagger, [Mawdredge Dagger] &#160;Mawdredge Dagger, [Deathripper Dagger] &#160;Deathripper Dagger, [Firedust Dagger] &#160;Firedust Dagger, [Kindlebane Dagger] &#160;Kindlebane Dagger, [Pyrochaos Dagger] &#160;Pyrochaos Dagger | Coldfused Bonus
++75 Strength +55 Crit Damage Deal +1 Damage to Fire Pillars. Breaking one grants +30 True Defense and +15%  Damage for 60s.
+| 90&#160;&#xe007;&#160;Crit Damage
+75&#160;&#xe00d;&#160;Strength | 95&#160;&#xe007;&#160;Crit Damage
+85&#160;&#xe00d;&#160;Strength | 100&#160;&#xe007;&#160;Crit Damage
+95&#160;&#xe00d;&#160;Strength | 110&#160;&#xe007;&#160;Crit Damage
+105&#160;&#xe00d;&#160;Strength | 120&#160;&#xe007;&#160;Crit Damage
+115&#160;&#xe00d;&#160;Strength | 130&#160;&#xe007;&#160;Crit Damage
+125&#160;&#xe00d;&#160;Strength | 140&#160;&#xe007;&#160;Crit Damage
+145&#160;&#xe00d;&#160;Strength
+
+| Jerry's | [Jerry Stone] &#160;Jerry Stone | [Aspect of the Jerry] &#160;Aspect of the Jerry, [Aspect of the Jerry Signature Edition] &#160;Aspect of the Jerry Signature Edition | | 25&#160;&#xe00d;&#160;Strength
+50&#160;&#xe007;&#160;Crit Damage
+10&#160;&#xe02c;&#160;Crit Chance | 25&#160;&#xe00d;&#160;Strength
+50&#160;&#xe007;&#160;Crit Damage
+10&#160;&#xe02c;&#160;Crit Chance | 25&#160;&#xe00d;&#160;Strength
+50&#160;&#xe007;&#160;Crit Damage
+10&#160;&#xe02c;&#160;Crit Chance | 25&#160;&#xe00d;&#160;Strength
+50&#160;&#xe007;&#160;Crit Damage
+10&#160;&#xe02c;&#160;Crit Chance | 25&#160;&#xe00d;&#160;Strength
+50&#160;&#xe007;&#160;Crit Damage
+10&#160;&#xe02c;&#160;Crit Chance | 25&#160;&#xe00d;&#160;Strength
+50&#160;&#xe007;&#160;Crit Damage
+10&#160;&#xe02c;&#160;Crit Chance | 25&#160;&#xe00d;&#160;Strength
+50&#160;&#xe007;&#160;Crit Damage
+10&#160;&#xe02c;&#160;Crit Chance
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Reforging/Sword?oldid=856098"
+
+Hidden categories: 
+- Pages using Attack Speed
+- Pages using Strength
+- Pages using Intelligence
+- Pages using Crit Chance
+- Pages using Crit Damage
+- Pages using Ferocity
+- Pages using Damage
+- Pages using Ability Damage
+- Pages using Health
+- Pages using Defense
+- Pages using Vitality
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Page
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+3h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+- View buckets
+
+- This page was last edited on 10 October 2026, at 14:49.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]

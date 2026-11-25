@@ -1,5 +1,6 @@
-/* Szenenbild nur im Profil-Bereich: fest hinter der Seite, oben sichtbar,
-   nach unten ins Dunkle ausgeblendet. Bild: public/themes/profile-village-2x.jpg (austauschbar). */
+/* Szenenbild nur im Classic-Design (Variable --scene-display in globals.css): fest hinter der Seite,
+   oben sichtbar, nach unten ins Dunkle ausgeblendet. Im Winter-Design liegt das Hintergrundbild auf
+   der ganzen Seite (body::before in globals.css). Bild: public/themes/profile-village-2x.jpg (austauschbar). */
 .scene {
   position: fixed;
   top: 0;
@@ -7,6 +8,7 @@
   right: 0;
   height: 80vh;
   z-index: -1;
+  display: var(--scene-display, none);
   pointer-events: none;
   background:
     linear-gradient(to bottom, rgb(12 15 21 / 0.1) 0%, rgb(12 15 21 / 0.5) 55%, var(--background) 100%),

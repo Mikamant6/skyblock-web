@@ -1,0 +1,1899 @@
+Tutorial:Foraging Guide - Hypixel SkyBlock Wiki
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Tutorial:Foraging Guide
+
+From Hypixel SkyBlock Wiki
+
+Jump to navigation
+Jump to search
+
+- This tutorial is a guide.
+
+- This tutorial has been assembled by members of the community as a helpful resource or Tutorial, instructing players on SkyBlock, and thus is not official.
+
+- If you see missing, incorrect or out of date information, please help by contributing to the page.
+
+This is a general guide for the &#160;Foraging skill. It does not include strategies for &#160;Fishing on &#xe067; Galatea or &#160;Hunting. &#160;Foraging is arguably the easiest skill for a new player to get into, as it is rather simple and levels up quickly.
+
+## Contents
+
+- 1 Foraging Stats
+
+- 2 General Progression
+
+- 2.1 The Park
+
+- 2.2 Moonglade Marsh
+
+- 2.3 Torrhus Canyon
+
+- 2.4 Leveling
+
+- 3 The Park
+
+- 4 Galatea
+
+- 4.1 Starlyn Contests
+
+- 4.1.1 Moonglade Marsh
+
+- 4.1.1.1 Points from Activities
+
+- 4.1.1.2 Brackets
+
+- 4.1.2 Torrhus Canyon
+
+- 4.1.2.1 Points from Activities
+
+- 4.1.2.2 Brackets
+
+- 4.2 Strategies
+
+- 4.3 Agatha's and Miria's Shops
+
+- 4.4 Throwing Axes
+
+- 4.5 Styles
+
+- 4.6 Starborn Temples
+
+- 4.7 Beacons
+
+- 4.8 Forest Essence Shop
+
+- 4.9 Foraging Items and Upgrades
+
+- 4.9.1 Axe Progression
+
+- 4.9.2 Armor Progression
+
+- 4.9.3 Equipment Progression
+
+- 4.9.4 Boosters
+
+- 4.9.5 Enchantments
+
+- 4.9.6 Other Upgrades
+
+- 4.9.7 Pets
+
+- 4.9.8 Accessories
+
+- 4.9.9 Other Useful Items
+
+- 4.10 Heart of the Forest
+
+- 4.10.1 Perks
+
+- 4.10.1.1 Tier 1
+
+- 4.10.1.2 Tier 2
+
+- 4.10.1.3 Tier 3
+
+- 4.10.1.4 Tier 4
+
+- 4.10.1.5 Tier 5
+
+- 4.10.1.6 Tier 6
+
+- 4.10.1.7 Tier 7
+
+- 4.10.1.8 Tier 8
+
+- 4.10.2 Optimal Tree
+
+- 4.11 Attribute Shards
+
+- 4.11.1 Moonglade Marsh and Other Islands
+
+- 4.11.2 Torrhus Canyon
+
+- 5 Navigation
+
+## Foraging Stats
+[edit | edit source]
+
+Unlike other skills such as &#160;Combat, there are only 4&#160;Foraging Stats: &#xe023;&#160;Sweep, &#xe054;&#160;Foraging Fortune, ☯&#160;Foraging Wisdom and &#xe02e;&#160;Timber.
+
+| Stat
+
+| Description
+
+| Formulas
+
+| &#xe023;&#160;Sweep
+
+| &#xe023;&#160;Sweep increases how many blocks are broken with each chop. For example, 10&#160;&#xe023;&#160;Sweep would break 10 logs at a time. However, some trees have higher ⧉&#160;Toughness, which reduces the effect of &#xe023;&#160;Sweep.
+The scaling is logarithmic, meaning the more &#xe023;&#160;Sweep you have, the less effect getting more &#xe023;&#160;Sweep has. Throwing an Axe gives a 50% &#xe023;&#160;Sweep penalty.
+
+&#xe023;&#160;Sweep also affects how fast you can break a log, making it very useful.
+
+| There is no consistent formula for blocks broken. See the required values here.
+Ticks to break=⌊20011×ToughnessSweep⌋
+
+| &#xe054;&#160;Foraging Fortune
+
+| &#xe054;&#160;Foraging Fortune increases the chance to get multiple logs per drop. When paired with high &#xe023;&#160;Sweep, this can lead to a high quantity of logs being obtained at a time.
+
+| Guaranteed Extra Logs=⌊Foraging Fortune100⌋
+Chance For 1 Additional Log=(Foraging Fortune)mod100
+
+| ☯&#160;Foraging Wisdom
+
+| ☯&#160;Foraging Wisdom increases the amount of &#160;Foraging&#160;XP gained. If you want to get to high &#160;Foraging levels, it is best to get a high amount of ☯&#160;Foraging Wisdom.
+
+| ForagingXPGained=BaseForagingXP×(1+ForagingWisdom100)
+
+| &#xe02e;&#160;Timber
+
+| &#xe02e;&#160;Timber grants a chance for the entire tree to be felled on the first melee axe cut. It only rolls once per tree and has 3 sources currently in the game. It is important to increase this stat as it decreases the average time spent at each tree.
+
+| 
+
+## General Progression
+[edit | edit source]
+
+This section goes over each part of progression generally; the rest of the guide should also be read to get an idea of what upgrades to get specifically.
+
+To start the &#160;Foraging Skill, talk to [A sprite icon representing Lumber Jack in Hypixel SkyBlock] Lumber Jack and complete his quest. You should also buy a &#160;Beginner Foraging Sack from the [A sprite icon representing Lumber Merchant in Hypixel SkyBlock] Lumber Merchant for 250 Coins.
+
+### The Park
+[edit | edit source]
+
+&#xe067; The Park is an area split up into five sections, each for a different type of wood. Simply progress through the quests on each island to obtain a full set of &#160;Park Armor. You should also craft yourself a &#160;Spruce Axe with [Spruce Log] &#160;96x&#160;Spruce Logs. Continue breaking Jungle Trees until you are &#160;Foraging&#160;XII (12). Craft an &#160;Ocelot Pet as it is useful for ☯&#160;Foraging Wisdom. You could also consider upgrading to a &#160;Small Foraging Sack.
+
+### Moonglade Marsh
+[edit | edit source]
+
+If on a Classic profile, buy a &#160;Fig Hew immediately after unlocking the &#xe067; Moonglade Marsh, and &#160;Fig Armor immediately after getting &#160;Foraging&#160;XV (15). If on an ♲&#160;Ironman profile, use a &#160;Seriously Damaged Axe instead, until you have enough materials to craft a &#160;Fig Hew, and buy &#160;Canopy Armor. Do only Fig Trees at this point. Focus on upgrading to a &#160;Figstone Splitter. If you do not have enough materials for it after getting &#160;Foraging&#160;XV (15), buying them from the Bazaar is a good option. Start getting some of the cheaper upgrades, such as Shards, Reforges and Enchantments. Focus on Starlyn Contests and HotF progression.
+
+### Torrhus Canyon
+[edit | edit source]
+
+The next &#160;Foraging island, the &#xe067; Torrhus Canyon is unlocked at HotF Tier 4. However, it should not be moved to immediately, due to the high ⧉&#160;Toughness making the Helix Trees hard to cut quickly. Some of the Attribute Shards there can be very useful back on the &#xe067; Moonglade Marsh, so they should be obtained immediately after unlocking the &#xe067; Torrhus Canyon. The important ones that are easy to obtain are &#160;Solar Shards, &#160;Ember Shards and &#160;Pangolin Shards. You can also follow others who are cutting down trees and hunt the mobs that spawn with a &#160;Lasso to get &#160;Groundhog Shards, &#160;Puck Shards, &#160;Drybark Shards and &#160;Grizzly Bear Shards. Once you reach 600&#160;&#xe023;&#160;Sweep (or less on ♲&#160;Ironman), you can move to the &#xe067; Torrhus Canyon as your main island. Get &#160;Helix Chopper and &#160;Helix Armor as soon as possible. Follow similar strategies as on the &#xe067; Moonglade Marsh of progressing through [A sprite icon representing Miria in Hypixel SkyBlock] Miria's shop and getting the best value upgrades you haven't gotten already.
+
+### Leveling
+[edit | edit source]
+
+&#160;Foraging is a fairly quick skill to level up, making it good for beginners. To level up as fast as possible, maximising your ☯&#160;Foraging Wisdom is key. The easiest way to do this initially is to use an &#160;Ocelot Pet. Apart from that, nothing special should be done to get &#160;Foraging&#160;XP faster. Once you reach &#160;Foraging&#160;L (50), the level cap needs to be increased to level up further. +1 level cap can be obtained from each of the &#160;Fig Log, &#160;Mangrove Log and &#160;Helix Log collections at Level IX, +2 can be obtained from [A sprite icon representing Agatha in Hypixel SkyBlock] Agatha's shop, and +2 can be obtained from [A sprite icon representing Miria in Hypixel SkyBlock] Miria's shop. It costs &#160;750&#160;Agatha's Coupon, &#160;7&#160;Agatha's Prize, &#160;750&#160;Miria's Coupon and &#160;7&#160;Miria's Prize in total.
+
+## The Park
+[edit | edit source]
+
+Main page: The Park
+
+&#xe067; The Park is an area split up into five sections, each for a different type of wood. A short quest needs to be completed to get to the next section, and either a piece of &#160;Park Armor or a &#160;Campfire Initiate Badge is given.
+
+- The &#xe067; Birch Park contains &#160;Birch, whose collection most notably has the &#160;Foraging Sack. It also has a pond for fishing, and you can give coins to [A sprite icon representing Vanessa in Hypixel SkyBlock] Vanessa to make it rain and spawn [A sprite icon representing Squid in Hypixel SkyBlock] Squids.
+
+- The &#xe067; Spruce Woods contains &#160;Spruce, whose collection most notably has the &#160;Spruce Axe and &#160;Wolf Pet. You can start the Woods Race here, and talk to the [A sprite icon representing Melancholic Viking in Hypixel SkyBlock] Melancholic Viking and complete his quest for some items that may have niche uses.
+
+- The &#xe067; Dark Thicket contains &#160;Dark Oak, whose collection most notably has the &#160;Armor of Growth that upgrades into &#160;Mastiff Armor. The Trials of Fire can be found here, as well as the &#xe067; Howling Cave, a zone for Wolf Slayer.
+
+- The &#xe067; Savanna Woodland contains &#160;Acacia, whose collection has the &#160;Repelling Candle and &#160;Acacia Birdhouse. [A sprite icon representing Master Tactician Funk in Hypixel SkyBlock] Master Tactician Funk is found here, who sells items. The &#xe067; Soul Cave, another zone for Wolf Slayer can also be found here. [A sprite icon representing Melody in Hypixel SkyBlock] Melody, along with the Harp is also present here.
+
+- The &#xe067; Jungle Island contains &#160;Jungle Wood, whose collection has the &#160;Treecapitator and the &#160;Ocelot Pet. The Romero and Juliette quest can be found and started here, as well as the &#xe067; Spirit Cave, another zone for Wolf Slayer. This island is also where [A sprite icon representing Juliette in Hypixel SkyBlock] Juliette resides, the starting point of the &#160;Ring of Love quest.
+
+## Galatea
+[edit | edit source]
+
+Main page: Galatea
+
+Upon entering the &#xe067; Moonglade Marsh for the first time, you'll be introduced to Starlyn Contests, Tree Gifts, the Heart of the Forest, and &#160;Hunting.
+
+- Starlyn Contests are contests held by the Starlyn Sisters where you accumulate points by doing activities on &#xe067; Galatea, similar to Jacob's Farming Contests.
+
+- Tree Gifts are rewards given to the player after finishing chopping down trees in &#xe067; Galatea. They have to cut at least 10% of the tree to get any rewards, 20% to get 50% more rewards, or 33% to get double rewards. Rewards include Heart of the Forest XP, &#160;Foraging XP, Forest Whispers or Desert Whispers, and rare drops.
+
+- &#160;Hunting is a skill where players hunt creatures through a multitude of different methods for Attribute Shards, which grant buffs. This tutorial will not cover &#160;Hunting, but it will give information on what Attribute Shards are good for &#160;Foraging.
+
+### Starlyn Contests
+[edit | edit source]
+
+Main page: Starlyn Contests
+
+[A sprite icon representing Agatha in Hypixel SkyBlock] Agatha (on the &#xe067; Moonglade Marsh) and [A sprite icon representing Miria in Hypixel SkyBlock] Miria (on the &#xe067; Torrhus Canyon) host Starlyn Contests, rewarding points for doing different activities. They last for 1 day in SkyBlock Time, which translates to 20 minutes in real life, and there is no break in between contests.
+
+#### Moonglade Marsh
+[edit | edit source]
+
+##### Points from Activities
+[edit | edit source]
+
+| Activity
+
+| Method
+
+| Points Given
+
+| Cutting Trees
+
+| Per Tree Gift
+
+| 10
+
+| Per &#160;100&#160;Fig Logs
+
+| 3
+
+| Per &#160;100&#160;Mangrove Logs
+
+| 6
+
+| Hunting Creatures
+
+| Various
+
+| 3-48
+
+| Fishing
+
+| Per Sea Creature
+
+| 10
+
+| Per Treasure
+
+| 25
+
+| Per Catch
+
+| 4
+
+| Combat
+
+| Per Creature Killed
+
+| 8
+
+| Gathering Resources
+
+| Per &#160;Lushlilac
+
+| 9
+
+| Per &#160;Sea Lumies
+
+| 2
+
+##### Brackets
+[edit | edit source]
+
+| Bracket
+
+| Points
+
+| COMMON
+
+| 25
+
+| UNCOMMON
+
+| 250
+
+| RARE
+
+| 1000
+
+| EPIC
+
+| 2000
+
+| LEGENDARY
+
+| 3000
+
+| MYTHIC
+
+| 5000
+
+| DIVINE
+
+| 8000
+
+| SPECIAL
+
+| 12000
+
+#### Torrhus Canyon
+[edit | edit source]
+
+##### Points from Activities
+[edit | edit source]
+
+| Activity
+
+| Method
+
+| Points Given
+
+| Cutting Trees
+
+| Per Tree Gift
+
+| 10
+
+| Per &#160;100&#160;Helix Logs
+
+| 9
+
+| Hunting Creatures
+
+| Per COMMON Shard
+
+| 9
+
+| Per UNCOMMON Shard
+
+| 25
+
+| Per RARE Shard
+
+| 50
+
+| Per EPIC Shard
+
+| 100
+
+| Per LEGENDARY Shard
+
+| 200
+
+| Fishing
+
+| Per Sea Creature
+
+| 10
+
+| Per Catch
+
+| 10
+
+| Per GOOD Treasure Catch
+
+| 50
+
+| Per GREAT Treasure Catch
+
+| 250
+
+| Per OUTSTANDING Treasure Catch
+
+| 750
+
+| Combat
+
+| Per Creature Killed
+
+| 4
+
+| Gathering Resources
+
+| Per &#160;Honeycomb
+
+| 1
+
+| Per &#160;Ruby Veilshroom
+
+| 8
+
+##### Brackets
+[edit | edit source]
+
+| Bracket
+
+| Points
+
+| COMMON
+
+| 50
+
+| UNCOMMON
+
+| 250
+
+| RARE
+
+| 1000
+
+| EPIC
+
+| 2500
+
+| LEGENDARY
+
+| 5000
+
+| MYTHIC
+
+| 10000
+
+| DIVINE
+
+| 15000
+
+| SPECIAL
+
+| 20000
+
+### Strategies
+[edit | edit source]
+
+- &#160;Lushlilac bushes gives 9 points each harvested, which can easily allow for anyone with an &#160;Aspect of the End to reach LEGENDARY in the contest. Additionally, the Berry Enjoyer attribute from the &#160;Bullfrog Shard has a chance to double points acquired from this method, which can allow even MYTHIC scores to be obtained consistently. However, this makes next to zero coins, and thus is not recommended past the early game.
+
+- At low &#xe023;&#160;Sweep values, only Fig Trees are worth going for. Despite granting more points, Mangrove Trees shouldn't be gone for until having at least 300&#160;&#xe023;&#160;Sweep, due to having much higher ⧉&#160;Toughness.
+
+- On the &#xe067; Torrhus Canyon, chopping Helix Trees is by far the best strategy. The amount of points Tree Gifts give is basically negligible, so larger trees are more efficient for contests specifically.
+
+- Floor Drops can be found as particles in the ground, which you should never ignore as they can give &#160;Mudworm Shards or high amounts of &#160;Fig Logs, &#160;Mangrove Logs or &#160;Helix Logs, as well as Desert Whispers on the &#xe067; Torrhus Canyon.
+
+- &#160;Fishing, especially when combined with catching most sea creatures via a &#160;Pocket Black Hole, can provide high amounts of points, but is not a consistently viable strategy to use for LEGENDARY results unless you have a good setup.
+
+- Killing [A sprite icon representing Chillblade in Hypixel SkyBlock] Chillblades and [A sprite icon representing Chillshot in Hypixel SkyBlock] Chillshots can give a high amount of points, and are needed for other items.
+
+### Agatha's and Miria's Shops
+[edit | edit source]
+
+[A sprite icon representing Agatha in Hypixel SkyBlock] Agatha's and [A sprite icon representing Miria in Hypixel SkyBlock] Miria's Shops can give valuable items and boosts that help with progression. Most things are bought with &#160;Agatha's or &#160;Miria's Coupons.
+
+Other than items, the most important things from the shop are Agatha's/Miria's Power, Fig/Mangrove/Helix Personal Best and Fig/Mangrove/Helix Fortune. Agatha's and Miria's Power grants +25&#160;&#xe023;&#160;Sweep each, a significant boost, and cost &#160;200&#160;Agatha's/&#160;Miria's Coupons to max. The Fig/Mangrove/Helix Personal Best perks require increasing the collection of each log during a contest, with a max of 100,000 collection, giving +10%&#160;&#xe023;&#160;Sweep each, for a total of +30% global &#xe023;&#160;Sweep. The Fig/Mangrove/Helix Fortune perks give &#xe054;&#160;Foraging Fortune for each type of wood, as the names suggest. They give up to 200&#160;&#xe054;&#160;Foraging Fortune for the wood types each, but the later tiers cost a lot of &#160;Coupons and materials.
+
+### Throwing Axes
+[edit | edit source]
+
+Axes can be thrown to chop logs from afar. They have a cooldown and the amount of logs that they cut is reduced by 50%. This makes throwing your axe repeatedly inefficient. There are upgrades that reduce the cooldown and the penalty, but they should still only be thrown occasionally.
+
+### Styles
+[edit | edit source]
+
+Different types of trees have different ways that they need to be cut to be more efficient. If a tree is cut in the wrong way, the amount of logs you cut will be reduced by 50%.
+
+Fig Trees should be cut with the trunk first, then the branches.
+
+Mangrove Trees should be cut with the branches first, then the trunk, then the roots.
+
+Helix Trees should be cut with the beige logs first, then the red logs.
+
+It does not matter how every other type of tree is cut.
+
+### Starborn Temples
+[edit | edit source]
+
+Main page: Starborn Temple
+
+The Starborn Temples are places on the &#xe067; Moonglade Marsh and the &#xe067; Torrhus Canyon that take donations to grant useful temporary buffs and make you a Benefactor. You must first complete a puzzle near or inside the temple to unlock it. Unlocking a Temple for the first time also gives you a permanent stat boost that is dependent on how many people are currently a Benefactor. The &#xe067; Forest Temple on the &#xe067; Moonglade Marsh grants &#160;Foraging buffs, whereas the &#xe067; Desert Temple on the &#xe067; Torrhus Canyon grants &#160;Hunting buffs. A player cannot be a Benefactor to both Temples at the same time.
+
+### Beacons
+[edit | edit source]
+
+Main page: Moonglade Beacon
+
+There are 2 Beacons, one on the &#xe067; Torrhus Canyon and one on the &#xe067; Moonglade Marsh. Players can tune the Beacons through a minigame, giving it 1 Stack each, lasting 20 minutes. Each Stack gives a base of +0.5&#160;&#xe054;&#160;Foraging Fortune for the types of wood on the island to all players on the island, up to a max of 20 Stacks. &#160;Beaconmite Shards can rarely be found when tuning a Beacon, which make Beacons stronger and give a chance to drop &#160;Signal Enhancers from Tree Gifts. The Beacons can be upgraded using &#160;Signal Enhancers by doing a more difficult minigame, costing &#160;10&#160;Signal Enhancers each to max. This grants +10&#160;&#xe054;&#160;Foraging Fortune per Stack.
+
+### Forest Essence Shop
+[edit | edit source]
+
+Main page: Forest Essence
+
+The Forest Essence Shop, accessed through [A sprite icon representing Rosemary in Hypixel SkyBlock] Rosemary on the &#xe067; Moonglade Marsh can provide useful buffs such as more &#xe054;&#160;Foraging Fortune or ☯&#160;Foraging Wisdom. However, it is not as important as HotF or Attribute Shards. It costs [Forest Essence] &#160;34,875x&#160;Forest Essence to max every &#160;Foraging perk. Try to balance the Axed, Lumberjack and Forest Training Perks by spending a similar amount of Essence on each of them.
+
+### Foraging Items and Upgrades
+[edit | edit source]
+
+#### Axe Progression
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| [Promising Axe] 
+
+| Promising Axe
+
+| 
+
+| Should only be used until you get a &#160;Spruce Axe.
+
+| [Spruce Axe] 
+
+| Spruce Axe
+
+| 
+
+| Will likely be your first introduction to &#xe023;&#160;Sweep. It will be your main axe on the park until you obtain a &#160;Treecapitator or any of the axes obtainable after unlocking &#xe067; Galatea.
+
+| [Treecapitator] 
+
+| Treecapitator
+
+| 
+
+| The upgrade of the &#160;Spruce Axe and an optional axe in the progression, with stats in between the &#160;Fig Hew and &#160;Figstone Splitter. Its ability grants +100&#160;&#xe054;&#160;Foraging Fortune while on &#xe067; The Park, significantly more than any other axe. As a result, it is arguably the best axe while in &#xe067; The Park.
+
+| [Seriously Damaged Axe] 
+
+| Seriously Damaged Axe
+
+| &#160;Foraging&#160;XII (12)
+
+| The first axe on &#xe067; Galatea. It is worse than the &#160;Treecapitator even without its &#xe054;&#160;Foraging Fortune.
+
+| [Decent Axe] 
+
+| Decent Axe
+
+| &#160;Foraging&#160;XV (15)
+
+| The upgrade to the &#160;Seriously Damaged Axe. It is worse than an upgraded &#160;Fig Hew but is generally better on Bingo profiles as it is far easier to obtain in the early game.
+
+| [Fig Hew] 
+
+| Fig Hew
+
+| &#160;Foraging&#160;XII (12)
+
+| While it may seem worse than the &#160;Decent Axe at first, due to having less &#xe023;&#160;Sweep, its ability give it an additional +1&#160;&#xe023;&#160;Sweep per 2,000 logs chopped on &#xe067; Galatea with a maximum of +20&#160;&#xe023;&#160;Sweep. It is the first in the &#xe067; Galatea axe upgrade line.
+
+| [Figstone Splitter] 
+
+| Figstone Splitter
+
+| &#160;Foraging&#160;XV (15)
+
+| The upgrade of the &#160;Fig Hew, and the best axe before unlocking the &#xe067; Torrhus Canyon. Its ability is similar to the &#160;Fig Hew's, but is harder to progress through and has a higher maximum.
+
+| [Helix Chopper] 
+
+| Helix Chopper
+
+| &#160;Foraging&#160;XX (20)
+
+| The upgrade to the &#160;Figstone Splitter and current best axe in the game. It has a similar ability to the other axes in the line, but is again harder to progress through and has an even higher maximum.
+
+#### Armor Progression
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| [Mole Hat] [Kelly's T-Shirt] [Charlie's Trousers] [Melody's Shoes] 
+
+| Park Armor
+
+| 
+
+| The first set you'll obtain, it should be used before unlocking &#xe067; Galatea.
+
+| [Canopy Mask] [Canopy Shirt] [Canopy Pants] [Canopy Sandals] 
+
+| Canopy Armor
+
+| &#160;Foraging&#160;XII (12)
+
+| Although not giving base &#xe054;&#160;Foraging Fortune, it grants +24&#160;&#xe023;&#160;Sweep and can have Boosters applied to it. If you are not playing ♲ Ironman, then buying &#160;Fig Armor is more optimal as it is not that much more expensive and has better stats.
+
+| [Fig Cap] [Figmail] [Fig Trousers] [Fig Striders] 
+
+| Fig Armor
+
+| &#160;Foraging&#160;XV (15)
+
+| The best set for &#160;Foraging before unlocking the &#xe067; Torrhus Canyon. It has one &#xe054; Citrine Slot.
+
+| [Primordial Boots] 
+
+| Primordial Boots
+
+| Spider Slayer&#160;VII (7)
+
+| Double Jump is useful to reach the branches of the tall Fig Trees. Many foragers often use this instead of Ether Transmission or &#160;Scaffolding. Its downgrades (&#160;Spider's Boots and &#160;Tarantula Boots) are viable for earlier in the game, though not as good due to having higher &#xe003;&#160;Mana costs.
+
+| [Helix Helmet] [Helix Chestplate] [Helix Leggings] [Helix Boots] 
+
+| Helix Armor
+
+| &#160;Foraging&#160;XXV (25)
+
+| The best &#160;Foraging armor in the game. It also has an additional &#xe054; Citrine Slot than &#160;Fig Armor, leading to a higher possible &#xe054;&#160;Foraging Fortune.
+
+#### Equipment Progression
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| [David's Cloak] 
+
+| David's Cloak
+
+| 
+
+| Upgrades its stats with &#160;Hunting milestones and is the best cloak for many stats. It is used throughout all of &#160;Foraging, as well as being useful in other skills as well.
+
+| [Mangrove Locket] 
+
+| Mangrove Locket
+
+| &#160;Foraging&#160;XII (12)
+
+| The Mangrove Set.
+
+| [Mangrove Grippers] 
+
+| Mangrove Grippers
+
+| [Moonglade Belt] 
+
+| Moonglade Belt
+
+| Grants +5% points, useful for Starlyn Contests. It should be the second piece of &#160;Foraging equipment obtained.
+
+| [Torrhus Belt] 
+
+| Torrhus Belt
+
+| &#160;Foraging&#160;XXIV (24)
+
+| Upgrade to the &#160;Moonglade Belt. It grants +10% more points towards Starlyn Contests.
+
+| [Honeycomb Necklace] 
+
+| Honeycomb Necklace
+
+| &#160;Foraging&#160;XXX (30)
+
+| Upgrades from the Mangrove Set. The recipe for each is unlocked after completing their associated collection. The recipes can be expensive, so other upgrades should be focused on first.
+
+| [Veilshroom Bracelet] 
+
+| Veilshroom Bracelet
+
+#### Boosters
+[edit | edit source]
+
+Boosters can be applied to &#160;Foraging gear in an anvil for stat bonuses. The COMMON variant of a Booster has to be already applied in order to upgrade it to UNCOMMON. The stats that Boosters grant depend on what type of item it is applied to. Axes give the most, then armor, then equipment, so it is recommended to apply Boosters in that order.
+
+| Slot
+
+| Name
+
+| Notes
+
+| [Common Sweep Booster] 
+
+| Common Sweep Booster
+
+| Obtained from Tree Gifts and grants additional &#xe023;&#160;Sweep.
+
+| [Common Foraging Fortune Booster] 
+
+| Common Foraging Fortune Booster
+
+| Purchased from [A sprite icon representing Sawyer in Hypixel SkyBlock] Sawyer and grants additional &#xe054;&#160;Foraging Fortune.
+
+| [Common Foraging Wisdom Booster] 
+
+| Common Foraging Wisdom Booster
+
+| Obtained from Tree Gifts and grants additional ☯&#160;Foraging Wisdom.
+
+| [Uncommon Sweep Booster Upgrade] 
+
+| Uncommon Sweep Booster Upgrade
+
+| Purchased from [A sprite icon representing Maxim in Hypixel SkyBlock] Maxim on the &#xe067; Torrhus Canyon, granting greater &#xe023;&#160;Sweep than its COMMON variant.
+
+| [Uncommon Foraging Fortune Booster Upgrade] 
+
+| Uncommon Foraging Fortune Booster Upgrade
+
+| Purchased from [A sprite icon representing Maxim in Hypixel SkyBlock] Maxim on the &#xe067; Torrhus Canyon, granting greater &#xe054;&#160;Foraging Fortune than its COMMON variant.
+
+| [Uncommon Foraging Wisdom Booster Upgrade] 
+
+| Uncommon Foraging Wisdom Booster Upgrade
+
+| Purchased from [A sprite icon representing Maxim in Hypixel SkyBlock] Maxim on the &#xe067; Torrhus Canyon, granting greater ☯&#160;Foraging Wisdom than its COMMON variant.
+
+#### Enchantments
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Effect
+
+| Notes
+
+| [First Impression] 
+
+| First Impression
+
+| Extra &#xe023;&#160;Sweep
+
+| The best Ultimate Enchantment. Obtained from Tree Gifts on the &#xe067; Moonglade Marsh.
+
+| [Missile] 
+
+| Missile
+
+| Reduced penalty for throwing your Axe
+
+| Generally worse than First Impression.
+
+| [Forest Pledge] 
+
+| Forest Pledge
+
+| Extra &#xe054;&#160;Foraging Fortune
+
+| The only &#160;Foraging Enchantment for Armor. Obtained from [A sprite icon representing Agatha in Hypixel SkyBlock] Agatha's shop. Upgraded to Tier 6 with &#160;Water Hyacinth.
+
+| [Petalfall] 
+
+| Petalfall
+
+| Extra &#xe02e;&#160;Timber
+
+| A very useful enchantment that can be a bit expensive. Obtained from [A sprite icon representing Miria in Hypixel SkyBlock] Miria's shop.
+
+| [Karma] 
+
+| Karma
+
+| Gives a chance for Tree Gifts to contain double loot
+
+| A useful enchantment. Obtained from Helix Tree Gifts. Upgraded to Tier 6 with &#160;Forest's Favor.
+
+| [Absorb] 
+
+| Absorb
+
+| A Stacking Enchantment that gives extra ☯&#160;Foraging Wisdom and &#xe054;&#160;Foraging Fortune
+
+| Can be useful and isn't too expensive. It can be very hard to level up to max. It is obtained from the Bits shop, so Ironman players will have to purchase a &#160;Booster Cookie from the Bazaar.
+
+#### Other Upgrades
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Effect
+
+| Notes
+
+| [Moonglade Jewel] 
+
+| Moonglade Reforge
+
+| +10&#160;&#xe054;&#160;Foraging Fortune and +4&#160;☯&#160;Foraging Wisdom on &#160;Helix Chopper
+
+| The best axe Reforge, and its not very expensive.
+
+| [Mangrove Gem] 
+
+| Groovy Reforge
+
+| +5&#160;&#xe054;&#160;Foraging Fortune on each piece of &#160;Helix Armor
+
+| A cheap Reforge that gives a small boost.
+
+| [Marshroom] 
+
+| Marshy Reforge
+
+| Extra &#xe054;&#160;Foraging Fortune and +1% Forest Whispers
+
+| A mid-cost Reforge that gives a small boost.
+
+| [Wood Singularity] 
+
+| Wood Singularity
+
+| +25&#160;&#xe054;&#160;Foraging Fortune
+
+| A large boost for fortune with a relatively cheap cost. It is bought from [A sprite icon representing Master Tactician Funk in Hypixel SkyBlock] Master Tactician Funk.
+
+| [Forest Essence] 
+
+| Star Upgrades
+
+| +2% stats per star
+
+| A cheap upgrade that gives a decent boost.
+
+| [Recombobulator 3000] 
+
+| Recombobulator 3000
+
+| Increases the Rarity by 1, which affects Reforges and Gemstones.
+
+| A late game upgrade that grants small boosts.
+
+| [Perfect Citrine Gemstone] [Flawless Citrine Gemstone] 
+
+| Citrine Gemstones
+
+| +12&#160;&#xe054;&#160;Foraging Fortune for Perfect or +10&#160;&#xe054; for Flawless on Helix gear
+
+| Can grant a significant amount of &#xe054;&#160;Foraging Fortune as 2 can be applied to each piece of armor and your axe, but it can be expensive.
+
+#### Pets
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Notes
+
+| [Ocelot Pet] 
+
+| Ocelot Pet
+
+| The best pet to level &#160;Foraging due to giving +30&#160;☯&#160;Foraging Wisdom at its max level. It is not recommended to upgrade to LEGENDARY, as the EPIC variant provides equal ☯&#160;Foraging Wisdom. This should be the first &#160;Foraging pet obtained.
+
+| [Monkey Pet] 
+
+| Monkey Pet
+
+| Grants decent &#xe054;&#160;Foraging Fortune bonuses, and at LEGENDARY rarity it grants additional &#xe023;&#160;Sweep while in &#xe067; The Park. It is not recommended to upgrade to LEGENDARY, as it has a high cost and the EPIC &#160;Frog Pet outclasses it.
+
+| [Frog Pet] 
+
+| Frog Pet
+
+| Should not be used until it is at least EPIC, which requires Agatha Milestone IV (or it can be bought), as gives minimal &#160;Foraging boosts before then. It is also not recommended to upgrade it to MYTHIC, as it does not give any extra &#160;Foraging boosts.
+
+| [Sloth Pet] 
+
+| Sloth Pet
+
+| Its base &#xe023;&#160;Sweep and &#xe054;&#160;Foraging Fortune bonuses are worse than the &#160;Monkey Pet or &#160;Frog Pet. However, its Starlyn's Favorite ability makes it a very good choice for Starlyn Contests.
+
+| [Jade Dragon Pet] 
+
+| Jade Dragon Pet
+
+| This is by far the best &#160;Foraging pet currently in the game due to its substantial &#xe054;&#160;Foraging Fortune and &#xe023;&#160;Sweep boosts. If you use one, focus on getting 10M Mangrove collection, maxing the other &#160;Foraging Pets and maxing all of the cheapest attributes.
+
+| [Winding Ivy] 
+
+| Winding Ivy
+
+| A pet item that grants +10&#160;&#xe023;&#160;Sweep.
+
+#### Accessories
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Effect
+
+| Notes
+
+| [Lumberjack Artifact] 
+
+| Lumberjack line
+
+| Reduces the cooldown of throwing axes by 5%/10%/15%
+
+| A fairly cheap accessory that can help when throwing your axe.
+
+| [Moonglade Artifact] 
+
+| Moonglade line
+
+| Gives +5/+10/+15 &#xe054;&#160;Fig Fortune and &#xe054;&#160;Mangrove Fortune
+
+| A cheap accessory that gives extra Fortune. It costs [Agatha's Coupon] &#160;90x&#160;Agatha's Coupons in total.
+
+| [Torrhus Artifact] 
+
+| Torrhus line
+
+| Gives +5/+10/+15 &#xe054;&#160;Helix Fortune
+
+| A cheap accessory that gives extra Fortune. It costs [Miria's Coupon] &#160;90x&#160;Miria's Coupons in total.
+
+| [Blue™ but Green Abicase] 
+
+| Blue™ but Green Abicase
+
+| Gives 1.5&#160;☯&#160;Foraging Wisdom
+
+| An expensive accessory that grants only a small buff, so it should not really be focused on.
+
+#### Other Useful Items
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Requirements
+
+| Notes
+
+| [Grappling Hook] 
+
+| Grappling Hook
+
+| 
+
+| A decent early game mobility option, though it quickly becomes useless once you get an &#160;Aspect of the End and have sufficient &#xe003;&#160;Mana to use Instant Transmission consistently.
+
+| [Large Scaffolding] 
+
+| Large Scaffolding
+
+| 
+
+| Can have uses early, but generally once you have enough &#xe023;&#160;Sweep or a &#160;God Potion, it becomes redundant. Lower tiers of Scaffolding are not viable outside of Bingo and Early Ironman.
+
+| [God Potion] 
+
+| God Potion
+
+| 
+
+| More specifically, the Jump Boost and Rabbit effects, though the Speed is very helpful too. Having a high jump height is extremely useful for mobility and reaching high branches without teleporting on top.
+
+| [Booster Cookie] 
+
+| Booster Cookie
+
+| 
+
+| Gives features for convenience and +25&#160;☯&#160;Wisdom for every skill, including &#160;Foraging. It is expensive but gives a large amount of ☯&#160;Foraging Wisdom and useful commands.
+
+| [Aspect of the End] 
+
+| Aspect of the End
+
+| 
+
+| Very useful for teleporting between trees and onto branches, you should have this item regardless due to its utility.
+
+| [Aspect of the Void] 
+
+| Aspect of the Void
+
+| [Long-Expired Century Cake] 
+
+| Long-Expired Century Cake
+
+| 
+
+| Grants +5&#160;&#xe023;&#160;Sweep for 48 hours. Make sure to renew the buff when it runs out. You can also access all cakes on other's Private Islands without having to get them yourself.
+
+| [Cloudy Century Cake] 
+
+| Cloudy Century Cake
+
+| 
+
+| Grants +5&#160;&#xe054;&#160;Foraging Fortune for 48 hours. Make sure to renew the buff when it runs out. You can also access all cakes on other's Private Islands without having to get them yourself.
+
+| [Etherwarp Conduit] 
+
+| Etherwarp Conduit
+
+| Enderman Slayer VII (7)
+
+| Can be used to quickly teleport to far away trees. For foraging specifically, having the item instead of merging with the &#160;Aspect of the Void is better because it will not activate the Double Jump ability of &#160;Primordial Boots.
+
+### Heart of the Forest
+[edit | edit source]
+
+Main page: Heart of the Forest
+
+Heart of the Forest is an upgrade tree similar to Heart of the Mountain that provides very useful buffs. Nodes are unlocked with Tokens of the Forest, and they are upgraded with Forest Whispers or Desert Whispers. You can gain Heart of the Forest XP to progress through the tree, up to Tier 8. Each tier gives Tokens of the Forest to spend and SkyBlock XP. Some nodes are not able to be upgraded past unlocking them. Nodes in Tier 3 and below use Forest Whispers, while nodes in Tier 4 and above use Desert Whispers.
+
+#### Perks
+[edit | edit source]
+
+##### Tier 1
+[edit | edit source]
+
+- Sweep: A very useful perk, granting up to +50&#160;&#xe023;&#160;Sweep. It should be one of the first to be maxed.
+
+##### Tier 2
+[edit | edit source]
+
+- Damage Boost: Not a very useful perk, as damage from axes is generally not a problem.
+
+- Luck of the Forest: A pretty useful perk that can provide a small buff to your Tree Gift loot.
+
+- Foraging Fortune: Another very useful perk, and should be leveled only slightly slower than Sweep. It can grant up to 150&#160;&#xe054;&#160;Foraging Fortune.
+
+- Collector: Not very useful, as farming &#160;Lushlilacs or &#160;Sea Lumies is not profitable.
+
+- Axe Toss: Not very useful, as throwing of axes is slow and inefficient.
+
+##### Tier 3
+[edit | edit source]
+
+- Deep Waters: Useful if you are trying to farm Water Shards or &#160;Sea Lumies, but not useful for Foraging itself.
+
+- Hunter's Luck: Only useful for &#160;Hunting.
+
+- Galatea's Might: Usually not very useful, but can help with the Forest Strength perk.
+
+##### Tier 4
+[edit | edit source]
+
+- Lottery: Gives decent buffs to either &#xe054;&#160;Helix Fortune, &#xe054;&#160;Mangrove Fortune, &#xe054;&#160;Fig Fortune or &#xe023;&#160;Sweep.
+
+- Foraging Madness: A decent buff that should be gotten with spare Tokens.
+
+- Iron Lungs: Useful if you are trying to farm Water Shards, but not useful for Foraging itself.
+
+- 250 Gifts: Can also be useful for getting more loot from Tree Gifts.
+
+- Daily Wishes: Can be useful for getting large amounts of Forest Whispers, and is very cheap to max.
+
+- Early Bird: Gives a significant buff for the first 250 Trees cut per day.
+
+- Precision Cutting: Generally not useful as each log takes a small amount of time to cut, and it is only a small buff.
+
+##### Tier 5
+[edit | edit source]
+
+- Tree Whisperer: Somewhat useful for extra Forest Whispers.
+
+- Center of the Forest: Maxing this perk is very useful because of the Tokens of the Forest and extra &#xe023;&#160;Sweep it gives. You are not able to refund the Forest Whispers you spend on this perk, unlike the other perks.
+
+- Free Trial: Isn't very useful after you are able to get LEGENDARY, as it only gives a &#160;Basic Safari Ticket.
+
+##### Tier 6
+[edit | edit source]
+
+- Homing Axe: Often reported to be bugged and doesn't do anything. Only get it to get to another perk.
+
+- Forest Fisher: Only useful for &#160;Fishing.
+
+- Strength Boost: Mostly only useful when combined with the Forest Strength perk.
+
+- Starlyn Supreme: Very useful for Starlyn Contests, making it easier to get high brackets.
+
+- Speed Boost: Can be useful if you are not already at the cap of 400&#160;&#xe022;&#160;Speed, but other than that it is only useful when combined with the Forest Speed perk.
+
+- Efficient Forager: Quite useful for leveling the &#160;Foraging skill.
+
+- Maniac Slicer: Can be useful for a burst of &#xe023;&#160;Sweep for a short time, but it can be hard to get a large amount of &#xe003;&#160;Mana in a &#160;Foraging setup. Using the Bizarre or Sighted powers can help with this.
+
+##### Tier 7
+[edit | edit source]
+
+- Half Empty: Can be quite useful for extra &#xe054;&#160;Foraging Fortune and &#xe023;&#160;Sweep, but it is dependent on the other players on the island.
+
+- Ricochet: Slightly useful to get a head start on trees around you.
+
+- Half Full: Can be quite useful for extra &#xe054;&#160;Foraging Fortune and &#xe023;&#160;Sweep, but it is dependent on the other players on the island.
+
+##### Tier 8
+[edit | edit source]
+
+- Monster Hunter: Not useful, since hunting monsters don't give very much whispers and aren't used in the first place.
+
+- Forest Speed: Requires maximizing your &#xe022;&#160;Speed stat. Using the Buttery Power and a &#160;God Potion can help with this.
+
+- Essence Fortune: This perk can be useful if you have not maxed the Forest Essence shop yet.
+
+- Timber: This perk is extremely useful, and significantly decreases the average time spent on each tree.
+
+- Two-for-one: This perk is decent for getting more Critter Safari Tickets, but if you do more &#160;Foraging than the Critter Safari, it doesn't do much.
+
+- Forest Strength: Similar to Forest Speed, it requires maximizing you &#xe00d;&#160;Strength. Using the Forceful, Shaded or Strong Accessory Powers can help with this.
+
+- Beekeeper: Slightly useful for &#160;Hunting using Honeycomb and Honeyhives, but not &#160;Foraging.
+
+#### Optimal Tree
+[edit | edit source]
+
+Tier 1: Unlock Sweep.
+
+Tier 2: Unlock Foraging Fortune and Luck of the Forest.
+
+Tier 3: Unlock Collector and Axe Toss.
+
+Tier 4: Reset the Tree and unlock Sweep, Foraging Fortune, Luck of the Forest, Hunter's Luck, 250 Gifts, Iron Lungs, and Foraging Madness.
+
+Tier 5: Unlock Lottery and Daily Wishes. Get Tree Whisperer with one of the extra Tokens of the Mountain you get from Centre of the Forest, and Early Bird with the other.
+
+Tier 6: Unlock Starlyn Supreme and Speed Boost.
+
+Tier 7: Unlock Efficient Forager and Half Full.
+
+Tier 8: Reset the Tree and unlock Sweep, Foraging Fortune, Hunter's Luck, 250 Gifts, Daily Wishes, Iron Lungs, Foraging Madness, Lottery, Starlyn Supreme, Speed Boost, Efficient Forager, Richochet, Half Full, Timber, Forest Strength, Essence Fortune, and Forest Speed.
+
+### Attribute Shards
+[edit | edit source]
+
+Certain Attribute Shards are very important for &#160;Foraging, giving large buffs.
+
+#### Moonglade Marsh and Other Islands
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Description
+
+| Notes
+
+| [Phanpyre Shard] 
+
+| &#160;Phanpyre Shard
+
+Nocturnal Animal
+
+| Grants +1–10&#160;&#xe023;&#160;Sweep during the night.
+
+| When combined with the &#160;Groundhog Shard, it grants a permanent +10&#160;&#xe023;&#160;Sweep boost. [A sprite icon representing Phanpyre in Hypixel SkyBlock] Phanpyres spawn from Tree Gifts on &#xe067; Moonglade Marsh and are hunted with a &#160;Lasso.
+
+| [Phanflare Shard] 
+
+| &#160;Phanflare Shard
+
+Moonglade Mastery
+
+| Grants +10–100&#160;&#xe054;&#160;Fig Fortune and +10–100&#160;&#xe054;&#160;Mangrove Fortune.
+
+| Very useful for Fig and Mangrove Fortune. [A sprite icon representing Phanflare in Hypixel SkyBlock] Phanflares are hunted the same way as [A sprite icon representing Phanpyre in Hypixel SkyBlock] Phanpyres.
+
+| [Birries Shard] 
+
+| &#160;Birries Shard
+
+Yummy
+
+| Grants a +10%–100% chance to drop double Berries and Sea Lumies.
+
+| Can be useful for doing Starlyn Contests using the &#160;Lushlilac method, but it does not grant extra points, only drops. [A sprite icon representing Birries in Hypixel SkyBlock] Birries are spawned occaisonally when breaking &#160;Lushlilac bushes, and are hunted using &#160;Fishing Nets.
+
+| [Crow Shard] 
+
+| &#160;Crow Shard
+
+Fig Sharpening
+
+| Grants +5–50&#160;&#xe023;&#160;Sweep towards Fig Trees.
+
+| A very useful Shard when doing Fig Trees. They are obtained from [A sprite icon representing Agatha in Hypixel SkyBlock] Agatha's Shop for [Agatha's Coupon] &#160;15x&#160;Agatha's Coupon each, costing [Agatha's Coupon] &#160;1,440x&#160;Agatha's Coupon to max.
+
+| [Tadgang Shard] 
+
+| &#160;Tadgang Shard
+
+Unity is Strength
+
+| Grants +0.02–0.2&#160;&#xe023;&#160;Sweep for each unique Common Attribute you own.
+
+| Can only give a max of +11&#160;&#xe023;&#160;Sweep, meaning it is not the most important. [A sprite icon representing Tadgang in Hypixel SkyBlock] Tadgangs can be fished up in the &#xe067; Murkwater Loch and are hunted with a &#160;Huntaxe and &#160;Black Hole.
+
+| [Harpy Shard] 
+
+| &#160;Harpy Shard
+
+Tree Lurker
+
+| Increases the odds of finding monsters from Tree Gifts by +5%–50%.
+
+| Useful if you have not maxed &#160;Phanflare Shard, &#160;Phanpyre Shard or &#160;Dreadwing Shard, but is more helpful on the &#xe067; Torrhus Canyon, because the monsters that appear from Tree Gifts there can drop shards that are rarer and more expensive.
+
+| [Azure Shard] 
+
+| &#160;Azure Shard
+
+Forest Strength
+
+| Grants +5–50&#160;&#xe00d;&#160;Strength while on Foraging Islands.
+
+| Only useful for the Heart of the Forest perk of the same name.
+
+| [Sparrow Shard] 
+
+| &#160;Sparrow Shard
+
+Fig Collector
+
+| Grants +1–10&#160;&#xe054;&#160;Fig Fortune for every digit in your Fig Log collection. (Max 10M collection)
+
+| Can grant up to +90&#160;&#xe054;&#160;Fig Fortune, a decent buff. It can be crafted at Fig&#160;VII (7).
+
+| [Heron Shard] 
+
+| &#160;Heron Shard
+
+Mangrove Sharpening
+
+| Grants +10–100&#160;&#xe023;&#160;Sweep towards Mangrove Trees.
+
+| A huge buff that should be focused on first if doing Mangrove trees. It is purchased in [A sprite icon representing Agatha in Hypixel SkyBlock] Agatha's Shop for [Agatha's Coupon] &#160;15x&#160;Agatha's Coupons each, costing [Agatha's Coupon] &#160;960x&#160;Agatha's Coupons to max.
+
+| [Bambuleaf Shard] 
+
+| &#160;Bambuleaf Shard
+
+Strong Arms
+
+| Your Axe gains +3–30&#160;&#xe023;&#160;Sweep on throws.
+
+| A decently useful Shard, although throwing your axe is not used that often. [A sprite icon representing Bambuleaf in Hypixel SkyBlock] Bambuleafs are hunted in the &#xe067; Tranquility Sanctum during Spring and Summer by feeding &#160;Bamboo to them.
+
+| [Seagull Shard] 
+
+| &#160;Seagull Shard
+
+Mangrove Collector
+
+| Grants +1–10&#160;&#xe054;&#160;Mangrove Fortune for every digit in your Mangrove Log collection. (Max 10M collection)
+
+| Can grant up to +90&#160;&#xe054;&#160;Mangrove Fortune, a decent buff. It can be crafted at Mangrove&#160;VII (7).
+
+| [Mochibear Shard] 
+
+| &#160;Mochibear Shard
+
+Strong Legs
+
+| Your Axe gains +3–30&#160;&#xe023;&#160;Sweep on melee.
+
+| A pretty useful Shard that gives a decent amount of &#xe023;&#160;Sweep. [A sprite icon representing Mochibear in Hypixel SkyBlock] Mochibears are hunted in the &#xe067; Tranquility Sanctum during Autumn and Winter by feeding &#160;Bamboo to them.
+
+| [Bambloom Shard] 
+
+| &#160;Bambloom Shard
+
+Animal Expertise
+
+| Grants +10–100&#160;&#xe054;&#160;Foraging Fortune.
+
+| Quite a good buff that applies to all types of wood, unlike the Collector shards. It is obtained by fusing Shards in the Panda family with Uncommon or higher Shards. It is recommended to fuse &#160;Bambuleaf Shards or &#160;Mochibear Shards with something like &#160;Invisibug Shards.
+
+| [Beaconmite Shard] 
+
+| &#160;Beaconmite Shard
+
+Beacon Zealot
+
+| The effects of Galatea's beacons are +10%–100% stronger on you. Gain a +0.1%–1% chance to find Signal Enhancers in Tree Gifts.
+
+| A good shard that can grant lots of extra &#xe054;&#160;Foraging Fortune from Beacons, and some more profit from Tree Gifts. It can be rarely found when tuning a Beacon.
+
+| [Piranha Shard] 
+
+| &#160;Piranha Shard
+
+Moonglade Serendipity
+
+| Increases the odds of finding rare items in Tree Gifts at Moonglade Marsh by +2%–20%.
+
+| A decent buff, although the items found in Tree Gifts on the &#xe067; Moonglade Marsh are not very useful for later game players. It is caught when fishing on the &#xe067; Moonglade Marsh.
+
+| [Hummingbird Shard] 
+
+| &#160;Hummingbird Shard
+
+Chop
+
+| Grants a +10%–100% chance to Chop an extra log, on top of the ones you swept.
+
+| A very useful shard that can act similar to extra &#xe023;&#160;Sweep. It becomes more useful when you have higher base &#xe023;&#160;Sweep. It is obtained from all types of Tree Gifts.
+
+| [Bullfrog Shard] 
+
+| &#160;Bullfrog Shard
+
+Berry Enjoyer
+
+| Berries have a +10%–100% chance to grant you double points in Starlyn Contests.
+
+| Makes the &#160;Lushlilac strategy in Agatha's Contests much better, and you should easily be able to get MYTHIC or even DIVINE with it. It is obtained from fusing a Frog family Shard with a Rare or higher Forest Category Shard. It is recommended to fuse &#160;Mossybit Shards with &#160;Invisibug Shards.
+
+| [Dreadwing Shard] 
+
+| &#160;Dreadwing Shard
+
+Essence of the Forest
+
+| Gain +1%–10% more Forest Essence.
+
+| Quite useful if you have not maxed out the Forest Essence shop yet. [A sprite icon representing Dreadwing in Hypixel SkyBlock] Dreadwings spawn from Tree Gifts on the &#xe067; Moonglade Marsh and are hunted using a &#160;Lasso.
+
+| [Gecko Shard] 
+
+| &#160;Gecko Shard
+
+Echo of Sharpening
+
+| Your Sharpening Attributes are +2%–20% stronger.
+
+| Can be very strong when combined with Fig Sharpening, Mangrove Sharpening or Helix Sharpening, granting large amounts of extra &#xe023;&#160;Sweep. It is bought from [A sprite icon representing Kiara in Hypixel SkyBlock] Kiara for 600,000 Coins each, costing 28,800,000 Coins to max.
+
+| [Pandarai Shard] 
+
+| &#160;Pandarai Shard
+
+Foraging Wisdom
+
+| Grants +0.5–5&#160;☯&#160;Foraging Wisdom.
+
+| A useful shard that is good when leveling the &#160;Foraging skill.
+
+| [Iguana Shard] 
+
+| &#160;Iguana Shard
+
+Echo of Atomized
+
+| Your Atomized Attributes are +2%–20% stronger
+
+| Only applies to the &#160;Pangolin Shard in terms of Foraging, and is only a small buff, making it not very useful. It is obtained by fusing a &#160;Gecko Shard with a Rare or higher Forest Shard. It is recommended to use &#160;Invisibug Shards.
+
+| [Komodo Dragon Shard] 
+
+| &#160;Komodo Dragon Shard
+
+Echo of Essence
+
+| Your Essence Attributes are +2%–20% stronger
+
+| Only applies to the &#160;Dreadwing Shard in terms of Foraging, and is only a small buff, making it not very useful. It is obtained by fusing an &#160;Iguana Shard with a Rare or higher Forest Shard. It is recommended to use &#160;Invisibug Shards.
+
+| [Tiamat Shard] 
+
+| &#160;Tiamat Shard
+
+Echo of Echoes
+
+| Your "Echo" Attributes are +5%–50% stronger.
+
+| An extremely useful shard if you have other Echo attributes. It is mainly useful with &#160;Gecko Shard's Echo of Sharpening, granting a total 30% buff. It is obtained from fusing a &#160;Caiman Shard with an Epic or higher Combat Shard.
+
+| [Wyvern Shard] 
+
+| &#160;Wyvern Shard
+
+Echo of Wisdom
+
+| Your Wisdom Attributes are +2%–20% stronger
+
+| Only applies to the &#160;Pandarai Shard in terms of Foraging, and is only a small buff, making it not very useful. It is obtained by fusing an &#160;Komodo Dragon Shard with a Epic or higher Forest Shard. It is recommended to use &#160;Mountain Goat Shards.
+
+| [Sun Fish Shard] 
+
+| &#160;Sun Fish Shard
+
+Starborn
+
+| The effect of Starborn Temples is +1%–10% stronger on you
+
+| A useful Shard, as the buffs from Starborn Temples are quite strong. It is obtained from fusing a &#160;Shinyfish Shard with other specific Shards. It is recommended to use &#160;Flaming Spider Shards.
+
+| [Galaxy Fish Shard] 
+
+| &#160;Galaxy Fish Shard
+
+Ultimate DNA
+
+| Grants +1–10&#160;&#xe053;&#160;Mining Fortune, &#xe051;&#160;Farming Fortune, and &#xe054;&#160;Foraging Fortune
+
+| An expensive shard that only gives +10&#160;&#xe054;&#160;Foraging Fortune, making it not very important. It is obtained from fusing two &#160;Sun Fish Shards.
+
+#### Torrhus Canyon
+[edit | edit source]
+
+| Slot
+
+| Name
+
+| Description
+
+| Notes
+
+| [Foxtrot Shard] 
+
+| &#160;Foxtrot Shard
+
+Foraging Speed
+
+| Grants +3–30&#160;&#xe022;&#160;Speed while on Foraging Islands.
+
+| Can be useful if you are not already at the cap of 400&#160;&#xe022;&#160;Speed, but other than that it is only useful when combined with the Forest Speed perk. [A sprite icon representing Foxtrot in Hypixel SkyBlock] Foxtrots are found in the Forest biome in the Critter Safari.
+
+| [Firefox Shard] 
+
+| &#160;Firefox Shard
+
+Torrhus Mastery
+
+| Grants +10–100&#160;&#xe054;&#160;Helix Fortune.
+
+| Quite important if you are doing Helix trees. [A sprite icon representing Firefox in Hypixel SkyBlock] Firefoxes spawn from Helix Tree Gifts and are hunted with a &#160;Lasso.
+
+| [Groundhog Shard] 
+
+| &#160;Groundhog Shard
+
+Diurnal Animal
+
+| Grants +1–10&#160;&#xe023;&#160;Sweep during the day.
+
+| When combined with the &#160;Phanpyre Shard, it grants a permanent +10&#160;&#xe023;&#160;Sweep boost. [A sprite icon representing Groundhog in Hypixel SkyBlock] Groundhogs spawn from Helix Tree Gifts and are hunted with a &#160;Lasso.
+
+| [Treefrog Shard] 
+
+| &#160;Treefrog Shard
+
+Foraging Frog
+
+| Your Frog Pet gains +1–10&#160;&#xe054;&#160;Foraging Fortune.
+
+| Only a small buff that doesn't apply to &#160;Sloth Pet or &#160;Jade Dragon Pet, both of which are considered to be better, and as such, isn't an important Shard. [A sprite icon representing Treefrog in Hypixel SkyBlock] Treefrogs are found in the Forest biome of the Critter Safari.
+
+| [Solar Shard] 
+
+| &#160;Solar Shard
+
+Starlyn Training
+
+| Gain +1%–10% more points in Starlyn Contests.
+
+| A very important Shard when trying to get to high brackets in Starlyn Contests, and isn't hard to max. [A sprite icon representing Solar in Hypixel SkyBlock] Solars are found in the &#xe067; Torrhus Springs and are hunted using a &#160;Fishing Net.
+
+| [Ember Shard] 
+
+| &#160;Ember Shard
+
+Galatea Training
+
+| Gain +1%–10% more Heart of the Forest Exp.
+
+| An extremely important Shard, as Heart of the Forest is at the core of &#160;Foraging progression. [A sprite icon representing Ember in Hypixel SkyBlock] Embers can be found in the &#xe067; Spring Depths and are hunted using a &#160;Fishing Net. They do require some &#xe01d;&#160;Respiration and &#xe01b;&#160;Pressure Resistance to get large amounts of, but they can be bought from the Bazaar for a low price.
+
+| [Woodpecker Shard] 
+
+| &#160;Woodpecker Shard
+
+Forest Felling
+
+| Grants +0.1–1&#160;&#xe02e;&#160;Timber on Helix Trees.
+
+| A very useful shard that decreases the average time spent at each tree. It is bought from [A sprite icon representing Miria in Hypixel SkyBlock] Miria's Shop for [Miria's Coupon] &#160;15x&#160;Miria's Coupons each, costing [Miria's Coupon] &#160;960x&#160;Miria's Coupons to max.
+
+| [Hawk Shard] 
+
+| &#160;Hawk Shard
+
+Helix Collector
+
+| Grants +1–10&#160;&#xe054;&#160;Helix Fortune for every digit in your Helix Log Collection. (Max 10M collection)
+
+| Can grant up to +90&#160;&#xe054;&#160;Helix Fortune, a decent buff. It can be crafted at Helix&#160;VII (7).
+
+| [Vulture Shard] 
+
+| &#160;Vulture Shard
+
+Helix Sharpening
+
+| Grants +15–150&#160;&#xe023;&#160;Sweep towards Helix Trees.
+
+| A very useful Shard that gives a very large amount of &#xe023;&#160;Sweep for Helix trees. It is bought from [A sprite icon representing Miria in Hypixel SkyBlock] Miria's Shop for [Miria's Coupon] &#160;25x&#160;Miria's Coupons each, costing [Miria's Coupon] &#160;1,200x&#160;Miria's Coupons to max.
+
+| [Stingray Shard] 
+
+| &#160;Stingray Shard
+
+Torrhus Serendipity
+
+| Increases the odds of finding rare items in Tree Gifts at Torrhus Canyon by +2%–20%.
+
+| A useful Shard that primarily helps when trying to find Karma books. It is obtained from fishing in the &#xe067; Torrhus Canyon.
+
+| [Puck Shard] 
+
+| &#160;Puck Shard
+
+Forest Serendipity
+
+| Grants a +0.1%–1% chance for Tree Gifts to contain double loot.
+
+| A Shard that helps when grinding Desert Whispers and HotF XP. [A sprite icon representing Puck in Hypixel SkyBlock] Pucks are spawned from Helix Tree Gifts and are hunted with a &#160;Lasso.
+
+| [Pangolin Shard] 
+
+| &#160;Pangolin Shard
+
+Atomized Whispers
+
+| Gain +1%–10% extra Forest Whispers
+
+| A very useful Shard as Forest Whispers are vital for getting better HotF perks. [A sprite icon representing Pangolin in Hypixel SkyBlock] Pangolins can be found in &#xe067; Pangolin Hideaways on the &#xe067; Torrhus Canyon and are hunted using a &#160;Lasso.
+
+| [Torrid Shard] 
+
+| &#160;Torrid Shard
+
+First Sweep
+
+| Your first &#xe023;&#160;Sweep on each Tree is +1%–10% more effective.
+
+| A good Shard that helps more when doing smaller trees. [A sprite icon representing Puck in Hypixel SkyBlock] Pucks spawn from Helix Tree Gifts and are hunted using a &#160;Lasso.
+
+| [Drybark Shard] 
+
+| &#160;Drybark Shard
+
+Axe Cooldown
+
+| Reduces the cooldown of throwing your Axe by +1%–10%.
+
+| A semi-useful shard that helps mitigate one of the disadvantages of throwing axes. [A sprite icon representing Drybark in Hypixel SkyBlock] Drybarks spawn from Helix Tree Gifts and are hunted using a &#160;Lasso.
+
+| [Grizzly Bear Shard] 
+
+| &#160;Grizzly Bear Shard
+
+Tough Claws
+
+| Whenever you cut down a Tree, reduce its Toughness by +0.1–1
+
+| A semi-useful Shard that is more effective on trees with low ⧉&#160;Toughness. [A sprite icon representing Grizzly Bear in Hypixel SkyBlock] Grizzly Bears spawn from Helix Tree Gifts and are hunted using a &#160;Lasso, &#160;Huntaxe and &#160;Black Hole.
+
+## Navigation
+[edit | edit source]
+
+&#91;&#34;Tutorial:Navigation&#34;,&#34;Tutorial:Day Count&#34;,&#34;Tutorial:Autopet Guide&#34;&#93;&#91;&#34;Tutorial:Ultimate Guide&#34;,&#34;Tutorial:Tips and Tricks&#34;,&#34;Tutorial:Ironman Guide&#34;,&#34;Tutorial:Bingo Guide&#34;,&#34;Tutorial:Periodic Tasks&#34;&#93;&#91;&#34;Tutorial:Maxing Items&#34;,&#34;Tutorial:Ranged_Weapon_Guide&#34;,&#34;Tutorial:Melee_Weapon_Guide&#34;,&#34;Tutorial:Minion Farming&#34;,&#34;Tutorial:Reforging Guide&#34;,&#34;Tutorial:Armor Guide&#34;,&#34;Tutorial:Accessory Guide&#34;&#93;&#91;&#34;Tutorial:Mining Guide&#34;,&#34;Tutorial:Hunting Guide&#34;,&#34;Tutorial:Foraging Guide&#34;,&#34;Tutorial:Fishing Guide&#34;,&#34;Tutorial:Farming Guide&#34;,&#34;Tutorial:Alchemy Guide&#34;&#93;&#91;&#34;Tutorial:Gemstone Gauntlet's Ability&#34;,&#34;Tutorial:Killing Ghosts on a Budget&#34;,&#34;Tutorial:Dragon Fights Guide&#34;,&#34;Tutorial:How to Obtain a Summoning Eye&#34;,&#34;Tutorial:Kuudra Guide&#34;,&#34;Tutorial:Slayer_Guide&#34;&#93;&#91;&#34;Tutorial:Tank Guide&#34;,&#34;Tutorial:Left-Click_Mage_Guide&#34;,&#34;Tutorial:Right-Click Mage Guide&#34;,&#34;Tutorial:Mage Guide&#34;,&#34;Tutorial:Healer Guide&#34;,&#34;Tutorial:Berserk Guide&#34;,&#34;Tutorial:Archer Guide&#34;,&#34;Tutorial:Dungeon Puzzles&#34;,&#34;Tutorial:Master Mode Guide&#34;,&#34;Tutorial:Catacombs Guide&#34;,&#34;Tutorial:Ultimate Dungeon Guide&#34;&#93;&#91;&#34;Tutorial:Mushroom Farm&#34;,&#34;Tutorial:Sugar Cane Farm&#34;,&#34;Tutorial:Cocoa Beans Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Pumpkin/Melon Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;,&#34;Tutorial:Wheat/Potato/Carrot/Nether Wart Farm&#34;&#93;&#91;&#34;Tutorial:Timite Mining&#34;,&#34;Tutorial:Tick Thresholds&#34;,&#34;Tutorial:Heart of the Mountain Trees&#34;,&#34;Tutorial:Sapphire Crystal&#34;,&#34;Tutorial:6-ticking Ruby in the Magma Fields&#34;&#93;&#91;&#34;Tutorial:Lowballing&#34;,&#34;Tutorial:NPC Flipping&#34;,&#34;Tutorial:Bazaar Flipping&#34;,&#34;Tutorial:AH Flipping&#34;&#93; | v · d · eTutorials
+| 
+| How-To's | 
+
+- Autopet Guide
+
+- Day Count
+
+- Navigation
+
+| 
+| 
+| General Guides | 
+
+- Periodic Tasks
+
+- Bingo Guide
+
+- Ironman Guide
+
+- Tips and Tricks
+
+- Ultimate Guide
+
+| 
+| Progression Guides | 
+
+- Accessory Guide
+
+- Armor Guide
+
+- Reforging Guide
+
+- Minion Farming
+
+- Melee Weapon Guide
+
+- Ranged Weapon Guide
+
+- Maxing Items
+
+| 
+| Skill Guides | 
+
+- Alchemy Guide
+
+- Farming Guide
+
+- Fishing Guide
+
+- Foraging Guide
+
+- Hunting Guide
+
+- Mining Guide
+
+| 
+| Combat | 
+
+- Slayer Guide
+
+- Kuudra Guide
+
+- How to Obtain a Summoning Eye
+
+- Dragon Fights Guide
+
+- Killing Ghosts on a Budget
+
+- Gemstone Gauntlet Ability
+
+| 
+| Dungeon Guides | 
+
+- Ultimate Dungeon Guide
+
+- Catacombs Guide
+
+- Master Mode Guide
+
+- Dungeon Puzzles
+
+- Archer Guide
+
+- Berserk Guide
+
+- Healer Guide
+
+- Mage Guide (RCM Guide & LCM Guide)
+
+- Tank Guide
+
+| 
+| Farming | 
+
+- Wheat
+
+- Potato
+
+- Carrot
+
+- Nether Wart
+
+- Pumpkin
+
+- Melon
+
+- Cocoa Beans
+
+- Sugar Cane
+
+- Mushroom
+
+| 
+| Mining | 
+
+- 6-ticking Ruby in the Magma Fields
+
+- Nucleus Runs (Sapphire Crystal)
+
+- Heart of the Mountain Trees
+
+- Tick Thresholds
+
+- Timite Mining
+
+| 
+| Economy Guides | 
+
+- AH
+
+- Bazaar
+
+- NPC
+
+- Lowballing
+
+80 ms 4.6%
+MediaWiki\Extension\Scribunto\Engines\LuaSandbox\LuaSandboxCallback::getExpandedArgument 80 ms 4.6%
+validateData 60 ms 3.4%
+insert 60 ms 3.4%
+dataWrapper 60 ms 3.4%
+init 40 ms 2.3%
+init 40 ms 2.3%
+[others] 420 ms 24.1%
+-->
+
+Retrieved from "https://hypixelskyblock.minecraft.wiki/w/Tutorial:Foraging_Guide?oldid=868112"
+
+Categories: 
+- Community Guides
+- Tutorials
+
+Hidden categories: 
+- Pages using Sweep
+- Pages using Foraging Fortune
+- Pages using Foraging Wisdom
+- Pages using Timber
+- Pages using Toughness
+- Pages using Mana
+- Pages using Fig Fortune
+- Pages using Mangrove Fortune
+- Pages using Helix Fortune
+- Pages using Wisdom
+- Pages using Speed
+- Pages using Strength
+- Pages using Mining Fortune
+- Pages using Farming Fortune
+- Pages using Respiration
+- Pages using Pressure Resistance
+
+## Navigation menu
+
+### 
+Personal tools
+
+- Create account
+- Log in
+
+### 
+associated-pages
+
+- Tutorial
+- Discussion
+
+English
+
+### 
+Views
+
+- Read
+- Edit
+- Edit source
+- View history
+
+More
+
+Search
+
+### 
+Navigation
+
+- How to edit
+- Recent changes
+- Random page
+
+### 
+Recent changes
+
+- 
+Grand Experience Bottle
+
+2h ago -
+MaceWindoo
+
+- 
+Concentrated Stone
+
+2h ago -
+~2026-BlackstoneDogBrute33749
+
+- 
+Clay Bracelet
+
+4h ago -
+GoopyGoob
+
+- 
+Prismarine Necklace
+
+4h ago -
+GoopyGoob
+
+- 
+Show more...
+
+### 
+Community
+
+- Community Portal
+- Style Manual
+- Wiki Policies
+- Wiki Resources
+- Admin Noticeboard
+- Wiki Discord
+
+### 
+Main Pages
+
+- Main page
+- Weapons
+- Armor
+- Attributes
+- Skills
+- Locations
+- NPCs
+- Fairy Souls
+- Events
+
+### 
+Tools
+
+- What links here
+- Related changes
+- Printable version
+- Permanent link
+- Page information
+- Special pages
+
+- This page was last edited on 5 November 2026, at 23:09.
+
+- Content on this site is licensed under CC BY-NC-SA 3.0; additional terms may apply.
+
+- Privacy policy
+
+- About Hypixel SkyBlock Wiki
+
+- Disclaimers
+
+- Terms of Use
+
+- Contact Weird Gloop
+
+- Mobile view
+
+- [CC BY-NC-SA 3.0] 
+
+- [Hosted by Weird Gloop]
