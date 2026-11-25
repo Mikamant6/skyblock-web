@@ -12105,44 +12105,14 @@
                 "icon": "/items/david-s-cloak.png"
               },
               {
-                "name": "Moonglade Belt",
-                "id": "MANGROVE_VINE",
-                "icon": "/items/moonglade-belt.png",
-                "rarity": "RARE",
+                "name": "Safari Belt",
+                "id": "SAFARI_BELT",
+                "icon": "/items/safari-belt.png",
+                "rarity": "MYTHIC",
                 "stats": {
-                  "FORAGING_FORTUNE": 5,
-                  "SWEEP": 1
+                  "FORAGING_FORTUNE": 50
                 },
-                "requirement": {
-                  "skill": "Foraging",
-                  "level": 12
-                },
-                "countsAs": [
-                  "TORRHUS_BELT"
-                ],
-                "category": "BELT",
-                "tag": {
-                  "text": "→ Torrhus Belt from Foraging 24",
-                  "color": "#55FFFF"
-                }
-              },
-              {
-                "name": "Torrhus Belt",
-                "id": "TORRHUS_BELT",
-                "rarity": "EPIC",
-                "stats": {
-                  "FORAGING_FORTUNE": 10,
-                  "SWEEP": 2
-                },
-                "requirement": {
-                  "skill": "Foraging",
-                  "level": 24
-                },
-                "countsAs": [
-                  "MANGROVE_VINE"
-                ],
-                "category": "BELT",
-                "icon": "/items/torrhus-belt.png"
+                "category": "BELT"
               },
               {
                 "name": "Mangrove Grippers",
@@ -12160,7 +12130,7 @@
                 "category": "GLOVES"
               }
             ],
-            "note": "Torrhus Belt: Requires Foraging 24 (the range shows it as the next goal). Upgrade of the Moonglade Belt: +10% more Starlyn Contest points."
+            "note": "Safari Belt: Claim it from Andrea in the Critter Safari Entrance (Torrhus Canyon). It gets better with Safari Milestones; the Mythic belt with the maxed Forest Biome milestone gives +50 Foraging Fortune."
           },
           {
             "slot": "Accessory",
@@ -12455,22 +12425,14 @@
                 "icon": "/items/david-s-cloak.png"
               },
               {
-                "name": "Torrhus Belt",
-                "id": "TORRHUS_BELT",
-                "rarity": "EPIC",
+                "name": "Safari Belt",
+                "id": "SAFARI_BELT",
+                "icon": "/items/safari-belt.png",
+                "rarity": "MYTHIC",
                 "stats": {
-                  "FORAGING_FORTUNE": 10,
-                  "SWEEP": 2
+                  "FORAGING_FORTUNE": 50
                 },
-                "requirement": {
-                  "skill": "Foraging",
-                  "level": 24
-                },
-                "countsAs": [
-                  "MANGROVE_VINE"
-                ],
-                "category": "BELT",
-                "icon": "/items/torrhus-belt.png"
+                "category": "BELT"
               },
               {
                 "name": "Mangrove Grippers",
@@ -12850,22 +12812,14 @@
                 "icon": "/items/david-s-cloak.png"
               },
               {
-                "name": "Torrhus Belt",
-                "id": "TORRHUS_BELT",
-                "rarity": "EPIC",
+                "name": "Safari Belt",
+                "id": "SAFARI_BELT",
+                "icon": "/items/safari-belt.png",
+                "rarity": "MYTHIC",
                 "stats": {
-                  "FORAGING_FORTUNE": 10,
-                  "SWEEP": 2
+                  "FORAGING_FORTUNE": 50
                 },
-                "requirement": {
-                  "skill": "Foraging",
-                  "level": 24
-                },
-                "countsAs": [
-                  "MANGROVE_VINE"
-                ],
-                "category": "BELT",
-                "icon": "/items/torrhus-belt.png"
+                "category": "BELT"
               },
               {
                 "name": "Veilshroom Bracelet",
@@ -13265,22 +13219,14 @@
                 "icon": "/items/david-s-cloak.png"
               },
               {
-                "name": "Torrhus Belt",
-                "id": "TORRHUS_BELT",
-                "rarity": "EPIC",
+                "name": "Safari Belt",
+                "id": "SAFARI_BELT",
+                "icon": "/items/safari-belt.png",
+                "rarity": "MYTHIC",
                 "stats": {
-                  "FORAGING_FORTUNE": 10,
-                  "SWEEP": 2
+                  "FORAGING_FORTUNE": 50
                 },
-                "requirement": {
-                  "skill": "Foraging",
-                  "level": 24
-                },
-                "countsAs": [
-                  "MANGROVE_VINE"
-                ],
-                "category": "BELT",
-                "icon": "/items/torrhus-belt.png"
+                "category": "BELT"
               },
               {
                 "name": "Veilshroom Bracelet",

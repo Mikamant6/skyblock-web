@@ -100,7 +100,8 @@ export async function getOwnedItems(playerName: string, profileName: string, wan
     const parsed = parsePetId(id);
     if (parsed === null) continue;
     for (const pet of pets) {
-      if (pet.type.toUpperCase() !== parsed.type || tierIndex(pet.rarity) < tierIndex(parsed.tier)) continue;
+      // Die API schreibt mehrteilige Typen mit Unterstrich ("JADE_DRAGON"), die Guide-IDs ohne ("JADEDRAGON"): Unterstriche ignorieren
+      if (pet.type.replace(/_/g, "").toUpperCase() !== parsed.type || tierIndex(pet.rarity) < tierIndex(parsed.tier)) continue;
       const place = `${pet.rarity.toLowerCase()} pet`;
       const places = (owned[id] ??= []);
       if (!places.includes(place)) places.push(place);

@@ -117,5 +117,19 @@
     "productId": "SHARD_LOCH_EMPEROR",
     "rarity": "epic",
     "evidence": "observation: 32 shards on a maxed Loch Emperor, matches Epic cumulative"
+  },
+  {
+    "apiAttributeId": "spirit_axe",
+    "shardName": "Ent",
+    "productId": "SHARD_ENT",
+    "rarity": "uncommon",
+    "evidence": "observation: 64 shards on the player's profile; the old wiki names Ent's attribute Spirit Axe (now Woodland Ruler)"
+  },
+  {
+    "apiAttributeId": "ender",
+    "shardName": "Zealot Bruiser",
+    "productId": "SHARD_ZEALOT_BRUISER",
+    "rarity": "uncommon",
+    "evidence": "elimination: the only other unmatched uncommon attribute (64 shards); owner confirmed to have Zealot Bruiser, whose attribute is Ender Ruler"
   }
 ]
