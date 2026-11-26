@@ -1,5 +1,5 @@
 "use client";
-// Umschalter fuer das Design, fest oben rechts: "Winter" (Standard) oder "Classic" (altes dunkles Design).
+// Umschalter fuer das Design, fest oben rechts: "Winter" (Standard), "Classic" (altes dunkles Design) oder "Slate" (schlicht grau).
 // Das gewaehlte Design steht als data-theme am <html>-Element; die Farben dazu stehen in globals.css.
 // Die Wahl wird im Browser gemerkt (localStorage). Ein neues Design: hier eintragen, in layout.tsx in der
 // Liste "ok" und in globals.css die Farben ergaenzen. "default" bedeutet: kein data-theme gesetzt.
@@ -10,6 +10,7 @@ import styles from "./ThemePicker.module.css";
 const THEMES = [
   { id: "default", label: "Winter" },
   { id: "classic", label: "Classic" },
+  { id: "slate", label: "Slate" },
 ] as const;
 
 type ThemeId = (typeof THEMES)[number]["id"];

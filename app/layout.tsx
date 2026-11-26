@@ -40,7 +40,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             "ok" ist die Liste der erlaubten Schemata (muss zu THEMES in ThemePicker.tsx passen). */}
         <script
           dangerouslySetInnerHTML={{
-            __html: `try{var ok=["classic"];var t=localStorage.getItem("theme");if(ok.indexOf(t)>-1){document.documentElement.setAttribute("data-theme",t)}}catch(e){}`,
+            __html: `try{var ok=["classic","slate"];var t=localStorage.getItem("theme");if(ok.indexOf(t)>-1){document.documentElement.setAttribute("data-theme",t)}}catch(e){}`,
           }}
         />
       </head>

@@ -12,6 +12,9 @@ import logoTree from "./logo-tree.png";
 import logoMark from "./icon.png"; // das urspruengliche Logo (gleiche Datei wie das Browser-Symbol)
 import ThemePicker from "./ThemePicker";
 
+// Seiten ohne Foto-Hintergrund (schlichter Verlauf wie im Classic-Design): Startseite und Rechtstexte
+const PLAIN_BG_PATHS = ["/", "/datenschutz", "/impressum", "/credits"];
+
 export default function AppShell({ children }: { children: ReactNode }) {
   const pathname = usePathname();
   // Die Seitenleiste erscheint erst, nachdem ein Profil geladen wurde
@@ -89,7 +92,7 @@ export default function AppShell({ children }: { children: ReactNode }) {
       </div>
 
       {/* Hintergrund: Foto je Design, auf der Startseite das schlichte Design (siehe globals.css) */}
-      <div className={styles.pageBg} data-home={pathname === "/"} aria-hidden="true" />
+      <div className={styles.pageBg} data-home={PLAIN_BG_PATHS.includes(pathname)} aria-hidden="true" />
 
       <header className={styles.topbar}>
         {hasProfile && (

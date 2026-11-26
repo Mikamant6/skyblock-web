@@ -154,3 +154,70 @@ aside#sidebar {
   --switch-on-color: var(--on-accent);
   --switch-on-shadow: none;
 }
+
+/* ---- Slate: schlichtes, graues Design mit Bibliotheks-Bild als Hintergrund ---- */
+:root[data-theme="slate"] {
+  --background: #1d1f23;
+  --foreground: #e9eaed;
+  --accent: #d5d8de;
+  --accent-hover: #ffffff;
+  --on-accent: #1d1f23;
+  --title-color: #f3f4f6;
+  --surface: rgb(36 38 43 / 0.8);
+  --surface-strong: rgb(255 255 255 / 0.09);
+  --line: rgb(255 255 255 / 0.14);
+  --line-soft: rgb(255 255 255 / 0.07);
+  --line-strong: rgb(255 255 255 / 0.32);
+  --sidebar-bg: rgb(30 32 36 / 0.88);
+  --input-bg: rgb(255 255 255 / 0.07);
+  --row-alt: rgb(255 255 255 / 0.035);
+  --panel-sheen: none;
+
+  --title-font: inherit;
+  --title-size: 2rem;
+  --title-weight: 700;
+  --title-lh: 1.2;
+  --title-shadow: none;
+  --sub-size: 1rem;
+  --sub-opacity: 0.75;
+  --sub-shadow: none;
+  --banner-display: none;
+  /* Eigenes Hintergrund-Design (ohne Foto): weiche Lichtflecken, feines Punktraster, dunkler Rand */
+  --page-bg: radial-gradient(ellipse at 12% 0%, rgb(150 158 175 / 0.22), transparent 55%),
+    radial-gradient(ellipse at 92% 8%, rgb(120 128 148 / 0.16), transparent 50%),
+    radial-gradient(ellipse at 50% 120%, rgb(0 0 0 / 0.45), transparent 60%),
+    radial-gradient(rgb(255 255 255 / 0.05) 1px, transparent 1.5px) 0 0 / 22px 22px,
+    linear-gradient(180deg, #2b2e35 0%, #1f2126 100%);
+  --home-bg: var(--page-bg);
+  --banner-glow: none;
+  --sidebar-top: 0;
+  --sidebar-margin: 0;
+  --sidebar-height: 100vh;
+  --sidebar-radius: 0;
+  --sidebar-padding: 20px 12px;
+  --sidebar-border: 0 solid transparent;
+  --sidebar-border-right: 1px solid rgb(255 255 255 / 0.14);
+  --sidebar-bg-full: var(--sidebar-bg);
+  --sidebar-shadow: none;
+  --brand-dir: row;
+  --brand-font: inherit;
+  --brand-size: 1.35rem;
+  --brand-small-size: 1.35rem;
+  --brand-weight: 700;
+  --brand-align: left;
+  --brand-shadow: none;
+  --logo-filter: none;
+  --logo-new-display: none;
+  --logo-classic-display: inline-block;
+  --nav-radius: 8px;
+  --nav-active-border: transparent;
+  --nav-active-bg: var(--surface-strong);
+  --nav-active-shadow: none;
+  --panel-shadow: none;
+  --panel-blur: 6px;
+  --scene-display: none;
+  --switch-shadow: none;
+  --switch-on-bg: var(--accent);
+  --switch-on-color: var(--on-accent);
+  --switch-on-shadow: none;
+}
