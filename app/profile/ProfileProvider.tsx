@@ -41,6 +41,9 @@ type ProfileContextValue = {
   // true, sobald einmal ein Profil erfolgreich geladen wurde (bleibt danach
   // true, auch wenn eine spaetere Eingabe fehlschlaegt). Steuert die Seitenleiste.
   hasProfile: boolean;
+  // true, solange noch unklar ist, ob eine Abfrage aus Link oder Browser-Speicher folgt
+  // (verhindert, dass die Seite beim Neuladen vorschnell zur Startseite springt)
+  pending: boolean;
   submit: () => void;
 };
 
@@ -67,16 +70,18 @@ export function ProfileProvider({ children }: { children: ReactNode }) {
   // wird sie verworfen
   const requestId = useRef(0);
 
-  // Beim Start: Name/Profil aus dem Link (/?name=...&profile=...) oder den
-  // zuletzt benutzten Werten aus dem Browser uebernehmen. Kommen sie aus dem
-  // Link, wird gleich abgefragt (so lassen sich Profile teilen).
+  // Beim Start: Name/Profil aus dem Link (?name=...&profile=...) auf jeder Seite oder den
+  // zuletzt benutzten Werten aus dem Browser uebernehmen. Aus dem Link wird gleich abgefragt
+  // (so lassen sich Profile teilen). Auf einer Profil-Unterseite (/profile/...) wird auch mit
+  // den gespeicherten Werten gleich abgefragt: so funktionieren Neuladen und Lesezeichen.
   const [autoSubmit, setAutoSubmit] = useState(false);
+  const [ready, setReady] = useState(false);
   useEffect(() => {
     try {
       const params = new URLSearchParams(window.location.search);
       const linkName = params.get("name")?.trim().slice(0, 16) ?? "";
       const linkProfile = params.get("profile")?.trim().slice(0, 40) ?? "";
-      if (linkName !== "" && window.location.pathname === "/") {
+      if (linkName !== "") {
         setPlayerName(linkName);
         setProfileName(linkProfile);
         setAutoSubmit(true);
@@ -84,11 +89,17 @@ export function ProfileProvider({ children }: { children: ReactNode }) {
       }
       const saved = JSON.parse(window.localStorage.getItem("flawlesssb:last") ?? "null");
       if (saved && typeof saved.name === "string" && typeof saved.profile === "string") {
-        setPlayerName(saved.name.slice(0, 16));
+        const savedName = saved.name.slice(0, 16);
+        setPlayerName(savedName);
         setProfileName(saved.profile.slice(0, 40));
+        if (savedName !== "" && window.location.pathname.startsWith("/profile")) {
+          setAutoSubmit(true);
+        }
       }
     } catch {
       // Speicher gesperrt oder kaputt: dann eben ohne Vorbelegung
+    } finally {
+      setReady(true);
     }
   }, []);
 
@@ -196,6 +207,7 @@ export function ProfileProvider({ children }: { children: ReactNode }) {
     loading,
     subject,
     hasProfile,
+    pending: !ready || autoSubmit,
     submit,
   };
 

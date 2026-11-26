@@ -35,7 +35,7 @@ export default function ProfileForm() {
             maxLength={16}
             autoComplete="off"
             spellCheck={false}
-            placeholder="e.g. Quantussy"
+            placeholder="e.g. Flawlessjade67"
             required
           />
         </div>

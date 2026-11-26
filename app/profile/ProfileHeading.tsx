@@ -2,6 +2,7 @@
 // Kopf jeder Profil-Seite als Box: Skin-Kopf, Spielername, Profilname und
 // ein paar Kennzahlen (Networth, Purse, Bank), sobald der Networth da ist.
 
+import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { formatCompact } from "../format";
 import Panel from "../Panel.module.css";
@@ -13,11 +14,12 @@ import styles from "./ProfileHeading.module.css";
 export default function ProfileHeading() {
   const { subject, networth, shards, skills, loading, submit } = useProfile();
   const [copied, setCopied] = useState(false);
+  const pathname = usePathname();
   if (subject === null) return null;
 
-  // Teilbarer Link: Startseite mit Name und Profil, fragt beim Oeffnen selbst ab
+  // Teilbarer Link: dieselbe Seite mit Name und Profil, fragt beim Oeffnen selbst ab
   async function copyLink() {
-    const link = new URL("/", window.location.origin);
+    const link = new URL(pathname, window.location.origin);
     link.searchParams.set("name", subject!.playerName);
     link.searchParams.set("profile", subject!.profileName);
     try {

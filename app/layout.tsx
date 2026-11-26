@@ -23,9 +23,19 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://flawlesssb.de"),
   title: { default: "FlawlessSB", template: "%s | FlawlessSB" },
   description:
     "Tools for Hypixel SkyBlock: networth and shard value of your profile, calculated automatically.",
+  // Vorschau beim Teilen des Links (das Bild kommt aus app/opengraph-image.jpg)
+  openGraph: {
+    siteName: "FlawlessSB",
+    type: "website",
+    title: "FlawlessSB - Hypixel SkyBlock networth and progress",
+    description:
+      "Networth, skills, guides, pets and shards of your Hypixel SkyBlock profile, calculated automatically.",
+  },
+  twitter: { card: "summary_large_image" },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

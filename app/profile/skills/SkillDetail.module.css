@@ -149,7 +149,7 @@
 /* Level-Tabelle */
 /* Tabelle nutzt fast die ganze Fensterhoehe */
 .tableWrap {
-  max-height: calc(100vh - 300px);
+  max-height: calc(100vh / var(--page-zoom) - 300px);
   min-height: 420px;
   overflow: auto;
 }

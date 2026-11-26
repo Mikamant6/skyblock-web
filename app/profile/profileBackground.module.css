@@ -6,7 +6,7 @@
   top: 0;
   left: 0;
   right: 0;
-  height: 80vh;
+  height: calc(80vh / var(--page-zoom));
   z-index: -1;
   display: var(--scene-display, none);
   pointer-events: none;

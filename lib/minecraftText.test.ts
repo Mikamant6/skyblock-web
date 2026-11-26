@@ -26,4 +26,8 @@ assert.equal(parseColoredLine("A & B")[0].text, "A & B");
 assert.equal(parseColoredLine("Ende&")[0].text, "Ende&");
 assert.equal(stripColorCodes("&6Nature &lElemental"), "Nature Elemental");
 
+// Sonderzeichen der Wiki-Schrift: bekannte werden ersetzt, unbekannte entfallen
+assert.equal(parseColoredLine("&7Grants +1\ue00d Strength")[0].text, "Grants +1\u2741 Strength");
+assert.equal(parseColoredLine("&7A\ue0ffB")[0].text, "AB");
+
 console.log("minecraftText: ok");

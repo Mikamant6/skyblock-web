@@ -2,7 +2,7 @@
 import HomeEntry from "./HomeEntry";
 
 export const metadata = {
-  title: "Home",
+  title: { absolute: "FlawlessSB - Hypixel SkyBlock networth and progress" },
   description:
     "Networth and shard value of your Hypixel SkyBlock profile, calculated automatically from the Hypixel API.",
 };

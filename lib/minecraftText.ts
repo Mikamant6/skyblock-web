@@ -3,6 +3,8 @@
 // "/" = neue Zeile, "//" = Leerzeile (Beispiel: "&6Nature Elemental I/&7Grants ...").
 // Reine Logik, ohne Netzwerk.
 
+import { replaceGlyphs } from "./glyphs";
+
 export type TextSegment = { text: string; color: string; bold: boolean };
 export type TextLine = TextSegment[]; // leere Zeile = leeres Array
 
@@ -29,7 +31,9 @@ export const MINECRAFT_COLORS: Record<string, string> = {
 const DEFAULT_COLOR = MINECRAFT_COLORS["f"];
 
 // Eine Zeile mit Farbcodes in Stuecke zerlegen
-export function parseColoredLine(line: string): TextLine {
+export function parseColoredLine(rawLine: string): TextLine {
+  // Sonderzeichen der Wiki-Schrift ersetzen, damit keine Kaestchen erscheinen
+  const line = replaceGlyphs(rawLine);
   const segments: TextSegment[] = [];
   let color = DEFAULT_COLOR;
   let bold = false;

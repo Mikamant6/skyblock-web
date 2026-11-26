@@ -4,7 +4,7 @@
 .shell {
   display: flex;
   flex: 1;
-  min-height: 100vh;
+  min-height: calc(100vh / var(--page-zoom));
 }
 
 /* ---- Seitenleiste ---- */
@@ -16,7 +16,7 @@
   flex-direction: column;
   gap: 20px;
   width: 248px;
-  height: var(--sidebar-height, 100vh);
+  height: var(--sidebar-height, calc(100vh / var(--page-zoom)));
   margin: var(--sidebar-margin, 0);
   flex-shrink: 0;
   overflow-y: auto;

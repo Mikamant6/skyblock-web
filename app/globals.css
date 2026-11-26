@@ -221,3 +221,33 @@ aside#sidebar {
   --switch-on-color: var(--on-accent);
   --switch-on-shadow: none;
 }
+
+/* ---- Grosse Bildschirme (2K/4K): die ganze Seite wird stufenweise vergroessert ----
+   Ohne das bleibt die Seite auf riesigen Bildschirmen klein und verloren.
+   --page-zoom steht auch fuer Hoehenangaben bereit (siehe AppShell.module.css). */
+:root {
+  --page-zoom: 1;
+}
+@media (min-width: 2200px) {
+  :root {
+    --page-zoom: 1.25;
+  }
+}
+@media (min-width: 2800px) {
+  :root {
+    --page-zoom: 1.5;
+  }
+}
+@media (min-width: 3400px) {
+  :root {
+    --page-zoom: 1.75;
+  }
+}
+@media (min-width: 4200px) {
+  :root {
+    --page-zoom: 2.25;
+  }
+}
+html {
+  zoom: var(--page-zoom);
+}
