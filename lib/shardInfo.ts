@@ -12,7 +12,8 @@ export type ShardInfoFile = {
 };
 
 export type ShardEntry = {
-  attributeId: string;
+  attributeId: string; // so heisst das Attribut im Wiki (die API nutzt bei manchen Shards einen anderen Namen)
+  productId: string; // z. B. "SHARD_GROVE", gleich in Wiki und API-Antwort
   shardName: string; // z. B. "Grove"
   attributeName: string; // z. B. "Nature Elemental"
   rarity: string; // "common" ... "legendary"
@@ -30,6 +31,7 @@ export function buildShardEntries(
     const extra = infoById.get(row.attributeId);
     return {
       attributeId: row.attributeId,
+      productId: row.productId,
       shardName: row.shardName,
       attributeName: row.attributeName,
       rarity: row.rarity,

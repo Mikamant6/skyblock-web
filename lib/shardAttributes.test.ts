@@ -19,6 +19,11 @@ assert.equal(shardLookup.get("hunter")?.shardName, "Bogged");
 // 181 zugeordnete + diese beiden; nur diese zwei Shards waren maxed und fehlten)
 assert.equal(shardLookup.get("undead")?.shardName, "Zombie Soldier");
 assert.equal(shardLookup.get("undead_essence")?.shardName, "Revenant");
+assert.equal(shardLookup.get("double_hook")?.shardName, "Lord Jawbus");
+assert.equal(shardLookup.get("bayou_biter")?.shardName, "Titanoboa");
+assert.equal(shardLookup.get("maximal_torment")?.shardName, "Taurus");
+assert.equal(shardLookup.get("life_regeneration")?.shardName, "Shinyfish");
+assert.equal(shardLookup.get("blazing")?.shardName, "Flare");
 // Ein ganz normaler Shard aus der Wiki-Tabelle
 assert.equal(shardLookup.get("nature_elemental")?.shardName, "Grove");
 console.log("1. Zuordnung der Aliase: ok");

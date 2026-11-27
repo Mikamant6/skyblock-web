@@ -30,11 +30,15 @@ export default function ShardCollection() {
   const [sort, setSort] = useState<Sort>("default");
   const [hover, setHover] = useState<{ entry: ShardEntry; rect: DOMRect } | null>(null);
 
-  // Besessene Shards nach attributeId nachschlagbar machen
+  // Besessene Shards nach (Wiki-)attributeId nachschlagbar machen. Die API nennt einige Attribute anders
+  // als das Wiki (z. B. "spirit_axe" statt "woodland_ruler"), deshalb wird ueber die Shard-ID zugeordnet.
   const owned = useMemo(() => {
     const map = new Map<string, ShardRow>();
     if (shards.status === "done") {
-      for (const row of shards.data.shards) map.set(row.attributeId, row);
+      const wikiIdByProduct = new Map(shardEntries.map((entry) => [entry.productId, entry.attributeId]));
+      for (const row of shards.data.shards) {
+        map.set(wikiIdByProduct.get(row.productId) ?? row.attributeId, row);
+      }
     }
     return map;
   }, [shards]);

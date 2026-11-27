@@ -131,5 +131,40 @@
     "productId": "SHARD_ZEALOT_BRUISER",
     "rarity": "uncommon",
     "evidence": "elimination: the only other unmatched uncommon attribute (64 shards); owner confirmed to have Zealot Bruiser, whose attribute is Ender Ruler"
+  },
+  {
+    "apiAttributeId": "double_hook",
+    "shardName": "Lord Jawbus",
+    "productId": "SHARD_LORD_JAWBUS",
+    "rarity": "legendary",
+    "evidence": "observation: 24 shards (Legendary max) on a maxed Lord Jawbus (owner confirmed); Crimson Hook gives Double Hook Chance"
+  },
+  {
+    "apiAttributeId": "blazing",
+    "shardName": "Flare",
+    "productId": "SHARD_FLARE",
+    "rarity": "epic",
+    "evidence": "observation: 32 shards, the only unmatched attribute; owner confirmed ingame Infernal Ruler X (Flare Shard, Epic, max)"
+  },
+  {
+    "apiAttributeId": "bayou_biter",
+    "shardName": "Titanoboa",
+    "productId": "SHARD_TITANOBOA",
+    "rarity": "legendary",
+    "evidence": "observation: 24 shards (Legendary max), the only unmatched attribute after the owner maxed Titanoboa; named after the Backwater Bayou"
+  },
+  {
+    "apiAttributeId": "maximal_torment",
+    "shardName": "Taurus",
+    "productId": "SHARD_TAURUS",
+    "rarity": "legendary",
+    "evidence": "observation: 24 shards (Legendary max), the only unmatched attribute; the wiki name is Unlimited Torment, owner confirmed a maxed Taurus"
+  },
+  {
+    "apiAttributeId": "life_regeneration",
+    "shardName": "Shinyfish",
+    "productId": "SHARD_SHINYFISH",
+    "rarity": "legendary",
+    "evidence": "observation: 24 shards (Legendary max), the only unmatched attribute; Shinyfish grants Health Regen, the only Legendary shard with that effect"
   }
 ]
